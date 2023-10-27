@@ -8,7 +8,7 @@ Header('Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE'); //metho
  *
  * This content is released under the MIT License (MIT)
  *
- * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technologys
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
