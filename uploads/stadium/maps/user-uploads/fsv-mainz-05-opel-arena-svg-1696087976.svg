@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" class="svg-stadium" viewBox="0 0 813.2 637.9" style="enable-background:new 0 0 813.2 637.9;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#589D51;}
+		.st1{fill:#488544;}
+		.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+		.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+		.st4{fill:#112638;}
+		.st5{font-family:'NeueHaasDisplay-Mediu';}
+		.st6{font-size:24px;}
+		.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+		.st8{font-size:14px;}
+		.st9{fill:#EEEEEE;stroke:#000000;stroke-miterlimit:10;}
+	</style>
+	<g class="field">
+		<g>
+			<rect x="191.8" y="191" class="st0" width="435.8" height="287.4"/>
+			<rect x="399.9" y="202.6" class="st1" width="23.8" height="264.2"/>
+			<rect x="448.3" y="202.6" class="st1" width="23.8" height="263.9"/>
+			<rect x="496" y="201.9" class="st1" width="23.8" height="264.2"/>
+			<rect x="544.6" y="201.1" class="st1" width="23.8" height="264.2"/>
+			<rect x="588.7" y="200.7" class="st1" width="21.3" height="264.2"/>
+			<rect x="208" y="202.4" class="st1" width="23.8" height="264.2"/>
+			<rect x="352.3" y="202.6" class="st1" width="23.8" height="264.2"/>
+			<rect x="256.2" y="202.4" class="st1" width="23.8" height="264.2"/>
+			<rect x="304.3" y="201.9" class="st1" width="23.8" height="264.2"/>
+			<rect x="208.6" y="202.4" class="st2" width="402.7" height="264.2"/>
+			<rect x="208.6" y="245.3" class="st3" width="62" height="189"/>
+			<rect x="208.6" y="295.9" class="st3" width="22.7" height="88"/>
+			<path class="st3" d="M270.6,376.7c0,0,27.9-35.3-0.2-68.8"/>
+			<rect x="198.5" y="323" class="st3" width="10.1" height="29.6"/>
+			<g>
+				<rect x="549.3" y="245.3" class="st3" width="62" height="189"/>
+				<rect x="588.7" y="295.9" class="st3" width="22.7" height="88"/>
+				<path class="st3" d="M549.5,307.9c-28,33.4-0.2,68.8-0.2,68.8"/>
+				<rect x="611.4" y="323" class="st3" width="10.1" height="29.6"/>
+			</g>
+			<path class="st3" d="M208.6,212.3c0,0,9.1-1.1,10-10"/>
+			<path class="st3" d="M217,466.6c0,0,0.2-9.2-8.5-11.3"/>
+			<path class="st3" d="M601.9,202.4c0,0,0.5,9.2,9.4,10.5"/>
+			<circle id="white_circle" class="st3" cx="411.2" cy="331.2" r="44.1"/>
+			<path class="st3" d="M611.4,455.9c0,0-9.1,1.7-9.3,10.6"/>
+			<line class="st2" x1="410.6" y1="202.6" x2="410.6" y2="466.7"/>
+		</g>
+
+		<g data-stand="nord-tribune">
+			<text transform="matrix(1 0 0 1 357.5801 20.5801)" class="st4 st5 st6 data-label">NORD TRIBUNE</text>
+		</g>
+
+		<g data-stand="ost-tribune">
+			<text transform="matrix(0 1 -1 0 792.5801 267.5801)" class="st4 st5 st6 data-label">OST TRIBUNE</text>
+		</g>
+
+		<g data-stand="west-tribune">
+			<text transform="matrix(0 -1 1 0 20.5801 377.5801)" class="st4 st5 st6 data-label">WEST TRIBUNE</text>
+		</g>
+
+		<g data-stand="sud-tribune">
+			<text transform="matrix(1 0 0 1 349.5801 631.5801)" class="st4 st5 st6 data-label">SUD TRIBUNE</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="nordtribüne">
+		<g data-section="nordtribüne_a">
+			<polygon class="block st7" points="247.4,72.3 119.8,72.3 156.8,125.9 131.3,152.7 165.8,175.7 179.8,162.9 247.4,162.9" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 195.5801 117.5801)" class="st5 st8 section-label">A</text>
+		</g>
+
+		<g data-section="nordtribüne_e">
+			<polygon class="block st7" points="563.9,72.3 691.5,72.3 654.5,125.9 680,152.7 645.6,175.7 631.6,162.9 563.9,162.9" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 609.5801 117.5801)" class="st5 st8 section-label">E</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="südtribüne">
+		<g data-section="südtribüne_o">
+			<polygon class="block st7 " points="247.4,508.7 247.4,609.6 84.1,609.6 149.2,508.7" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 184.5801 559.5801)" class="st5 st8 section-label">O</text>
+		</g>
+
+		<g data-section="südtribüne_n">
+			<rect x="252.5" y="508.7" class="block st7 " width="98.3" height="100.8" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 296.5801 559.5801)" class="st5 st8 section-label">N</text>
+		</g>
+
+		<g data-section="südtribüne_m">
+			<rect x="355.9" y="508.7" class="block st7 " width="98.3" height="100.8" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 401.5801 559.5801)" class="st5 st8 section-label">M</text>
+		</g>
+
+		<g data-section="südtribüne_l">
+			<rect x="459.3" y="508.7" class="block st7 " width="98.3" height="100.8" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 507.5801 559.5801)" class="st5 st8 section-label">L</text>
+		</g>
+
+		<g data-section="südtribüne_k">
+			<polygon class="block st7 " points="562.6,508.7 562.6,609.6 726,609.6 660.9,508.7" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 622.5801 559.5801)" class="st5 st8 section-label">K</text>
+		</g>
+
+	</g>
+
+	<g class="block-category" data-category="westtribüne">
+		<g data-section="westtribüne_s">
+			<polygon class="block st7 " points="35.6,91.4 161.9,179.5 161.9,226.7 35.6,226.7" data-seat="westtribüne" />
+			<text transform="matrix(1 0 0 1 93.5801 187.5801)" class="st5 st8 section-label">S</text>
+		</g>
+
+		<g data-section="westtribüne_r">
+			<rect x="35.6" y="231.8" class="block st7 " width="126.3" height="85.5" data-seat="westtribüne" />
+			<text transform="matrix(1 0 0 1 96.5801 275.5801)" class="st5 st8 section-label">R</text>
+		</g>
+
+		<g data-section="westtribüne_q">
+			<rect x="35.6" y="322.4" class="block st7 " width="126.3" height="85.5" data-seat="westtribüne" />
+			<text transform="matrix(1 0 0 1 96.5801 365.5801)" class="st5 st8 section-label">Q</text>
+		</g>
+
+		<g data-section="westtribüne_p">
+			<polygon class="block st7 " points="35.6,548.3 161.9,460.3 161.9,413 35.6,413" data-seat="westtribüne" />
+			<text transform="matrix(1 0 0 1 92.5801 453.5801)" class="st5 st8 section-label">P</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="osttribüne">
+		<g data-section="osttribüne_f">
+			<polygon class="block st7 " points="779.6,88.9 653.2,176.9 653.2,224.2 779.6,224.2" data-seat="osttribüne" />
+			<text transform="matrix(1 0 0 1 720.5801 182.5801)" class="st5 st8 section-label">F</text>
+		</g>
+		<g data-section="osttribüne_g">
+			<rect x="653.2" y="228" class="block st7 " width="126.3" height="120" data-seat="osttribüne" />
+			<text transform="matrix(1 0 0 1 714.5801 287.5801)" class="st5 st8 section-label">G</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="vip-club-level">
+		<g data-section="vip-club-level_b">
+			<polygon class="block st7 " points="251.9,71.7 251.9,162.3 387.2,163.5 387.2,104.8 338.7,104.8 338.7,71.7" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 304.5801 119.5801)" class="st5 st8 section-label">B</text>
+		</g>
+
+		<g data-section="vip-club-level_c">
+			<rect x="391.7" y="88.9" class="block st7 " width="28.6" height="74" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 402.5801 125.5801)" class="st5 st8 section-label">C</text>
+		</g>
+
+		<g data-section="vip-club-level_d">
+			<rect x="424.8" y="72.3" class="block st7 " width="135.3" height="90.6" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 487.5801 119.5801)" class="st5 st8 section-label">D</text>
+		</g>
+
+		<g data-section="vip-club-level_logen">
+			<polygon class="block st7 " points="92.4,32.1 716.4,32.1 694.7,64 116.6,64" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 392.5801 54.5801)" class="st5 st8 section-label">LOGEN</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="gastbereich---away-fans">
+		<g data-section="gastbereich---away-fans_h">
+			<rect x="653.2" y="353.1" class="block st7 " width="126.3" height="24.2" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 714.5801 369.5801)" class="st5 st8 section-label">H</text>
+		</g>
+
+		<g data-section="gastbereich---away-fans_i">
+			<rect x="653.2" y="382.1" class="block st7 " width="126.3" height="25.5" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 716.5801 397.5801)" class="st5 st8 section-label">I</text>
+		</g>
+
+		<g data-section="gastbereich---away-fans_j">
+			<polygon class="block st7 " points="779.6,545.8 653.2,459.1 653.2,412.6 779.6,412.6" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 716.5801 452.5801)" class="st5 st8 section-label">J</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="presse">
+		<g data-section="presse_presse">
+			<rect x="343.8" y="71.7" class="block st9" width="43.4" height="28.1" data-seat="presse" />
+		</g>
+	</g>
+
+	<g>
+		<rect x="391" y="71.7" class="st9" width="28.6" height="12.8"/>
+	</g>
+</svg>

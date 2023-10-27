@@ -1,0 +1,236 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1575 1575" width="1575" height="1575">
+	<title>Arun Jaitley Stadium</title>
+	<defs>
+		<image  width="1575" height="1575" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABicAAAYnAQMAAAA9CDwPAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAUVJREFUeJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF4NwmYAAaGe6ZcAAAAASUVORK5CYII="/>
+		<image  width="429" height="429" id="img2" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffae00 } 
+		.t1 { font-size: 22px;fill: #ffffff;font-weight: bold;font-family: "Arial" } 
+		.s2 { fill: #ed1c24 } 
+		.s3 { fill: #00aeef } 
+		.t4 { font-size: 19px;fill: #ffffff;font-weight: bold;font-family: "Arial" } 
+		.s5 { fill: #ff8227 } 
+		.t6 { font-size: 13px;fill: #ffffff;font-weight: bold;font-family: "Arial" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Rectangle 1" href="#img2" x="572" y="474"/>
+	<g id="VIP">
+		<path id="Rectangle 2 copy" class="s0" d="m855.4 1417.5c-22 1.7-45.2 3.7-69.3 3.5-117.8-0.9-239.1-45-239.1-45l16.6-82c0 0 111.4 38 226.2 39.5 16.6 0.2 38.3 0.9 55.8-1.8 1.3-0.2 10.1 85.8 9.8 85.8z"/>
+		<path id="NORTH CENTRAL STAND THIRD FLOOR" class="s0" d="m890 150c0 0-54.4-7.4-104-8-44.5-0.6-100 7-100 7l-1-97c0 0 48.9-8.4 103.9-8 50.8 0.4 102.1 8 102.1 8z"/>
+		<text id="NORTH CENTRAL STAND THIRD FLOOR" style="transform: matrix(1,0,0,1,784.459,80.866)" >
+			<tspan x="-93.5" y="0" class="t1">N</tspan><tspan  y="0" class="t1">ORTH CENTRAL
+</tspan>
+			<tspan x="-36.6" y="26.1" class="t1">STAND
+</tspan>
+			<tspan x="-74.2" y="52.1" class="t1">THIRD FLOOR
+</tspan>
+		</text>
+		<path id="NORTH CENTRAL STAND SECOND FLOOR" class="s0" d="m890 256c0 0-54.4-12.4-104-13-44.5-0.6-100 12-100 12l-1-97c0 0 48.9-8.4 103.9-8 50.8 0.4 102.1 8 102.1 8z"/>
+		<text id="NORTH CENTRAL STAND SECOND FLOOR" style="transform: matrix(1,0,0,1,784.459,181.866)" >
+			<tspan x="-93.5" y="0" class="t1">N</tspan><tspan  y="0" class="t1">ORTH CENTRAL
+</tspan>
+			<tspan x="-36.6" y="26.1" class="t1">STAND
+</tspan>
+			<tspan x="-87.5" y="52.1" class="t1">SECOND FLOOR
+</tspan>
+		</text>
+		<path id="KOTLA LOUNGE" class="s0" d="m668 895c0 0 56.5 29.3 121.3 30.1 58.1 0.7 108.7-24.1 108.7-24.1l22 95c0 0-65.1 26.5-137 26-66.4-0.5-140-30-140-30z"/>
+		<text id="KOTLA LOUNGE" style="transform: matrix(1,0,0,1,784.459,982.866)" >
+			<tspan x="-86.5" y="0" class="t1">K</tspan><tspan  y="0" class="t1">OTLA LOUNGE
+</tspan>
+		</text>
+		<path id="SOUTH SIDE OLD CLIB HOUSE FIRST FLOOR" class="s0" d="m641 995c0 0 53.2 31 150.7 32.2 87.5 1.1 131.3-27.2 131.3-27.2l43 163c0 0-72.8 32.8-181 32-100-0.7-183-34-183-34z"/>
+		<text id="SOUTH SIDE OLD CLIB HOUSE FIRST FLOOR" style="transform: matrix(1,0,0,1,784.459,1084.866)" >
+			<tspan x="-66.4" y="0" class="t1">S</tspan><tspan  y="0" class="t1">OUTH SIDE
+</tspan>
+			<tspan x="-92.9" y="26.1" class="t1">OLD CLIB HOUSE
+</tspan>
+			<tspan x="-72.4" y="52.1" class="t1">FIRST FLOOR
+</tspan>
+		</text>
+		<path id="SOUTH SIDE OLD CLIB HOUSE ACENCLOSURE" class="s0" d="m600.6 1166c0 0 94.6 32 192.1 33.2 87.5 1.1 174.3-30.2 174.3-30.2l30 125c0 0-105.8 36.8-214 36-100-0.7-215-40-215-40z"/>
+		<text id="SOUTH SIDE OLD CLIB HOUSE ACENCLOSURE" style="transform: matrix(1,0,0,1,784.459,1247.866)" >
+			<tspan x="-162.3" y="0" class="t1">S</tspan><tspan  y="0" class="t1">OUTH SIDE OLD CLIB HOUSE
+</tspan>
+			<tspan x="-83.9" y="26.1" class="t1">ACENCLOSURE
+</tspan>
+		</text>
+		<path id="CAPTAIN’S GALLERY" class="s0" d="m853 1332c0 0 37.5-3.1 74-11 37-8.1 73-21 73-21l19 79c0 0-39.1 14.4-79 23-38.6 8.4-78 11-78 11z"/>
+		<text id="CAPTAIN’S GALLERY" style="transform: matrix(.985,-0.173,.173,.985,933.109,1355.983)" >
+			<tspan x="-57.7" y="0" class="t1">C</tspan><tspan  y="0" class="t1">APTAIN’S
+</tspan>
+			<tspan x="-51.5" y="26.1" class="t1">GALLERY
+</tspan>
+		</text>
+		<path id="SOUTH SIDE CORPORATE BOX" class="s0" d="m544 1380c0 0 121.6 41.4 247 43 112.4 1.4 230-37 230-37l30 120c0 0-136 46-275 45-128.6-1-261-49-261-49z"/>
+		<text id="SOUTH SIDE CORPORATE BOX" style="transform: matrix(1,0,0,1,784.459,1487.866)" >
+			<tspan x="-164.5" y="0" class="t1">S</tspan><tspan  y="0" class="t1">OUTH SIDE CORPORATE BOX
+</tspan>
+		</text>
+		<path id="SUPER HOSPITALITY HILL A SOUTH EAST" class="s0" d="m992 810l349 203c0 0-55.2 99.8-136 166-109.3 89.6-201 113-201 113l-101-395c0 0 27.2-17.7 48-38 23.5-23 41-49 41-49z"/>
+		<text id="SUPER HOSPITALITY HILL A SOUTH EAST" style="transform: matrix(-0.991,.77,-0.77,-0.991,1114.569,1082.495)" >
+			<tspan x="-37.4" y="0" class="t1">S</tspan><tspan  y="0" class="t1">UPER
+</tspan>
+			<tspan x="-71" y="26.1" class="t1">HOSPITALITY
+</tspan>
+			<tspan x="-107" y="52.1" class="t1">HILL A SOUTH EAST
+</tspan>
+		</text>
+		<path id="HILL B SOUTH WEST" class="s0" d="m582 809l-349 201c0 0 49.2 96.8 130 163 109.3 89.6 199 111 199 111l102-389c0 0-27.2-17.7-48-38-23.5-23-34-48-34-48z"/>
+		<text id="HILL B SOUTH WEST" style="transform: matrix(-1,-0.758,.758,-1,447.752,1079.048)" >
+			<tspan x="-34.8" y="0" class="t1">H</tspan><tspan  y="0" class="t1">ILL B
+</tspan>
+			<tspan x="-72.4" y="26.1" class="t1">SOUTH WEST
+</tspan>
+		</text>
+	</g>
+	<g id="THIRD FLOOR">
+		<path id="NORTH EAST STAND SECOND FLOOR" class="s2" d="m896 159c0 0 99.1 20.9 175.6 68.8 80.9 50.6 150.4 141.2 150.4 141.2l-76 56c0 0-51.1-71-117-113-62.7-39.9-132-55-132-55z"/>
+		<text id="NORTH EAST STAND SECOND FLOOR" style="transform: matrix(.853,.522,-0.522,.853,1061.588,279.299)" >
+			<tspan x="-110.2" y="0" class="t1">N</tspan><tspan  y="0" class="t1">ORTH EAST STAND
+</tspan>
+			<tspan x="-87.5" y="26.1" class="t1">SECOND FLOOR
+</tspan>
+		</text>
+		<path id="NORTH EAST STAND THIRD FLOOR" class="s2" d="m896 53c0 0 128.6 27.1 228 89 105 65.5 181 166 181 166l-74 58c0 0-64.5-83.7-150-138-81.4-51.7-184-74-184-74z"/>
+		<text id="NORTH EAST STAND THIRD FLOOR" style="transform: matrix(.853,.522,-0.522,.853,1100.588,180.299)" >
+			<tspan x="-110.2" y="0" class="t1">N</tspan><tspan  y="0" class="t1">ORTH EAST STAND
+</tspan>
+			<tspan x="-74.2" y="26.1" class="t1">THIRD FLOOR
+</tspan>
+		</text>
+		<path id="NORTH WEST STAND SECOND FLOOR copy" class="s2" d="m681 159c0 0-99.1 20.9-175.6 68.8-80.9 50.6-150.4 141.2-150.4 141.2l76 56c0 0 51.1-71 117-113 62.7-39.9 132-55 132-55z"/>
+		<text id="NORTH WEST STAND SECOND FLOOR" style="transform: matrix(.811,-0.587,.584,.812,514.445,279.665)" >
+			<tspan x="-112.6" y="0" class="t1">N</tspan><tspan  y="0" class="t1">ORTH WEST STAND
+</tspan>
+			<tspan x="-87.5" y="26.1" class="t1">SECOND FLOOR
+</tspan>
+		</text>
+		<path id="NORTH WEST STAND THIRD FLOOR copy" class="s2" d="m681 53c0 0-128.6 27.1-228 89-105 65.5-181 166-181 166l74 58c0 0 64.5-83.7 150-138 81.4-51.7 184-74 184-74z"/>
+		<text id="NORTH WEST STAND THIRD FLOOR" style="transform: matrix(.83,-0.56,.557,.83,475.653,180.521)" >
+			<tspan x="-112.6" y="0" class="t1">N</tspan><tspan  y="0" class="t1">ORTH WEST STAND
+</tspan>
+			<tspan x="-74.2" y="26.1" class="t1">THIRD FLOOR
+</tspan>
+		</text>
+		<path id="EAST STAND SECOND FLOOR" class="s2" d="m1205 390l104-76c0 0 106.4 139.5 119 335 12.6 195.4-81 356-81 356l-112-63c0 0 73-113.5 63-298-7.2-132.7-93-254-93-254z"/>
+		<text id="EAST STAND SECOND FLOOR" style="transform: matrix(-0.023,1,-1,-0.023,1341.359,686.444)" >
+			<tspan x="-159.1" y="0" class="t1">E</tspan><tspan  y="0" class="t1">AST STAND SECOND FLOOR
+</tspan>
+		</text>
+		<path id="DAREDEVIL LOUNGE" class="s2" d="m151 759l126-14c0 0 5.9 48 21 95 16.8 52.2 43 104 43 104l-111 62c0 0-33.4-60.6-54-125-18.8-58.8-25-122-25-122z"/>
+		<text id="DAREDEVIL LOUNGE" style="transform: matrix(-0.414,-1.185,1.185,-0.414,233.421,862.474)" >
+			<tspan x="-62.7" y="0" class="t1">D</tspan><tspan  y="0" class="t1">AREDEVIL
+</tspan>
+			<tspan x="-46.4" y="26.1" class="t1">LOUNGE
+</tspan>
+		</text>
+		<path id="WEST SIDE THIRD FLOOR" class="s2" d="m268 313l103 76c0 0-57.5 85.3-84 184-19.4 72.1-10 166-10 166l-129 15c0 0-7.7-124.4 20-226 32-117.7 100-215 100-215z"/>
+		<text id="WEST SIDE THIRD FLOOR" style="transform: matrix(.383,-1.195,1.195,.383,226.496,563.252)" >
+			<tspan x="-59.7" y="0" class="t1">W</tspan><tspan  y="0" class="t1">EST SIDE
+</tspan>
+			<tspan x="-74.2" y="26.1" class="t1">THIRD FLOOR
+</tspan>
+		</text>
+	</g>
+	<g id="SECOND FLOOR">
+		<path id="NORTH EAST STAND FIRST FLOOR" class="s3" d="m896 264c0 0 68.7 14.5 121.7 47.6 56.1 35 123.3 114.4 123.3 114.4l-81 61c0 0-25.6-36.5-73-72-40-29.9-90-48.4-90-49z"/>
+		<text id="NORTH EAST STAND FIRST FLOOR" style="transform: matrix(.853,.522,-0.522,.853,1006.588,364.299)" >
+			<tspan x="-96.1" y="0" class="t4">N</tspan><tspan  y="0" class="t4">ORTH EAST STAND
+</tspan>
+			<tspan x="-63.1" y="22.7" class="t4">FIRST FLOOR
+</tspan>
+		</text>
+		<path id="NORTH WEST STAND FIRST FLOOR copy" class="s3" d="m681 264c0 0-68.7 14.5-121.7 47.6-56.1 35-123.3 114.4-123.3 114.4l81 61c0 0 25.6-36.5 73-72 40-29.9 90-48.4 90-49z"/>
+		<text id="NORTH WEST STAND FIRST FLOOR" style="transform: matrix(.807,-0.592,.595,.806,569.955,364.513)" >
+			<tspan x="-98.2" y="0" class="t4">N</tspan><tspan  y="0" class="t4">ORTH WEST STAND
+</tspan>
+			<tspan x="-63.1" y="22.7" class="t4">FIRST FLOOR
+</tspan>
+		</text>
+		<path id="EAST STAND FIRST FLOOR" class="s3" d="m1066 489.8l133-96.8c0 0 86.6 102.8 95 276 6.4 130.7-65 271-65 271l-142.9-81.1c0 0 48.8-75.9 42.1-199.3-4.8-88.7-62.2-169.8-62.2-169.8z"/>
+		<text id="EAST STAND FIRST FLOOR" style="transform: matrix(-0.023,1,-1,-0.023,1201.359,686.444)" >
+			<tspan x="-144" y="0" class="t1">E</tspan><tspan  y="0" class="t1">AST STAND FIRST FLOOR
+</tspan>
+		</text>
+		<path id="WEST SIDE CORPORATE BOXES BOX 1 TO 37" class="s3" d="m322 484l154 68c0 0-30.7 64-27 157 3.4 83.9 44 148 44 148l-144 82c0 0-60.2-114.7-67-230-6.7-112.1 40-225 40-225z"/>
+		<text id="WEST SIDE CORPORATE BOXES BOX 1 TO 37  " style="transform: matrix(-0.055,-1.254,1.254,-0.055,358.039,702.668)" >
+			<tspan x="-59.7" y="0" class="t1">W</tspan><tspan  y="0" class="t1">EST SIDE
+</tspan>
+			<tspan x="-109.6" y="26.1" class="t1">CORPORATE BOXES
+</tspan>
+			<tspan x="-68.6" y="52.1" class="t1">BOX 1 TO 37 
+</tspan>
+		</text>
+		<path id="Rectangle 2 copy 2" class="s3" d="m477 547c10.4-29.4 33-57 33-57l-134-97c0 0-36 46.1-51 85-0.3 0.8 151.8 69.5 152 69z"/>
+	</g>
+	<g id="GROUND FLOOR">
+		<path id="NORTH EAST STAND GR. FLR." class="s5" d="m896.2 369c0 0 24.3 10.4 46 22 20.3 10.9 40 25 40 25l-56 79c0 0-8.1-6.2-15.3-10.4-7.3-4.3-14.7-7.6-14.7-7.6z"/>
+		<text id="NORTH EAST STAND GR. FLR." style="transform: matrix(.785,.479,-0.481,.782,942.236,421.679)" >
+			<tspan x="-23.8" y="0" class="t6">N</tspan><tspan  y="0" class="t6">ORTH
+</tspan>
+			<tspan x="-17.8" y="16.1" class="t6">EAST
+</tspan>
+			<tspan x="-22.6" y="32.1" class="t6">STAND
+</tspan>
+			<tspan x="-28.6" y="48.2" class="t6">GR. FLR.
+</tspan>
+		</text>
+		<path id="NORTH EAST STAND PREMIUM" class="s5" d="m986 420c0 0 16 11.7 33 28 19.4 18.6 38 41 38 41l-80 57c0 0-10.9-14.4-23-27-10.9-11.3-23-21-23-21z"/>
+		<text id="NORTH EAST STAND PREMIUM" style="transform: matrix(.624,.675,-0.676,.621,1006.229,474.045)" >
+			<tspan x="-23.8" y="0" class="t6">N</tspan><tspan  y="0" class="t6">ORTH
+</tspan>
+			<tspan x="-17.8" y="16.1" class="t6">EAST
+</tspan>
+			<tspan x="-22.6" y="32.1" class="t6">STAND
+</tspan>
+			<tspan x="-31.6" y="48.2" class="t6">PREMIUM
+</tspan>
+		</text>
+		<path id="NORTH WEST STAND GR. FLR. copy" class="s5" d="m681.1 369c0 0-24.4 10.4-46 22-20.3 10.9-40.1 25-40.1 25l56.1 79c0 0 8.1-6.2 15.3-10.4 7.3-4.3 14.7-7.6 14.7-7.6z"/>
+		<text id="NORTH WEST STAND GR. FLR." style="transform: matrix(.79,-0.472,.469,.789,635.284,421.529)" >
+			<tspan x="-23.8" y="0" class="t6">N</tspan><tspan  y="0" class="t6">ORTH
+</tspan>
+			<tspan x="-19.3" y="16.1" class="t6">WEST
+</tspan>
+			<tspan x="-22.6" y="32.1" class="t6">STAND
+</tspan>
+			<tspan x="-28.6" y="48.2" class="t6">GR. FLR.
+</tspan>
+		</text>
+		<path id="NORTH WEST STAND PREMIUM copy" class="s5" d="m591 420c0 0-16 11.7-33 28-19.3 18.6-38 41-38 41l80 57c0 0 11-14.4 23.1-27 10.8-11.3 23-21 23-21z"/>
+		<text id="NORTH WEST STAND PREMIUM" style="transform: matrix(.677,-0.623,.622,.675,572.545,473.421)" >
+			<tspan x="-23.8" y="0" class="t6">N</tspan><tspan  y="0" class="t6">ORTH
+</tspan>
+			<tspan x="-19.3" y="16.1" class="t6">WEST
+</tspan>
+			<tspan x="-22.6" y="32.1" class="t6">STAND
+</tspan>
+			<tspan x="-31.6" y="48.2" class="t6">PREMIUM
+</tspan>
+		</text>
+		<path id="EAST STAND GROUND FLOOR" class="s5" d="m982 550.6l78-56.6c0 0 58.1 61 64 182 4.4 91.3-45 178-45 178l-83-45.7c0 0 34-53 29.3-139.1-3.3-61.9-43.3-118.6-43.3-118.6z"/>
+		<text id="EAST STAND GROUND FLOOR" style="transform: matrix(-0.023,1,-1,-0.023,1072.359,686.444)" >
+			<tspan x="-68.6" y="0" class="t1">E</tspan><tspan  y="0" class="t1">AST STAND
+</tspan>
+			<tspan x="-89.3" y="26.1" class="t1">GROUND FLOOR
+</tspan>
+		</text>
+		<path id="WEST STAND GR. FLOOR" class="s5" d="m515 494l77 54c0 0-21.2 35.6-32 76-11.2 41.6-10 86-10 86l-95 10c0 0-4.5-64.5 11-123 14.4-54.4 49-103 49-103z"/>
+		<text id="WEST STAND GR. FLOOR" style="transform: matrix(.162,-0.905,.904,.16,509.672,616.158)" >
+			<tspan x="-61.9" y="0" class="t4">W</tspan><tspan  y="0" class="t4">EST STAND
+</tspan>
+			<tspan x="-52.6" y="22.7" class="t4">GR. FLOOR
+</tspan>
+		</text>
+		<path id="PLATINUM GALLERY" class="s5" d="m456 726c0 57.6 40.4 125.8 40.4 125.8l82.2-44.2c0 0-23.8-44.8-28.6-90.6 0 0-94 8.2-94 9z"/>
+		<text id="PLATINUM GALLERY" style="transform: matrix(-0.195,-0.899,.897,-0.196,512.72,776.58)" >
+			<tspan x="-48.2" y="0" class="t4">P</tspan><tspan  y="0" class="t4">LATINUM
+</tspan>
+			<tspan x="-44.9" y="22.7" class="t4">GALLERY
+</tspan>
+		</text>
+	</g>
+</svg>

@@ -1,0 +1,229 @@
+<svg class="svg-stadium" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 829.6 678" style="enable-background:new 0 0 829.6 678;" xml:space="preserve">
+    <style type="text/css">
+    .st0 {
+        fill: #589D51;
+    }
+
+    .st1 {
+        fill: #488544;
+    }
+
+    .st2 {
+        fill: none;
+        stroke: #FFFFFF;
+        stroke-width: 0.75;
+        stroke-miterlimit: 10;
+    }
+
+    .st3 {
+        fill: none;
+        stroke: #FFFFFF;
+        stroke-miterlimit: 10;
+    }
+
+    .st4 {
+        fill: none;
+        stroke: #000000;
+        stroke-miterlimit: 10;
+    }
+
+    .st5 {
+        font-family: 'NeueHaasDisplay-Mediu';
+    }
+
+    .st6 {
+        font-size: 14px;
+    }
+
+    .st7 {
+        fill: #EEEEEE;
+        stroke: #000000;
+        stroke-miterlimit: 10;
+    }    
+    </style>
+    <g class="field">
+        <g>
+            <rect x="136.5" y="130.7" class="st0" width="554.7" height="350.3" />
+            <rect x="396" y="144.9" class="st1" width="30.3" height="321.9" />
+            <rect x="334.4" y="145.1" class="st1" width="30.3" height="321.7" />
+            <rect x="273.7" y="145.7" class="st1" width="30.3" height="321.9" />
+            <rect x="211.9" y="146.7" class="st1" width="30.3" height="321.9" />
+            <rect x="159" y="147.2" class="st1" width="27.1" height="321.9" />
+            <rect x="640.3" y="145.2" class="st1" width="30.3" height="321.9" />
+            <rect x="456.6" y="144.9" class="st1" width="30.3" height="321.9" />
+            <rect x="579" y="145.2" class="st1" width="30.3" height="321.9" />
+            <rect x="517.8" y="145.7" class="st1" width="30.3" height="321.9" />
+            <rect x="157.3" y="145.2" class="st2" width="512.5" height="321.9" />
+            <g>
+                <rect x="590.9" y="193.1" class="st3" width="79" height="230.4" />
+                <rect x="641" y="254.7" class="st3" width="28.9" height="107.3" />
+                <path class="st3" d="M590.9,263.5c0,0-35.5,43.1,0.2,83.8" />
+                <rect x="669.9" y="292.8" class="st3" width="12.8" height="36.1" />
+            </g>
+            <ellipse id="white_circle" class="st3" cx="410.4" cy="307.4" rx="56.2" ry="53.8" />
+            <g>
+                <rect x="157.1" y="193.1" class="st3" width="79" height="230.4" />
+                <rect x="157.1" y="254.7" class="st3" width="28.9" height="107.3" />
+                <path class="st3" d="M235.9,347.3c35.7-40.8,0.2-83.8,0.2-83.8" />
+                <rect x="144.3" y="292.8" class="st3" width="12.8" height="36.1" />
+            </g>
+            <path class="st3" d="M669.9,454.9c0,0-11.7,1.3-12.7,12.2" />
+            <path class="st3" d="M659.1,145.2c0,0-0.3,11.2,10.8,13.7" />
+            <path class="st3" d="M169.2,467.1c0,0-0.7-11.2-11.9-12.8" />
+            <path class="st3" d="M157.1,158.1c0,0,11.5-2,11.8-12.9" />
+            <line class="st2" x1="412.8" y1="466.8" x2="412.8" y2="144.9" />
+        </g>
+    </g>
+    <g class="block-category" data-category="vip">       
+        <g data-section="vip_b1">
+            <polygon class="block st4" points="429.9,503.2 488.1,503.2 488.1,595.4 569.6,595.4 569.6,627.4 429.9,627.4 		" data-seat="vip" />
+            <text transform="matrix(1 0 0 1 452.0029 548.838)" class="st5 st6 section-label">B1</text>
+        </g>
+        <g data-section="vip_b2">
+            <rect x="382.5" y="503.2" class="block st4" width="41.8" height="124.2" data-seat="vip" />
+            <text transform="matrix(1 0 0 1 397.8853 548.8376)" class="st5 st6 section-label">B2</text>
+        </g>
+        <g data-section="vip_b3">
+            <polygon class="block st4" points="376,503.2 317.8,503.2 317.8,595.4 236.3,595.4 236.3,627.4 376,627.4 		" data-seat="vip" />
+            <text transform="matrix(1 0 0 1 342.4127 548.8374)" class="st5 st6 section-label">B3</text>
+        </g>
+        <g data-section="vip_d-logen">
+            <polygon class="block st4" points="161.5,633.4 144.9,672.6 650.7,672.9 650.7,633.4 		" data-seat="vip" />
+            <text transform="matrix(1 0 0 1 394.4407 654.7108)" class="st5 st6 section-label">D</text>
+            <text transform="matrix(1 0 0 1 382.4631 667.4166)" class="st5 st6 section-label">LOGEN</text>
+        </g>
+    </g>    
+    <g class="block-category" data-category="sektor-2">
+        <g data-section="sektor-2_f">
+            <polygon class="block st4" points="3.5,433.1 59.6,433.1 59.6,498.5 3.5,474.8 		" data-seat="sektor-2" />
+            <text transform="matrix(1 0 0 1 30.6943 465.8195)" class="st5 st6 section-label">F</text>
+        </g>
+        <g data-section="sektor-2_h">
+            <rect x="4" y="197" class="block st4" width="55.4" height="230.6" data-seat="sektor-2" />
+            <text transform="matrix(1 0 0 1 29.1146 316.2288)" class="st5 st6 section-label">H</text>
+        </g>
+        <g data-section="sektor-2_j">
+            <path class="block st4" d="M37,33.2c0,0-30.8,23.9-32.8,62.8v95.8h55.4V80L48.6,69l11.1-12.3L37,33.2z" data-seat="sektor-2" />
+            <text transform="matrix(1 0 0 1 28.7579 127.7095)" class="st5 st6 section-label">J</text>
+        </g>
+        <g data-section="sektor-2_i">
+            <polygon class="block st4" points="102.9,190.2 66.4,190.2 65.5,83.9 103.1,117.2 		" data-seat="sektor-2" />
+            <text transform="matrix(1 0 0 1 81.8381 148.0036)" class="st5 st6 section-label">I</text>
+        </g>
+        <g data-section="sektor-2_g">
+            <rect x="65.5" y="197" class="block st4" width="37.4" height="230.6" data-seat="sektor-2" />
+            <text transform="matrix(1 0 0 1 80.838 316.2288)" class="st5 st6 section-label">G</text>
+        </g>
+        <g data-section="sektor-2_e">
+            <rect x="65.5" y="433.1" class="block st4" width="37.4" height="66.7" data-seat="sektor-2" />
+            <text transform="matrix(1 0 0 1 80.8381 467.819)" class="st5 st6 section-label">E</text>
+        </g>   
+    </g>
+    <g class="block-category" data-category="sektor-3">
+    	<g data-section="sektor-3_p">
+            <rect x="289" y="4.4" class="block st4" width="251.9" height="67.9" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 405.9343 41.2976)" class="st5 st6 section-label">P</text>
+        </g>        
+        <g data-section="sektor-3_l">
+            <path class="block st4" d="M120.7,3.9v68.4H60.3l-4.2-4.3L67.3,57L41,30.1C41,30.1,61.9,5.8,120.7,3.9z" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 89.8167 42.9447)" class="st5 st6 section-label">L</text>
+        </g>
+        <g data-section="sektor-3_n">
+            <rect x="126.3" y="3.9" class="block st4" width="157" height="67.9" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 201.4052 41.2972)" class="st5 st6 section-label">N</text>
+        </g>
+        <g data-section="sektor-3_r">
+            <rect x="546.5" y="3.9" class="block st4" width="130.6" height="67.9" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 608.7349 41.2974)" class="st5 st6 section-label">R</text>
+        </g>
+        <g data-section="sektor-3_t">
+            <path class="block st4" d="M684.2,3.9v67.9c0,0,42-4.6,65,20.1l49.3-29.4C798.6,62.5,769.3,5.4,684.2,3.9z" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 732.3232 47.8394)" class="st5 st6 section-label">T</text>
+        </g>
+        <g data-section="sektor-3_k">
+            <polygon class="block st4" points="121.3,77.5 121.3,108.1 102.2,108.1 70.2,77.5 		" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 101.4049 94.9447)" class="st5 st6 section-label">K</text>
+        </g>
+        <g data-section="sektor-3_m">
+            <rect x="126.3" y="77.5" class="block st4" width="157" height="30.6" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 199.9932 96.5917)" class="st5 st6 section-label">M</text>
+        </g>
+        <g data-section="sektor-3_q">
+            <rect x="546.5" y="76.5" class="block st4" width="130.6" height="30.6" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 608.7349 94.945)" class="st5 st6 section-label">Q</text>
+        </g>
+        <g data-section="sektor-3_s">
+            <path class="block st4" d="M684.2,108h37.3L742.8,95c0,0-11.4-19.7-58.5-19.3L684.2,108L684.2,108z" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 704.4409 97.1567)" class="st5 st6 section-label">S</text>
+        </g>
+         <g data-section="sektor-3_o">
+            <rect x="289" y="77.5" class="block st4" width="251.9" height="30.6" data-seat="sektor-3" />
+            <text transform="matrix(1 0 0 1 407.3461 96.5916)" class="st5 st6 section-label">O</text>
+        </g>
+        
+    </g>
+    <g class="block-category" data-category="gastbereich---away-fans">        
+        <g data-section="gastbereich---away-fans_21">
+            <rect x="722.3" y="304.7" class="block st4" width="29" height="50.5" data-seat="gastbereich---away-fans" />
+            <text transform="matrix(1 0 0 1 731.52 333.7299)" class="st5 st6 section-label">21</text>
+        </g>
+        <g data-section="gastbereich---away-fans_22">
+            <rect x="722.3" y="360.4" class="block st4" width="29" height="140.8" data-seat="gastbereich---away-fans" />
+            <text transform="matrix(1 0 0 1 731.2062 430.7866)" class="st5 st6 section-label">22</text>
+        </g>
+        <g data-section="gastbereich---away-fans_">
+        	<rect x="757.6" y="304.7" class="block st7" width="67.3" height="50.5" data-seat="gastbereich---away-fans" />
+    	</g>
+    	<g data-section="gastbereich---away-fans_">
+        	<polygon class="block st7" points="757.6,361 824.9,361 825.7,462.3 757.6,499.9 	" data-seat="gastbereich---away-fans" />
+        </g>
+    </g>
+   
+    <g data-category="sektor-1">
+        <g data-section="sektor-1_c1">
+            <rect x="236.3" y="503.4" class="block st4" width="74.5" height="87.1" data-seat="sektor-1" />
+            <text transform="matrix(1 0 0 1 267.5892 548.8377)" class="st5 st6 section-label">C1</text>
+        </g>
+        <g data-section="sektor-1_c2">
+            <rect x="117.1" y="503.2" class="block st4" width="113" height="124.2" data-seat="sektor-1" />
+            <text transform="matrix(1 0 0 1 169.7068 565.3083)" class="st5 st6 section-label">C2</text>
+        </g>
+        <g data-section="sektor-1_a1">
+            <rect x="575.8" y="503.2" class="block st4" width="113" height="124.2" data-seat="sektor-1" />
+            <text transform="matrix(1 0 0 1 625.5912 566.3986)" class="st5 st6 section-label">A1</text>
+        </g>
+        <g data-section="sektor-1_a2">
+            <rect x="495.1" y="503.4" class="block st4" width="74.5" height="87.1" data-seat="sektor-1" />
+            <text transform="matrix(1 0 0 1 527.2382 546.9279)" class="st5 st6 section-label">A2</text>
+        </g>
+    </g>
+    
+    <g data-category="sektor-4">
+         <g data-section="sektor-4_w">
+            <rect x="723" y="146" class="block st4" width="29" height="74" data-seat="sektor-4" />
+            <text transform="matrix(1 0 0 1 733.2065 186.7805)" class="st5 st6 section-label">W</text>
+        </g>
+        <g data-section="sektor-4_y">
+            <rect x="722.3" y="225.2" class="block st4" width="29" height="74" data-seat="sektor-4" />
+            <text transform="matrix(1 0 0 1 732.52 265.9943)" class="st5 st6 section-label">Y</text>
+        </g>
+        <g data-section="sektor-4_u">
+            <path class="block st4" d="M801.9,67.1c0,0,24.2,29.6,23.7,72.5h-67.9c0,0,1.5-25.2-6.9-44.2L801.9,67.1z" data-seat="sektor-4" />
+            <text transform="matrix(1 0 0 1 786.6174 113.8394)" class="st5 st6 section-label">U</text>
+        </g>
+        <g data-section="sektor-4_v">
+            <rect x="758.3" y="146" class="block st4" width="67.3" height="74" data-seat="sektor-4" />
+            <text transform="matrix(1 0 0 1 787.6169 186.7805)" class="st5 st6 section-label">V</text>
+        </g>
+        <g data-section="sektor-4_x">
+            <rect x="757.6" y="225.2" class="block st4" width="67.3" height="74" data-seat="sektor-4" />
+            <text transform="matrix(1 0 0 1 786.9305 265.9943)" class="st5 st6 section-label">X</text>
+        </g>     
+    </g>
+
+    <g>
+        <path class="st7" d="M723,111.8v27.8h29.8c0,0,1.5-19-5.4-42.4L723,111.8z" />        
+        <polygon class="st7" points="139.1,672.4 117.1,672.4 117.1,633.2 156.4,633.2 	" />
+        <rect x="656.5" y="633.2" class="st7" width="32.4" height="39.5" />
+    </g>
+</svg>

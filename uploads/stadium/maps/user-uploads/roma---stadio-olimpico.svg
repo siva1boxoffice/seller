@@ -1,0 +1,658 @@
+<svg class="svg-stadium" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 967.1 680.8" style="enable-background:new 0 0 967.1 680.8;" xml:space="preserve">
+  <style xmlns="http://www.w3.org/2000/svg" type="text/css">
+    .st0{fill:#589D51;}
+	.st1{fill:#488544;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:#112638;}
+	.st5{font-family:'NeueHaasDisplay-Mediu';} 
+	.st6{font-size:15px;}
+	.st7{font-size:14.9994px;}
+	.st8{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st9{font-size:11px;}
+	.st10{font-size:8.9997px;}
+	.st11{font-size:9px;}
+	.st12{font-size:11.0004px;}
+	.st13{font-size:10.9995px;}
+	.st14{font-size:11.0005px;}
+	.st15{font-size:8px;}
+	.st16{font-size:8.0003px;}
+	.st17{font-size:10.9996px;}
+	.st18{font-size:11.0006px;}
+	.st19{fill:#208B3A;stroke:#000000;stroke-miterlimit:10;}
+  </style>
+  <g class="field" xmlns="http://www.w3.org/2000/svg">
+    <g>
+      <rect x="280.5" y="211.5" class="st0" width="413.8" height="272.9"></rect>
+      <rect x="478.1" y="222.6" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="524" y="222.6" class="st1" width="22.6" height="250.6"></rect>
+      <rect x="569.3" y="221.9" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="615.4" y="221.1" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="657.3" y="220.7" class="st1" width="20.2" height="250.8"></rect>
+      <rect x="295.9" y="222.3" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="432.9" y="222.6" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="341.6" y="222.3" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="387.3" y="221.9" class="st1" width="22.6" height="250.8"></rect>
+      <rect x="296.4" y="222.3" class="st2" width="382.3" height="250.8"></rect>
+      <rect x="296.4" y="263.1" class="st3" width="58.9" height="179.5"></rect>
+      <rect x="296.4" y="311.1" class="st3" width="21.6" height="83.6"></rect>
+      <path class="st3" d="M355.3,387.9c0,0,26.5-33.5-0.2-65.3"></path>
+      <rect x="286.8" y="336.8" class="st3" width="9.6" height="28.1"></rect>
+      <g>
+        <rect x="619.9" y="263.1" class="st3" width="58.9" height="179.5"></rect>
+        <rect x="657.3" y="311.1" class="st3" width="21.6" height="83.6"></rect>
+        <path class="st3" d="M620.1,322.5c-26.6,31.8-0.2,65.3-0.2,65.3"></path>
+        <rect x="678.9" y="336.8" class="st3" width="9.6" height="28.1"></rect>
+      </g>
+      <path class="st3" d="M296.4,231.8c0,0,8.7-1,9.5-9.5"></path>
+      <path class="st3" d="M304.4,473.2c0,0,0.2-8.7-8-10.7"></path>
+      <path class="st3" d="M669.8,222.3c0,0,0.5,8.7,8.9,10"></path>
+      <circle id="white_circle" class="st3" cx="488.8" cy="344.6" r="41.9"></circle>
+      <path class="st3" d="M678.9,463.1c0,0-8.6,1.6-8.8,10.1"></path>
+      <line class="st2" x1="488.2" y1="222.6" x2="488.2" y2="473.4"></line>
+    </g>
+    <g data-stand="curva-nord">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-4.900000e-04 1 -1 -4.900000e-04 954.2737 299.7217)" class="st4 st5 st6">CURVA NORD</text>
+    </g>
+    <g data-stand="curva-sud">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-1.090044e-02 -0.9999 0.9999 -1.090044e-02 13.7332 384.5739)" class="st4 st5 st7">CURVA SUD</text>
+    </g>
+    <g data-stand="distinti-nord-est">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 822.2529 617.8623)" class="st4 st5 st6">DISTINTI NORD EST </text>
+    </g>
+    <g data-stand="distinti-sud-est">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 20.2529 613.8623)" class="st4 st5 st6">DISTINTI SUD EST</text>
+    </g>
+    <g data-stand="distinti-nord-ovest">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 803.2529 57.8623)" class="st4 st5 st6">DISTINTI NORD OVEST</text>
+    </g>
+    <g data-stand="(settore-ospiti)">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 819.2529 73.8623)" class="st4 st5 st6">(SETTORE OSPITI)</text>
+    </g>
+    <g data-stand="tribuna-monte-mario">
+        <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 409.2529 12.8623)" class="st4 st5 st6">TRIBUNA MONTE MARIO</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="curva-nord">
+    <g data-section="curva-nord_46ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M906.8,493.4c0,0,11-19,14-35l-67-25c0,0-6,18-12,27L906.8,493.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 872.2529 464.8623)" class="st5 st9">46AD</text>
+    </g>
+    <g data-section="curva-nord_46as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M922.8,455.4c0,0,8.3-14.1,9.5-30.4l-68.5-19.6c0,0-3,14.4-8,24L922.8,455.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 884.2529 432.8623)" class="st5 st9">46AS</text>
+    </g>
+    <g data-section="curva-nord_46b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M838.8,457.4c0,0,17-32,22-52l-81-22c0,0-7,28-13,35L838.8,457.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 805.2529 419.8623)" class="st5 st9">46B</text>
+    </g>
+    <g data-section="curva-nord_47ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M933.8,421.4l-69-19c0,0,7-18,10-48h18v15h9v6h7v4h10v3h8v4h7v5h7C940.8,391.4,938.8,410.4,933.8,421.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 892.2529 397.8623)" class="st5 st9">47AD</text>
+    </g>
+    <g data-section="curva-nord_47as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="906.8" y="355.4" class="block st8" width="31" height="18"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 911.2529 367.8623)" class="st5 st9">47AS</text>
+    </g>
+    <g data-section="curva-nord_47b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M861.8,401.4c0,0,7-21,10-47h-84c0,0-4,18-7,26L861.8,401.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 819.2529 374.8623)" class="st5 st9">47B</text>
+    </g>
+    <g data-section="curva-nord_48ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="906.8" y="327.4" class="block st8" width="31" height="21"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 3.000000e-04 -3.000000e-04 1 909.2134 341.8934)" class="st5 st9">48AD</text>
+    </g>
+    <g data-section="curva-nord_48as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M892.8,348.4h-17c0,0,1-37-1-53l67-17c0,0,2,14,3,26h-11v5h-9v3h-5v4h-12v7h-6v3h-9V348.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 896.2529 304.8623)" class="st5 st9">48AS</text>
+    </g>
+    <g data-section="curva-nord_48b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M872.8,348.4c0,0,2-29-1-53l-86,21c0,0,3,19,2,31L872.8,348.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 824.2529 330.8623)" class="st5 st9">48B</text>
+    </g>
+    <g data-section="curva-nord_49ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M940.8,275.4c0,0-3-26-10-38l-62,28c0,0,3,12,5,27L940.8,275.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 894.2529 269.8623)" class="st5 st9">49AD</text>
+    </g>
+    <g data-section="curva-nord_49as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M930.8,234.4c0,0-3-12-11-30l-61,32c0,0,7,18,9,26L930.8,234.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 884.2529 235.8623)" class="st5 st9">49AS</text>
+    </g>
+    <g data-section="curva-nord_49b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M870.8,292.4c0,0-3-27-15-54l-81,42c0,0,7,15,11,33L870.8,292.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 815.2529 284.8623)" class="st5 st9">49B</text>
+    </g>
+    
+  </g>
+  <g class="block-category" data-category="curva-sud">
+    <g data-section="curva-sud_15a">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M153.8,78.4c0,0,15-12,27-18l32,54c0,0-8,5-18,13l-41-50"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 175.2529 95.8623)" class="st5 st9">15A</text>
+    </g>
+    <g data-section="curva-sud_15b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M194.8,134.4c0,0,6-7,21-16l52,88c0,0-13,8-19,14l-51-59L194.8,134.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 222.2529 177.8623)" class="st5 st9">15B</text>
+    </g>
+    <g data-section="curva-sud_16ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M123.8,103.4c0,0,11-14,27-24l41,49c0,0-16,12-22,20L123.8,103.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 147.2529 117.8623)" class="st5 st9">16AD</text>
+    </g>
+    <g data-section="curva-sud_16as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M99.8,131.4c0,0,5-10,22-26l46,46c0,0-17,17-19,21L99.8,131.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 123.2529 142.8623)" class="st5 st9">16AS</text>
+    </g>
+    <g data-section="curva-sud_16b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M150.8,176.4c0,0,18-24,40-40l2,26l52,60c0,0-12,10-21,19L150.8,176.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 191.2529 199.8623)" class="st5 st9">16B</text>
+    </g>
+    <g data-section="curva-sud_17ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M74.8,166.4c0,0,12-23,23-33l49.4,41.6c0,0-12.4,16.4-16.4,26.4L74.8,166.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 100.2529 171.8623)" class="st5 st9">17AD</text>
+    </g>
+    <g data-section="curva-sud_17as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M54.8,199.4c0,0,8-19,18-30l56,35c0,0-9,17-13,27L54.8,199.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 82.2529 204.8623)" class="st5 st9">17AS</text>
+    </g>
+    <g data-section="curva-sud_17b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M119.8,233.4c0,0,6-25,29-54l73,64c0,0-15,18-22,32L119.8,233.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 160.2529 233.8623)" class="st5 st9">17B</text>
+    </g>
+    <g data-section="curva-sud_18ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M42.8,232.4c0,0,3-12,11-30l61,32c0,0-7,18-9,26L42.8,232.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 68.2529 235.8623)" class="st5 st9">18AD</text>
+    </g>
+    <g data-section="curva-sud_18as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M32.8,273.4c0,0,3-26,10-38l62,28c0,0-3,12-5,27L32.8,273.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 58.2529 269.8623)" class="st5 st9">18AS</text>
+    </g>
+    <g data-section="curva-sud_18b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M102.8,290.4c0,0,3-27,15-54l81,42c0,0-7,15-11,33L102.8,290.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 140.2529 281.8623)" class="st5 st9">18B</text>
+    </g>
+    <g data-section="curva-sud_19ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M80.8,346.4h17c0,0-1-37,1-53l-67-17c0,0-2,14-3,26h11v5h9v3h5v4h12v7h6v3h9V346.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 54.2529 304.8623)" class="st5 st9">19AD</text>
+    </g>
+    <g data-section="curva-sud_19as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="35.8" y="325.4" class="block st8" width="31" height="22"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 40.2529 340.8623)" class="st5 st9">19AS</text>
+    </g>
+    <g data-section="curva-sud_19b">
+      <path xmlns="http://www.w3.org/2000/svg" class="st8" d="M100.8,346.4c0,0-2-29,1-53l86,21c0,0-3,19-2,31L100.8,346.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 133.2529 328.8623)" class="st5 st9">19B</text>
+    </g>
+    <g data-section="curva-sud_20ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="35.8" y="353.4" class="st8" width="31" height="22"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 38.2529 367.8623)" class="st5 st9">20AD</text>
+    </g>
+    <g data-section="curva-sud_20as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M39.8,425.4l69-19c0,0-7-18-10-48h-18v15h-9v6h-7v4h-10v3h-8v4h-7v5h-7C32.8,395.4,34.8,414.4,39.8,425.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 60.2529 401.8623)" class="st5 st9">20AS</text>
+    </g>
+    <g data-section="curva-sud_20b">
+      <path xmlns="http://www.w3.org/2000/svg" class="st8" d="M111.8,405.4c0,0-7-21-10-47h84c0,0,4,18,7,26L111.8,405.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 136.2529 379.8623)" class="st5 st9">20B</text>
+    </g>
+    <g data-section="curva-sud_21ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M50.8,459.4c0,0-8.3-14.1-9.5-30.4l68.5-18.6c0,0,4.1,14.4,9,24L50.8,459.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 71.2529 435.8623)" class="st5 st9">21AD</text>
+    </g>
+    <g data-section="curva-sud_21as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M67.8,497.4c0,0-12-19-15-35l67-25c0,0,7,17,13,26L67.8,497.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 84.2529 467.8623)" class="st5 st9">21AS</text>
+    </g>
+    <g data-section="curva-sud_21b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M134.8,460.4c0,0-17-31-22-51l81-22c0,0,11,27,17,34L134.8,460.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 152.2529 423.8623)" class="st5 st9">21B</text>
+    </g>
+    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-1.090044e-02 -0.9999 0.9999 -1.090044e-02 13.7332 384.5739)" class="st4 st5 st7">CURVA SUD</text>
+  </g>
+  <g class="block-category" data-category="distinti-nord-est">
+    <g data-section="distinti-nord-est_43a">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M775.3,618.9c0,0,16-7,26-15l-39-61c0,0-14,8-20,12l7,50l14-4L775.3,618.9z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 757.2529 581.8623)" class="st5 st9">43A</text>
+    </g>
+    <g data-section="distinti-nord-est_43b">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="740.8,551.4 764.8,536.4 745.8,501.4 735.8,505.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 740.2529 532.8623)" class="st5 st9">43B</text>
+    </g>
+    <g data-section="distinti-nord-est_44ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M803.8,602.4c0,0,17-10,27-20l-46-55c0,0-13,10-20,14L803.8,602.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 784.2529 567.8623)" class="st5 st9">44AD</text>
+    </g>
+    <g data-section="distinti-nord-est_44as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M833.8,580.4c0,0,18-14,25-24l-53-48c0,0-15,14-18,16L833.8,580.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 813.2529 547.8623)" class="st5 st9">44AS</text>
+    </g>
+    <g data-section="distinti-nord-est_44b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M767.8,535.4c0,0,20-13,36-30l-63-57l-11,9l6,44l11-5L767.8,535.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 757.2529 497.8623)" class="st5 st9">44B</text>
+    </g>
+    <g data-section="distinti-nord-est_45ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M861.8,553.4c0,0,14-14,21-25l-57-43c0,0-8,12-17,20L861.8,553.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 833.2529 521.8623)" class="st5 st9">45AD</text>
+    </g>
+    <g data-section="distinti-nord-est_45as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M884.8,525.4c0,0,14-16,20-29l-64-33c0,0-10,16-13,19L884.8,525.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 854.2529 494.8623)" class="st5 st9">45AS</text>
+    </g>
+    <g data-section="distinti-nord-est_45b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M806.8,502.4c0,0,18-19,32-41l-74-40c0,0-13,16-21,25L806.8,502.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 782.2529 460.8623)" class="st5 st9">45B</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="distinti-sud-est">
+    <g data-section="distinti-sud-est_22ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M90.8,529.4c0,0-14-16-20-29l64-33c0,0,10,16,13,19L90.8,529.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 99.2529 498.8623)" class="st5 st9">22AD</text>
+    </g>
+    <g data-section="distinti-sud-est_22as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M113.8,557.4c0,0-14-14-21-25l57-43c0,0,8,12,17,20L113.8,557.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 117.2529 526.8623)" class="st5 st9">22AS</text>
+    </g>
+    <g data-section="distinti-sud-est_22b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M168.8,506.4c0,0-18-19-32-41l74-40c0,0,13,16,21,25L168.8,506.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 177.2529 467.8623)" class="st5 st9">22B</text>
+    </g>
+    <g data-section="distinti-sud-est_23ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M141.8,584.4c0,0-18-14-25-24l53-48c0,0,15,14,18,16L141.8,584.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 140.2529 551.8623)" class="st5 st9">23AD</text>
+    </g>
+    <g data-section="distinti-sud-est_23as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M171.8,606.4c0,0-17-10-27-20l46-55c0,0,13,10,20,14L171.8,606.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 167.2529 571.8623)" class="st5 st9">23AS</text>
+    </g>
+    <g data-section="distinti-sud-est_23b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M207.8,539.4c0,0-20-13-36-30l63-57l11,9l-6,44l-11-5L207.8,539.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 204.2529 498.8623)" class="st5 st9">23B</text>
+    </g>
+    <g data-section="distinti-sud-est_24a">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M200.3,622.9c0,0-16-7-26-15l39-61c0,0,14,8,20,12l-7,50l-14-4L200.3,622.9z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 202.2529 586.8623)" class="st5 st9">24A</text>
+    </g>
+    <g data-section="distinti-sud-est_24b">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="234.8,555.4 210.8,540.4 229.8,505.4 239.8,509.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 218.2529 534.8623)" class="st5 st9">24B</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="junior-club">
+    <g data-section="junior-club_27bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="333.8" y="533.4" class="blank st8" width="38" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 341.2529 546.8623)" class="st5 st9">27BS</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="ospiti">
+    <g data-section="ospiti_50ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="st8" d="M918.8,201.4c0,0-8-19-18-30l-56,35c0,0,9,17,13,27L918.8,201.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 872.2529 204.8623)" class="st5 st9">50AD</text>
+    </g>
+    <g data-section="ospiti_50as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M898.8,168.4c0,0-12-23-23-33l-49.4,41.6c0,0,12.4,16.4,16.4,26.4L898.8,168.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 853.2529 171.8623)" class="st5 st9">50AS</text>
+    </g>
+    <g data-section="ospiti_50b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M853.8,235.4c0,0-6-25-29-54l-73,64c0,0,15,18,22,32L853.8,235.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 797.2529 234.8623)" class="st5 st9">50B</text>
+    </g>
+    <g data-section="ospiti_51ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M873.8,133.4c0,0-5-10-22-26l-46,46c0,0,17,17,19,21L873.8,133.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 830.2529 142.8623)" class="st5 st9">51AD</text>
+    </g>
+    <g data-section="ospiti_51as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M849.8,105.4c0,0-11-14-27-24l-41,49c0,0,16,12,22,20L849.8,105.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 806.2529 117.8623)" class="st5 st9">51AS</text>
+    </g>
+    <g data-section="ospiti_51b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M822.8,178.4c0,0-18-24-40-40l-2,26l-52,60c0,0,12,10,21,19L822.8,178.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 769.2529 199.8623)" class="st5 st9">51B</text>
+    </g>
+    <g data-section="ospiti_52a">
+      <path xmlns="http://www.w3.org/2000/svg" class="st8" d="M819.8,80.4c0,0-15-12-27-18l-32,54c0,0,8,5,18,13l41-50"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 781.2529 96.8623)" class="st5 st9">52A</text>
+    </g>
+    <g data-section="ospiti_52b">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M779.8,136.4c0,0-6-7-21-16l-52,88c0,0,13,8,19,14l51-59L779.8,136.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 740.2529 175.8623)" class="st5 st9">52B</text>
+    </g>
+
+  </g>
+  <g class="block-category" data-category="tevere-famiglia">
+    <g data-section="tevere-famiglia_25ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M278.8,592.4c0,0-11-1-22-6v-16c0,0,12,5,25,7L278.8,592.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 258.2529 584.8623)" class="st5 st15">25AD</text>
+    </g>
+    <g data-section="tevere-famiglia_25al">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M253.8,640.4c0,0-11-2-23-7l9-71c0,0,11,5,13,6l-1,23l9,2L253.8,640.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-3.319830e-02 0.9994 -0.9994 -3.319830e-02 242.9231 601.0068)" class="st5 st18">25AL</text>
+    </g>
+    <g data-section="tevere-famiglia_25as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M315.8,648.4c0,0-25,1-56-7l6-46l17,3l4-18c0,0,10,2,22,4l-2,19l12,1L315.8,648.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 277.2529 622.8623)" class="st5 st9">25AS</text>
+    </g>
+    <g data-section="tevere-famiglia_26ad">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="335.8,598.4 312.8,596.4 314.8,585.4 336.8,587.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 315.2529 594.8623)" class="st5 st15">26AD</text>
+    </g>
+    <g data-section="tevere-famiglia_26as">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="367.8,649.4 321.8,649.4 324.8,604.4 340.8,604.4 340.8,587.4 366.8,587.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 334.2529 625.8623)" class="st5 st9">26AS</text>
+    </g>
+    <g data-section="tevere-famiglia_27ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M266.8,568.4c0,0-15-4-26-10l3-23c0,0,12,8,23,12V568.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.8751 0.484 -0.484 0.8751 242.261 550.8444)" class="st5 st9">27AD</text>
+    </g>
+    <g data-section="tevere-famiglia_27as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M310.8,579.4c0,0-26-2-39-10v-19c0,0,17,7,39,8V579.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 280.2529 568.8623)" class="st5 st9">27AS</text>
+    </g>
+    <g data-section="tevere-famiglia_30ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M371.8,582.4h-43c0,0-6,0-12-2v-22h55V582.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 332.2529 574.8623)" class="st5 st9">30AD</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="tevere-parterre">
+    <g data-section="tevere-parterre_28bc">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M348.8,526.4v-21c0,0-28-1-38-7v28H348.8z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 318.2529 518.8623)" class="st5 st9">28BC</text>
+    </g>
+    <g data-section="tevere-parterre_28bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M304.8,524.4v-25c0,0-20-1-25-2l-8,15C271.8,512.4,280.8,519.4,304.8,524.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 277.2529 511.8623)" class="st5 st9">28BD</text>
+    </g>
+    <g data-section="tevere-parterre_28bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="355.8" y="507.4" class="block st8" width="37" height="19"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 361.2529 520.8623)" class="st5 st9">28BS</text>
+    </g>
+    <g data-section="tevere-parterre_32bd">
+      <rect xmlns="http://www.w3.org/2000/svg" x="398.8" y="507.4" class="st8" width="42" height="19"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 409.2529 520.8623)" class="st5 st9">32BD</text>
+    </g>
+    <g data-section="tevere-parterre_32bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="445.8" y="507.4" class="block st8" width="41" height="19"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 455.2529 520.8623)" class="st5 st9">32BS</text>
+    </g>
+    <g data-section="tevere-parterre_35bd">
+      <rect xmlns="http://www.w3.org/2000/svg" x="491.8" y="507.4" class="block st8" width="40" height="19"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 500.2529 520.8623)" class="st5 st9">35BD</text>
+    </g>
+    <g data-section="tevere-parterre_35bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="537.8" y="507.4" class="block st8" width="44" height="19"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 547.2529 520.8623)" class="st5 st9">35BS</text>
+    </g>
+    <g data-section="tevere-parterre_39bc">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M630.8,526.4v-21c0,0,28,1,38-5v25L630.8,526.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 637.2529 518.8623)" class="st5 st9">39BC</text>
+    </g>
+    <g data-section="tevere-parterre_39bd">
+      <rect xmlns="http://www.w3.org/2000/svg" x="586.8" y="507.4" class="block st8" width="37" height="19"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 593.2529 520.8623)" class="st5 st9">39BD</text>
+    </g>
+    <g data-section="tevere-parterre_39bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M673.8,524.4v-25c0,0,20-1,25-2l8,15C706.8,512.4,697.8,519.4,673.8,524.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 676.2529 512.8623)" class="st5 st9">39BS</text>
+    </g>
+    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 432.2529 676.8623)" class="st4 st5 st6">TRIBUNA TEVERE</text>
+  </g>
+  <g class="block-category" data-category="tribuna-monte-mario">
+    <g data-section="tribuna-monte-mario_10bc">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="389.8,179.4 357.8,179.3 337.8,84.5 377.8,84.5   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 354.2529 133.8623)" class="st5 st9">10BC</text>
+    </g>
+    <g data-section="tribuna-monte-mario_10bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M326.8,186.5l-27-97.9c0,0,8-3.1,31-4.1l22,95.9C352.8,180.4,338.8,182.4,326.8,186.5z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 316.2529 138.8623)" class="st5 st9">10BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_11bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M259.8,101.8c0,0,11-8.2,35-11.2l27,95.9c0,0-14,3.1-24,8.2L259.8,101.8z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9998 -1.770077e-02 1.770077e-02 0.9998 281.12 144.0005)" class="st5 st13">11BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_11bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M222.8,120.4c0,0,13-11.4,31-16.5l38,90.5c0,0-14,6-20,9L222.8,120.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.150039e-02 1.150039e-02 0.9999 244.4039 150.9156)" class="st5 st17">11BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_12ad">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="345.8,55.9 341.8,28.4 374.8,28.4 378.8,55.9   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -8.489694e-03 8.489694e-03 1 349.2194 45.8262)" class="st5 st12">12AD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_12al">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="382.8,55.9 379.8,28.4 404.8,28.4 408.8,55.9   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.080045e-02 1.080045e-02 0.9999 383.2577 45.7014)" class="st5 st13">12AL</text>
+    </g>
+    <g data-section="tribuna-monte-mario_12as">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="304.8,57.9 298.8,28.4 336.8,28.4 340.8,55.9   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 1.610000e-02 -1.610000e-02 0.9999 310.3049 46.0184)" class="st5 st9">12AS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_12bs">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="304.8,64.1 308.8,80.4 344.8,78.4 341.8,61   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9983 -5.870000e-02 5.870000e-02 0.9983 314.0808 75.1492)" class="st5 st9">12BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_12ss">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="412.5,48.4 450.3,48.4 450.3,28.4 409.3,28.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 1.679931e-02 -1.679931e-02 0.9999 419.2326 41.4396)" class="st5 st14">12SS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_13ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M267.8,66.4l-10-32.9c0,0,12-3.1,35-5.1l7,30.6C299.8,59,281.8,61.3,267.8,66.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 1.610000e-02 -1.610000e-02 0.9999 267.3049 49.0184)" class="st5 st9">13AD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_13as">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M203.8,90.4l-18-32c0,0,36-16.7,67-23.9l10,32.9C262.8,67.4,237.8,74.4,203.8,90.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9983 -5.870000e-02 5.870000e-02 0.9983 215.0809 65.1492)" class="st5 st9">13AS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_13bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="block st8" d="M274.8,87.5l-6-16.3c0,0,9-3.1,31-7.1l5,17.3C304.8,81.4,287.8,83.5,274.8,87.5z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 1.610000e-02 -1.610000e-02 0.9999 275.3049 79.0184)" class="st5 st9">13BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_13bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M217.8,113.4l-11-19c0,0,27-16,58-23.2l6,17.3C270.8,88.6,241.8,99.1,217.8,113.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.936 -0.352 0.352 0.936 231.4975 97.0836)" class="st5 st9">13BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_2bc">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M716.8,103.4c0,0-11-8-35-11l-27,94c0,0,14,3,24,8L716.8,103.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 672.2529 148.8623)" class="st5 st9">2BC</text>
+    </g>
+    <g data-section="tribuna-monte-mario_2bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M751.8,120.4c0,0-11-10-29-15l-39,92c0,0,13,4,18,9L751.8,120.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 706.2529 159.8623)" class="st5 st9">2BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_2bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M649.8,186.4l27-96c0,0-8-3-31-4l-22,94C623.8,180.4,637.8,182.4,649.8,186.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 638.2529 139.8623)" class="st5 st9">2BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_3bd">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="585.8,179.4 618.8,179.4 638.8,86.4 598.8,86.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 601.2529 136.8623)" class="st5 st9">3BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_4ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M769.8,89.4l17-29c0,0-32-16-63-23l-9,30C714.8,67.4,753.8,76.4,769.8,89.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 740.2529 64.8623)" class="st5 st9">4AD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_4as">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M709.8,66.4l9-30c0,0-12-3-35-5l-7,30C676.8,61.4,695.8,61.4,709.8,66.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 688.2529 51.8623)" class="st5 st9">4AS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_4bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M756.8,113.4l10-18c0,0-24-15-55-22l-6,17C705.8,90.4,732.8,99.4,756.8,113.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 724.2529 93.8623)" class="st5 st9">4BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_4bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M701.8,89.4l6-16c0,0-9-3-31-7l-5,17C671.8,83.4,688.8,85.4,701.8,89.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 680.2529 81.8623)" class="st5 st9">4BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_5ad">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="st8" points="671.8,60.4 677.8,31.4 639.8,31.4 635.8,58.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 647.2529 48.8623)" class="st5 st9">5AD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_5al">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="block st8" points="593.8,58.4 596.8,31.4 571.8,31.4 567.8,58.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.080045e-02 1.080045e-02 0.9999 574.2568 48.7012)" class="st5 st13">5AL</text>
+    </g>
+    <g data-section="tribuna-monte-mario_5as">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="st8" points="630.8,58.4 634.8,31.4 601.8,31.4 597.8,58.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 607.2529 48.8623)" class="st5 st9">5AS</text>
+    </g>
+    <g data-section="tribuna-monte-mario_5bd">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="671.8,66.4 666.8,81.4 631.8,80.4 634.8,63.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 641.2529 76.8623)" class="st5 st9">5BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario_5sd">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="560.8,48.4 525.8,48.4 525.8,28.4 563.8,28.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.080045e-02 1.080045e-02 0.9999 535.2566 41.7011)" class="st5 st13">5SD</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="tribuna-monte-mario-top">
+    <g data-section="tribuna-monte-mario-top_10bd">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="426.8,179.4 394.8,179.4 382.8,84.5 412.8,83.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.260000e-02 1.260000e-02 0.9999 392.3741 134.2961)" class="st5 st9">10BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_12bd">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="349.8,78.4 346.8,61 378.8,61 381.8,78.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 1.679931e-02 -1.679931e-02 0.9999 352.3033 74.0229)" class="st5 st14">12BD</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_12bl">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="386.8,78.4 383.8,61 410.8,61 412.8,78.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 6.850000e-03 -6.850000e-03 1 388.2305 72.8765)" class="st5 st9">12BL</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_1927">
+      <rect xmlns="http://www.w3.org/2000/svg" x="449.3" y="144.9" class="blank st8" width="79.5" height="34.5"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 479.3447 166.1064)" class="st5 st9">1927</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_3bs">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="550.8,179.4 580.8,178.9 592.8,86.4 562.8,85.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.080045e-02 1.080045e-02 0.9999 562.257 137.7012)" class="st5 st13">3BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_5bl">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="589.8,80.4 592.8,63.4 565.8,63.4 563.8,80.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.080045e-02 1.080045e-02 0.9999 569.2567 75.7011)" class="st5 st13">5BL</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_5bs">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="626.8,80.4 629.8,63.4 597.8,63.4 594.8,80.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 603.2529 75.8623)" class="st5 st9">5BS</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_onore">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="st8" points="545.8,179.4 533.8,179.4 533.8,139.4 444.8,139.4 444.8,179.4 431.8,179.4 422.8,110.4 552.8,110.4       "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -9.800000e-04 9.800000e-04 1 472.3527 129.3187)" class="st5 st9">ONORE</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_palchi">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="553.8,104.4 555.8,85.4 418.8,85.4 422.8,104.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -9.800000e-04 9.800000e-04 1 474.3527 99.3187)" class="st5 st9">PALCHI</text>
+    </g>
+    <g data-section="tribuna-monte-mario-top_stampa">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="556.8,79.4 558.8,61.4 510.8,61.4 510.8,28.4 469.8,28.4 469.8,60.4 414.8,60.4 417.8,79.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9999 -1.080045e-02 1.080045e-02 0.9999 475.2564 73.7011)" class="st5 st13">STAMPA</text>
+    </g>
+  </g>
+  <g class="block-category" data-category="tribuna-tevere">
+    <g data-section="tribuna-tevere_27bc">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M327.8,554.4c0,0-24,1-40-4v-22c0,0,18,4,40,5V554.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 296.2529 545.8623)" class="st5 st9">27BC</text>
+    </g>
+    <g data-section="tribuna-tevere_27bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M280.8,549.4c0,0-24-10-36-19l4-25c0,0,14,15,33,21L280.8,549.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 251.2529 532.8623)" class="st5 st9">27BD</text>
+    </g>
+    <g data-section="tribuna-tevere_29ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="379.8" y="587.4" class="blank st8" width="22" height="61"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0 1 -1 0 387.2529 606.8623)" class="st5 st9">29AD</text>
+    </g>
+    <g data-section="tribuna-tevere_29as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="408.8" y="587.4" class="blank st8" width="36" height="61"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 414.2529 622.8623)" class="st5 st9">29AS</text>
+    </g>
+    <g data-section="tribuna-tevere_30as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="378.8" y="558.4" class="blank st8" width="53" height="24"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 393.2529 573.8623)" class="st5 st9">30AS</text>
+    </g>
+    <g data-section="tribuna-tevere_30bd">
+      <rect xmlns="http://www.w3.org/2000/svg" x="378.8" y="533.4" class="blank st8" width="39" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 386.2529 546.8623)" class="st5 st9">30BD</text>
+    </g>
+    <g data-section="tribuna-tevere_30bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="423.8" y="533.4" class="blank st8" width="40" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 431.2529 546.8623)" class="st5 st9">30BS</text>
+    </g>
+    <g data-section="tribuna-tevere_33ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="451.8" y="587.4" class="blank st8" width="36" height="61"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 457.2529 622.8623)" class="st5 st9">33AD</text>
+    </g>
+    <g data-section="tribuna-tevere_33as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="494.8" y="587.4" class="blank st8" width="36" height="61"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 501.2529 622.8623)" class="st5 st9">33AS</text>
+    </g>
+    <g data-section="tribuna-tevere_34ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="437.8" y="558.4" class="blank st8" width="49" height="24"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 451.2529 573.8623)" class="st5 st9">34AD</text>
+    </g>
+    <g data-section="tribuna-tevere_34as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="491.8" y="558.4" class="blank st8" width="52" height="24"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 507.2529 573.8623)" class="st5 st9">34AS</text>
+    </g>
+    <g data-section="tribuna-tevere_34bd">
+      <rect xmlns="http://www.w3.org/2000/svg" x="468.8" y="533.4" class="blank st8" width="41" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 477.2529 546.8623)" class="st5 st9">34BD</text>
+    </g>
+    <g data-section="tribuna-tevere_34bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="515.8" y="533.4" class="blank st8" width="43" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 526.2529 547.8623)" class="st5 st9">34BS</text>
+    </g>
+    <g data-section="tribuna-tevere_36ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="536.8" y="587.4" class="blank st8" width="34" height="61"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 542.2529 622.8623)" class="st5 st9">36AD</text>
+    </g>
+    <g data-section="tribuna-tevere_36as">
+      <rect xmlns="http://www.w3.org/2000/svg" x="576.8" y="587.4" class="blank st8" width="22" height="61"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0 1 -1 0 584.2529 605.8623)" class="st5 st9">36AS</text>
+    </g>
+    <g data-section="tribuna-tevere_37ad">
+      <rect xmlns="http://www.w3.org/2000/svg" x="549.8" y="558.4" class="blank st8" width="49" height="24"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 564.2529 573.8623)" class="st5 st9">37AD</text>
+    </g>
+    <g data-section="tribuna-tevere_37as">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M607.8,581.4h43c0,0,6,0,12-2v-22h-55V581.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 622.2529 572.8623)" class="st5 st9">37AS</text>
+    </g>
+    <g data-section="tribuna-tevere_37bd">
+      <rect xmlns="http://www.w3.org/2000/svg" x="563.8" y="533.4" class="st8" width="36" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 570.2529 546.8623)" class="st5 st9">37BD</text>
+    </g>
+    <g data-section="tribuna-tevere_37bs">
+      <rect xmlns="http://www.w3.org/2000/svg" x="607.8" y="532.4" class="blank st8" width="38" height="20"></rect>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 614.2529 545.8623)" class="st5 st9">37BS</text>
+    </g>
+    <g data-section="tribuna-tevere_38ad">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="611.8,648.4 657.8,648.4 654.8,603.4 638.8,603.4 638.8,586.4 612.8,586.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 622.2529 623.8623)" class="st5 st9">38AD</text>
+    </g>
+    <g data-section="tribuna-tevere_38as">
+      <polygon xmlns="http://www.w3.org/2000/svg" class="blank st8" points="643.8,597.4 666.8,595.4 664.8,584.4 643.8,586.4   "></polygon>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9923 -0.1242 0.1242 0.9923 645.8994 594.6143)" class="st5 st16">38AS</text>
+    </g>
+    <g data-section="tribuna-tevere_40ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M668.8,578.4c0,0,26-2,39-10v-19c0,0-17,7-39,8V578.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 675.2529 567.8623)" class="st5 st9">40AD</text>
+    </g>
+    <g data-section="tribuna-tevere_40as">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M712.8,567.4c0,0,15-4,26-10l-3-23c0,0-12,8-23,12V567.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9951 -9.850363e-02 9.850363e-02 0.9951 714.7131 556.2838)" class="st5 st10">40AS</text>
+    </g>
+    <g data-section="tribuna-tevere_40bd">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M651.8,553.4c0,0,24,1,40-4v-22c0,0-18,4-40,5V553.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 659.2529 545.8623)" class="st5 st9">40BD</text>
+    </g>
+    <g data-section="tribuna-tevere_40bs">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M698.8,548.4c0,0,24-10,36-19l-4-25c0,0-14,15-33,21L698.8,548.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 703.2529 531.8623)" class="st5 st9">40BS</text>
+    </g>
+    <g data-section="tribuna-tevere_42ad">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M663.8,647.4c0,0,25,1,56-7l-6-46l-17,3l-4-18c0,0-10,2-22,4l2,19l-12,1L663.8,647.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 678.2529 619.8623)" class="st5 st9">42AD</text>
+    </g>
+    <g data-section="tribuna-tevere_42al">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M725.8,639.4c0,0,11-2,23-7l-9-71c0,0-11,5-13,6l1,23l-9,2L725.8,639.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.1425 0.9898 -0.9898 0.1425 727.8717 598.587)" class="st5 st9">42AL</text>
+    </g>
+    <g data-section="tribuna-tevere_42as">
+      <path xmlns="http://www.w3.org/2000/svg" class="blank st8" d="M700.8,591.4c0,0,11-1,22-6v-16c0,0-12,5-25,7L700.8,591.4z"></path>
+      <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 699.2529 584.8623)" class="st5 st11">42AS</text>
+    </g>
+  </g>
+</svg>

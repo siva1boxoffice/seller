@@ -1,0 +1,351 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" class="svg-stadium" viewBox="0 0 1207 909" style="enable-background:new 0 0 1207 909;" xml:space="preserve">
+    <style type="text/css">
+        .st0{display:none;fill:#FFFFFF;}
+        .st1{display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+        .st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+        .st3{font-family:'DMSans-Medium';}
+        .st4{font-size:10px;}
+        .st5{fill:#080B19;}
+        .st6{font-family:'DMSans-Bold';}
+        .st7{font-size:15px;}
+        .st8{fill:#FFFFFF;}
+        .st9{font-size:14px;}
+        .st10{fill:#599D52;}
+        .st11{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+        .st12{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+    </style>
+
+    <g class="field">
+        <g>
+            <rect x="272.1" y="230.6" class="st10" width="696" height="459"/>
+            <circle class="st11" cx="624.5" cy="446.5" r="70.5"/>
+            <line class="st12" x1="623.5" y1="248.8" x2="623.5" y2="670.7"/>
+            <rect x="298.9" y="248.8" class="st12" width="643.1" height="421.9"/>
+            <rect x="298.9" y="317.4" class="st11" width="99.1" height="301.9"/>
+            <rect x="298.9" y="398.1" class="st11" width="36.3" height="140.6"/>
+            <path class="st11" d="M398,527.2c0,0,44.5-56.4-0.3-109.8"/>
+            <rect x="282.8" y="441.4" class="st11" width="16.1" height="47.3"/>
+            <g>
+                <rect x="843.1" y="317.4" class="st11" width="99.1" height="301.9"/>
+                <rect x="906" y="398.1" class="st11" width="36.3" height="140.6"/>
+                <path class="st11" d="M843.4,417.3c-44.8,53.4-0.3,109.8-0.3,109.8"/>
+                <rect x="942.2" y="441.4" class="st11" width="16.1" height="47.3"/>
+            </g>
+            <path class="st11" d="M298.9,264.7c0,0,14.6-1.7,15.9-15.9"/>
+            <path class="st11" d="M312.4,670.7c0,0,0.4-14.7-13.5-18"/>
+            <path class="st11" d="M927,248.8c0,0,0.8,14.7,15,16.8"/>
+            <path class="st11" d="M942.3,653.7c0,0-14.5,2.7-14.8,17"/>
+        </g>
+        <g data-stand="the-peter-taylor-stand">
+            <text transform="matrix(1 0 0 1 534 903)" class="st5 st6 st7">THE PETER TAYLOR STAND</text>
+        </g>
+        <g data-stand="trent-end">
+            <text transform="matrix(-2.400000e-02 -0.9997 0.9997 -2.400000e-02 17.0279 509.6845)" class="st5 st6 st7">TRENT END</text>
+        </g>
+        <g data-stand="the-brian-clogh-stand">
+            <text transform="matrix(1 0 0 1 538 15)" class="st5 st6 st7">THE BRIAN CLOUGH STAND</text>
+        </g>
+        <g data-stand="bridgeford-stand">
+            <text transform="matrix(-4.900000e-04 1 -1 -4.900000e-04 1193.0208 349.8594)" class="st5 st6 st7">BRIDGEFORD STAND</text>
+        </g>
+    </g>
+
+    <g data-category="longside-lower-tier">
+        <g data-section="longside-lower-tier_f1">
+            <rect x="271" y="728" class="block st2" width="59.8" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 297.0102 761.7733)" class="st3 st4">F1</text>
+        </g>
+        <g data-section="longside-lower-tier_rr1">
+            <rect x="336" y="728" class="block st2" width="56.7" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 356.0102 761.7733)" class="st3 st4">RR1</text>
+        </g>
+        <g data-section="longside-lower-tier_rr2">
+            <rect x="398.7" y="728" class="block st2" width="64.3" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 419.0102 760.7733)" class="st3 st4">RR2</text>
+        </g>
+        <g data-section="longside-lower-tier_rr3">
+            <rect x="469" y="728" class="block st2" width="65" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 490.0102 760.7733)" class="st3 st4">RR3</text>
+        </g>
+        <g data-section="longside-lower-tier_d1">
+            <rect x="539.2" y="728" class="block st2" width="43.2" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 554.0102 761.7733)" class="st3 st4">D1</text>
+        </g>
+        <g data-section="longside-lower-tier_d2">
+            <rect x="588" y="728" class="block st2" width="42" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 602.0102 760.7733)" class="st3 st4">D2</text>
+        </g>
+        <g data-section="longside-lower-tier_c1">
+            <rect x="636" y="728" class="block st2" width="41.4" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 649.0102 761.7733)" class="st3 st4">C1</text>
+        </g>
+        <g data-section="longside-lower-tier_c2">
+            <rect x="682.8" y="728" class="block st2" width="53.6" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 700.0102 760.7733)" class="st3 st4">C2</text>
+        </g>
+        <g data-section="longside-lower-tier_b1">
+            <rect x="741.6" y="728" class="block st2" width="50.5" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 760.0103 760.7733)" class="st3 st4">B1</text>
+        </g>
+        <g data-section="longside-lower-tier_b2">
+            <rect x="797.6" y="728" class="block st2" width="52.4" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 817.0103 760.7733)" class="st3 st4">B2</text>
+        </g>
+        <g data-section="longside-lower-tier_a1">
+            <rect x="855.5" y="728" class="block st2" width="52.9" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 874.0103 760.7733)" class="st3 st4">A1</text>
+        </g>
+        <g data-section="longside-lower-tier_a2">
+            <rect x="913.8" y="728" class="block st2" width="53.2" height="54"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 933.0101 760.7733)" class="st3 st4">A2</text>
+        </g>
+        <g data-section="longside-lower-tier_q">
+            <rect x="273.1" y="128.8" class="block st2" width="78.3" height="72.2"/>
+            <text transform="matrix(1 0 0 1 308 169)" class="st3 st4">Q</text>
+        </g>
+        <g data-section="longside-lower-tier_q">
+            <rect x="356" y="128.8" class="block st2" width="81.8" height="72.2"/>
+            <text transform="matrix(1 0 0 1 390 168)" class="st3 st4">Q</text>
+        </g>
+        <g data-section="longside-lower-tier_r">
+            <rect x="443.3" y="128.8" class="block st2" width="86.8" height="72.2"/>
+            <text transform="matrix(1 0 0 1 480 167)" class="st3 st4">R</text>
+        </g>
+        <g data-section="longside-lower-tier_r">
+            <rect x="535.8" y="128.8" class="block st2" width="80.2" height="72.2"/>
+            <text transform="matrix(1 0 0 1 571 167)" class="st3 st4">R</text>
+        </g>
+        <g data-section="longside-lower-tier_s">
+            <rect x="621.7" y="128.8" class="block st2" width="80.7" height="72.2"/>
+            <text transform="matrix(1 0 0 1 656 169)" class="st3 st4">S</text>
+        </g>
+        <g data-section="longside-lower-tier_s">
+            <rect x="708.3" y="128.8" class="block st2" width="81.9" height="72.2"/>
+            <text transform="matrix(1 0 0 1 746 169)" class="st3 st4">S</text>
+        </g>
+        <g data-section="longside-lower-tier_t">
+            <rect x="795.9" y="128.8" class="block st2" width="81.6" height="72.2"/>
+            <text transform="matrix(1 0 0 1 832 169)" class="st3 st4">T</text>
+        </g>
+        <g data-section="longside-lower-tier_t">
+            <rect x="882.9" y="128.8" class="block st2" width="85.1" height="72.2"/>
+            <text transform="matrix(1 0 0 1 920 169)" class="st3 st4">T</text>
+        </g>
+    </g>
+
+    <g data-category="longside-upper-tier">
+        <g data-section="longside-upper-tier_f2">
+            <rect x="271" y="792" class="block st2" width="62" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 295.0102 836.7733)" class="st3 st4">F2</text>
+        </g>
+        <g data-section="longside-upper-tier_f3">
+            <rect x="339" y="792" class="block st2" width="59" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 359.0102 836.7733)" class="st3 st4">F3</text>
+        </g>
+        <g data-section="longside-upper-tier_e1">
+            <rect x="403" y="792" class="block st2" width="58" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 423.0102 836.7733)" class="st3 st4">E1</text>
+        </g>
+        <g data-section="longside-upper-tier_e2">
+            <rect x="467" y="791" class="block st2" width="46.6" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 484.0102 836.7733)" class="st3 st4">E2</text>
+        </g>
+        <g data-section="longside-upper-tier_d3">
+            <rect x="518.9" y="791" class="block st2" width="46.9" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 534.0102 836.7733)" class="st3 st4">D3</text>
+        </g>
+        <g data-section="longside-upper-tier_d4">
+            <polygon class="block st2" points="571,792 571,876 641.4,876 641.4,820 597.6,820 597.6,792 "/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 597.0102 847.7733)" class="st3 st4">D4</text>
+        </g>
+        <g data-section="longside-upper-tier_c3">
+            <rect x="647" y="829" class="block st2" width="54.8" height="47"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 667.0102 855.7733)" class="st3 st4">C3</text>
+        </g>
+        <g data-section="longside-upper-tier_c4">
+            <polygon class="block st2" points="750.7,819 750.7,876 706.2,876 706.2,829 722,829 722,819 "/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 720.0102 854.7733)" class="st3 st4">C4</text>
+        </g>
+        <g data-section="longside-upper-tier_b3">
+            <rect x="756.4" y="791" class="block st2" width="48.6" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 772.0103 837.7733)" class="st3 st4">B3</text>
+        </g>
+        <g data-section="longside-upper-tier_b4">
+            <rect x="810.6" y="791" class="block st2" width="49" height="85"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 826.0103 836.7733)" class="st3 st4">B4</text>
+        </g>
+        <g data-section="longside-upper-tier_a3">
+            <rect x="864.3" y="791" class="block st2" width="49.2" height="84"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 881.0103 836.7733)" class="st3 st4">A3</text>
+        </g>
+        <g data-section="longside-upper-tier_a4">
+            <rect x="918.6" y="791" class="block st2" width="49.4" height="84"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 934.0101 837.7733)" class="st3 st4">A4</text>
+        </g>
+        <g data-section="longside-upper-tier_g">
+            <rect x="273.1" y="30" class="block st2" width="40.2" height="73"/>
+            <text transform="matrix(1 0 0 1 289 71)" class="st3 st4">G</text>
+        </g>
+        <g data-section="longside-upper-tier_g">
+            <rect x="318.8" y="30" class="block st2" width="65.3" height="73"/>
+            <text transform="matrix(1 0 0 1 345 71)" class="st3 st4">G</text>
+        </g>
+        <g data-section="longside-upper-tier_h">
+            <rect x="388.4" y="30" class="block st2" width="68.8" height="73"/>
+            <text transform="matrix(1 0 0 1 419 71)" class="st3 st4">H</text>
+        </g>
+        <g data-section="longside-upper-tier_j">
+            <rect x="462.8" y="30" class="block st2" width="68.7" height="73"/>
+            <text transform="matrix(1 0 0 1 493 72)" class="st3 st4">J</text>
+        </g>
+        <g data-section="longside-upper-tier_k">
+            <rect x="536.6" y="30" class="block st2" width="68.8" height="73"/>
+            <text transform="matrix(1 0 0 1 566 72)" class="st3 st4">K</text>
+        </g>
+        <g data-section="longside-upper-tier_l">
+            <rect x="610.5" y="30" class="block st2" width="67.7" height="73"/>
+            <text transform="matrix(1 0 0 1 639 72)" class="st3 st4">L</text>
+        </g>
+        <g data-section="longside-upper-tier_m">
+            <rect x="683.6" y="30" class="block st2" width="75.4" height="73"/>
+            <text transform="matrix(1 0 0 1 714 72)" class="st3 st4">M</text>
+        </g>
+        <g data-section="longside-upper-tier_n">
+            <rect x="764.8" y="30" class="block st2" width="75.7" height="73"/>
+            <text transform="matrix(1 0 0 1 801 71)" class="st3 st4">N</text>
+        </g>
+        <g data-section="longside-upper-tier_p">
+            <rect x="846.3" y="30" class="block st2" width="75.6" height="73"/>
+            <text transform="matrix(1 0 0 1 883 71)" class="st3 st4">P</text>
+        </g>
+        <g data-section="longside-upper-tier_p">
+            <rect x="927.3" y="30" class="block st2" width="40.7" height="73"/>
+            <text transform="matrix(1 0 0 1 944 72)" class="st3 st4">P</text>
+        </g>
+    </g>
+
+    <g data-category="away-fan-section">
+        <g data-section="away-fan-section_w">
+            <path class="block st2" d="M1002,138c0,0,100,7,111,126.7h-110c0,0,15-24.1-1-46.3V138z"/>
+            <text transform="matrix(1 0 0 1 1044 218)" class="st3 st4">W</text>
+        </g>
+        <g data-section="away-fan-section_x1">
+            <rect x="1006" y="270.2" class="block st2" width="101.8" height="94.4"/>
+            <text transform="matrix(1 0 0 1 1050 322)" class="st3 st4">X1</text>
+        </g>
+        <g data-section="away-fan-section_x2">
+            <rect x="1006" y="370.4" class="block st2" width="101.8" height="93.6"/>
+            <text transform="matrix(1 0 0 1 1053 418)" class="st3 st4">X2</text>
+        </g>
+    </g>
+
+    <g data-category="shortside-lower-tier">
+        <g data-section="shortside-lower-tier_t10">
+            <polygon class="block st2" points="151.2,228.4 151.2,243.9 228.7,243.9 221.3,228.4 "/>
+            <text transform="matrix(1 0 0 1 179.9617 240.1412)" class="st3 st4">T10</text>
+        </g>
+        <g data-section="shortside-lower-tier_t10">
+            <rect x="151.2" y="248.8" class="block st2" width="77.5" height="77"/>
+            <text transform="matrix(1 0 0 1 181.2192 293.0103)" class="st3 st4">T10</text>
+        </g>
+        <g data-section="shortside-lower-tier_t9">
+            <rect x="151.2" y="330.8" class="block st2" width="77.5" height="77"/>
+            <text transform="matrix(1 0 0 1 180.7378 369.8716)" class="st3 st4">T9</text>
+        </g>
+        <g data-section="shortside-lower-tier_t8">
+            <rect x="151.2" y="412.8" class="block st2" width="77.5" height="78.2"/>
+            <text transform="matrix(1 0 0 1 179.8628 454.7329)" class="st3 st4">T8</text>
+        </g>
+        <g data-section="shortside-lower-tier_t7">
+            <rect x="151.2" y="496.6" class="block st2" width="77.5" height="77.2"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 180.1732 536.4119)" class="st3 st4">T7</text>
+        </g>
+        <g data-section="shortside-lower-tier_t6">
+            <rect x="151.2" y="578.7" class="block st2" width="77.5" height="77.5"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 180.6834 619.345)" class="st3 st4">T6</text>
+        </g>
+        <g data-section="shortside-lower-tier_t6">
+            <polygon class="block st2" points="151.2,661.5 228.7,661.5 228.7,675.6 208.5,694.4 151.2,694.4 "/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 179.6832 681.9153)" class="st3 st4">T6</text>
+        </g>
+        <g data-section="shortside-lower-tier_y1">
+            <rect x="1006" y="469.3" class="block st2" width="101.8" height="94.3"/>
+            <text transform="matrix(1 0 0 1 1053 523)" class="st3 st4">Y1</text>
+        </g>
+        <g data-section="shortside-lower-tier_y2">
+            <rect x="1005.4" y="569.7" class="block st2" width="125.6" height="66.3"/>
+            <text transform="matrix(1 0 0 1 1059 608)" class="st3 st4">Y2</text>
+        </g>
+        <g data-section="shortside-lower-tier_z">
+            <path class="block st2" d="M1006,801c0,0,135,33.7,142.1-159.2l-138.8-0.1c0,0,17.9,43-2.3,65.4L1006,801z"/>
+            <text transform="matrix(1 0 0 1 1061 712)" class="st3 st4">Z</text>
+        </g>
+    </g>
+
+    <g data-category="shortside-upper-tier">
+        <g data-section="shortside-upper-tier_t5">
+            <rect x="34.7" y="228.4" class="block st2" width="91.2" height="15.5"/>
+            <text transform="matrix(1 0 0 1 69.8384 241.1412)" class="st3 st4">T5</text>
+        </g>
+        <g data-section="shortside-upper-tier_t5">
+            <rect x="34.4" y="248.8" class="block st2" width="91.5" height="77.6"/>
+            <text transform="matrix(1 0 0 1 71.0959 294.0103)" class="st3 st4">T5</text>
+        </g>
+        <g data-section="shortside-upper-tier_t4">
+            <rect x="34.4" y="331.8" class="block st2" width="91.5" height="74.4"/>
+            <text transform="matrix(1 0 0 1 71.3611 370.8716)" class="st3 st4">T4</text>
+        </g>
+        <g data-section="shortside-upper-tier_t3">
+            <rect x="34.4" y="412.2" class="block st2" width="90.5" height="72.1"/>
+            <text transform="matrix(1 0 0 1 71.3009 451.7329)" class="st3 st4">T3</text>
+        </g>
+        <g data-section="shortside-upper-tier_t2">
+            <rect x="34.4" y="490.1" class="block st2" width="90.5" height="73.4"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 71.3964 532.8097)" class="st3 st4">T2</text>
+        </g>
+        <g data-section="shortside-upper-tier_t1">
+            <rect x="34.4" y="568.9" class="block st2" width="90.5" height="72.5"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 72.5662 609.7428)" class="st3 st4">T1</text>
+        </g>
+        <g data-section="shortside-upper-tier_t1">
+            <rect x="34.4" y="646.9" class="block st2" width="90.5" height="47.5"/>
+            <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 72.5663 675.1687)" class="st3 st4">T1</text>
+        </g>
+        <g data-section="shortside-upper-tier_u1">
+            <path class="block st2" d="M1002,88v43c0,0,35,3,75,37l30-26C1107,142,1072,99,1002,88z"/>
+            <text transform="matrix(1 0 0 1 1044 133)" class="st3 st4">U1</text>
+        </g>
+        <g data-section="shortside-upper-tier_u2">
+            <path class="block st2" d="M1082.1,173.4L1115,146c0,0,42.5,48.3,46.5,119.3l-43.6-0.6C1117.9,264.7,1115.7,210.4,1082.1,173.4z"/>
+            <text transform="matrix(1 0 0 1 1121 218)" class="st3 st4">U2</text>
+        </g>
+        <g data-section="shortside-upper-tier_v1">
+            <rect x="1113" y="270.2" class="block st2" width="51" height="94.4"/>
+            <text transform="matrix(1 0 0 1 1129 322)" class="st3 st4">V1</text>
+        </g>
+        <g data-section="shortside-upper-tier_v1">
+            <rect x="1112.7" y="369.9" class="block st2" width="51.3" height="94.1"/>
+            <text transform="matrix(1 0 0 1 1129 418)" class="st3 st4">V1</text>
+        </g>
+        <g data-section="shortside-upper-tier_v2">
+            <polygon class="block st2" points="1113,469.3 1176,469.3 1176,516.4 1156,563.6 1113,563.6 "/>
+            <text transform="matrix(1 0 0 1 1133 523)" class="st3 st4">V2</text>
+        </g>
+    </g>
+
+    <g data-category="vip-packages">
+        <g data-section="vip-packages_executive-boxes">
+            <rect x="273.1" y="108" class="block st2" width="694.9" height="16" data-seat="vip-packages"/>
+            <text transform="matrix(1 0 0 1 576 120)" class="st3 st4">EXECUTIVE BOXES</text>
+        </g>
+        <g data-section="vip-packages_legends-lounge">
+            <rect x="130" y="228.4" class="block st2" width="15.4" height="466" data-seat="vip-packages"/>
+            <text transform="matrix(1.340000e-02 -0.9999 0.9999 1.340000e-02 141.0555 501.1335)" class="st3 st4">LEGENDS LOUNGE</text>
+        </g>
+    </g>
+
+    <g>
+        <polygon class="block st2" points="602,792 602,813 645.8,813 645.8,823 716.2,823 716.2,815 751.3,815 751.3,792 "/>
+    </g>
+
+</svg>

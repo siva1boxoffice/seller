@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" class="svg-stadium" viewBox="0 0 794.5 726.2" style="enable-background:new 0 0 794.5 726.2;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#589D51;}
+		.st1{fill:#488544;}
+		.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+		.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+		.st4{fill:#112638;}
+		.st5{font-family:'DMSans-Bold';}
+		.st6{font-size:15px;}
+		.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+		.st8{font-family:'DMSans-Medium';}
+		.st9{font-size:10px;}
+		.st10{fill:#EEEEEE;stroke:#000000;stroke-miterlimit:10;}
+	</style>
+
+	<g class="field">
+		<rect x="204.1" y="234.1" class="st0" width="391" height="257.9"/>
+		<rect x="390.8" y="244.5" class="st1" width="21.3" height="237"/>
+		<rect x="434.2" y="244.5" class="st1" width="21.3" height="236.8"/>
+		<rect x="477.1" y="243.9" class="st1" width="21.3" height="237"/>
+		<rect x="520.6" y="243.2" class="st1" width="21.3" height="237"/>
+		<rect x="560.2" y="242.8" class="st1" width="19.1" height="237"/>
+		<rect x="218.6" y="244.3" class="st1" width="21.4" height="237"/>
+		<rect x="348.1" y="244.5" class="st1" width="21.4" height="237"/>
+		<rect x="261.8" y="244.3" class="st1" width="21.4" height="237"/>
+		<rect x="305" y="243.9" class="st1" width="21.4" height="237"/>
+		<rect x="219.1" y="244.3" class="st2" width="361.3" height="237"/>
+		<rect x="219.1" y="282.8" class="st3" width="55.7" height="169.6"/>
+		<rect x="219.1" y="328.2" class="st3" width="20.4" height="79"/>
+		<path class="st3" d="M274.8,400.7c0,0,25-31.7-0.2-61.7"/>
+		<rect x="210.1" y="352.5" class="st3" width="9" height="26.6"/>
+		<g>
+			<rect x="524.9" y="282.8" class="st3" width="55.7" height="169.6"/>
+			<rect x="560.2" y="328.2" class="st3" width="20.4" height="79"/>
+			<path class="st3" d="M525,339c-25.2,30-0.2,61.7-0.2,61.7"/>
+			<rect x="580.5" y="352.5" class="st3" width="9" height="26.6"/>
+		</g>
+		<path class="st3" d="M219.1,253.2c0,0,8.2-1,8.9-8.9"/>
+		<path class="st3" d="M226.7,481.3c0,0,0.2-8.3-7.6-10.1"/>
+		<path class="st3" d="M572,244.3c0,0,0.5,8.3,8.4,9.4"/>
+		<circle id="white_circle" class="st3" cx="400.9" cy="359.9" r="39.6"/>
+		<path class="st3" d="M580.6,471.8c0,0-8.2,1.5-8.3,9.5"/>
+		<line class="st2" x1="400.4" y1="244.5" x2="400.4" y2="481.5"/>
+
+		<g data-stand="karcher">
+			<text transform="matrix(1 0 0 1 328.0642 16.3544)" class="st4 st5 st6 data-label">KARCHER TRIBUNE</text>
+		</g>
+
+		<g data-stand="gastebereich">
+			<text transform="matrix(0.7422 0.6702 -0.6702 0.7422 659.368 50.0524)" class="st4 st5 st6 data-label">GASTEBEREICH</text>
+		</g>
+
+		<g data-stand="untertürkheimer-kurve-sitzplätze">
+			<text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 779.0641 261.3545)" class="st4 st5 st6 data-label">UNTERTKURKHEIMER KURVE</text>
+		</g>
+
+		<g data-stand="haupttribüne">
+			<text transform="matrix(1 0 0 1 337.0642 722.3544)" class="st4 st5 st6 data-label">haupttribüne</text>
+		</g>
+
+		<g data-stand="cannstatter-kurve">
+			<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 17.0642 430.3544)" class="st4 st5 st6 data-label">CANNSTATTER KURVE</text>
+		</g>
+	</g>
+
+	<g data-category="kärcher-tribüne">
+		<g data-section="kärcher-tribüne_51">
+			<path class="block st7" d="M287.6,73.1c0,0-54.4-1.2-67.4,4.7v133.6h67.4V73.1z" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 250.0642 141.3544)" class="st8 st9 section-label">51</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_52">
+			<rect x="291.6" y="72.5" class="block st7" width="65" height="139.3" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 318.0642 142.3544)" class="st8 st9 section-label">52</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_53">
+			<rect x="361.1" y="95.7" class="block st7" width="70.5" height="116.1" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 389.0642 141.3544)" class="st8 st9 section-label">53</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_54">
+			<rect x="435.3" y="72.5" class="block st7" width="65.2" height="139.3" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 461.0642 142.3544)" class="st8 st9 section-label">54</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_55">
+			<path class="block st7" d="M505.6,73.1c0,0,54.4-1.2,67.4,4.7v134.5h-67.4V73.1z" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 533.0641 142.3544)" class="st8 st9 section-label">55</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_56">
+			<path class="block st7" d="M287.6,28.2c0,0-37.8-2.4-67.4,8.3V72c0,0,28.4-3.6,67.4-4.7V28.2z" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 250.0642 52.3544)" class="st8 st9 section-label">56</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_57">
+			<rect x="292.1" y="28.2" class="block st7" width="64.2" height="39" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 318.0642 50.3544)" class="st8 st9 section-label">57</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_58">
+			<rect x="361.5" y="28.2" class="block st7" width="70" height="38.7" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 391.0642 50.3544)" class="st8 st9 section-label">58</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_59">
+			<rect x="435.6" y="28.2" class="block st7" width="65.5" height="39" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 463.0642 50.3544)" class="st8 st9 section-label">59</text>
+		</g>
+
+		<g data-section="kärcher-tribüne_60">
+			<path class="block st7" d="M505.6,28.2c0,0,37.8-2.4,67.4,8.3V72c0,0-28.4-3.6-67.4-4.7V28.2z" data-seat="kärcher-tribüne" />
+			<text transform="matrix(1 0 0 1 533.0641 52.3544)" class="st8 st9 section-label">60</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="untertürkheimer-kurve-sitzplätze">
+		<g data-section="untertürkheimer-kurve-sitzplätze_71">
+			<path class="block st7" d="M606.7,220.9l86.3-39c0,0,15.4,27.2,14.2,72.1H606.7V220.9z" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 655.0641 228.3544)" class="st8 st9 section-label">71</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_72">
+
+			<polygon class="block st7" points="606.7,258.7 707.2,258.7 707.2,281.2 689.4,281.2 689.4,328.4 606.7,328.4" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 644.0641 293.3544)" class="st8 st9 section-label">72</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_73">
+			<rect x="606.7" y="334.4" class="block st7" width="82.7" height="72.1" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 644.0641 371.3544)" class="st8 st9 section-label">73</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_74">
+			<polygon class="block st7" points="606.7,410 689.4,410 689.4,454.9 707.2,454.9 707.2,479.7 606.7,475" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 648.0641 444.3544)" class="st8 st9 section-label">74</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_75">
+			<polygon class="block st7" points="606.7,479.7 707.2,484.5 703.6,542.4 650.4,530.6 606.7,493.9" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 661.0641 508.3544)" class="st8 st9 section-label">75</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_76">
+			<path class="block st7" d="M663.4,537.7l39,9.5c0,0-5.9,33.1-22.5,48.5l13,27.2l-5.9,3.5l-35.4-68.6L663.4,537.7z" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 670.0641 564.3544)" class="st8 st9 section-label">76</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_77">
+			<path class="block st7" d="M705.6,195.9l41.8-9.3c0,0,10.6,20.1,16.5,67.4h-49.6C714.3,254,712.6,222.9,705.6,195.9z" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 729.0641 225.3544)" class="st8 st9 section-label">77</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_78">
+			<rect x="714.3" y="258.7" class="block st7" width="49.6" height="69.7" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 733.0641 296.3544)" class="st8 st9 section-label">78</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_79">
+			<rect x="714.3" y="334.4" class="block st7" width="49.6" height="69.7" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 734.0641 370.3544)" class="st8 st9 section-label">79</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_80">
+			<rect x="714.3" y="410" class="block st7" width="49.6" height="69.7" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 733.0641 444.3544)" class="st8 st9 section-label">80</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_81">
+			<polygon class="block st7" points="713.1,484.5 765.1,484.5 765.6,554.9 711.6,542.9" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 734.0641 519.3544)" class="st8 st9 section-label">81</text>
+		</g>
+
+		<g data-section="untertürkheimer-kurve-sitzplätze_82">
+			<path class="block st7" d="M708.6,548.9l56.5,13.6c0,0-1.2,57.9-44.9,87.5l-33.6-54.1C686.6,595.9,701.6,575.9,708.6,548.9z" data-seat="untertürkheimer-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 722.0641 594.3544)" class="st8 st9 section-label">82</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="haupttribüne">
+		<g data-section="haupttribüne_2">
+			<path class="block st7" d="M622.1,580.2c0,0,7.1-1.2,27.2-17.7l33.1,66.2l-8.3,4.7l-13-26l-28.4,7.1L622.1,580.2z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 642.0641 595.3544)" class="st8 st9 section-label">2</text>
+		</g>
+
+		<g data-section="haupttribüne_3">
+			<path class="block st7" d="M579.5,514h17.7l40.2,26l8.3,15.4c0,0-13,20.1-44.9,26h-21.3V514z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 603.0641 550.3544)" class="st8 st9 section-label">3</text>
+		</g>
+
+		<g data-section="haupttribüne_4">
+			<path class="block st7" d="M617.3,583.7c0,0-24.8,3.5-37.8,2.4v28.4h47.3L617.3,583.7z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 598.0641 603.3544)" class="st8 st9 section-label">4</text>
+		</g>
+
+		<g data-section="haupttribüne_5">
+			<rect x="514.5" y="532.9" class="block st7" width="60.3" height="47.3" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 540.0641 558.3544)" class="st8 st9 section-label">5</text>
+		</g>
+
+		<g data-section="haupttribüne_6">
+			<rect x="514.5" y="586.1" class="block st7" width="60.3" height="28.4" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 540.0641 603.3544)" class="st8 st9 section-label">6</text>
+		</g>
+
+		<g data-section="haupttribüne_7">
+			<rect x="476.7" y="532.9" class="block st7" width="33.1" height="30.7" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 491.0642 551.3544)" class="st8 st9 section-label">7</text>
+		</g>
+
+		<g data-section="haupttribüne_8">
+			<rect x="438.9" y="532.9" class="block st7" width="34.3" height="30.7" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 453.0642 551.3544)" class="st8 st9 section-label">8</text>
+		</g>
+
+		<g data-section="haupttribüne_9">
+			<rect x="399.9" y="532.9" class="block st7" width="34.3" height="30.7" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 414.0642 551.3544)" class="st8 st9 section-label">9</text>
+		</g>
+
+		<g data-section="haupttribüne_10">
+			<rect x="362" y="532.9" class="block st7" width="33.1" height="30.7" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 374.0642 551.3544)" class="st8 st9 section-label">10</text>
+		</g>
+
+		<g data-section="haupttribüne_11">
+			<rect x="324.2" y="532.9" class="block st7" width="33.9" height="30.7" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 337.0642 551.3544)" class="st8 st9 section-label">11</text>
+		</g>
+
+		<g data-section="haupttribüne_12">
+			<rect x="285.2" y="532.9" class="block st7" width="34.3" height="30.7" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 297.0642 551.3544)" class="st8 st9 section-label">12</text>
+		</g> 
+
+		<g data-section="haupttribüne_13">
+			<rect x="220.2" y="532.9" class="block st7" width="60.3" height="47.3" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 245.0642 558.3544)" class="st8 st9 section-label">13</text>
+		</g>
+
+		<g data-section="haupttribüne_14">
+			<rect x="220.2" y="586.1" class="block st7" width="60.3" height="28.4" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 245.0642 603.3544)" class="st8 st9 section-label">14</text>
+		</g>
+
+		<g data-section="haupttribüne_15">
+			<path class="block st7" d="M215.5,514h-17.7l-40.2,26l-8.3,15.4c0,0,13,20.1,44.9,26h21.3V514L215.5,514z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 182.0642 551.3544)" class="st8 st9 section-label">15</text>
+		</g>
+		
+		<g data-section="haupttribüne_16">
+			<path class="block st7" d="M177.6,583.7c0,0,24.8,3.5,37.8,2.4v28.4h-47.3L177.6,583.7z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 189.0642 603.3544)" class="st8 st9 section-label">16</text>
+		</g>
+
+		<g data-section="haupttribüne_18">
+			<path class="block st7" d="M172.9,580.2c0,0-7.1-1.2-27.2-17.7l-33.1,66.2l8.3,4.7l13-26l28.4,7.1L172.9,580.2z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 146.0642 593.3544)" class="st8 st9 section-label">18</text>
+		</g>
+
+		<g data-section="haupttribüne_noval">
+			<rect xmlns="http://www.w3.org/2000/svg" x="220.2" y="514" class="block st10" width="60.3" height="13" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval">
+			<rect xmlns="http://www.w3.org/2000/svg" x="285.2" y="514" class="block st10" width="34.3" height="14.2" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval">
+			<rect xmlns="http://www.w3.org/2000/svg" x="324.2" y="514" class="block st10" width="33.9" height="14.2" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval-10">
+			<rect xmlns="http://www.w3.org/2000/svg" x="362" y="514" class="block st10" width="33.5" height="14.2" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval-11">
+			<rect xmlns="http://www.w3.org/2000/svg" x="399.9" y="514" class="block st10" width="34.3" height="14.2" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval-12">
+			<rect xmlns="http://www.w3.org/2000/svg" x="438.9" y="514" class="block st10" width="34.3" height="14.2" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval-13">
+			<rect xmlns="http://www.w3.org/2000/svg" x="476.7" y="514" class="block st10" width="34.3" height="14.2" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_noval-14">
+			<rect xmlns="http://www.w3.org/2000/svg" x="514.5" y="514" class="block st10" width="60.3" height="13.9" data-seat="haupttribüne" />
+		</g>
+
+		<g data-section="haupttribüne_19">
+			<path class="block st7" d="M632.7,619.2c0,0,11.8-1.2,27.2-5.9l24.8,56.7c0,0-26,13-52,17.7V619.2z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 647.0641 652.3544)" class="st8 st9 section-label">19</text>
+		</g>
+
+		<g data-section="haupttribüne_20">
+			<path class="block st7" d="M603.2,618c0,0,15.4,1.2,24.8,0v70.9c0,0-14.2,3.5-24.8,3.5V618z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 611.0641 658.3544)" class="st8 st9 section-label">20</text>
+		</g>
+
+		<g data-section="haupttribüne_21">
+			<polygon class="block st7" points="598.4,618 598.4,692.5 553.5,698.4 553.5,618" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 571.0641 658.3544)" class="st8 st9 section-label">21</text>
+		</g>
+
+		<g data-section="haupttribüne_22">
+			<rect x="507.4" y="633.4" class="block st7" width="40.2" height="66.5" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 521.0641 667.3544)" class="st8 st9 section-label">22</text>
+		</g>
+
+		<g data-section="haupttribüne_23">
+			<rect x="472" y="633.4" class="block st7" width="30.7" height="66.2" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 482.0642 667.3544)" class="st8 st9 section-label">23</text>
+		</g>
+
+		<g data-section="haupttribüne_26">
+			<rect x="293.5" y="633.4" class="block st7" width="30.7" height="66.2" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 303.0642 668.3544)" class="st8 st9 section-label">26</text>
+		</g>
+
+		<g data-section="haupttribüne_27">
+			<polygon class="block st7" points="248.6,698.4 288.6,699.9 288.8,633.4 248.6,633.4" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 263.0642 666.3544)" class="st8 st9 section-label">27</text>
+		</g>
+
+		<g data-section="haupttribüne_28">
+			<polygon class="block st7" points="197.7,618 197.7,692.5 242.7,698.4 242.7,618" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 214.0642 656.3544)" class="st8 st9 section-label">28</text>
+		</g>
+
+		<g data-section="haupttribüne_29">
+			<path class="block st7" d="M193,618c0,0-15.4,1.2-24.8,0v70.9c0,0,14.2,3.5,24.8,3.5V618z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 175.0642 656.3544)" class="st8 st9 section-label">29</text>
+		</g>
+
+		<g data-section="haupttribüne_30">
+			<path class="block st7" d="M163.5,619.2c0,0-11.8-1.2-27.2-5.9L111.5,670c0,0,26,13,52,17.7V619.2z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 138.0642 650.3544)" class="st8 st9 section-label">30</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="cannstatter-kurve-stehplätze">
+		
+		<g data-section="cannstatter-kurve-stehplätze_31">
+			<polygon class="block st7" points="154,538.8 146.9,551.8 136.6,536.9 148.1,532.9" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 142.0642 543.3544)" class="st8 st9 section-label">31</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-stehplätze_32">
+			<polygon class="block st7" points="130.4,481.4 189.5,481.4 189.5,495.4 157.6,527.1 135.1,532.9 131.6,514.9" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 152.0642 504.3545)" class="st8 st9 section-label">32</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-stehplätze_33">
+			<rect x="130.4" y="425.4" class="block st7" width="59.1" height="52" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 152.0642 452.3544)" class="st8 st9 section-label">33</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-stehplätze_34">
+			<rect x="130.4" y="369.8" class="block st7" width="59.1" height="52" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 153.0642 400.3544)" class="st8 st9 section-label">34</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-stehplätze_35">
+			<rect x="130.4" y="314.3" class="block st7" width="59.1" height="52" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 153.0642 343.3544)" class="st8 st9 section-label">35</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-stehplätze_36">
+			<rect x="130.4" y="259.9" class="block st7" width="59.1" height="49.6" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 153.0642 288.3544)" class="st8 st9 section-label">36</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-stehplätze_37">
+			<polygon class="block st7" points="130.4,196.1 189.5,222.1 189.5,256.3 130.4,255.2" data-seat="cannstatter-kurve-stehplätze" />
+			<text transform="matrix(1 0 0 1 155.0642 236.3544)" class="st8 st9 section-label">37</text>
+		</g>
+	</g>
+
+	<g data-category="cannstatter-kurve-sitzplätze">
+		<g data-section="cannstatter-kurve-sitzplätze_31">
+			<path class="block st7" d="M132.7,537.7l-39,9.5c0,0,5.9,33.1,22.5,48.5l-13,27.2l5.9,3.5l35.5-68.5L132.7,537.7z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 115.0642 564.3544)" class="st8 st9 section-label">31</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_32">
+			<path class="block st7" d="M85.5,481.4h39c0,0,2.4,42.7,5.9,51.2l-37.9,9.8C92.5,542.4,85.5,510.7,85.5,481.4z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 101.0642 509.3544)" class="st8 st9 section-label">32</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_33">
+			<rect x="85.5" y="425.4" class="block st7" width="39" height="52" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(0.8253 0 0 1 100.0642 453.3544)" class="st8 st9 section-label">33</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_34">
+			<rect x="85.5" y="369.8" class="block st7" width="39" height="52" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(0.8253 0 0 1 101.0642 400.3544)" class="st8 st9 section-label">34</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_35">
+			<rect x="85.5" y="314.3" class="block st7" width="39" height="52" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 100.0642 343.3544)" class="st8 st9 section-label">35</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_36">
+			<rect x="85.5" y="257.5" class="block st7" width="39" height="53.2" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 100.0642 287.3544)" class="st8 st9 section-label">36</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_37">
+			<path class="block st7" d="M99.6,181.9l24.8,11.8V254H85.5C85.5,254,87.8,202,99.6,181.9z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 100.0642 228.3544)" class="st8 st9 section-label">37</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_38">
+			<path class="block st7" d="M90.2,548.3l-56.6,10.6c0,0-1.3,61.5,42.4,91l33.1-55.5C109.1,594.4,91.4,574.3,90.2,548.3z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 64.0642 593.3544)" class="st8 st9 section-label">38</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_39">
+			<path class="block st7" d="M32.3,480.9h48.5c0,0,3.6,50.8,7.1,62.6L32.3,553L32.3,480.9L32.3,480.9z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 50.0642 517.3544)" class="st8 st9 section-label">39</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_40">
+			<rect x="32.3" y="407.6" class="block st7" width="47.3" height="69.7" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 51.0642 444.3544)" class="st8 st9 section-label">40</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_41">
+			<rect x="32.3" y="332" class="block st7" width="47.3" height="72.1" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 50.0642 369.3544)" class="st8 st9 section-label">41</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_42">
+			<rect x="32.3" y="256.3" class="block st7" width="47.3" height="72.1" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 50.0642 296.3544)" class="st8 st9 section-label">42</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_43">
+			<path class="block st7" d="M47.6,187.8l41.4,9.5c0,0-10.6,35.5-8.3,55.5H32.3C32.3,252.8,38.2,202,47.6,187.8z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 54.0642 224.3544)" class="st8 st9 section-label">43</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_46">
+			<path class="block st7" d="M142.2,121.6c0,0-29.6,28.4-41.4,56.7l60.3,27.2l8.3-11.8l30.7,18.9L142.2,121.6z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 136.0642 170.3544)" class="st8 st9 section-label">46</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_47">
+			<path class="block st7" d="M215.5,79c0,0-36.6,10.6-69.7,40.2l60.3,92.2l9.5,1.2V79H215.5z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 185.0642 141.3544)" class="st8 st9 section-label">47</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_48">
+			<path class="block st7" d="M93.7,114.5c0,0-28.4,33.1-43.7,69.7l40.2,8.3c0,0,10.4-31.6,30.7-55.5L93.7,114.5z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 80.0642 159.3544)" class="st8 st9 section-label">48</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_49">
+			<path class="block st7" d="M142.2,72c0,0-39,27.2-44.9,40.2l26,21.3c0,0,17.7-20.1,37.8-34.3L142.2,72z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 124.0642 105.3544)" class="st8 st9 section-label">49</text>
+		</g>
+
+		<g data-section="cannstatter-kurve-sitzplätze_50">
+			<path class="block st7" d="M215.5,37.7c0,0-59.4,20.4-68.9,32.2l18,26c0,0,24.9-13.3,50.9-22.8V37.7z" data-seat="cannstatter-kurve-sitzplätze" />
+			<text transform="matrix(1 0 0 1 180.0642 71.3544)" class="st8 st9 section-label">50</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="gastbereich---away-fans">
+		<g data-section="gastbereich---away-fans_61-66">
+			<path class="block st7" d="M577.7,79c0,0,36.6,10.6,69.7,40.2l-60.3,92.2l-9.5,1.2L577.7,79L577.7,79z" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 590.0641 135.3544)" class="st8 st9 section-label">61/66</text>
+		</g>
+
+		<g data-section="gastbereich---away-fans_62-67">
+			<path class="block st7" d="M651,121.6c0,0,29.5,28.4,41.4,56.7l-60.3,27.2l-8.3-11.8l-30.7,18.9L651,121.6z" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 639.0641 170.3544)" class="st8 st9 section-label">62/67</text>
+		</g>
+
+		<g data-section="gastbereich---away-fans_63-68">
+			<path class="block st7" d="M577.7,37.7c0,0,57.9,20.1,67.4,31.9l-17.7,27.2c0,0-23.6-14.2-49.6-23.6V37.7H577.7z" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 595.0641 72.3544)" class="st8 st9 section-label">63/68</text>
+		</g>
+
+		<g data-section="gastbereich---away-fans_64-69">
+			<path class="block st7" d="M651,72c0,0,40.7,27.9,46.6,40.9l-27.7,20.5c0,0-17.7-20.1-37.8-34.3L651,72z" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 648.0641 105.3544)" class="st8 st9 section-label">64/69</text>
+		</g>
+
+		<g data-section="gastbereich---away-fans_65-70">
+			<path class="block st7" d="M700.6,116.9c0,0,30.2,27.2,45.6,63.8l-41.4,10.6c0,0-15.4-34.3-32.5-54.4L700.6,116.9z" data-seat="gastbereich---away-fans" />
+			<text transform="matrix(1 0 0 1 695.0641 158.3544)" class="st8 st9 section-label">65/70</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="vip">
+		<g data-section="vip_24">
+			<polygon class="block st7" points="441.2,633.4 467.2,633.4 467.2,699.6 401,699.6 401,658.2 441.2,658.2" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 429.0642 677.3544)" class="st8 st9 section-label">24</text>
+		</g>
+
+		<g data-section="vip_25">
+			<polygon class="block st7" points="354.9,633.4 328.9,633.4 328.9,699.6 395.1,699.6 395.1,658.2 354.9,658.2" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 355.0642 677.3544)" class="st8 st9 section-label">25</text>
+		</g>
+
+		<g data-section="vip_m1">
+			<rect x="401" y="633.4" class="block st7" width="36.6" height="20.1" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 413.0642 647.3544)" class="st8 st9 section-label">M1</text>
+		</g>
+
+		<g data-section="vip_m2">
+			<rect x="358.5" y="633.4" class="block st7" width="36.6" height="20.1" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 370.0642 647.3544)" class="st8 st9 section-label">M2</text>
+		</g>
+
+		<g data-section="vip_noval-1">
+			<rect xmlns="http://www.w3.org/2000/svg" x="285.2" y="571.9" class="block st10" width="34.3" height="30.7" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-2">
+			<rect xmlns="http://www.w3.org/2000/svg" x="324.2" y="571.9" class="block st10" width="33.9" height="30.7" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-3">
+			<rect xmlns="http://www.w3.org/2000/svg" x="362" y="571.9" class="block st10" width="33.1" height="30.7" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-4">
+			<rect xmlns="http://www.w3.org/2000/svg" x="399.9" y="571.9" class="block st10" width="34.3" height="30.7" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-5">
+			<rect xmlns="http://www.w3.org/2000/svg" x="438.9" y="571.9" class="block st10" width="34.3" height="30.7" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-6">
+			<rect xmlns="http://www.w3.org/2000/svg" x="476.7" y="571.9" class="block st10" width="33.1" height="30.7" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-7">
+			<polygon xmlns="http://www.w3.org/2000/svg" class="block st10" points="547.6,619.2 547.6,628.7 248.6,628.7 248.6,618 284,618 284,609.8 509.8,609.8 509.8,619.2" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-8">
+			<rect xmlns="http://www.w3.org/2000/svg" x="361.1" y="73.1" class="block st10" width="70.5" height="16.6" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-10">
+			<rect xmlns="http://www.w3.org/2000/svg" x="694.2" y="287.1" class="block st10" width="13" height="163.1" data-seat="vip" />
+		</g>
+
+		<g data-section="vip_noval-11">
+			<polygon xmlns="http://www.w3.org/2000/svg" class="block st10" points="642.2,538.8 649.3,551.8 658.7,538.8 648.1,532.9" data-seat="vip" />
+		</g>
+	</g>
+</svg>

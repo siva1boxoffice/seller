@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" class="svg-stadium" viewBox="0 0 781.9 616.9" style="enable-background:new 0 0 781.9 616.9;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#589D51;}
+		.st1{fill:#488544;}
+		.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+		.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+		.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+		.st5{font-family:'DMSans-Medium';}
+		.st6{font-size:10px;}
+		.st7{fill:#EEEEEE;stroke:#000000;stroke-miterlimit:10;}
+	</style>
+	<g class="field"> 
+		<rect x="189.3" y="176.3" class="st0" width="402.7" height="265.6"/>
+		<rect x="381.6" y="187" class="st1" width="22" height="244.1"/>
+		<rect x="426.3" y="187" class="st1" width="22" height="243.9"/>
+		<rect x="470.4" y="186.4" class="st1" width="22" height="244.1"/>
+		<rect x="515.2" y="185.7" class="st1" width="22" height="244.1"/>
+		<rect x="556" y="185.3" class="st1" width="19.7" height="244.1"/>
+		<rect x="204.3" y="186.8" class="st1" width="22" height="244.1"/>
+		<rect x="337.6" y="187" class="st1" width="22" height="244.1"/>
+		<rect x="248.8" y="186.8" class="st1" width="22" height="244.1"/>
+		<rect x="293.2" y="186.4" class="st1" width="22" height="244.1"/>
+		<rect x="204.8" y="186.8" class="st2" width="372.1" height="244.1"/>
+		<rect x="204.8" y="226.5" class="st3" width="57.3" height="174.7"/>
+		<rect x="204.8" y="273.2" class="st3" width="21" height="81.3"/>
+		<path class="st3" d="M262.1,347.9c0,0,25.8-32.6-0.2-63.5"/>
+		<rect x="195.5" y="298.2" class="st3" width="9.3" height="27.4"/>
+		<g>
+			<rect x="519.6" y="226.5" class="st3" width="57.3" height="174.7"/>
+			<rect x="556" y="273.2" class="st3" width="21" height="81.3"/>
+			<path class="st3" d="M519.8,284.3c-25.9,30.9-0.2,63.5-0.2,63.5"/>
+			<rect x="577" y="298.2" class="st3" width="9.3" height="27.4"/>
+		</g>
+		<path class="st3" d="M204.8,196c0,0,8.5-1,9.2-9.2"/>
+		<path class="st3" d="M212.6,430.9c0,0,0.2-8.5-7.8-10.4"/>
+		<path class="st3" d="M568.2,186.8c0,0,0.5,8.5,8.7,9.7"/>
+		<circle id="white_circle" class="st3" cx="392" cy="305.8" r="40.8"/>
+		<path class="st3" d="M577,421.1c0,0-8.4,1.6-8.6,9.8"/>
+		<line class="st2" x1="391.4" y1="187" x2="391.4" y2="431.1"/>
+	</g>
+
+	<g class="block-category" data-category="osttribüne-unterrang">
+		<g data-section="osttribüne-unterrang_o1">
+			<polygon class="block st4" points="246.1,107.5 173,107.5 200.4,151.9 246.1,151.9" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 212.5591 132.8215)" class="st5 st6 section-label">O1</text>
+		</g>
+		<g data-section="osttribüne-unterrang_o2">
+			<rect x="248.9" y="107.5" class="block st4" width="69.2" height="44.5" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 276.0297 132.8216)" class="st5 st6 section-label">O2</text>
+		</g>
+		<g data-section="osttribüne-unterrang_o3">
+			<rect x="321.1" y="107.5" class="block st4" width="69.9" height="44.5" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 348.9708 132.8213)" class="st5 st6 section-label">O3</text>
+		</g>
+		<g data-section="osttribüne-unterrang_o4">
+			<rect x="394" y="107.5" class="block st4" width="69.2" height="44.5" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 420.9707 133.7625)" class="st5 st6 section-label">O4</text>
+		</g>
+		<g data-section="osttribüne-unterrang_o5">
+			<rect x="465.8" y="107.5" class="block st4" width="69.9" height="44.5" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 494.1471 133.7623)" class="st5 st6 section-label">O5</text>
+		</g>
+		<g data-section="osttribüne-unterrang_o6">
+			<polygon class="block st4" points="538.1,107.5 611.2,107.5 583.9,151.9 538.1,151.9" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 559.4413 133.7626)" class="st5 st6 section-label">O6</text>
+		</g>
+		<g data-section="osttribüne-unterrang_o7">
+			<polygon class="block st4" points="617.3,110.7 661.8,156.2 612.4,177.4 591.2,155.5" data-seat="osttribüne-unterrang" />
+			<text transform="matrix(1 0 0 1 615.2059 150.9391)" class="st5 st6 section-label">O7</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="osttribüne-oberrang">
+		<g data-section="o11">
+			<polygon class="block st4" points="246.1,3.4 114.1,3.4 159.3,83.1 246.1,83.1" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 184.3826 43.1744)" class="st5 st6 section-label">O11</text>
+		</g>
+		<g data-section="o12">
+			<rect x="249.6" y="3.4" class="block st4" width="68.5" height="79.8" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 275.5591 44.5862)" class="st5 st6 section-label">O12</text>
+		</g>
+		<g data-section="o13">
+			<rect x="321.6" y="3.4" class="block st4" width="68.8" height="79.8" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 347.0297 43.233)" class="st5 st6 section-label">O13</text>
+		</g>
+		<g data-section="o14">
+			<rect x="393.8" y="3.4" class="block st4" width="68.8" height="79.8" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 419.9709 43.5863)" class="st5 st6 section-label">O14</text>
+		</g>
+		<g data-section="o15">
+			<rect x="466.3" y="3.4" class="block st4" width="68.8" height="79.8" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 491.265 43.5862)" class="st5 st6 section-label">O15</text>
+		</g>
+		<g data-section="o16">
+			<polygon class="block st4" points="538.3,3.4 670.3,3.4 625.1,83.1 538.3,83.1" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 579.3239 43.1742)" class="st5 st6 section-label">O16</text>
+		</g>
+		<g data-section="017">
+			<polygon class="block st4" points="676.7,6.6 776,105.5 686.6,144.1 631,87.6" data-seat="osttribüne-oberrang" />
+			<text transform="matrix(1 0 0 1 687.7356 85.88)" class="st5 st6 section-label">O17</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="südtribüne">
+		<g data-section="südtribüne_s">
+			<polygon class="block st4" points="724,138.9 613.4,186.9 613.4,245.5 699.5,245.5 699.3,263.6 779.3,263.6 779.3,202.2 723.7,202.6" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 676.7356 208.7036)" class="st5 st6 section-label">S</text>
+		</g>
+		<g data-section="südtribüne_c">
+			<polygon class="block st4" points="613.4,248.8 696.3,248.8 696.3,267.6 779.3,267.6 779.3,350.4 696.3,350.4 696.3,369 613.4,369" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 676.7944 310.645)" class="st5 st6 section-label">C</text>
+		</g>
+		<g data-section="südtribüne_e">
+			<polygon class="block st4" points="779.3,114.6 727,138.4 727,198.9 779.3,198.9" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 751.2062 168.1153)" class="st5 st6 section-label">E</text>
+		</g>
+		<g data-section="südtribüne_f">
+			<polygon class="block st4" points="722.7,478.5 612.8,433.2 613.7,372.9 699.8,373.2 699.8,353.4 779.8,354.6 778.9,416 723.4,414.7" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 680.5592 413.7038)" class="st5 st6 section-label">F</text>
+		</g>
+		<g data-section="südtribüne_v">
+			<polygon class="block st4" points="778.9,504.1 726.2,479.6 725.9,418.5 778.9,419.3" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 751.2063 456.0567)" class="st5 st6 section-label">V</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="westtribüne-unterrang">
+		<g data-section="westtribüne-unterrang_w1">
+			<polygon class="block st4" points="662.9,462.4 612.1,440.9 593.2,461 619,506.4" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 617.2057 473.6152)" class="st5 st6 section-label">W1</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w2">
+			<polygon class="block st4" points="503.7,466.6 503.7,509.7 609.6,509.7 584.6,466.6" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 540.5587 493.7917)" class="st5 st6 section-label">W2</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w3">
+			<rect x="466.7" y="466.6" class="block st4" width="34.2" height="43.1" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 476.1471 493.792)" class="st5 st6 section-label">W3</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w4">
+			<polygon class="block st4" points="393.8,466.6 463.6,466.6 463.6,509.7 425.6,509.7 425.4,482.1 393.8,482.1" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 437.2063 493.7922)" class="st5 st6 section-label">W4</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w5">
+			<polygon class="block st4" points="390.2,466.6 319.7,466.6 319.7,509.7 354,509.7 354.2,482.1 390.2,482.1" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 330.0298 493.792)" class="st5 st6 section-label">W5</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w6">
+			<rect x="281.7" y="466.6" class="block st4" width="34.7" height="43.1" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 291.8533 493.7922)" class="st5 st6 section-label">W6</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w7">
+			<polygon class="block st4" points="198.8,466.6 173.9,509.7 278.8,509.7 278.8,466.6" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 226.3238 493.7915)" class="st5 st6 section-label">W7</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w11">
+			<polyline class="block st4" points="688.1,473.6 631.9,529.9 677.8,610.6 776.3,512.8 687.2,473.6" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 686.9122 534.6446)" class="st5 st6 section-label">W11</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w12">
+			<polygon class="block st4" points="554.6,534.6 554.6,589.7 577.1,589.7 577.1,613.2 668.2,613.2 623,534.6" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 592.0887 578.2917)" class="st5 st6 section-label">W12</text>
+		</g>
+		<g data-section="westtribüne-unterrang_w17">
+			<polygon class="block st4" points="229.1,534.6 159,534.6 114.1,613.2 205.6,613.2 205.6,589 229.1,588.8" data-seat="westtribüne-unterrang"/>
+			<text transform="matrix(1 0 0 1 173.8532 578.2916)" class="st5 st6 section-label">W17</text>
+		</g>
+	</g>
+
+	<!-- VIP W13- W16 / The 2  Logen boxes / N4, N5 -->
+	<g class="block-category" data-category="vip-club-level">
+		<g data-section="vip-club-level_w13">
+			<rect x="440.4" y="534.6" class="block st4" width="110.3" height="55.1" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 487.9125 567.9388)" class="st5 st6 section-label">W13</text>
+		</g>
+		<g data-section="vip-club-level_w14">
+			<rect x="392.9" y="534.6" class="block st4" width="44.3" height="78.6" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 405.5007 578.2916)" class="st5 st6 section-label">W14</text>
+		</g>
+		<g data-section="vip-club-level_w15">
+			<rect x="343" y="534.6" class="block st4" width="46.6" height="78.6" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 357.1477 578.2917)" class="st5 st6 section-label">W15</text>
+		</g>
+		<g data-section="vip-club-level_w16">
+			<rect x="232.7" y="534.6" class="block st4" width="107.5" height="54.6" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 277.7943 567.9389)" class="st5 st6 section-label">W16</text>
+		</g>
+		<g data-section="vip-club-level_logen">
+			<rect x="209.1" y="592.8" class="block st4" width="131.1" height="20.5" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 256.5595 607.4682)" class="st5 st6 section-label">LOGEN</text>
+		</g>
+		<g data-section="vip-club-level_logen">
+			<rect x="440.4" y="594.2" class="block st4" width="133.4" height="19.1" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 487.9125 607.4682)" class="st5 st6 section-label">LOGEN</text>
+		</g>
+		<g data-section="vip-club-level_n5">
+			<rect x="115.9" y="207.5" class="block st4" width="52.8" height="20.7" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 135.1943 221.7041)" class="st5 st6 section-label">N5</text>
+		</g>
+		<g data-section="vip-club-level_n4">
+			<rect x="115.9" y="231" class="block st4" width="52.8" height="75.7" data-seat="vip-club-level" />
+			<text transform="matrix(1 0 0 1 135.1943 271.4688)" class="st5 st6 section-label">N4</text>
+		</g>
+	</g>
+	<!-- VIP W13- W16 / The 2  Logen boxes / N4, N5 -->
+
+	<g class="block-category" data-category="nordtribüne">
+		<g data-section="nordtribüne_n3">
+			<rect x="115.9" y="309.8" class="block st4" width="52.8" height="77.7" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 135.1944 353.41)" class="st5 st6 section-label">N3</text>
+		</g>
+		<g data-section="nordtribüne_n2">
+			<polygon class="block st4" points="115.9,390.4 168.6,390.4 168.6,432.5 115.9,455.3" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 135.1944 418.2041)" class="st5 st6 section-label">N2</text>
+		</g>
+		<g data-section="nordtribüne_n1">
+			<polygon class="block st4" points="120.3,463.4 171.1,441.9 190,462 164.2,507.4" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 154.5472 473.6157)" class="st5 st6 section-label">N1</text>
+		</g>
+		<g data-section="nordtribüne_n14">
+			<rect x="3.7" y="221.7" class="block st4" width="86.1" height="85" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 38.7944 266.8509)" class="st5 st6 section-label">N14</text>
+		</g>
+		<g data-section="nordtribüne_n13">
+			<rect x="3.7" y="310.5" class="block st4" width="86.1" height="92.1" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 38.5593 358.9686)" class="st5 st6 section-label">N13</text>
+		</g>
+		<g data-section="nordtribüne_n12">
+			<polygon class="block st4" points="3.7,406.4 89.9,406.4 89.9,466.4 3.7,502.9" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 38.7942 445.0862)" class="st5 st6 section-label">N12</text>
+		</g>
+		<g data-section="nordtribüne_n11">
+			<polyline class="block st4" points="95,474.6 151.3,530.9 105.4,611.6 5.1,512.1 96,474.6" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 78.2061 534.6445)" class="st5 st6 section-label">N11</text>
+		</g>
+	</g>
+
+	<!-- Gastbereich (Away fans) N6, N7 / N15 - N17 -->
+	<g class="block-category" data-category="gastbereich">
+		<g data-section="gastbereich_n7">
+			<polygon class="block st4" points="163.9,109.9 119.4,155.5 166.7,178.8 191.7,153" data-seat="gastbereich" />
+			<text transform="matrix(1 0 0 1 153.5474 151.9393)" class="st5 st6 section-label">N7</text>
+		</g>
+		<g data-section="gastbereich_n6">
+			<polygon class="block st4" points="168.6,186.7 115.9,163.9 115.9,204.7 168.6,204.7" data-seat="gastbereich" />
+			<text transform="matrix(1 0 0 1 135.1945 196.1355)" class="st5 st6 section-label">N6</text>
+		</g>
+		<g data-section="gastbereich_n17">
+			<polygon class="block st4" points="105.4,6.6 151,86.6 120.4,117.7 56.9,53.2" data-seat="gastbereich" />
+			<text transform="matrix(1 0 0 1 98.265 67.8803)" class="st5 st6 section-label">N17</text>
+		</g>
+		<g data-section="gastbereich_n16">
+			<polygon class="block st4" points="5.1,105.5 93.6,144.1 117.1,120.5 52.2,57.5" data-seat="gastbereich" />
+			<text transform="matrix(1 0 0 1 56.9121 109.9391)" class="st5 st6 section-label">N16</text>
+		</g>
+		<g data-section="gastbereich_n15">
+			<polygon class="block st4" points="3.7,115.1 89.9,153.2 89.9,217.8 3.7,217.8" data-seat="gastbereich" />
+			<text transform="matrix(1 0 0 1 38.5591 180.8804)" class="st5 st6 section-label">N15</text>
+		</g>
+	</g>
+	<!-- Gastbereich (Away fans) N6, N7 / N15 - N17 -->
+
+	<g>
+		<rect xmlns="http://www.w3.org/2000/svg" x="358.1" y="485.8" class="st7" width="64.1" height="23.9"/>
+	</g>
+</svg>

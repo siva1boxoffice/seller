@@ -1,0 +1,760 @@
+<svg class="svg-stadium" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 902.7 674.1" style="enable-background:new 0 0 902.7 674.1;" xml:space="preserve">
+
+    <style type="text/css">
+        .st0{fill:#599D52;}
+        .st1{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+        .st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+        .st3{display:nne;}
+        .st4{display:inline;opacity:0.7;fill:#FFFFFF;enable-background:new    ;}
+        .st5{display:inline;fill:#00B8F5;}
+        .st6{display:inline;fill:#112638;}
+        .st7{font-family:'DMSans-Bold';}
+        .st8{font-size:8.3697px;}
+        .st9{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+        .st10{display:inline;}
+        .st11{fill:#080B19;}
+        .st12{font-size:15px;}
+        .st13{fill:none;stroke:#000000;stroke-miterlimit:10;}
+        .st14{font-family:'DMSans-Medium';}
+        .st15{font-size:10px;}
+        .st16{font-size:10.002px;}
+    </style>
+
+    <g class="field">
+        <g>
+            <rect x="189.5" y="267.8" class="st0" width="433" height="274.3"/>
+            <ellipse class="st1" cx="408.8" cy="397" rx="43.9" ry="42.1"/>
+            <line class="st2" x1="408.1" y1="278.6" x2="408.1" y2="530.9"/>
+            <rect x="206.2" y="278.6" class="st2" width="400.1" height="252.2"/>
+            <rect x="206.2" y="319.8" class="st1" width="61.7" height="180.5"/>
+            <rect x="206.2" y="368" class="st1" width="22.5" height="84"/>
+            <path class="st1" d="M267.8,445.2c0,0,27.8-33.7-0.1-65.7"/>
+            <rect x="196.2" y="393.7" class="st1" width="10.1" height="28.2"/>
+            <g>
+                <rect x="544.7" y="319.8" class="st1" width="61.7" height="180.5"/>
+                <rect x="583.9" y="368" class="st1" width="22.5" height="84"/>
+                <path class="st1" d="M545,379.5c-27.9,31.9-0.1,65.7-0.1,65.7"/>
+                <rect x="606.5" y="393.7" class="st1" width="10.1" height="28.2"/>
+            </g>
+            <path class="st1" d="M206.2,288.2c0,0,9.1-1,10-9.5"/>
+            <path class="st1" d="M214.6,530.9c0,0,0.3-8.8-8.4-10.8"/>
+            <path class="st1" d="M597,278.6c0,0,0.5,8.8,9.3,10.1"/>
+            <path class="st1" d="M606.6,520.8c0,0-9,1.7-9.1,10.2"/>
+        </g>
+
+        <g data-stand="milburn-stand">
+            <text transform="matrix(1 0 0 1 379.7816 15.4246)" class="st11 st7 st12">MILBURN STAND</text>
+        </g>
+        <g data-stand="leazes-stand">
+            <text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 888.7812 290.4247)" class="st11 st7 st12">LEAZES STAND</text>
+        </g>
+        <g data-stand="east-stand">
+            <text transform="matrix(1 0 0 1 382.7816 671.4246)" class="st11 st7 st12">EAST STAND</text>
+        </g>
+        <g data-stand="gallowgate-stand">
+            <text transform="matrix(4.489659e-11 -1 1 4.489659e-11 14.7816 437.4248)" class="st11 st7 st12">GALLOWGATE STAND</text>
+        </g>
+    </g>
+
+    <g class="block-category" data-category="away-fan-section">
+        <g data-section="away-fan-section_L7F">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M811.5,213.5l53-15c0,0,7,18,10,56h-58C816.5,254.5,816.5,225.5,811.5,213.5z" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 836.1937 232.4539)" class="st14 st15">L7F</text>
+        </g>
+        <g data-section="away-fan-section_L7H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="816.5" y="258.5" class="block st13" width="58" height="56" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 836.1937 289.4539)" class="st14 st15">L7H</text>
+        </g>
+        <g data-section="away-fan-section_L7J">
+            <rect xmlns="http://www.w3.org/2000/svg" x="816.5" y="318.5" class="block st13" width="58" height="58" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 835.1937 350.4539)" class="st14 st15">L7J</text>
+        </g>
+        <g data-section="away-fan-section_L7K">
+            <rect xmlns="http://www.w3.org/2000/svg" x="816.5" y="380.5" class="block st13" width="58" height="53" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 836.1937 408.4539)" class="st14 st15">L7K</text>
+        </g>
+        <g data-section="away-fan-section_L7L">
+            <rect xmlns="http://www.w3.org/2000/svg" x="816.5" y="438.5" class="block st13" width="58" height="55" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 836.1937 468.4539)" class="st14 st15">L7L</text>
+        </g>
+        <g data-section="away-fan-section_L7M">
+            <rect xmlns="http://www.w3.org/2000/svg" x="816.5" y="497.5" class="block st13" width="58" height="56" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 835.1937 528.4539)" class="st14 st15">L7M</text>
+        </g>
+        <g data-section="away-fan-section_LL7F">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M808.5,214.5c0,0,4,10,5,41h-13c0,0-2-30-5-37L808.5,214.5z" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(4.710000e-02 0.9989 -0.9989 4.710000e-02 801.082 226.0688)" class="st14 st15">LL7F</text>
+        </g>
+        <g data-section="away-fan-section_LL7H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="800.5" y="258.5" class="block st13" width="13" height="70" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 803.6281 281.9076)" class="st14 st15">LL7H</text>
+        </g>
+        <g data-section="away-fan-section_LL7J">
+            <rect xmlns="http://www.w3.org/2000/svg" x="800.5" y="331.5" class="block st13" width="13" height="49" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 803.6281 344.9076)" class="st14 st15">LL7J</text>
+        </g>
+        <g data-section="away-fan-section_LL7K">
+            <rect xmlns="http://www.w3.org/2000/svg" x="800.5" y="383.5" class="block st13" width="13" height="48" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 803.6281 396.9077)" class="st14 st15">LL7K</text>
+        </g>
+        <g data-section="away-fan-section_LL7L">
+            <rect xmlns="http://www.w3.org/2000/svg" x="800.5" y="434.5" class="block st13" width="13" height="48" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 803.6281 447.9077)" class="st14 st15">LL7L</text>
+        </g>
+        <g data-section="away-fan-section_LL7M">
+            <rect xmlns="http://www.w3.org/2000/svg" x="800.5" y="485.5" class="block st13" width="13" height="68" data-seat="away-fan-section"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 803.6281 506.9074)" class="st14 st15">LL7M</text>
+        </g>
+    </g>
+
+    <g class="block-category" data-category="longside-lower-tier">
+        <g data-section="longside-lower-tier_A">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="546" y="558.5" class="block st13" width="63.5" height="34" data-seat="longside-lower-tier"/> 
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 574.1937 579.4539)" class="st14 st15">A</text>
+        </g>
+        <g data-section="longside-lower-tier_B">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="476.6" y="558.5" class="block st13" width="65.9" height="34" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 507.1937 578.4539)" class="st14 st15">B</text>
+        </g>
+        <g data-section="longside-lower-tier_C">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="406" y="558.5" class="block st13" width="67.1" height="34" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 436.1937 578.4539)" class="st14 st15">C</text>
+        </g>
+        <g data-section="longside-lower-tier_D">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="337" y="558.5" class="block st13" width="65.5" height="34" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 366.1937 579.4539)" class="st14 st15">D</text>
+        </g>
+        <g data-section="longside-lower-tier_E">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="267" y="558.5" class="block st13" width="65.5" height="34" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 295.1937 579.4539)" class="st14 st15">E</text>
+        </g>
+        <g data-section="longside-lower-tier_F">	
+        <rect xmlns="http://www.w3.org/2000/svg" x="193.5" y="558.5" class="block st13" width="69" height="34" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 224.1937 578.4539)" class="st14 st15">F</text>
+        </g>
+        <g data-section="longside-lower-tier_H">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="546" y="595.5" class="block st13" width="63.5" height="51" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 575.1937 624.4539)" class="st14 st15">H</text>
+        </g>
+        <g data-section="longside-lower-tier_I">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="476.6" y="595.5" class="block st13" width="65.9" height="51" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 508.1937 624.4539)" class="st14 st15">I</text>
+        </g>
+        <g data-section="longside-lower-tier_J">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="406" y="595.5" class="block st13" width="67.1" height="51" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 435.1937 623.4539)" class="st14 st15">J</text>
+        </g>
+        <g data-section="longside-lower-tier_K">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="337" y="595.5" class="block st13" width="65.5" height="51" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 366.1937 623.4539)" class="st14 st15">K</text>
+        </g>
+        <g data-section="longside-lower-tier_L">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="267" y="595.5" class="block st13" width="65.5" height="51" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 295.1937 624.4539)" class="st14 st15">L</text>
+        </g>
+        <g data-section="longside-lower-tier_M">	
+        <rect xmlns="http://www.w3.org/2000/svg" x="193.5" y="595.5" class="block st13" width="69" height="51" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 222.1937 624.4539)" class="st14 st15">M</text>
+        </g>
+        <g data-section="longside-lower-tier_L1A">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="164.5" y="224.5" class="block st13" width="46" height="28" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 178.1937 242.4539)" class="st14 st15">L1A</text>
+        </g>
+        <g data-section="longside-lower-tier_L1B">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="214.5" y="224.5" class="block st13" width="47" height="28" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 230.1937 241.4539)" class="st14 st15">L1B</text>
+        </g>
+        <g data-section="longside-lower-tier_L1C">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="265.5" y="224.5" class="block st13" width="48" height="28" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 281.1937 241.4539)" class="st14 st15">L1C</text>
+        </g>
+        <g data-section="longside-lower-tier_L1D">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="317.5" y="224.5" class="block st13" width="48" height="28" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 332.1937 241.4539)" class="st14 st15">L1D</text>
+        </g>
+        <g data-section="longside-lower-tier_L1F">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="442.5" y="224.5" class="block st13" width="48" height="29" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 460.1937 241.4539)" class="st14 st15">L1F</text>
+        </g>
+        <g data-section="longside-lower-tier_L1G">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="494.5" y="224.5" class="block st13" width="48" height="29" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 511.1937 241.4539)" class="st14 st15">L1G</text>
+        </g>
+        <g data-section="longside-lower-tier_L1H">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="546.5" y="224.5" class="block st13" width="47" height="28" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 560.1937 240.4539)" class="st14 st15">L1H</text>
+        </g>
+        <g data-section="longside-lower-tier_L1I">	
+            <rect xmlns="http://www.w3.org/2000/svg" x="597.5" y="224.5" class="block st13" width="46" height="28" data-seat="longside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 614.1937 241.4539)" class="st14 st15">L1I</text>
+        </g>
+
+        
+    </g>
+
+    <g class="block-category" data-category="longside-upper-tier">
+        
+        <g data-section="longside-upper-tier_L7F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="464.3" y="26.5" class="block st13" width="56.7" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 483.1937 57.4539)" class="st14 st15">L7F</text>
+        </g>
+        <g data-section="longside-upper-tier_L7G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="525.1" y="27" class="block st13" width="58.1" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 546.1937 56.4539)" class="st14 st15">L7G</text>
+        </g>
+        <g data-section="longside-upper-tier_L7H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="587.3" y="26.5" class="block st13" width="57.7" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 606.1937 56.4539)" class="st14 st15">L7H</text>
+        </g>
+        <g data-section="longside-upper-tier_LL7F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="464.3" y="85.5" class="block st13" width="56.7" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 480.1937 96.4539)" class="st14 st15">LL7F</text>
+        </g>
+        <g data-section="longside-upper-tier_LL7G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="525.5" y="85.5" class="block st13" width="58.2" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 543.1937 96.4539)" class="st14 st15">LL7G</text>
+        </g>
+        <g data-section="longside-upper-tier_LL7H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="587.3" y="85.5" class="block st13" width="57.7" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 603.1937 96.4539)" class="st14 st15">LL7H</text>
+        </g>
+
+        <g data-section="longside-upper-tier_L7A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="166.1" y="27" class="block st13" width="52.9" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 184.1937 56.4539)" class="st14 st15">L7A</text>
+        </g>
+        <g data-section="longside-upper-tier_L7B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="223" y="26.5" class="block st13" width="55.5" height="55" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 241.1937 57.4539)" class="st14 st15">L7B</text>
+        </g>
+        <g data-section="longside-upper-tier_L7C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="282" y="27" class="block st13" width="57.5" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 300.1937 56.4539)" class="st14 st15">L7C</text>
+        </g>
+        <g data-section="longside-upper-tier_L7D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="343.5" y="26.5" class="block st13" width="56" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 362.1937 56.4539)" class="st14 st15">L7D</text>
+        </g>
+        <g data-section="longside-upper-tier_L7E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="403.1" y="27" class="block st13" width="57.1" height="54" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 422.1937 57.4539)" class="st14 st15">L7E</text>
+        </g>
+
+        <g data-section="longside-upper-tier_ll7a">
+            <rect xmlns="http://www.w3.org/2000/svg" x="166.5" y="85.5" class="block st13" width="53" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 181.1937 96.4539)" class="st14 st15">LL7A</text>
+        </g>
+        <g data-section="longside-upper-tier_ll7b">
+            <rect xmlns="http://www.w3.org/2000/svg" x="223" y="85.5" class="block st13" width="55.5" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 238.1937 96.4539)" class="st14 st15">LL7B</text>
+        </g>
+
+        <g data-section="longside-upper-tier_ll7c">
+            <rect xmlns="http://www.w3.org/2000/svg" x="282.4" y="85.5" class="block st13" width="57.6" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 298.1937 96.4539)" class="st14 st15">LL7C</text>
+        </g>
+
+        <g data-section="longside-upper-tier_ll7d">
+            <rect xmlns="http://www.w3.org/2000/svg" x="343.5" y="85.5" class="block st13" width="56" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 359.1937 96.4539)" class="st14 st15">LL7D</text>
+        </g>
+
+        <g data-section="longside-upper-tier_ll7e">
+            <rect xmlns="http://www.w3.org/2000/svg" x="403.5" y="85.5" class="block st13" width="57.2" height="15" data-seat="longside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 419.1937 96.4539)" class="st14 st15">LL7E</text>
+        </g>
+    </g>
+ 
+    <g class="block-category" data-category="shortside-lower-tier">
+        <g data-section="shortside-lower-tier_A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="144.5" y="499.5" class="block st13" width="15" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 148.1937 528.4539)" class="st14 st15">A</text>
+        </g>
+        <g data-section="shortside-lower-tier_B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="144.5" y="439.5" class="block st13" width="15" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 148.1937 470.4539)" class="st14 st15">B</text>
+        </g>
+        <g data-section="shortside-lower-tier_C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="144.5" y="378.5" class="block st13" width="15" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 148.1937 409.4539)" class="st14 st15">C</text>
+        </g>
+        <g data-section="shortside-lower-tier_D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="144.5" y="318.5" class="block st13" width="15" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 148.1937 349.4539)" class="st14 st15">D</text>
+        </g>
+        <g data-section="shortside-lower-tier_E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="144.5" y="258.5" class="block st13" width="15" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 149.1937 288.4539)" class="st14 st15">E</text>
+        </g>
+        <g data-section="shortside-lower-tier_F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="127.5" y="499.5" class="block st13" width="14" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 131.1937 528.4539)" class="st14 st15">F</text>
+        </g>
+        <g data-section="shortside-lower-tier_G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="127.5" y="439.5" class="block st13" width="14" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 131.1937 470.4539)" class="st14 st15">G</text>
+        </g>
+        <g data-section="shortside-lower-tier_H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="127.5" y="378.5" class="block st13" width="14" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 131.1937 409.4539)" class="st14 st15">H</text>
+        </g>
+        <g data-section="shortside-lower-tier_I">
+            <rect xmlns="http://www.w3.org/2000/svg" x="127.5" y="318.5" class="block st13" width="14" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 133.1937 349.4539)" class="st14 st15">I</text>
+        </g>
+        <g data-section="shortside-lower-tier_J">
+            <rect xmlns="http://www.w3.org/2000/svg" x="127.5" y="258.5" class="block st13" width="14" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 132.1937 288.4539)" class="st14 st15">J</text>
+        </g>
+        <g data-section="shortside-lower-tier_K">
+            <rect xmlns="http://www.w3.org/2000/svg" x="72.5" y="524.5" class="block st13" width="52" height="31" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 96.1937 542.4539)" class="st14 st15">K</text>
+        </g>
+        <g data-section="shortside-lower-tier_L">
+            <rect xmlns="http://www.w3.org/2000/svg" x="72.5" y="465.5" class="block st13" width="52" height="55" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 95.1937 493.4539)" class="st14 st15">L</text>
+        </g>
+        <g data-section="shortside-lower-tier_M">
+            <rect xmlns="http://www.w3.org/2000/svg" x="72.5" y="409.5" class="block st13" width="52" height="52" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 94.1937 436.4539)" class="st14 st15">M</text>
+        </g>
+        <g data-section="shortside-lower-tier_N">
+            <rect xmlns="http://www.w3.org/2000/svg" x="72.5" y="351.5" class="block st13" width="52" height="54" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 95.1937 379.4539)" class="st14 st15">N</text>
+        </g>
+        <g data-section="shortside-lower-tier_P">
+            <rect xmlns="http://www.w3.org/2000/svg" x="72.5" y="293.5" class="block st13" width="52" height="54" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 95.1937 321.4539)" class="st14 st15">P</text>
+        </g>
+        <g data-section="shortside-lower-tier_Q">
+            <rect xmlns="http://www.w3.org/2000/svg" x="72.5" y="257.5" class="block st13" width="52" height="33" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 94.1937 275.4539)" class="st14 st15">Q</text>
+        </g>
+        <g data-section="shortside-lower-tier_R">
+            <rect xmlns="http://www.w3.org/2000/svg" x="26.5" y="499.5" class="block st13" width="43" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 44.1937 528.4539)" class="st14 st15">R</text>
+        </g>
+        <g data-section="shortside-lower-tier_S">
+            <rect xmlns="http://www.w3.org/2000/svg" x="26.5" y="439.5" class="block st13" width="43" height="56" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 44.1937 467.4539)" class="st14 st15">S</text>
+        </g>
+        <g data-section="shortside-lower-tier_T">
+            <rect xmlns="http://www.w3.org/2000/svg" x="26.5" y="378.5" class="block st13" width="43" height="57" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 43.1937 407.4539)" class="st14 st15">T</text>
+        </g>
+        <g data-section="shortside-lower-tier_U">
+            <rect xmlns="http://www.w3.org/2000/svg" x="26.5" y="317.5" class="block st13" width="43" height="57" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 44.1937 347.4539)" class="st14 st15">U</text>
+        </g>
+        <g data-section="shortside-lower-tier_V">
+            <rect xmlns="http://www.w3.org/2000/svg" x="26.5" y="257.5" class="block st13" width="43" height="57" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 44.1937 286.4539)" class="st14 st15">V</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1A">
+            <polygon xmlns="http://www.w3.org/2000/svg" class="block st13" points="647.5,268.5 660.5,257.5 660.5,303.5 647.5,303.5   " data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 650.6281 275.9076)" class="st14 st15">L1A</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="647.5" y="307" class="block st13" width="13" height="45.6" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 650.6281 322.9076)" class="st14 st15">L1B</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="647.5" y="356" class="block st13" width="13" height="48" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 650.6281 372.9076)" class="st14 st15">L1C</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="647.5" y="407.5" class="block st13" width="13" height="49.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 650.6281 424.9077)" class="st14 st15">L1D</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="647.5" y="460.5" class="block st13" width="13" height="47.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 650.6281 477.9074)" class="st14 st15">L1E</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="647.5" y="510.5" class="block st13" width="13" height="43.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 650.6281 523.9074)" class="st14 st15">L1F</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="663.5" y="258" class="block st13" width="15" height="45.6" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 667.6281 270.9076)" class="st14 st15">L1G</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="663.5" y="307" class="block st13" width="15" height="45.6" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 667.6281 321.9076)" class="st14 st15">L1H</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1I">
+            <rect xmlns="http://www.w3.org/2000/svg" x="663.5" y="356" class="block st13" width="15" height="48" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 667.6281 374.9076)" class="st14 st15">L1I</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1J">
+            <rect xmlns="http://www.w3.org/2000/svg" x="663.5" y="407.5" class="block st13" width="15" height="49.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 667.6281 426.9077)" class="st14 st15">L1J</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1K">
+            <rect xmlns="http://www.w3.org/2000/svg" x="663.5" y="460.5" class="block st13" width="15" height="47.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 667.6281 479.9074)" class="st14 st15">L1K</text>
+        </g>
+        <g data-section="shortside-lower-tier_L1L">
+            <rect xmlns="http://www.w3.org/2000/svg" x="663.5" y="510.5" class="block st13" width="15" height="43.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 667.6281 525.9074)" class="st14 st15">L1L</text>
+        </g>
+        <g data-section="shortside-lower-tier_L2M">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="258" class="block st13" width="51" height="36.7" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.1937 279.4539)" class="st14 st15">L2M</text>
+        </g>
+        <g data-section="shortside-lower-tier_L2N">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="297.5" class="block st13" width="51" height="48" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.1937 325.4539)" class="st14 st15">L2N</text>
+        </g>
+        <g data-section="shortside-lower-tier_L2P">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="348.5" class="block st13" width="51" height="32" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.1937 368.4539)" class="st14 st15">L2P</text>
+        </g>
+        <g data-section="shortside-lower-tier_L2Q">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="434.5" class="block st13" width="51" height="30" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 699.1937 453.4539)" class="st14 st15">L2Q</text>
+        </g>
+        <g data-section="shortside-lower-tier_L2Q">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="468.5" class="block st13" width="51" height="48" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 699.1937 496.4539)" class="st14 st15">L2R</text>
+        </g>
+        <g data-section="shortside-lower-tier_L2S">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="519.5" class="block st13" width="51" height="34" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 699.1937 540.4539)" class="st14 st15">L2S</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4T">
+            <rect xmlns="http://www.w3.org/2000/svg" x="735.5" y="258" class="block st13" width="30" height="58.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 747.6281 279.9076)" class="st14 st15">L4T</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4U">
+            <rect xmlns="http://www.w3.org/2000/svg" x="735.5" y="320" class="block st13" width="30" height="51" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 746.6281 336.9076)" class="st14 st15">L4U</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4V">
+            <rect xmlns="http://www.w3.org/2000/svg" x="735.5" y="374.5" class="block st13" width="30" height="64.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 746.6281 396.9077)" class="st14 st15">L4V</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4W">
+            <rect xmlns="http://www.w3.org/2000/svg" x="735.5" y="442.5" class="block st13" width="30" height="51.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 748.6281 460.9074)" class="st14 st15">L4W</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4X">
+            <rect xmlns="http://www.w3.org/2000/svg" x="735.5" y="497.5" class="block st13" width="30" height="55.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 747.6281 516.9074)" class="st14 st15">L4X</text>
+        </g>
+        <g data-section="shortside-lower-tier_L6A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="768.5" y="258" class="block st13" width="14" height="58.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 771.6281 279.9076)" class="st14 st15">L6A</text>
+        </g>
+        <g data-section="shortside-lower-tier_L6B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="768.5" y="320" class="block st13" width="14" height="51" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 771.6281 336.9076)" class="st14 st15">L6B</text>
+        </g>
+        <g data-section="shortside-lower-tier_L6C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="768.5" y="374.5" class="block st13" width="14" height="64.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 771.6281 397.9077)" class="st14 st15">L6C</text>
+        </g>
+        <g data-section="shortside-lower-tier_L6D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="768.5" y="442.5" class="block st13" width="14" height="51.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 772.6281 460.9074)" class="st14 st15">L6D</text>
+        </g>
+        <g data-section="shortside-lower-tier_L6E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="768.5" y="497.5" class="block st13" width="14" height="55.5" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(-2.946553e-03 1 -1 -2.946553e-03 771.6281 515.9074)" class="st14 st15">L6E</text>
+        </g>
+
+        <g data-section="shortside-lower-tier_A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M168.7,583.8c2.3,1.8,5.5,3.9,9.5,5.7c5,2.2,9.5,3.2,12.9,3.7c0-11.6,0-23.2,0-34.7L168.7,583.8z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 179.4038 583.8398)" class="st14 st15">A</text>
+        </g>
+        <g data-section="shortside-lower-tier_B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M188.8,557.9h-29.3c0,0-1.4,13.3,8,24.9L188.8,557.9L188.8,557.9z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 167.4038 569.8398)" class="st14 st15">B</text>
+        </g>
+        <g data-section="shortside-lower-tier_C">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M177.9,592.5l-20.6,47.9c4.3,1.6,9.3,3.1,14.9,4.3c7.1,1.5,13.5,2.2,18.9,2.4c0-17.2,0-34.4,0-51.5    c-0.6,0.1-1.3,0.1-1.9,0.1C183.4,595.6,177.9,592.5,177.9,592.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 175.4038 625.8398)" class="st14 st15">C</text>
+        </g>
+        <g data-section="shortside-lower-tier_D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M167.3,585.6L167.3,585.6L167.3,585.6L167.3,585.6z M167.3,585.6l-36.1,35.9c0,0,10.2,11.2,24,18.1l21-47.8    C176.2,591.8,170,589,167.3,585.6L167.3,585.6z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 152.4038 615.8398)" class="st14 st15">D</text>
+        </g>
+        <g data-section="shortside-lower-tier_E">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M159.5,574.5L159.5,574.5L159.5,574.5L159.5,574.5z M159.5,574.5l-47.3,19c0,0,8.2,20,17.3,26l36.2-35.1    C165.7,584.4,161.6,579.7,159.5,574.5L159.5,574.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 135.4038 598.8398)" class="st14 st15">E</text>
+        </g>
+        <g data-section="shortside-lower-tier_F">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M156.2,557.9h-50.5c0,0-1.9,18.6,5.8,34l46.9-19.6C158.4,572.2,156.1,563.5,156.2,557.9L156.2,557.9z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 127.4038 573.8398)" class="st14 st15">F</text>
+        </g>
+
+        <g data-section="shortside-lower-tier_J">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M613.5,558.5h31c0,0,2,30-31,34V558.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 625.1937 574.4539)" class="st14 st15">J</text>
+        </g>
+        <g data-section="shortside-lower-tier_H">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M666.8,557.6L666.8,557.6L666.8,557.6L666.8,557.6z M647.5,557.6c0,0,0,7.5-2,15.4l16.9,7.1    c0,0,3.8-7.6,4.4-22.5c0,0-2.1,0-5,0C656.1,557.7,647.5,557.6,647.5,557.6L647.5,557.6z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 653.4568 571.4016)" class="st14 st15">H</text>
+        </g>
+        <g data-section="shortside-lower-tier_G">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M644.5,574.9c0,0-5,9.2-13.2,13.9l8.4,15.5c0,0,10.8-5.6,20.7-22.2C660.6,582.1,644.5,574.9,644.5,574.9    L644.5,574.9z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 641.4568 591.4016)" class="st14 st15">G</text>
+        </g>
+        <g data-section="shortside-lower-tier_F">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M629.3,590c0,0-7.3,4.5-16.3,4.6v16.8c0,0,1,0.1,2.7,0.1c4.8,0,14.8-0.7,21.6-6    C637.3,605.5,629.3,590,629.3,590L629.3,590z M637.3,605.5L637.3,605.5L637.3,605.5L637.3,605.5L637.3,605.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 621.4568 605.4016)" class="st14 st15">F</text>
+        </g>
+
+         <g data-section="shortside-lower-tier_A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M161.5,217.5v34h-35C126.5,251.5,126.5,223.5,161.5,217.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 144.1937 241.4539)" class="st14 st15">A</text>
+        </g>
+        <g data-section="shortside-lower-tier_B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M79.5,221.5c0,0-6,11-5,30h48l1-7L79.5,221.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 86.1937 243.4539)" class="st14 st15">B</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M646.5,115.5c0,0,22,2,30,5l-12,44c0,0-12-1-18-1V115.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 650.1937 138.4539)" class="st14 st15">L4A</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M679.5,120.5c0,0,21,7,35,15l-23,41c0,0-13-8-24-11L679.5,120.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 680.1937 150.4539)" class="st14 st15">L4B</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M717.5,137.5c0,0,17,11,26,21l-33,33c0,0-11-10-17-13L717.5,137.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 708.1937 169.4539)" class="st14 st15">L4C</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M745.5,160.5c0,0,11,12,19,26l-40,23c0,0-9-13-12-16L745.5,160.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 729.1937 190.4539)" class="st14 st15">L4D</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4E">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M725.5,212.5l40-23c0,0,8,11,13,32l-45,14C733.5,235.5,729.5,219.5,725.5,212.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 744.1937 217.4539)" class="st14 st15">L4E</text>
+        </g>
+        <g data-section="shortside-lower-tier_L4F">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M734.5,238.5l45-14c0,0,3,6,3,31h-47C735.5,255.5,735.5,245.5,734.5,238.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 752.1937 247.4539)" class="st14 st15">L4F</text>
+        </g>
+        <g data-section="shortside-lower-tier_C">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M100.5,188.5c0,0-11,11-20,30l44,23c0,0,4-9,10-14L100.5,188.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 99.1937 216.4539)" class="st14 st15">C</text>
+        </g>
+        <g data-section="shortside-lower-tierL2A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M646.5,166.5c0,0,16-1,32,7l-24,56h-8V166.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 650.1937 184.4539)" class="st14 st15">L2A</text>
+        </g>
+        <g data-section="shortside-lower-tierL2B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M680.5,174.5c0,0,16,7,28,20l-44,42c0,0-6-5-8-6L680.5,174.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 678.1937 198.4539)" class="st14 st15">L2B</text>
+        </g>
+        <g data-section="shortside-lower-tierL2C">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M666.5,238.5l44-42c0,0,9,9,15,25l-55,24L666.5,238.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.1937 221.4539)" class="st14 st15">L2C</text>
+        </g>
+        <g data-section="shortside-lower-tierL2D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M671.5,247.5l56-23c0,0,6,15,5,31h-61C671.5,255.5,672.5,251.5,671.5,247.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 702.1937 247.4539)" class="st14 st15">L2D</text>
+        </g>
+        <g data-section="shortside-lower-tier_D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M130.5,169.5c0,0-20,7-27,17l33,38c0,0,7-5,15-8L130.5,169.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 123.1937 195.4539)" class="st14 st15">D</text>
+        </g>
+        <g data-section="shortside-lower-tier_A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M631.4,612.5c0,0-6.2,1.7-13.3,1.7c-1.6,0-3.3-0.1-5-0.3V647c0,0,16.3-0.1,26.8-5.4l0,0    C639.9,641.5,631.4,612.5,631.4,612.5L631.4,612.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 621.4568 633.4016)" class="st14 st15">A</text>
+        </g>
+        <g data-section="shortside-lower-tier_B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M645.9,606.5c0,0-8.7,4.7-12.7,5.6l8.9,28.4c0,0,16.1-6.6,20.7-12.4C662.9,628.1,645.9,606.5,645.9,606.5    L645.9,606.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 643.4568 625.4016)" class="st14 st15">B</text>
+        </g>
+        <g data-section="shortside-lower-tier_C">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M657.5,594.5l24,16c0,0-10,13-17,16l-17-21C647.5,605.5,652.5,601.5,657.5,594.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 660.4568 613.4016)" class="st14 st15">C</text>
+        </g>
+        <g data-section="shortside-lower-tier_D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M667.5,576.5l27,12c0,0-5,14-11,19l-24-16C659.5,591.5,665.5,583.5,667.5,576.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 674.4568 595.4016)" class="st14 st15">D</text>
+        </g>
+        <g data-section="shortside-lower-tier_E">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M669.5,558.5h30c0,0,0,16-4,27l-27-11C668.5,574.5,670.5,562.5,669.5,558.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 682.4568 573.4016)" class="st14 st15">E</text>
+        </g>
+        <g data-section="shortside-lower-tier_E">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M161.5,163.5v50c0,0-5,0-7,1l-20-46C134.5,168.5,143.5,164.5,161.5,163.5z" data-seat="shortside-lower-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 147.1937 181.4539)" class="st14 st15">E</text>
+        </g>
+    </g>
+
+    <g class="block-category" data-category="shortside-upper-tier">
+        
+        <g data-section="shortside-upper-tierL7A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M648.5,26.5c0,0,29,2,51,9l-15,52c0,0-11-4-36-5V26.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 660.1937 57.4539)" class="st14 st15">L7A</text>
+        </g>
+        
+        
+        <g data-section="shortside-upper-tier_L7B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M702.5,36.5c0,0,32,7,55,24l-26,46c0,0-29-15-44-18L702.5,36.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 711.1937 71.4539)" class="st14 st15">L7B</text>
+        </g>
+        <g data-section="shortside-upper-tier_L7C">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M733.5,108.5l27-47c0,0,27,15,45,35l-39,38C766.5,134.5,748.5,116.5,733.5,108.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 760.1937 102.4539)" class="st14 st15">L7C</text>
+        </g>
+        <g data-section="shortside-upper-tier_L7D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M807.5,99.5l-39,37c0,0,18,21,25,33l46-28C839.5,141.5,826.5,114.5,807.5,99.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 796.1937 138.4539)" class="st14 st15">L7D</text>
+        </g>
+        <g data-section="shortside-upper-tier_L7E">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M794.5,172.5l47-29c0,0,20,33,22,52l-53,15C810.5,210.5,804.5,190.5,794.5,172.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 821.1937 181.4539)" class="st14 st15">L7E</text>
+        </g>
+       
+        <g data-section="shortside-upper-tier_LL7A">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M648.5,85.5c0,0,14,1,35,5l-4,15c0,0-19-4-31-5V85.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 653.1937 98.4539)" class="st14 st15">LL7A</text>
+        </g>
+        <g data-section="shortside-upper-tier_LL7B">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M686.5,91.5c0,0,22,5,43,18l-8,13c0,0-17-10-39-16L686.5,91.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.9368 0.3498 -0.3498 0.9368 693.8708 105.1976)" class="st14 st15">LL7B</text>
+        </g>
+        <g data-section="shortside-upper-tier_LL7C">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M732.5,110.5c0,0,19,12,32,26l-10,9c0,0-20-17-30-22L732.5,110.5z" data-seat="shortside-upper-tier" />
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.7969 0.6042 -0.6042 0.7969 733.746 124.8195)" class="st14 st16">LL7C</text>
+        </g>
+        <g data-section="shortside-upper-tier_LL7D">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M766.5,138.5c0,0,15,17,25,33l-13,7c0,0-8-13-22-30L766.5,138.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.5988 0.8009 -0.8009 0.5988 763.4604 150.9438)" class="st14 st15">LL7D</text>
+        </g>
+        <g data-section="shortside-upper-tier_LL7E">
+            <path xmlns="http://www.w3.org/2000/svg" class="block st13" d="M792.5,174.5l-13,7c0,0,9,14,15,34l14-4C808.5,211.5,802.5,190.5,792.5,174.5z" data-seat="shortside-upper-tier"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(0.3778 0.9259 -0.9259 0.3778 787.5936 187.8709)" class="st14 st15">LL7E</text>
+        </g>
+    </g>
+
+    <g class="block-category" data-category="vip-packages">
+        <g data-section="vip-packages_L2A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="164.5" y="137.5" class="block st13" width="46" height="49" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 178.1937 163.4539)" class="st14 st15">L2A</text>
+        </g>
+        <g data-section="vip-packages_L2B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="214.5" y="160.9" class="block st13" width="43" height="25.6" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 227.1937 177.4539)" class="st14 st15">L2B</text>
+        </g>
+        <g data-section="vip-packages_L2C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="261.5" y="137.5" class="block st13" width="37" height="49" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 271.1937 163.4539)" class="st14 st15">L2C</text>
+        </g>
+        <g data-section="vip-packages_L2D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="301.5" y="137.5" class="block st13" width="37" height="49" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 311.1937 163.4539)" class="st14 st15">L2D</text>
+        </g>
+        <g data-section="vip-packages_L2E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="469.5" y="137.5" class="block st13" width="37" height="49" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 479.1937 164.4539)" class="st14 st15">L2E</text>
+        </g>
+        <g data-section="vip-packages_L2F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="509.5" y="137.5" class="block st13" width="37" height="49" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 518.1937 164.4539)" class="st14 st15">L2F</text>
+        </g>
+        <g data-section="vip-packages_L2G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="550.5" y="160.9" class="block st13" width="43" height="25.6" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 562.1937 176.4539)" class="st14 st15">L2G</text>
+        </g>
+        <g data-section="vip-packages_L2H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="597.5" y="137.5" class="block st13" width="46" height="49" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 612.1937 164.4539)" class="st14 st15">L2H</text>
+        </g>
+        <g data-section="vip-packages_L2SB">
+            <rect xmlns="http://www.w3.org/2000/svg" x="681.5" y="383.5" class="block st13" width="51" height="48" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 695.1937 410.4539)" class="st14 st15">L2SB</text>
+        </g>
+        <g data-section="vip-packages_L3B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="343.5" y="115.5" class="block st13" width="38" height="104" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 353.1937 166.4539)" class="st14 st15">L3B</text>
+        </g>
+        <g data-section="vip-packages_L3C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="385.5" y="115.5" class="block st13" width="38" height="104" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 395.1937 166.4539)" class="st14 st15">L3C</text>
+        </g>
+        <g data-section="vip-packages_L3D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="427.5" y="115.5" class="block st13" width="39" height="104" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 438.1937 165.4539)" class="st14 st15">L3D</text>
+        </g>
+        <g data-section="vip-packages_L3A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="214.5" y="137.5" class="block st13" width="43" height="20.3" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 227.1937 150.4539)" class="st14 st15">L3A</text>
+        </g>
+        <g data-section="vip-packages_L3E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="550.5" y="137.5" class="block st13" width="43" height="20.3" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 563.1937 151.4539)" class="st14 st15">L3E</text>
+        </g>
+        <g data-section="vip-packages_L4A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="164.5" y="115.5" class="block st13" width="46" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 178.1937 128.4539)" class="st14 st15">L4A</text>
+        </g>
+        <g data-section="vip-packages_L4B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="214.5" y="115.5" class="block st13" width="43" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 226.1937 128.4539)" class="st14 st15">L4B</text>
+        </g>
+        <g data-section="vip-packages_L4C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="261.5" y="115.5" class="block st13" width="37" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 271.1937 128.4539)" class="st14 st15">L4C</text>
+        </g>
+        <g data-section="vip-packages_L4D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="301.5" y="115.5" class="block st13" width="37" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 311.1937 128.4539)" class="st14 st15">L4D</text>
+        </g>
+        <g data-section="vip-packages_L4E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="469.5" y="115.5" class="block st13" width="37" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 479.1937 129.4539)" class="st14 st15">L4E</text>
+        </g>
+        <g data-section="vip-packages_L4F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="509.5" y="115.5" class="block st13" width="37" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 519.1937 128.4539)" class="st14 st15">L4F</text>
+        </g>
+        <g data-section="vip-packages_L4G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="550.5" y="115.5" class="block st13" width="43" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 563.1937 128.4539)" class="st14 st15">L4G</text>
+        </g>
+        <g data-section="vip-packages_L4H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="597.5" y="115.5" class="block st13" width="46" height="19" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 611.1937 129.4539)" class="st14 st15">L4H</text>
+        </g>
+        <g data-section="vip-packages_LL2A">
+            <rect xmlns="http://www.w3.org/2000/svg" x="164.5" y="190.5" class="block st13" width="46" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 176.1937 208.4539)" class="st14 st15">LL2A</text>
+        </g>
+        <g data-section="vip-packages_LL2B">
+            <rect xmlns="http://www.w3.org/2000/svg" x="214.5" y="190.5" class="block st13" width="43" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 224.1937 208.4539)" class="st14 st15">LL2B</text>
+        </g>
+        <g data-section="vip-packages_LL2C">
+            <rect xmlns="http://www.w3.org/2000/svg" x="261.5" y="190.5" class="block st13" width="37" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 268.1937 208.4539)" class="st14 st15">LL2C</text>
+        </g>
+        <g data-section="vip-packages_LL2D">
+            <rect xmlns="http://www.w3.org/2000/svg" x="301.5" y="190.5" class="block st13" width="37" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 308.1937 207.4539)" class="st14 st15">LL2D</text>
+        </g>
+        <g data-section="vip-packages_LL2E">
+            <rect xmlns="http://www.w3.org/2000/svg" x="469.5" y="190.5" class="block st13" width="37" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 477.1937 208.4539)" class="st14 st15">LL2E</text>
+        </g>
+        <g data-section="vip-packages_LL2F">
+            <rect xmlns="http://www.w3.org/2000/svg" x="509.5" y="190.5" class="block st13" width="37" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 516.1937 208.4539)" class="st14 st15">LL2F</text>
+        </g>
+        <g data-section="vip-packages_LL2G">
+            <rect xmlns="http://www.w3.org/2000/svg" x="550.5" y="190.5" class="block st13" width="43" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 559.1937 208.4539)" class="st14 st15">LL2G</text>
+        </g>
+        <g data-section="vip-packages_LL2H">
+            <rect xmlns="http://www.w3.org/2000/svg" x="597.5" y="190.5" class="block st13" width="46" height="29" data-seat="vip-packages"/>
+            <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 -3.500000e-03 3.500000e-03 1 608.1937 208.4539)" class="st14 st15">LL2H</text>
+        </g>
+    </g>
+
+</svg>

@@ -1,0 +1,397 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1134 1134" width="1134" height="1134">
+	<defs>
+		<image  width="356" height="224" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWQAAADgCAMAAAADk+xoAAAAAXNSR0IB2cksfwAAAelQTFRFmZmXmZmXmZmXmZmXmZmXubm409PSoKCe39/exsbF/Pz8pqak+fn55eXl8/Py3Nzcr6+u/v7+sLCuzc3MrKyr5ubls7Ox8PDw+vr6qKim7OzsnZ2bqqqpsrKxt7e2vLy7v7++tLSyr6+tpKSinJyatLSzzs7N4+Pj8/Pz8vLy6urq5eXk39/f3d3d4uLh5+fn7e3t6+vr2trZwcG/np6cu7u6q6upo6Ois7Oy4eHg0dHQq6uqrq6s2dnZ+/v75ubmoaGgmpqYsLCv1dXU9/f3xMTD2NjXzMzL4+Piz8/Om5uZ6OjoycnI6enppaWj3d3cy8vKn5+e9fX0vr69rKyqxcXEtra18fHw////o6Oh5OTj7u7urq6t0NDP+fn49fX1srKwvLy65OTkn5+dw8PCsbGv9/f219fWoaGfvb27+Pj49vb27u7t1NTTsbGwra2r4ODg0dHR4uLi3Nzbp6emwcHA/f39t7e16+vquLi37+/vtbWz5+fmtra04eHh7OzrwMC/ra2s6eno6urpurq4p6el1dXVyMjHubm33t7d9PT0qamnx8fG29va0tLRoqKg7+/utbW009PT1tbVvb28wsLBysrJ6OjnpaWkw8PBqamo3t7e4ODf2dnY19fXqqqomZmXmZmXmZmXgk4xTgAAAKN0Uk5TJGBU/+D//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////07Qtkw16msAAAbASURBVHic7d37X1N1HMdx7DhwcEAUgQGJS/BCMxkyzQuikymoKIip4QUpoBKy1JLKMtE0835Nu2i3vzQ2xB2Ubeycz/c9H5+9Xz/Czmdfnoyzs42dFRTMY4Z7q2CexQw3n8jmIzIgIgMiMqAXyL5CZqQiB3LhAj8zUHGJE9mfqz8l3dlENh+RAREZEJEBERkQkQERGRCRAREZEJEBERkQkQERGRCRAREZEJEBERkQ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"/>
+	</defs>
+	<use id="Layer 2" href="#img1" x="379" y="456"/>
+	<g id="short side left">
+		<path id="SL1" class="s0" fill="#939598"  d="m260 725l47-33.4 34 38.4-31 45z"/>
+		<text id="T-SL1" style="transform: matrix(.847,0,0,.847,292.126,734.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL1
+</tspan>
+		</text>
+		<path id="SL2" class="s0" fill="#939598"  d="m243 651h64v37l-64 45z"/>
+		<text id="T-SL2" style="transform: matrix(.847,0,0,.847,255.126,682.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL2
+</tspan>
+		</text>
+		<path id="SL3" class="s0" fill="#939598"  d="m243 594h64v55h-64z"/>
+		<text id="T-SL3" style="transform: matrix(.847,0,0,.847,255.126,622.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL3
+</tspan>
+		</text>
+		<path id="SU1" class="s0" fill="#939598"  d="m182 781l76-53.4 50 50.4-54 77z"/>
+		<text id="T-SU1" style="transform: matrix(.847,0,0,.847,235.126,786.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU1
+</tspan>
+		</text>
+		<path id="SU2" class="s0" fill="#939598"  d="m181 651h60v84l-60 43z"/>
+		<text id="T-SU2 " style="transform: matrix(.847,0,0,.847,195.126,703.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU2
+</tspan>
+		</text>
+		<path id="SU3" class="s0" fill="#939598"  d="m181 594h60v55h-60z"/>
+		<text id="T-SU3 " style="transform: matrix(.847,0,0,.847,195.126,622.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU3
+</tspan>
+		</text>
+		<path id="PLAyer’s lounge" class="s2" fill="#ff8227"  d="m284 325l23 32-50 53-31-23z"/>
+		<text id="T-Player’s Lounge" style="transform: matrix(.606,-0.592,.592,.606,265.008,367.537)" >
+			<tspan x="-36.3" y="0" class="t3">Player’s
+</tspan>
+			<tspan x="-34.2" y="18" class="t3">Lounge
+</tspan>
+		</text>
+		<path id="SL4" class="s2" fill="#ff8227"  d="m243 544h64v47h-64z"/>
+		<text id="T-SL4" style="transform: matrix(.847,0,0,.847,255.126,571.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL4
+</tspan>
+		</text>
+		<path id="SL5" class="s2" fill="#ff8227"  d="m243 485h64v56h-64z"/>
+		<text id="T-SL5" style="transform: matrix(.847,0,0,.847,255.126,521.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL5
+</tspan>
+		</text>
+		<path id="SL6" class="s2" fill="#ff8227"  d="m243 403l64 45v34h-64z"/>
+		<text id="T-SL6" style="transform: matrix(.847,0,0,.847,255.126,461.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL6
+</tspan>
+		</text>
+		<path id="RECtangle 17" class="s2" fill="#ff8227"  d="m283 386.8l39.5 39.6-15.9 18.2-46.6-33.6z"/>
+		<text id="T-SL7" style="transform: matrix(.686,.476,-0.488,.703,276.363,411.941)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL7
+</tspan>
+		</text>
+		<path id="SL8" class="s2" fill="#ff8227"  d="m309 360.8l31.5 45.6-15.9 18.2-38.6-39.6z"/>
+		<text id="T-SL8" style="transform: matrix(.545,.633,-0.648,.558,299.081,386.559)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SL8
+</tspan>
+		</text>
+		<path id="SU4" class="s4" fill="#3a9948"  d="m181 544h60v47h-60z"/>
+		<text id="T-SU4" style="transform: matrix(.847,0,0,.847,195.126,571.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU4
+</tspan>
+		</text>
+		<path id="SU5" class="s4" fill="#3a9948"  d="m181 485h60v56h-60z"/>
+		<text id="T-SU5" style="transform: matrix(.847,0,0,.847,195.126,521.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU5
+</tspan>
+		</text>
+		<path id="SU6" class="s4" fill="#3a9948"  d="m181 359l60 43v79h-60z"/>
+		<text id="T-SU6" style="transform: matrix(.847,0,0,.847,195.126,440.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU6
+</tspan>
+		</text>
+		<path id="SU7" class="s4" fill="#3a9948"  d="m219 321l33 34-29 30-40-28z"/>
+		<text id="T-SU7" style="transform: matrix(.847,0,0,.847,205.126,360.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU7
+</tspan>
+		</text>
+		<path id="SU8" class="s4" fill="#3a9948"  d="m256 284l27 39-29 30-34-33z"/>
+		<text id="T-SU8" style="transform: matrix(.847,0,0,.847,238.126,325.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">SU8
+</tspan>
+		</text>
+	</g>
+	<g id="long side west">
+		<path id="RECtangle 5" class="s5" fill="#ed1c24"  d="m282 820h132v35h-156z"/>
+		<text id="T-EU1" style="transform: matrix(.847,0,0,.847,332.126,841.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">EU1
+</tspan>
+		</text>
+		<path id="EU3" class="s5" fill="#ed1c24"  d="m416 820h140v35h-140z"/>
+		<text id="T-EU3" style="transform: matrix(.847,0,0,.847,469.126,841.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">EU3
+</tspan>
+		</text>
+		<path id="EU5" class="s5" fill="#ed1c24"  d="m558 820h146v35h-146z"/>
+		<text id="T-EU5" style="transform: matrix(.847,0,0,.847,620.126,841.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">EU5
+</tspan>
+		</text>
+		<path id="EU7" class="s5" fill="#ed1c24"  d="m706 820h126l24 35h-150z"/>
+		<text id="T-EU7" style="transform: matrix(.847,0,0,.847,761.126,841.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">EU7
+</tspan>
+		</text>
+		<path id="MANAGERS" class="s6" fill="#ffae00"  d="m752 779h52l26 37h-78z"/>
+		<text id="T-MANAGERS" style="transform: matrix(.847,0,0,.847,752.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">MANAGERS
+</tspan>
+		</text>
+		<path id="CHAMPIONS" class="s6" fill="#ffae00"  d="m674 779h76v37h-76z"/>
+		<text id="T-CHAMPIONS" style="transform: matrix(.847,0,0,.847,678.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">CHAMPIONS
+</tspan>
+		</text>
+		<path id="OSSES" class="s6" fill="#ffae00"  d="m596 779h76v37h-76z"/>
+		<text id="T-OSSES" style="transform: matrix(.847,0,0,.847,613.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">OSSES
+</tspan>
+		</text>
+		<path id="EXEC_CLUB" class="s6" fill="#ffae00"  d="m518 779h76v37h-76z"/>
+		<text id="T-EXEC_CLUB" style="transform: matrix(.847,0,0,.847,525.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">EXEC CLUB
+</tspan>
+		</text>
+		<path id="CANALETTOS" class="s6" fill="#ffae00"  d="m439 779h76v37h-76z"/>
+		<text id="T-CANALETTOS" style="transform: matrix(.847,0,0,.847,439.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">CANALETTOS
+</tspan>
+		</text>
+		<path id="CENTENARY" class="s6" fill="#ffae00"  d="m361 779h76v37h-76z"/>
+		<text id="T-CENTENARY" style="transform: matrix(.847,0,0,.847,364.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">CENTENARY
+</tspan>
+		</text>
+		<path id="CAPTAINS" class="s6" fill="#ffae00"  d="m311 779h48v37h-74z"/>
+		<text id="T-CAPTAINS" style="transform: matrix(.847,0,0,.847,301.126,801.361)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">CAPTAINS
+</tspan>
+		</text>
+		<path id="ELS4" class="s8" fill="#00aeef"  d="m439 730h47v46h-47zm49 0h47v46h-47zm-99 0h48v46h-48zm-44 0h42v46h-74z"/>
+		<text id="T-ELS4" style="transform: matrix(.847,0,0,.847,342.126,760.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">ELS4
+</tspan>
+		</text>
+		<text id="T-ELS4" style="transform: matrix(.847,0,0,.847,391.126,761.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">ELS4
+</tspan>
+		</text>
+		<text id="T-ELS4" style="transform: matrix(.847,0,0,.847,442.126,761.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">ELS4
+</tspan>
+		</text>
+		<text id="T-ELS4" style="transform: matrix(.847,0,0,.847,491.126,761.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">ELS4
+</tspan>
+		</text>
+		<path id="ELN6" class="s8" fill="#00aeef"  d="m582 730h90v46h-90zm92 0h96l31 46h-127z"/>
+		<text id="T-ELN6" style="transform: matrix(.847,0,0,.847,606.126,761.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">ELN6
+</tspan>
+		</text>
+		<text id="T-ELN6" style="transform: matrix(.847,0,0,.847,697.126,761.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">ELN6
+</tspan>
+		</text>
+	</g>
+	<g id="long side north">
+		<path id="WV8" class="s5" fill="#ed1c24"  d="m765 282h91l-24 36h-67z"/>
+		<text id="T-WV8" style="transform: matrix(.847,0,0,.847,789.457,305.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV8
+</tspan>
+		</text>
+		<path id="WV7" class="s5" fill="#ed1c24"  d="m708 282h55v36h-55z"/>
+		<text id="T-WV7" style="transform: matrix(.847,0,0,.847,719.457,305.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV7
+</tspan>
+		</text>
+		<path id="WU6" class="s5" fill="#ed1c24"  d="m651 282h55v36h-55z"/>
+		<text id="T-WV6" style="transform: matrix(.847,0,0,.847,659.457,305.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV6
+</tspan>
+		</text>
+		<path id="WV5" class="s5" fill="#ed1c24"  d="m590 282h58v36h-58z"/>
+		<text id="T-WV5" style="transform: matrix(.847,0,0,.847,599.457,305.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV5
+</tspan>
+		</text>
+		<path id="WV4" class="s5" fill="#ed1c24"  d="m526 282h61v36h-61z"/>
+		<text id="T-WV4" style="transform: matrix(.847,0,0,.847,539.457,304.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV4
+</tspan>
+		</text>
+		<path id="WV3" class="s5" fill="#ed1c24"  d="m465 282h58v36h-58z"/>
+		<text id="T-WV3" style="transform: matrix(.847,0,0,.847,476.457,304.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV3
+</tspan>
+		</text>
+		<path id="WV2" class="s5" fill="#ed1c24"  d="m389 282h74v36h-74z"/>
+		<text id="T-WV2" style="transform: matrix(.847,0,0,.847,408.457,303.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV2
+</tspan>
+		</text>
+		<path id="WV1" class="s5" fill="#ed1c24"  d="m258 282h129v36h-104z"/>
+		<text id="T-WV1" style="transform: matrix(.847,0,0,.847,308.457,302.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WV1
+</tspan>
+		</text>
+		<path id="UTB/TAMBLING" class="s6" fill="#ffae00"  d="m301 344h90v21h-76z"/>
+		<text id="T-UTB/TAMBLING" style="transform: matrix(.79,0,0,.814,311,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">UTB/TAMBLING
+</tspan>
+		</text>
+		<path id="CLARKE" class="s6" fill="#ffae00"  d="m393 344h65v21h-65z"/>
+		<text id="T-CLARKE" style="transform: matrix(.79,0,0,.814,402,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">CLARKE
+</tspan>
+		</text>
+		<path id="HARRIS" class="s6" fill="#ffae00"  d="m461 344h54v21h-54z"/>
+		<text id="T-HARRIS" style="transform: matrix(.79,0,0,.814,468,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">HARRIS
+</tspan>
+		</text>
+		<path id="DIRECTORS" class="s6" fill="#ffae00"  d="m517 344h77v21h-77z"/>
+		<text id="T-DIRECTORS" style="transform: matrix(.79,0,0,.814,526,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">DIRECTORS
+</tspan>
+		</text>
+		<path id="DRAKES" class="s6" fill="#ffae00"  d="m597 344h58v21h-58z"/>
+		<text id="T-DRAKES" style="transform: matrix(.79,0,0,.814,604,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">DRAKES
+</tspan>
+		</text>
+		<path id="BONNETI" class="s6" fill="#ffae00"  d="m658 344h70v21h-70z"/>
+		<text id="T-BONNETI" style="transform: matrix(.79,0,0,.814,669,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">BONNETI
+</tspan>
+		</text>
+		<path id="HOLLINS/UTB" class="s6" fill="#ffae00"  d="m731 344h82l-15 21h-67z"/>
+		<text id="T-HOLLINS/UTB" style="transform: matrix(.79,0,0,.814,732,357.035)" >
+			<tspan x="0" y="0" class="t7" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">HOLLINS/UTB
+</tspan>
+		</text>
+		<path id="MILLENNIUM_SUITES" class="s6" fill="#ffae00"  d="m285 321h544l-15 21h-515z"/>
+		<text id="T-MILLENNIUM SUITES" style="transform: matrix(.847,0,0,.847,478.457,337.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">MILLENNIUM SUITES
+</tspan>
+		</text>
+		<path id="WL2" class="s8" fill="#00aeef"  d="m397 367h66v39h-66z"/>
+		<text id="T-WL2" style="transform: matrix(.847,0,0,.847,413.126,392.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL2
+</tspan>
+		</text>
+		<path id="WL3" class="s9" fill="#0000ff"  d="m465 367h58v39h-58z"/>
+		<text id="T-WL3" style="transform: matrix(.847,0,0,.847,479.126,392.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL3
+</tspan>
+		</text>
+		<path id="WL4" class="s9" fill="#0000ff"  d="m526 367h61v39h-61z"/>
+		<text id="T-WL4" style="transform: matrix(.847,0,0,.847,539.126,392.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL4
+</tspan>
+		</text>
+		<path id="WL5" class="s9" fill="#0000ff"  d="m589 367h59v39h-59z"/>
+		<text id="T-WL5" style="transform: matrix(.847,0,0,.847,600.126,392.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL5
+</tspan>
+		</text>
+		<path id="WL6" class="s8" fill="#00aeef"  d="m651 367h55v39h-55z"/>
+		<text id="T-WL6" style="transform: matrix(.847,0,0,.847,661.126,392.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL6
+</tspan>
+		</text>
+		<path id="WL8" class="s8" fill="#00aeef"  d="m756 367h41l-27 39h-28z"/>
+		<text id="T-WL8" style="transform: matrix(.75,0,0,.856,751,392.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL8
+</tspan>
+		</text>
+		<path id="WL1" class="s8" fill="#00aeef"  d="m317 367h78v39h-51z"/>
+		<text id="T-WL1" style="transform: matrix(.847,0,0,.847,344.126,392.361)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL1
+</tspan>
+		</text>
+		<path id="WL7" class="s8" fill="#00aeef"  d="m708 367h45l-14 39h-31z"/>
+		<text id="T-WL7" style="transform: matrix(.851,0,0,.856,710,392.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">WL7
+</tspan>
+		</text>
+	</g>
+	<g id="short side right">
+		<path id="L16" class="s2" fill="#ff8227"  d="m805 695l61.7 43.1-51.7 51.9-42-59z"/>
+		<text id="T-L16" style="transform: matrix(.851,0,0,.856,805,741.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L16
+</tspan>
+		</text>
+		<path id="L15" class="s2" fill="#ff8227"  d="m807 680h61v56l-61-43z"/>
+		<text id="T-L15" style="transform: matrix(.851,0,0,.856,827,700.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L15
+</tspan>
+		</text>
+		<path id="L14" class="s2" fill="#ff8227"  d="m807 636h61v41h-61z"/>
+		<text id="T-L14" style="transform: matrix(.851,0,0,.856,827,659.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L14
+</tspan>
+		</text>
+		<path id="L13" class="s2" fill="#ff8227"  d="m807 595h61v38h-61z"/>
+		<text id="T-L13" style="transform: matrix(.851,0,0,.856,827,618.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L13
+</tspan>
+		</text>
+		<path id="L12" class="s2" fill="#ff8227"  d="m807 550h61v43h-61z"/>
+		<text id="T-L12" style="transform: matrix(.851,0,0,.856,827,574.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L12
+</tspan>
+		</text>
+		<path id="L11" class="s2" fill="#ff8227"  d="m807 506h61v42h-61z"/>
+		<text id="T-L11" style="transform: matrix(.851,0,0,.856,827,533.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L11
+</tspan>
+		</text>
+		<path id="L10" class="s2" fill="#ff8227"  d="m807 461h61v42h-61z"/>
+		<text id="T-L10" style="transform: matrix(.851,0,0,.856,827,487.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L10
+</tspan>
+		</text>
+		<path id="L09" class="s2" fill="#ff8227"  d="m807 444l61-43v57h-61z"/>
+		<text id="T-L09" style="transform: matrix(.851,0,0,.856,827,448.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L09
+</tspan>
+		</text>
+		<path id="L08" class="s2" fill="#ff8227"  d="m774 406l41-60 52 52-61 44z"/>
+		<text id="T-L08" style="transform: matrix(.851,0,0,.856,807,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L08
+</tspan>
+		</text>
+		<path id="U17" class="s4" fill="#3a9948"  d="m841 769l52 52-34 34-42-62z"/>
+		<text id="T-U17" style="transform: matrix(.851,0,0,.856,836,812.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U17
+</tspan>
+		</text>
+		<path id="U16" class="s4" fill="#3a9948"  d="m869 740l61.7 43.1-35.7 35.9-52-53z"/>
+		<text id="T-U16" style="transform: matrix(.851,0,0,.856,872,781.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U16
+</tspan>
+		</text>
+		<path id="U15" class="s4" fill="#3a9948"  d="m870 680h61v100l-61-43z"/>
+		<text id="T-U15" style="transform: matrix(.851,0,0,.856,883,720.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U15
+</tspan>
+		</text>
+		<path id="U14" class="s4" fill="#3a9948"  d="m870 636h61v41h-61z"/>
+		<text id="T-U14" style="transform: matrix(.851,0,0,.856,883,659.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U14
+</tspan>
+		</text>
+		<path id="U13" class="s4" fill="#3a9948"  d="m870 595h61v38h-61z"/>
+		<text id="T-U13" style="transform: matrix(.851,0,0,.856,883,618.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U13
+</tspan>
+		</text>
+		<path id="U12" class="s4" fill="#3a9948"  d="m870 550h61v43h-61z"/>
+		<text id="T-U12" style="transform: matrix(.851,0,0,.856,883,577.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U12
+</tspan>
+		</text>
+		<path id="U11" class="s4" fill="#3a9948"  d="m870 506h61v42h-61z"/>
+		<text id="T-U11" style="transform: matrix(.851,0,0,.856,884,528.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U11
+</tspan>
+		</text>
+		<path id="U10" class="s4" fill="#3a9948"  d="m870 461h61v42h-61z"/>
+		<text id="T-U10" style="transform: matrix(.851,0,0,.856,884,488.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U10
+</tspan>
+		</text>
+		<path id="U09" class="s4" fill="#3a9948"  d="m870 399l61-43v102h-61z"/>
+		<text id="T-U09" style="transform: matrix(.851,0,0,.856,884,428.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U09
+</tspan>
+		</text>
+		<path id="U08" class="s4" fill="#3a9948"  d="m817 343l41-59 70 70-58 42z"/>
+		<text id="T-U08" style="transform: matrix(.851,0,0,.856,851,351.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">U08
+</tspan>
+		</text>
+	</g>
+</svg>

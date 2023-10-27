@@ -1,0 +1,574 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 961.5 672.8" style="enable-background:new 0 0 961.5 672.8;" xml:space="preserve" class="svg-stadium">
+	<style>
+	.st0 {
+		fill: #599D52;
+	}
+	
+	.st1 {
+		fill: none;
+		stroke: #FFFFFF;
+		stroke-miterlimit: 10;
+	}
+	
+	.st2 {
+		fill: none;
+		stroke: #FFFFFF;
+		stroke-width: 0.75;
+		stroke-miterlimit: 10;
+	}
+	
+	.st3 {
+		fill: none;
+		stroke: #000000;
+		stroke-miterlimit: 10;
+	}
+	
+	.st4 {
+		font-family: 'DMSans-Bold';
+	}
+	
+	.st5 {
+		font-size: 15px;
+	}
+	
+	.st6 {
+		font-family: 'DMSans-Medium';
+	}
+	
+	.st7 {
+		font-size: 10px;
+	}
+	
+	.st8 {
+		font-size: 8px;
+	}
+	</style>
+	<g class="field">
+		<rect x="293.1" y="216" class="st0" width="381.3" height="241.6" />
+		<ellipse class="st1" cx="486.2" cy="338.6" rx="38.7" ry="37"></ellipse>
+		<line class="st2" x1="485.6" y1="225.5" x2="485.6" y2="447.6"></line>
+		<rect x="307.8" y="225.5" class="st2" width="352.3" height="222.1"></rect>
+		<rect x="307.8" y="261.7" class="st1" width="54.4" height="159"></rect>
+		<rect x="307.8" y="304.1" class="st1" width="19.8" height="74"></rect>
+		<path class="st1" d="M362.1,372.2c0,0,24.4-29.7-0.1-57.8"></path>
+		<rect x="299" y="326.8" class="st1" width="8.9" height="24.8"></rect>
+		<g style="cursor: pointer;">
+			<rect x="606" y="261.7" class="st1" width="54.4" height="159"></rect>
+			<rect x="640.5" y="304.1" class="st1" width="19.8" height="74"></rect>
+			<path class="st1" d="M606.1,314.2c-24.5,28.1-0.1,57.8-0.1,57.8"></path>
+			<rect x="660.2" y="326.8" class="st1" width="8.9" height="24.8"></rect>
+		</g>
+		<path class="st1" d="M307.8,233.9c0,0,8.1-0.9,8.8-8.3"></path>
+		<path class="st1" d="M315.2,447.6c0,0,0.3-7.7-7.4-9.5"></path>
+		<path class="st1" d="M652,225.5c0,0,0.4,7.7,8.2,8.9"></path>
+		<path class="st1" d="M660.4,438.7c0,0-8,1.5-8.1,8.9"></path>
+		<g data-stand="tribuna-lateral">
+			<text transform="matrix(1 0 0 1 421.4997 14.7994)" class="st4 st5 stand-label" style="">TRIBUNA LATERAL</text>
+		</g>
+		<g data-stand="corner-norte">
+			<text transform="matrix(0.4798 -0.8774 0.8774 0.4798 70.0384 115.7716)" class="st6 st7 stand-label" style="">CORNER NORTE</text>
+		</g>
+		<g data-stand="corner-norte">
+			<text transform="matrix(0.5302 0.8479 -0.8479 0.5302 63.7051 558.4596)" class="st6 st7 stand-label" style="">CORNER NORTE</text>
+		</g>
+		<g data-stand="tribuna">
+			<text transform="matrix(1 0 0 1 454.4997 667.7994)" class="st4 st5 stand-label" style="">TRIBUNA</text>
+		</g>
+		<g data-stand="gol-norte">
+			<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 14.4094 380.0689)" class="st4 st5 stand-label" style="">GOL NORTE</text>
+		</g>
+		<g data-stand="corner-sur">
+			<text transform="matrix(0.4557 -0.8901 0.8901 0.4557 863.2711 626.1353)" class="st6 st7 stand-label" style="">CORNER SUR</text>
+		</g>
+		<g data-stand="corner-sur">
+			<text transform="matrix(0.5302 0.8479 -0.8479 0.5302 859.5126 50.1977)" class="st6 st7 stand-label" style="">CORNER SUR</text>
+		</g>
+		<g data-stand="gol-sur">
+			<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 946.694 305.8512)" class="st4 st5 stand-label" style="">GOL SUR</text>
+		</g>
+	</g>
+
+	<g data-category="tribuna-lateral">
+		<g data-section="tribuna-lateral_215">
+			<polygon class="st3 block" points="239.5,68.2 244,124.8 301.8,124.8 290.5,38.5 282.3,39.5 286.5,68.2" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 263.125 96.4483)" class="st6 st7 section-label">215</text>
+		</g>
+
+		<g data-section="tribuna-lateral_223">
+			<path class="st3 block" d="M676,37.5c-4.2,29.1-8.5,58.2-12.7,87.3h51.9l7.1-56.8h-38.7c0.8-9.9,1.5-19.8,2.3-29.8
+		C682.6,37.9,679.3,37.7,676,37.5z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 686.1249 96.4483)" class="st6 st7 section-label">223</text>
+		</g>
+
+		<g data-section="tribuna-lateral_123">
+			<polygon class="st3 block" points="635.7,128.9 635.7,204 673.8,204 692.8,128.9 	" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 652.455 167.1102)" class="st6 st7 section-label">123</text>
+		</g>
+
+		<g data-section="tribuna-lateral_122">
+			<rect x="589.1" y="128.9" class="st3 block" width="42.9" height="75.1" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 604.455 167.1102)" class="st6 st7 section-label">122</text>
+		</g>
+
+		<g data-section="tribuna-lateral_121">
+			<rect x="537.7" y="128.9" class="st3 block" width="47.3" height="75.1" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 556.455 167.1102)" class="st6 st7 section-label">121</text>
+		</g>
+
+		<g data-section="tribuna-lateral_120">
+			<rect x="482.7" y="128.9" class="st3 block" width="51.4" height="75.1" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 501.455 167.1102)" class="st6 st7 section-label">120</text>
+		</g>
+
+		<g data-section="tribuna-lateral_119">
+			<rect x="433.2" y="128.9" class="st3 block" width="45.7" height="75.1" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 450.455 167.1102)" class="st6 st7 section-label">119</text>
+		</g>
+
+		<g data-section="tribuna-lateral_118">
+			<rect x="384.8" y="128.9" class="st3 block" width="44.3" height="75.1" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 401.455 167.1102)" class="st6 st7 section-label">118</text>
+		</g>
+
+		<g data-section="tribuna-lateral_117">
+			<polygon class="st3 block" points="335,128.9 342.3,204 381,204 381,128.9 	" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 354.455 167.1102)" class="st6 st7 section-label">117</text>
+		</g>
+
+		<g data-section="tribuna-lateral_116">
+			<polygon class="st3 block" points="272.7,128.9 296.7,204 337.8,204 331.3,128.9 	" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 304.455 167.1102)" class="st6 st7 section-label">116</text>
+		</g>
+
+		<g data-section="tribuna-lateral_216">
+			<path class="st3 block" d="M293.8,38.2c4,28.9,8,57.8,11.9,86.6c17.4,0,34.8,0,52.3,0.1c-2.9-30.3-5.9-60.6-8.8-91
+		c-6.8,0.3-13.6,0.7-20.6,1.2C316.7,35.9,305.1,36.9,293.8,38.2z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 318.125 76.4483)" class="st6 st7 section-label">216</text>
+		</g>
+
+		<g data-section="tribuna-lateral_217">
+			<path class="st3 block" d="M353.4,33.4l7.6,91.4h40.9V31.1C401.9,31.1,371.4,31.6,353.4,33.4z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 374.125 76.4483)" class="st6 st7 section-label">217</text>
+		</g>
+
+		<g data-section="tribuna-lateral_218">
+			<path class="st3 block" d="M453,124.8c0-31.8,0-63.5,0-95.3c-5.7,0-11.5,0.1-17.4,0.2c-10.1,0.2-20,0.6-29.7,1.1c0,0.2,0,94,0,94H453z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 423.125 76.4483)" class="st6 st7 section-label">218</text>
+		</g>
+
+		<g data-section="tribuna-lateral_219">
+			<rect x="456.8" y="29.5" class="st3 block" width="50.3" height="95.3" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 476.125 76.4483)" class="st6 st7 section-label">219</text>
+		</g>
+
+		<g data-section="tribuna-lateral_220">
+			<path class="st3 block" d="M511,124.8c0-31.8,0-63.5,0-95.3c5.9,0,11.9,0.1,18,0.2c10.5,0.2,20.7,0.6,30.7,1.1c0,0.2,0,94,0,94H511z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 527.125 76.4483)" class="st6 st7 section-label">220</text>
+		</g>
+
+		<g data-section="tribuna-lateral_221">
+			<path class="st3 block" d="M563.1,124.8c14.1,0,28.1-0.1,42.2-0.1c4.1-30.4,8.2-60.8,12.3-91.2c-7.6-0.5-15.2-1-23-1.4
+		c-10.7-0.6-21.3-1-31.6-1.3C563,62.2,563,93.5,563.1,124.8z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 581.1249 76.4483)" class="st6 st7 section-label">221</text>
+		</g>
+
+		<g data-section="tribuna-lateral_222">
+			<path class="st3 block" d="M610.6,124.7h48.5c4.2-29.3,8.5-58.5,12.7-87.8c-8.3-0.9-16.8-1.6-25.6-2.2c-8.4-0.6-16.5-1-24.4-1.3
+		C618.1,63.9,614.3,94.3,610.6,124.7z" data-seat="tribuna-lateral" />
+			<text transform="matrix(1 0 0 1 635.1249 76.4483)" class="st6 st7 section-label">222</text>
+		</g>
+	</g>
+
+	<g data-category="vip">
+		<g data-section="vip_238">
+			<rect x="510.5" y="548.3" class="st3 block" width="49.8" height="92.9" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 527.1249 603.4483)" class="st6 st7 section-label">238</text>
+		</g>
+
+		<g data-section="vip_200">
+			<rect x="459.5" y="548.3" class="st3 block" width="47.3" height="92.9" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 474.125 603.4483)" class="st6 st7 section-label">200</text>
+		</g>
+
+		<g data-section="vip_201">
+			<rect x="408.5" y="548.3" class="st3 block" width="47.3" height="92.9" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 425.125 603.4483)" class="st6 st7 section-label">201</text>
+		</g>
+
+		<g data-section="vip_202">
+			<rect x="357.5" y="548.3" class="st3 block" width="46.9" height="48.3" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 373.125 577.4483)" class="st6 st7 section-label">202</text>
+		</g>
+
+		<g data-section="vip_101b">
+			<polygon class="st3 block" points="434.8,471.1 434.8,510.7 463.5,510.7 463.5,495.2 482,495.2 482,471.1 	" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 448.455 488.1102)" class="st6 st7 section-label">101B</text>
+		</g>
+
+		<g data-section="vip_138b">
+			<path class="st3 block" d="M528.6,471.1v39.6c-8,0-16.1,0-24.1,0c0-5.2-0.1-10.4-0.1-15.6c-6.2,0-12.5,0.1-18.7,0.1v-24.1H528.6z" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 495.455 488.1102)" class="st6 st7 section-label">138B</text>
+		</g>
+
+		<g data-section="vip_138a">
+			<rect x="504.8" y="514.8" class="st3 block" width="23.8" height="30.3" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 509.7754 529.1102)" class="section-label">
+				<tspan x="0" y="0" class="st6 st7">138</tspan>
+				<tspan x="4.3" y="10" class="st6 st7">A</tspan>
+			</text>
+		</g>
+
+		<g data-section="vip_101a">
+			<rect x="434.8" y="515.5" class="st3 block" width="28.7" height="29.6" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 442.705 529.1102)" class="section-label">
+				<tspan x="0" y="0" class="st6 st7">101</tspan>
+				<tspan x="3.3" y="10" class="st6 st7">A</tspan>
+			</text>
+		</g>
+
+		<g data-section="vip_palco">
+			<rect x="467.8" y="500" class="st3 block" width="33.3" height="45.1" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 471.1313 525.1102)" class="st6 st8 section-label">PALCO</text>
+		</g>
+
+		<g data-section="vip_237">
+			<polygon class="st3 block" points="563.6,548.3 563.6,598.1 614,598.1 611.4,548.3 	" data-seat="vip" />
+			<text transform="matrix(1 0 0 1 580.1249 577.4483)" class="st6 st7 section-label">237</text>
+		</g>
+	</g>
+
+	<g data-category="tribuna">
+		<g data-section="tribuna_noval-1">
+			<polygon class="st3 block" points="563.6,601.2 563.6,641.2 617,638.5 614.8,601.2" data-seat="tribuna" />
+		</g>
+
+		<g data-section="tribuna_noval-2">
+			<polygon class="st3 block" points="357.5,599 357.5,638.3 404.4,641.2 404.4,599 	" data-seat="tribuna" />
+		</g>
+
+		<g data-section="tribuna_235">
+			<polygon class="st3 block" points="664.3,548.3 671.1,597.3 706.1,597.3 697.7,548.3 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 677.1249 577.4483)" class="st6 st7 section-label">235</text>
+		</g>
+
+		<g data-section="tribuna_236">
+			<polygon class="st3 block" points="614.9,548.3 620.1,638.2 672.8,633.7 660.8,548.3 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 634.1249 603.4483)" class="st6 st7 section-label">236</text>
+		</g>
+
+		<g data-section="tribuna_203">
+			<path class="st3 block" d="M299.2,632.4c9,1.3,18.3,2.4,27.8,3.4c9,1,17.8,1.8,26.4,2.4c0-30,0-60,0-89.9h-45.3L299.2,632.4z" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 320.125 603.4483)" class="st6 st7 section-label">203</text>
+		</g>
+
+		<g data-section="tribuna_204">
+			<polygon class="st3 block" points="256.3,548.3 250.7,597.5 299.2,597.5 304.5,548.3 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 269.125 577.4483)" class="st6 st7 section-label">204</text>
+		</g>
+
+		<g data-section="tribuna_104">
+			<polygon class="st3 block" points="300.2,471.1 271.5,545.1 325.6,545.1 338.3,471.1 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 301.455 517.1102)" class="st6 st7 section-label">104</text>
+		</g>
+
+		<g data-section="tribuna_103">
+			<polygon class="st3 block" points="341.3,471.1 329.6,545.1 376.5,545.1 387.2,471.1 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 350.455 517.1102)" class="st6 st7 section-label">103</text>
+		</g>
+
+		<g data-section="tribuna_102">
+			<polygon class="st3 block" points="380.2,545.1 390.4,471.1 430.4,471.1 430.4,545.1 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 399.455 517.1102)" class="st6 st7 section-label">102</text>
+		</g>
+
+		<g data-section="tribuna_137">
+			<rect x="532.8" y="471.1" class="st3 block" width="25.9" height="74" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 538.455 517.1102)" class="st6 st7 section-label">137</text>
+		</g>
+
+		<g data-section="tribuna_136">
+			<polygon class="st3 block" points="608.1,471.1 608.1,545.1 636.5,545.1 634.6,471.1 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 614.455 517.1102)" class="st6 st7 section-label">136</text>
+		</g>
+
+		<g data-section="tribuna_135">
+			<polygon class="st3 block" points="638,471.1 640.3,545.1 693.1,545.1 674.4,471.1 	" data-seat="tribuna" />
+			<text transform="matrix(1 0 0 1 653.455 517.1102)" class="st6 st7 section-label">135</text>
+		</g>
+	</g>
+	<g data-category="gol-sur">
+		<g data-section="gol-sur_227">
+			<path class="st3 block" d="M879.8,274.5l49.3-13.6c-2-12.8-4.3-22.9-6-29.7c-2-7.8-5.7-21.5-5.7-21.5l0,0l-49.5,16.7
+		c2.4,7.2,4.8,15.1,6.9,23.6C876.9,258.7,878.5,266.9,879.8,274.5z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 893.1249 246.4483)" class="st6 st7 section-label">227</text>
+		</g>
+
+		<g data-section="gol-sur_228">
+			<path class="st3 block" d="M880.4,277.9c0.7,4.5,1.4,9,2,13.6c1.2,8.7,2.2,17.2,2.9,25.5c16.5,0,32.9,0,49.4,0
+		c-0.5-9.3-1.2-18.9-2.2-28.9c-0.8-8.1-1.7-16-2.8-23.7C913.3,268.9,896.8,273.4,880.4,277.9z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 902.1249 298.4483)" class="st6 st7 section-label">228</text>
+		</g>
+
+		<g data-section="gol-sur_229">
+			<path class="st3 block" d="M885.5,320.4c-0.2,11.6-0.4,23.2-0.5,34.7c16.4,0.1,32.7,0.1,49.1,0.2c0,0,1.2-22.9,0.9-34.9
+		C935,320.4,885.5,320.4,885.5,320.4z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 903.1249 341.4483)" class="st6 st7 section-label">229</text>
+		</g>
+
+		<g data-section="gol-sur_230">
+			<path class="st3 block" d="M881.2,396.5c15.9,3.9,31.7,7.7,47.6,11.6c1.1-7.5,2-15.2,2.9-23.2c1-8.8,1.7-17.4,2.4-25.7
+		c-16.4,0.2-32.8,0.3-49.2,0.5c-0.1,2.9-0.2,5.9-0.4,8.9C883.9,378.5,882.7,387.8,881.2,396.5z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 900.1249 384.4483)" class="st6 st7 section-label">230</text>
+		</g>
+
+		<g data-section="gol-sur_231">
+			<path class="st3 block" d="M868.9,450.1l45.9,15.2c2.2-7.8,4.3-15.8,6.4-24.1c2.6-10.5,4.8-20.7,6.8-30.6c-15.8-3.5-31.6-7-47.5-10.5
+		C880.5,400.1,876.1,426.9,868.9,450.1z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 893.1249 436.4483)" class="st6 st7 section-label">231</text>
+		</g>
+
+		<g data-section="gol-sur_131">
+			<path class="st3 block" d="M775.2,415.2l84.5,47.8c0,0,9.1-21.4,13.9-47.2L788,387.7C788,387.7,782.8,401.9,775.2,415.2z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 826.455 426.1102)" class="st6 st7 section-label">131</text>
+		</g>
+
+		<g data-section="gol-sur_130">
+			<path class="st3 block" d="M789,384.9c28.4,9.3,56.7,18.6,85.1,28c0,0,4.7-20.9,7.5-46.8l-87.8-9.7c-0.2,2.9-0.5,5.8-0.9,8.9
+		C791.9,372.4,790.5,379,789,384.9z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 835.455 384.1102)" class="st6 st7 section-label">130</text>
+		</g>
+
+		<g data-section="gol-sur_129">
+			<path class="st3 block" d="M793.8,316.8v36.5c29.3,3.1,58.6,6.2,87.8,9.4c-0.2-17.7-0.5-35.5-0.7-53.2
+		C851.9,311.9,822.8,314.3,793.8,316.8z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 837.455 340.1102)" class="st6 st7 section-label">129</text>
+		</g>
+
+		<g data-section="gol-sur_128">
+			<path class="st3 block" d="M787.6,286.5c0.8,2.8,1.5,5.8,2.2,8.8c1.5,6.4,2.6,12.6,3.5,18.4c29.1-2.6,58.1-5.2,87.2-7.8
+		c-0.7-7.3-1.6-14.8-2.7-22.6c-1.2-8.4-2.5-16.5-4-24.2C845,268.2,816.3,277.4,787.6,286.5z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 834.455 293.1102)" class="st6 st7 section-label">128</text>
+		</g>
+
+		<g data-section="gol-sur_127">
+			<path class="st3 block" d="M773.5,257.3c2.1,3.3,4.3,7.1,6.4,11.2c2.7,5.4,4.8,10.5,6.4,15.1c0.1,0,86.7-27.7,86.7-27.7
+		s-6.7-28.6-15.4-48.1L773.5,257.3z" data-seat="gol-sur" />
+			<text transform="matrix(1 0 0 1 823.455 253.1102)" class="st6 st7 section-label">127</text>
+		</g>
+	</g>
+
+	<g data-category="corner-sur">
+		<g data-section="corner-sur_224">
+			<polygon class="st3 block" points="718.5,124.7 725.7,67.9 800.3,67.9 788.3,124.7 	" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 750.1249 96.4483)" class="st6 st7 section-label">224</text>
+		</g>
+
+		<g data-section="corner-sur_225">
+			<path class="st3 block" d="M838.6,162.9c17.6-9,35.3-18,52.9-27.1c-4-9.6-8.4-19.5-13.3-29.7c-6.5-13.6-13.2-26.3-19.8-38.1
+		c-18.5,0-36.9,0-55.4,0l-11.4,57.2c6.9,0.1,13.7,0.3,20.6,0.4c3.5,4.4,7.1,9,10.6,13.8C828.8,147.4,834,155.3,838.6,162.9z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 834.1249 107.4483)" class="st6 st7 section-label">225</text>
+		</g>
+
+		<g data-section="corner-sur_226">
+			<path class="st3 block" d="M866.8,223.5c16.6-5.6,33.2-11.2,49.8-16.8c-3.2-11.5-7-23.5-11.4-36.1c-3.9-11-7.9-21.3-12-31.1
+		c-17.7,8.8-35.4,17.6-53.1,26.4c3.5,5.8,7,12.1,10.4,18.8C857.4,198.5,862.7,211.6,866.8,223.5z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 874.1249 187.4483)" class="st6 st7 section-label">226</text>
+		</g>
+
+		<g data-section="corner-sur_232">
+			<path class="st3 block" d="M843.2,508.3c15.7,8,31.4,16.1,47.1,24.1c2.8-6.6,5.6-13.5,8.4-20.5c5.8-15,15.2-43.6,15.2-43.6l-46.4-15.2
+		c-4.4,11.7-9.4,23.8-15.1,36.4C849.3,496,846.3,502.2,843.2,508.3z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 872.1249 494.4483)" class="st6 st7 section-label">232</text>
+		</g>
+
+		<g data-section="corner-sur_233">
+			<path class="st3 block" d="M795.7,548.3l6.1,49h56.9l30.4-61.3c-16.1-8.1-32.1-16.3-48.2-24.4c-2.4,4.9-5.4,10.2-9.1,15.7
+		c-5.7,8.5-11.6,15.5-17,21.1C808.5,548.3,802.1,548.3,795.7,548.3z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 833.1249 567.4483)" class="st6 st7 section-label">233</text>
+		</g>
+
+		<g data-section="corner-sur_234">
+			<polygon class="st3 block" points="701.6,548.3 709.8,597.3 799,597.3 792,548.3 	" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 744.1249 577.4483)" class="st6 st7 section-label">234</text>
+		</g>
+
+		<g data-section="corner-sur_134">
+			<path class="st3 block" d="M677.7,470.9l18.7,74c11.9,0.2,24.4,0.2,37.4-0.3c8.9-0.3,17.5-0.8,25.8-1.4c-15.4-26.3-30.8-52.7-46.3-79
+		c-3.2,0.9-6.6,1.8-10.1,2.5C694.2,468.8,685.6,470.1,677.7,470.9z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 707.455 517.1102)" class="st6 st7 section-label">134</text>
+		</g>
+
+		<g data-section="corner-sur_133">
+			<path class="st3 block" d="M715.7,463l47.2,79.1c3-1.2,6.2-2.8,9.6-4.6c4.7-2.6,8.6-5.3,11.9-7.9c3.3,4.3,6.7,8.6,10,12.8
+		c4.2-2.6,8.6-5.4,13.1-8.6c6-4.3,11.4-8.6,16.3-12.7c-25.9-24.8-51.7-49.7-77.6-74.5C746.3,446.5,731.4,457,715.7,463z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 760.455 504.1102)" class="st6 st7 section-label">133</text>
+		</g>
+
+		<g data-section="corner-sur_132">
+			<path class="st3 block" d="M748.9,444.3l77.2,74.3c4.2-5,8.5-10.6,12.7-16.7c8.8-12.8,15.1-25.1,19.8-36l-85.3-47.9
+		C773.4,417.9,763,432.2,748.9,444.3z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 803.455 470.1102)" class="st6 st7 section-label">132</text>
+		</g>
+
+		<g data-section="corner-sur_126">
+			<path class="st3 block" d="M747,228.9c0,0,12.4,10.6,24.9,26.4c0,0.1,84.3-49.4,84.3-49.4s-14.9-34-34.7-49.9L747,228.9z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 793.455 213.1102)" class="st6 st7 section-label">126</text>
+		</g>
+
+		<g data-section="corner-sur_125">
+			<path class="st3 block" d="M709.8,208.8c0,0,21.9,9.9,34.3,18.3c24.7-24.6,49.3-49.1,74-73.7c-3.3-2.9-6.8-5.8-10.5-8.7
+		c-4.3-3.4-8.5-6.5-12.6-9.3c-3.6,4.7-7.3,9.5-10.9,14.2c-2.3-2-4.9-4.1-7.9-6.1c-5.9-4.1-11.6-6.9-16.5-8.9
+		C743.1,159.4,726.5,184.1,709.8,208.8z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 752.455 181.1102)" class="st6 st7 section-label">125</text>
+		</g>
+
+		<g data-section="corner-sur_124">
+			<path class="st3 block" d="M696.8,128.9l-19,75.1c0,0,17.5,1.4,28.5,3.9l50.3-74.9c0,0-7.9-3.4-16.5-4.1
+		C740.1,129,696.8,128.9,696.8,128.9z" data-seat="corner-sur" />
+			<text transform="matrix(1 0 0 1 703.455 167.1102)" class="st6 st7 section-label">124</text>
+		</g>
+	</g>
+	<g data-category="corner-norte">
+		<g data-section="corner-norte_212">
+			<path class="st3 block" d="M49.5,202l50,17.1c3.1-9.5,7.1-20,12.3-31.1c4.3-9.2,8.8-17.4,13.3-24.7c-17.3-9.4-34.7-18.8-52-28.2l0,0
+		C73.1,135.1,59.1,167.5,49.5,202z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 78.4166 182.9118)" class="st6 st7 section-label">212</text>
+		</g>
+
+		<g data-section="corner-norte_213p">
+			<path class="st3 block" d="M74.7,132l52,28.8c0,0,14.5-22.3,23.3-33.2l-43.3-55.9C106.7,71.7,89.3,98,74.7,132z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 102.6423 126.8278)" class="st6 st7 section-label">213P</text>
+		</g>
+
+		<g data-section="corner-norte_213s">
+			<polygon class="st3 block" points="108.4,68 152,124.8 179.8,124.8 171.6,68 	" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 144.125 96.4483)" class="st6 st7 section-label">213S</text>
+		</g>
+
+		<g data-section="corner-norte_214">
+			<polygon class="st3 block" points="174.9,68 184,124.8 239.5,124.8 235.8,68 	" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 203.125 96.4483)" class="st6 st7 section-label">214</text>
+		</g>
+
+		<g data-section="corner-norte_205">
+			<path class="st3 block" d="M184.7,548.3l-7.2,49.2h70.1c1.8-16.4,3.5-32.8,5.3-49.1C230.2,548.4,207.5,548.3,184.7,548.3z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 206.125 577.4483)" class="st6 st7 section-label">205</text>
+		</g>
+
+		<g data-section="corner-norte_206p">
+			<polygon class="st3 block" points="112.4,597.5 173.5,597.5 181.1,548.3 151.9,548.3 	" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 144.125 577.4483)" class="st6 st7 section-label">206P</text>
+		</g>
+
+		<g data-section="corner-norte_206s">
+			<path class="st3 block" d="M75.6,535.9c0,0,11,29.1,33,60.4c13.5-16.6,27.1-33.2,40.6-49.9c-3.2-4-6.4-8.2-9.6-12.8
+		c-4.5-6.4-8.4-12.6-11.9-18.5L75.6,535.9z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 99.125 552.4483)" class="st6 st7 section-label">206S</text>
+		</g>
+
+		<g data-section="corner-norte_207">
+			<path class="st3 block" d="M50.4,468.2c1.8,6.6,3.9,13.4,6.2,20.3c5.4,16.1,11.4,30.8,17.6,44c17.2-6.7,34.5-13.4,51.7-20.2
+		c-3.4-5.9-6.7-12.2-10-18.8c-6.7-13.4-12.1-26.4-16.6-38.5C83,459.4,66.7,463.8,50.4,468.2z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 78.125 497.4483)" class="st6 st7 section-label">207</text>
+		</g>
+
+		<g data-section="corner-norte_107">
+			<path class="st3 block" d="M139.7,521c26.6-24.1,53.2-48.3,79.8-72.4c0,0-19.8-16.9-27.9-28.9c0,0,0,0,0,0c0,0-27.8,16.3-83.4,49
+		c4.2,8.8,7.5,15.9,9.6,20.4c5,10.8,6.8,14.9,10.7,20.2C132.6,514.8,136.8,518.6,139.7,521z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 153.125 470.4483)" class="st6 st7 section-label">107</text>
+		</g>
+
+		<g data-section="corner-norte_106">
+			<path class="st3 block" d="M142.9,523.5c3.6,2.5,7.3,5.1,11.1,7.6c4.4,2.9,8.8,5.7,13.1,8.4c1.8-2.7,3.6-5.3,5.3-8
+		c4.3,1.7,8.9,3.3,13.9,4.8c6.5,2,12.7,3.5,18.4,4.7c18.2-24.8,36.4-49.6,54.6-74.4c-6.2-1.8-13.2-4.3-20.7-7.8
+		c-6.3-2.9-11.8-6-16.5-9C195.7,474.5,169.3,499,142.9,523.5z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 193.455 507.1102)" class="st6 st7 section-label">106</text>
+		</g>
+
+		<g data-section="corner-norte_105">
+			<path class="st3 block" d="M208.1,541.9c2.9,0.4,6.9,1,11.7,1.5c11.1,1.2,19.6,1.4,26.5,1.5c5.6,0.1,12.7,0.1,20.9-0.1
+		c9.8-24.5,19.5-49.1,29.3-73.6l0,0c-7.3-0.1-15.2-0.7-23.7-1.9c-3.4-0.5-6.7-1.1-9.9-1.7C244.6,492.3,226.4,517.1,208.1,541.9z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 248.455 517.1102)" class="st6 st7 section-label">105</text>
+		</g>
+
+		<g data-section="corner-norte_115">
+			<path class="st3 block" d="M210.4,133.5l48.2,74.9c3.6-1,7.6-2,11.8-2.7c8.5-1.5,16.1-1.8,22.6-1.7c-8.1-25-16.2-50-24.4-75.1
+		C268.7,128.9,235.9,127.8,210.4,133.5z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 251.455 167.1102)" class="st6 st7 section-label">115</text>
+		</g>
+
+		<g data-section="corner-norte_114">
+			<path class="st3 block" d="M142.9,155.6l81.7,67.3c0,0,15.9-10.1,30.2-13.8c-15.9-24.9-31.7-49.8-47.6-74.7l0,0
+		c-4.6,1.1-9.4,2.4-14.3,3.8c-5.8,1.7-11.2,3.6-16.3,5.4c-1.3-2.8-2.6-5.5-3.9-8.3C172.7,135.4,156.9,143.6,142.9,155.6z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 199.455 180.1102)" class="st6 st7 section-label">114</text>
+		</g>
+
+		<g data-section="corner-norte_113">
+			<path class="st3 block" d="M111.8,196.7l86.1,49.6c0,0,12.1-12.4,24.1-21.6c0,0,0,0,0,0c-0.1,0-27.3-22.4-81.8-66.9
+		c-4.8,3.5-11.5,9.2-17.7,17.8C116.8,183.5,113.6,191.2,111.8,196.7z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 155.455 206.1102)" class="st6 st7 section-label">113</text>
+		</g>
+
+		<g data-section="corner-norte_112">
+			<path class="st3 block" d="M93.9,247.2c28.2,9.7,56.4,19.5,84.6,29.2c1.4-2.8,3-5.7,4.8-8.6c4.2-7.1,8.6-13.4,12.8-18.9
+		c-28.5-16.5-57.1-33-85.6-49.5c-2,4.9-3.9,9.9-5.8,15.1C100.5,225.7,97,236.6,93.9,247.2z" data-seat="corner-norte" />
+			<text transform="matrix(1 0 0 1 134.455 245.1102)" class="st6 st7 section-label">112</text>
+		</g>
+	</g>
+	<g data-category="gol-norte">
+		<g data-section="gol-norte_210">
+			<path class="st3 block" d="M30.4,319.5c16.1,0,32.3,0,48.4,0c0.5-6.9,1.1-14.1,1.9-21.5c0.9-8.2,1.9-16,3-23.6c-16-3.8-32-7.6-48-11.4
+		C35.7,263.1,30.8,294,30.4,319.5z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 48.4909 298.3185)" class="st6 st7 section-label">210</text>
+		</g>
+
+		<g data-section="gol-norte_211">
+			<path class="st3 block" d="M36.3,259.7c16,3.9,32,7.8,47.9,11.6c1.6-7.3,3.5-14.8,5.7-22.6c2.7-9.5,5.5-18.5,8.4-27
+		c-16.6-5.6-33.2-11.2-49.7-16.8c-1.5,5.1-3,10.3-4.4,15.7C40.6,234.4,38.1,247.5,36.3,259.7z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 59.0341 242.2428)" class="st6 st7 section-label">211</text>
+		</g>
+
+		<g data-section="gol-norte_208">
+			<path class="st3 block" d="M37,410.3c1.9,10,4.1,20.2,6.6,30.7c1.9,8.2,3.9,16.2,5.9,24c16.1-4.5,32.3-9,48.4-13.5
+		c-2.3-6.4-4.5-13.3-6.6-20.6c-3-10.6-5.4-20.7-7.2-30.1C68.3,404,52.6,407.2,37,410.3z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 58.125 435.4483)" class="st6 st7 section-label">208</text>
+		</g>
+
+		<g data-section="gol-norte_108">
+			<path class="st3 block" d="M106.9,465.8l83.4-48c-2.4-3.3-4.8-7.2-7.2-11.7c-3.1-6.1-5.3-11.8-6.7-16.6c-28.5,7.9-57.1,15.8-85.6,23.8
+		c1.6,6.1,3.3,12.4,5.2,18.7C99.4,443.8,103.1,455.1,106.9,465.8z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 126.125 425.4483)" class="st6 st7 section-label">108</text>
+		</g>
+
+		<g data-section="gol-norte_111">
+			<path class="st3 block" d="M84.5,294.1c28.2,6,56.4,12,84.6,18c0.8-4,1.7-8.1,2.7-12.4c1.8-7.3,3.8-14.1,5.9-20.4
+		c-28.2-9.7-56.5-19.4-84.7-29.1l0,0c-1,4.1-2,8.3-3,12.5C87.6,273.6,85.8,284.1,84.5,294.1z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 122.455 289.1102)" class="st6 st7 section-label">111</text>
+		</g>
+
+		<g data-section="gol-norte_110">
+			<path class="st3 block" d="M82.6,357.8c28.8-2.4,57.7-4.8,86.5-7.2v-35.3c-28.4-6.1-56.8-12.1-85.2-18.2c-0.7,6.5-1.3,13.3-1.7,20.4
+		C81.4,332.1,81.7,345.6,82.6,357.8z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 113.455 335.1102)" class="st6 st7 section-label">110</text>
+		</g>
+
+		<g data-section="gol-norte_109">
+			<path class="st3 block" d="M83.1,362c0.4,5.8,1,11.9,1.8,18.1c1.3,10.4,3,20.2,4.8,29.3c0.2,0,85.1-22.6,85.1-22.6
+		c-1.4-4.7-2.8-10.1-3.8-16.2c-1-5.8-1.5-11.2-1.7-16C140.6,357.1,111.8,359.6,83.1,362z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 116.455 382.1102)" class="st6 st7 section-label">109</text>
+		</g>
+
+		<g data-section="gol-norte_209">
+			<path class="st3 block" d="M30.8,350.6c0.6,11.8,1.5,24.1,2.9,36.9c0.7,6.8,1.6,13.3,2.5,19.8c15.6-3.3,31.2-6.6,46.8-9.9
+		c-1.1-7.2-2.1-14.7-2.9-22.6c-0.8-8.4-1.4-16.5-1.8-24.1H30.8z" data-seat="gol-norte" />
+			<text transform="matrix(1 0 0 1 47.125 381.4483)" class="st6 st7 section-label">209</text>
+		</g>
+	</g>
+
+	<g data-category="prensa">
+		<g data-section="prensa_prensa">
+			<rect x="562.8" y="471.1" class="st3 block" width="41.6" height="74" data-seat="prensa" />
+			<text transform="matrix(1 0 0 1 569.4633 514.1102)" class="st6 st8 section-label">PRENSA</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,860 @@
+<!doctype html>
+<html lang="en" >
+    <head>
+        <!--<title>Homepage</title>-->
+        <meta content="IE=edge" name="IE">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="google-site-verification" content="-8FSU4KpAxGiX_yJjRcuCJDW1wpZx-3WXJdwehoR-sw" />
+
+        <meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>1BoxOffice - Buy and Sell Football, Concerts and VIP Tickets Online</title>
+        
+    
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/bootstrap.min.css" as="style">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/fontawesome.min.css" as="style">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/owl.carousel.css" as="style">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/jquery.mCustomScrollbar.css" as="style">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/toastr.min.css" as="style">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/styles.min.css?1646568406" as="style">
+            <link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/seller_dashboard.css?1646568406" as="style">
+        <link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/fontawesome.min.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/toastr.min.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/chosen/chosen.min.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/selectize.default.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/selectize.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/flag-icon.css" rel="stylesheet" type="text/css" /><link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/styles.min.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/chosen/chosen.min.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/selectize.default.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/selectize.css" rel="stylesheet" type="text/css" />
+<link href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/flag-icon.css" rel="stylesheet" type="text/css" /><link rel="preload" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/css/datepicker.css" as="style">
+           
+		<link rel="icon" href="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/favicon.ico" type="image/ico">	
+        
+      
+	
+	
+        <style>
+           #google_translate_element,.skiptranslate{display:none}body{top:0!important}.goog-tooltip{display:none!important}.goog-tooltip:hover{display:none!important}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important}span#select-flag{width:30px;height:15px}
+        </style>
+        
+        
+
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K652P9N');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11528921-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11528921-2');
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2592250,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+
+    </head>
+    <bod class=" eng ">
+        
+        
+<!-- Start of 1boxoffice Zendesk Widget script -->
+<script async id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=0666bfa9-239b-4177-9dda-25807f12dfe6"> </script>
+<!-- End of 1boxoffice Zendesk Widget script -->
+
+
+
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K652P9N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><header class="ob_header"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <div class="head_search_full_width">
+        <div class="search_icon_close"><i class="fas fa-times"></i></div>
+        <div class="container">
+            <span class="h1_head">Search Football 1BoxOffice</span>
+            <form class="serach_feild clearfix" id="event_name_search" name="event_name_search">
+                <input type="text" name="searchevent" id="searchevent" placeholder="Type a keywords here..." autocomplete="off">
+                <input type="hidden" value="" id="searchResultUrl">
+                <button type="button" class="sub_btn quickSearch"><i class="fas fa-search"></i></button>
+            </form>
+            <div class="top_search_results clearfix">
+                <span class="h2_head">QUICK RESULTS</span>
+                <ul class="list-block">
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="ob_top_panel">
+        <div class="container">
+            <div class="ob_top_left">
+                <a class="ob_trust" href="https://www.trustpilot.com/review/www.1boxoffice.com" target="_blank">
+                    <img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/trustpilot1.png" alt="trustpilot"/></a>
+                
+                <p class="mail"><a href="mailto:"><span></span></a></p>
+                <div class="call show-xs">
+                    <a><span>Reach Us </span> <i class="fas fa-angle-down"></i></a>
+                    <div class="mobile_drop">
+                        <!--<span class="h2_head">Via Call</span>
+                        <p><strong>London:</strong><a title="UK Office" href="tel:44 203 637 8692">+44 203 637 8692</a></p>
+                        <p><strong>Beirut:</strong><a title="Beirut Office" href="tel:961 1 609 915">+961 1 609 915</a></p>
+                        <p><strong>Dubai:</strong><a title="Dubai Office" href="tel:971 4 584 7215">+971 4 584 7215</a></p>
+                        <div class="devider"></div>-->
+                        <span class="h2_head">Via Whatsapp</span>
+                        <p><strong>English:</strong><a title="English WhatsApp" href="https://api.whatsapp.com/send?phone=447498070285" target="blank_">+44 749 807 0285</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="top_wp ob_top_center" style="padding: 0px 5%;">
+                <p><a title="English WhatsApp" href="https://api.whatsapp.com/send?phone=447498070285" target="blank_">+44 749 807 0285</a> 
+            </div>
+            <div class="ob_top_right">
+                <div class="hide-xs-md" style="display:none;">
+                                            <a title="Sell Your Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/sell-tickets" class="sell" data-hover="Sell" >SELL</a>
+                                    </div>
+
+
+<style type="text/css">
+
+.badge {
+  padding-left: 9px;
+  padding-right: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+  background-color: #c67605;
+}
+#lblCartCount {
+    font-size: 12px;
+    background: #ff0000;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px; 
+}
+
+
+
+</style>
+
+
+			
+            
+             <!--   <a title="FAQ / Help" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/faq" class="faq_link"><i class="fas fa-info-circle"></i><span>FAQ</span></a>
+
+-->
+
+                <div class="language_drop drop">
+
+                                            <a href="https://phpstack-699078-2317018.cloudwaysapps.com/ar/uploads/e_tickets/330d784cbb2fe763ace300af8890f4ed.pdf">العربية</a> 
+                               <!-- <a href="https://phpstack-699078-2317018.cloudwaysapps.com/ar/uploads/e_tickets/330d784cbb2fe763ace300af8890f4ed.pdf"><span class="ar-flag"></span></a> -->
+
+                    
+
+<!--  <button class="dropdown-toggle " type="button" data-toggle="dropdown"><span id='select-flag' class="-flag null-flag"></span><strong id='select-lang'></strong><i class="fas fa-angle-down"></i></button>  
+<ul class="dropdown-menu">
+    <li> </li>
+    <li></li>
+</ul>-->
+
+                </div>
+
+
+                <div class="cur_drop drop">
+                    <button class="dropdown-toggle" type="button" data-toggle="dropdown"><span class="sym">(£) gbp</span>
+                        <i class="fas fa-angle-down"></i></button>
+                    <ul class="dropdown-menu" id="set-currency">
+                                            </ul>
+
+                </div>
+                <a title="Request Your Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/request-ticket" class="req_ticket"><span> Request Ticket</span></a>                
+            </div>
+        </div>
+    </div>
+    <div class="ob_header_cont">
+        <div class="container">
+            <div class="head_logo">
+                <a title="Buy Football Matches Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en">
+                    <img src='https://phpstack-699078-2317018.cloudwaysapps.com/files/logo/b846fea39b3780bc20cba7da0249f044.png' alt='logo'></a>
+            </div>
+
+
+            <div class="head_trust_logo hidden">
+                <a title="Buy Football Matches Tickets" href="
+                   https://uk.trustpilot.com/review/www.1boxoffice.com" target="_blank">
+                    <img alt="logo" src="https://phpstack-699078-2317018.cloudwaysapps.com//img/trustpilot.png"></a>
+            </div>
+
+
+
+
+            <div class="head_menus">
+                <div id="myNav" class="overlay">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fas fa-times"></i></a>
+                    <div class="overlay-content">
+                        <ul class="main_menu list-inline">
+                                                                    <li class='' data-navvalue='1'><a title="Buy Top Football Matches Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/hot-tickets"><i></i><span>Hot Tickets</span></a><b></b>  
+                                                                                                    <div class="sub-menu-level-one">
+                                                        <ul>
+                                                            <li class="bg_image"><img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/submenu_bg.jpg" alt="top_banner"/></li>
+                                                                                                                                                                                                <li><a title="Manchester United vs Tottenham Hotspur Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-manchester-united-vs-tottenham-hotspur-tickets">Manchester United vs Tottenham Hotspur</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Manchester United vs Atletico Madrid Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/champions-league-manchester-united-vs-atletico-madrid-tickets">Manchester United vs Atletico Madrid</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Real Madrid vs Barcelona Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/la-liga-real-madrid-vs-barcelona-tickets">Real Madrid vs Barcelona</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Liverpool vs Manchester United Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-liverpool-vs-manchester-united-tickets">Liverpool vs Manchester United</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Liverpool vs Watford FC Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-liverpool-vs-watford-fc-tickets">Liverpool vs Watford FC</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Manchester City vs Liverpool Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-manchester-city-vs-liverpool-tickets">Manchester City vs Liverpool</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Arsenal vs Manchester United Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-arsenal-vs-manchester-united-tickets">Arsenal vs Manchester United</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Liverpool vs Tottenham Hotspur Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-liverpool-vs-tottenham-hotspur-tickets">Liverpool vs Tottenham Hotspur</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Manchester United vs Chelsea Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-manchester-united-vs-chelsea-tickets-1624458784">Manchester United vs Chelsea</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Champions League Finals 2022 Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/champions-league-final-team-1-vs-team-2-tickets">Champions League Finals 2022</a></li>
+
+
+                                                                                                                                                                                                                                                                                                                            
+                                                        </ul>
+
+                                                        
+                                                        
+
+                                                    </div>
+
+                                                                                            </li>
+                                                                                <li class=' topteams-top' data-navvalue='1'><a title="Top Teams Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/top-teams-tickets"><i></i><span>Top Teams</span></a><b></b>  
+                                                                                                    <div class="sub-menu-level-one">
+                                                        <ul>
+                                                            <li class="bg_image"><img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/submenu_bg.jpg" alt="top_banner"/></li>
+                                                                                                                                                                                                                                                                <li><a title="Buy Arsenal Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Arsenal-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/2c3e0a923d14cfd3020e3eb78ed964ff.png" ></span>Arsenal</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Buy Barcelona Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Barcelona-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/b318ba0c826d2d9fe76608bf2ee7f44c.png" ></span>Barcelona</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Buy Liverpool Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Liverpool-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/5168066c9169929ed8d9ac1b5f440c4b.png" ></span>Liverpool</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Buy Manchester City Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Manchester-City-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/a84291c71ac9385a5fa6d876eaf6a174.png" ></span>Manchester City</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Buy Manchester United Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Manchester-United-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/acb81ef92c6f6777c1c87fe9f32a3254.png" ></span>Manchester United</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Buy Paris Saint Germain Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Paris-Saint-Germain-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/a37bdfc7ab7a73fba300bd5841c6d52b.png" ></span>Paris Saint Germain</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Buy Real Madrid Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Real-Madrid-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/teams/1398f27a976dfd5c159ff91d57d86b85.png" ></span>Real Madrid</a></li>
+                                                                                                                                                                                                                                                            
+                                                        </ul>
+
+                                                                                                                    <p>	<a title="Team Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/teams">View All Teams <i class="fas fa-angle-right"></i></a> </p>
+
+                                                        
+
+                                                    </div>
+
+                                                                                            </li>
+                                                                                <li class=' topteams-top' data-navvalue='1'><a title="Tournament Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/tournament-tickets"><i></i><span>Tournaments</span></a><b></b>  
+                                                                                                    <div class="sub-menu-level-one">
+                                                        <ul>
+                                                            <li class="bg_image"><img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/submenu_bg.jpg" alt="top_banner"/></li>
+                                                                                                                                                                                                                                                                                                                                <li><a title="Ligue 1 Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Ligue-1-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/82c4151c3c6922d7d4f3a3c7a4fb267b.png"></span>Ligue 1</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Joan Gamper Trophy Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Joan-Gamper-Trophy-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/812cdfaec71563f33da0fd971eff914b.png"></span>Joan Gamper Trophy</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Copa del Rey Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Copa-del-Rey-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/d4ab31b4c782cd5807c95b7291058123.jpg"></span>Copa del Rey</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Premier League Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Premier-League-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/f56e622cf8ff3a9746e8e91c1265ad16.png"></span>Premier League</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="FA Cup Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/FA-Cup-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/009bac56383f54f8e547a93457f80e50.png"></span>FA Cup</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Champions League Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Champions-League-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/e3f111dbfa5dbc049bf94a33718b150f.png"></span>Champions League</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Carabao Cup Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Carabao-Cup-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/88f97c71b03c0cf3e327fde076e2d801.png"></span>Carabao Cup</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="UEFA Super Cup Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/UEFA-Super-Cup-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/231893ea72b8bebe0614e17553b68f81.png"></span>UEFA Super Cup</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="La Liga Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/La-Liga-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/0db6f4469ba1584739897bdd24f798c5.png"></span>La Liga</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="Serie A Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/Serie-A-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/bd6880f162418b59479ed36f923a9de1.png"></span>Serie A</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a title="UEFA Europa League Tickets" href='https://phpstack-699078-2317018.cloudwaysapps.com/en/UEFA-Europa-League-tickets'><span><img src="https://phpstack-699078-2317018.cloudwaysapps.com/files/tournaments/82655f6739b12e1878fa57a382e568c4.png"></span>UEFA Europa League</a></li>
+                                                                                                                                                                                            
+                                                        </ul>
+
+                                                                                                                    <p>	<a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/page/league">View All Tournaments <i class="fas fa-angle-right"></i></a></p>
+
+                                                        
+
+                                                    </div>
+
+                                                                                            </li>
+                                                                                <li class='' data-navvalue='1'><a title="Other Event Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/other-events-tickets"><i></i><span>Other Events</span></a><b></b>  
+                                                                                                    <div class="sub-menu-level-one">
+                                                        <ul>
+                                                            <li class="bg_image"><img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/submenu_bg.jpg" alt="top_banner"/></li>
+                                                                                                                                                                                                                                                                                                                                                                                            <!--    <li><a title=" Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/red-carpet/"></a></li> -->
+
+                                                                    <li><a title="Ed Sheeran + - = ÷ x TOUR 24/06 Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/music-and-concerts-ed-sheeran-tickets">Ed Sheeran + - = ÷ x TOUR 24/06</a></li>
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!--    <li><a title=" Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/red-carpet/"></a></li> -->
+
+                                                                    <li><a title="Ed Sheeran + - = ÷ x TOUR 29/06 Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/music-and-ed-sheeran-ed-sheeran-x-tour-tickets">Ed Sheeran + - = ÷ x TOUR 29/06</a></li>
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!--    <li><a title=" Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/red-carpet/"></a></li> -->
+
+                                                                    <li><a title="Ed Sheeran + - = ÷ x TOUR 30/6 Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/music-and-ed-sheeran-ed-sheeran-x-tour-tickets-1632649430">Ed Sheeran + - = ÷ x TOUR 30/6</a></li>
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!--    <li><a title=" Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/red-carpet/"></a></li> -->
+
+                                                                    <li><a title="Ed Sheeran + - = ÷ x TOUR 01/7 Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/music-and-ed-sheeran-ed-sheeran-x-tour-tickets-1632649483">Ed Sheeran + - = ÷ x TOUR 01/7</a></li>
+
+
+
+
+                                                                                                                            
+                                                        </ul>
+
+                                                        
+                                                        
+
+                                                    </div>
+
+                                                                                            </li>
+                                                                                <li class='' data-navvalue='1'><a title="FAQ / Help" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/faq"><i></i><span>Faq's / Help</span></a><b></b>  
+                                                                                        </li>
+                                         
+                            <!--<li><a href="">Test</a></li>-->  
+                        </ul>
+                                                                       <!-- <div><a title="Sell Your Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/sell-tickets" class="sell" data-hover="Sell" ><i></i><span>SELL</span></a></div> -->
+
+
+                                                <div class="show-xs">
+                            <a class="ob_trust" href="https://www.trustpilot.com/review/www.1boxoffice.com" target="_blank">
+                                <img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/trustpilot1.png" alt="trustpilot"/>                                                            </a>
+                            <p class="mail"><a href="mailto:"><span></span></a></p>
+                            <div class="devider"></div>
+                            <div class="call">
+                                <div class="mobile_drop">
+                                    <!--<span class="h2_head">Reach us Via Call</span>
+                                    <p><strong>London:</strong><a title="UK Office" href="tel:44 203 637 8692">+44 203 637 8692</a></p>-->
+                                    <!--<p><strong>Beirut:</strong><a title="Beirut Office" href="tel:961 1 609 915">+961 1 609 915</a></p>
+                                    <p><strong>Dubai:</strong><a title="Dubai Office" href="tel:971 4 584 7215">+971 4 584 7215</a></p>-->
+                                <!--    <div class="devider"></div>-->
+                                    <span class="h2_head">Reach us Via WhatsApp</span>
+                                    <p><strong>English:</strong><a title="English WhatsApp" href="https://api.whatsapp.com/send?phone=447498070285" target="blank_">+44 749 807 0285</a></p>
+                                    <!--<p><strong>Arabic:</strong><a title="Arabic WhatsApp" href="https://api.whatsapp.com/send?phone=971526518928" target="blank_">+971 52 651 8928</a></p>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="toggle" value="toggle" onclick="toggle()">
+                    <span style="cursor:pointer;" onclick="openNav()"><i class="fas fa-bars"></i></span>
+                </div>
+            </div>
+
+            <div class="account_drop clearfix">
+                <div class=""><i class="far fa-user-circle"></i><span>ACCOUNT</span></div>
+                <ul class="list-block">
+                                            <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/add_list">Add Listing</a></li>
+                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/listing">My Listings</a></li>
+                       <!--  <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/order"></i>Orders</a></li> -->
+                       <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/my_sales"></i>Sales</a></li>
+                        <!-- <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/my_sales"></i>Sales</a></li> -->
+                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/payouts"></i>Payouts</a></li>
+                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/account_info">My Profile</a></li>
+                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/logout">Logout</a></li>
+                        
+                                        </ul>
+            </div>
+
+
+            <div class="head_search"><i class="fas fa-search"></i><span>Search</span></div>
+        </div>
+    </div>
+</header>
+
+
+<div class="main-content p404_inner">
+			<div class="bread_crumb">
+				<div class="bread_crumb_inner">
+					<h1>Page Not Found</h1>
+					<a href="https://phpstack-699078-2317018.cloudwaysapps.com/">Home</a>
+					<span class="slash">/</span>
+					<span>Page Not Found</span>
+				</div>
+			</div>	
+			<div class="container">
+				<img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/404.png" alt="404 1boxoffice"/>				<div class="404_cont">
+					<span class="h1_head">We couldn't find the page.</span>
+					<p>The page you're looking for was either not found or does not exist. Try refreshing the page or click the button below to go back to the homepage.</p>
+					<a href="https://phpstack-699078-2317018.cloudwaysapps.com/">Back to home</a>
+				</div>
+			</div>			
+		</div>
+        
+        
+
+
+
+<!--<div class="trustpilot_review">
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <div class="elfsight-app-0314ba33-2e6c-4b26-ac0d-ba06ed0a6a05"></div>
+</div>-->
+
+<footer class="ob_footer" id="footer">
+    <!-- <div class="foot_trustpilot">
+        <img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/trustpilot_rev.png" width="100%" height="auto" alt="trustpilot" />    </div> -->
+        <div class="foot_services">
+        <div class="container">
+               <ul class="list-inline">
+<li class="secure_payment">Secure Payment</li>
+<li class="money_back">100% money back</li>
+<li class="friendly_customer_service">Friendly Customer Service</li>
+<li class="last_min_book">Last Minute Bookings</li>
+<li class="rate">Rated 5 Stars</li>
+</ul>        </div>
+    </div>
+    
+        
+    <div class="foot_subscribe">
+        <div class="container">
+            <p><span class="h2_head">Subscribe &amp; connect with us</span></p>
+<p>Be the first to know about price changes, latest offers and fixture updates!</p>            <span class="show-xs h2_head">Next Match</span>
+            <p class="show-xs" >Get all the latest information on Events, Sales and Offers. Sign up for our Newsletter today</p>
+            <form action="javascript:;" class="foot_sub_button_container clearfix" id="subscribeForm">
+                <input type="text" name="subscribe" id="subscribeId" placeholder="Enter your email address..">
+                <input type="submit" class="sub_btn subscribeButton" value="SUBMIT">
+            </form>
+            <div id="subscribe-message"></div>
+            <div class="foot_social_linkes">
+                <ul class="list-inline">
+                                                <li><a class="facebook" href="https://www.facebook.com/1boxofficeservices/" target="_blank"></a></li>
+                                                    <li><a class="instagram" href="https://www.instagram.com/1boxoffice/" target="_blank"></a></li>
+                                        </ul>
+            </div>
+        </div>
+    </div>
+    <div class="foot_list">
+        <div class="container">
+            <div class="list1">
+                <a title="Buy Football Matches Tickets" href="https://phpstack-699078-2317018.cloudwaysapps.com/">
+                    <img src='https://phpstack-699078-2317018.cloudwaysapps.com/files/logo/5317a0e50cc8d9e6b50f192027460ed3.png' alt='logo'></a>
+                <div class="list_item show-xs">
+                    <ul class="list-inline">
+                                                        <li><a class="facebook" href="https://www.facebook.com/1boxofficeservices/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>  
+                                                            <li><a class="instagram" href="https://www.instagram.com/1boxoffice/" target="_blank"><i class="fab fa-instagram"></i></a></li>  
+                                                </ul>
+                </div>
+                <div class="list_item">
+                    <h3 class="show-xs">Contact Details</h3>
+                    <div class="toogle_div_foot">
+                                            </div>
+                </div>
+                <div class="list_item hide-xs">
+                    <h3>FOLLOW US</h3>
+                    <ul class="list-inline">
+                                                        <li><a class="facebook" href="https://www.facebook.com/1boxofficeservices/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>  
+                                                            <li><a class="instagram" href="https://www.instagram.com/1boxoffice/" target="_blank"><i class="fab fa-instagram"></i></a></li>  
+                                                </ul>
+                </div>
+            </div>
+            <div class="list2">
+                <div class="list_item">
+                    <h3>COMPANY INFO</h3>
+                    <ul class="list-block">
+                                                     <li><a title="About Us" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/about-us">About us</a></li>
+                                                   <li><a title="Terms & Conditions" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/terms-and-conditions">Terms & conditions</a></li>
+                                                   <li><a title="Legal & Privacy Policy" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/legal-privacy-policy">Legal & Privacy policy</a></li>
+                                                   <li><a title="Contact Us" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/contact-us">Contact Us</a></li>
+                                                    <li><a title="Sitemap" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/sitemap">Sitemap</a></li>
+                                               <li><a href="https://www.1boxoffice.com/blog">Blog</a></li>
+                            <!-- <li><a href="#">About Us</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/page/faq">Frequently Asked Questions</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Our Services</a></li>
+                            <li><a href="#">Membership</a></li>
+                            <li><a href="#">Gift Cards</a></li>
+                            <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/page/affiliation">Partnership/Affiliation</a></li>
+                            <li><a href="#">Terms & Conditions</a></li>-->  
+                    </ul>
+                </div>
+                
+            </div>
+            <div class="list3">
+                <div class="list_item">
+                    <h3>POPULAR TEAMS</h3>
+                    <ul class="list-block">
+                                                    <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/arsenal-tickets">Arsenal Tickets</a></li>  
+
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/manchester-city-tickets">Manchester City Tickets</a></li>  
+
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/liverpool-tickets">Liverpool Tickets</a></li>  
+
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/barcelona-tickets">Barcelona Tickets</a></li>  
+
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/manchester-united-tickets">Manchester United Tickets</a></li>  
+
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/real-madrid-tickets">Real Madrid Tickets</a></li>  
+
+                                                </ul>
+                </div>
+            </div>
+            <div class="list4">
+                <div class="list_item">
+                    <h3>HOT TICKETS</h3>
+                    <ul class="list-block">
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-manchester-united-vs-tottenham-hotspur-tickets">Manchester United vs Tottenham Hotspur</a></li>
+                                                                <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/champions-league-manchester-united-vs-atletico-madrid-tickets">Manchester United vs Atletico Madrid</a></li>
+                                                                <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/la-liga-real-madrid-vs-barcelona-tickets">Real Madrid vs Barcelona</a></li>
+                                                                <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-liverpool-vs-manchester-united-tickets">Liverpool vs Manchester United</a></li>
+                                                                <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-liverpool-vs-watford-fc-tickets">Liverpool vs Watford FC</a></li>
+                                                                <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/premier-league-manchester-city-vs-liverpool-tickets">Manchester City vs Liverpool</a></li>
+                                
+                    </ul>
+                </div>
+                
+                
+            </div>
+            <div class="list5">
+                <div class="list_item">
+                    <h3>TOURNAMENTS</h3>
+                    <ul class="list-block">
+                                                        <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/Premier-League-tickets">Premier League</a></li>  
+
+                                                            <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/Champions-League-tickets">Champions League</a></li>  
+
+                                                            <li><a href="https://phpstack-699078-2317018.cloudwaysapps.com/en/FA-Cup-tickets">FA Cup</a></li>  
+
+                                                </ul>
+                </div>
+                </div>
+        </div>
+    </div>
+    <div class="foot_copy">
+        <p>&copy; 2020 1BOXOFFICE - All rights reserved.</p>    </div>			
+</footer>
+<a href="#" id="scrollTop" style="display: none;"><span></span></a>
+ <a href="https://api.whatsapp.com/send?phone=447498070285" target="blank_" id="wp_icon">Chat on WhatsApp </a> 
+<div class="modal fade" id="loginPop" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="model_left">
+                <div class="model_left_text">
+                    <span class="h2_head">Sign In</span>
+                    <p>If you have an account with us, please log in.</p>
+                </div>
+                <img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/login_bg.jpg" alt="login_bg"/>            </div>
+            <div class="model_right">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <a href="https://www.facebook.com/v3.2/dialog/oauth?client_id=652446068801577&state=5a1a1f6c29188d9cc9d2be2ec8034f78&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fphpstack-699078-2317018.cloudwaysapps.com%2Fen%2Fhome%2Ffacebook_login&scope=email%2Cpublic_profile" class="sin_with_facebook"><i class="fab fa-facebook-f"></i>Sign in with facebook</a>
+                <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=https%3A%2F%2Fphpstack-699078-2317018.cloudwaysapps.com%2Fen%2Fhome&client_id=59971494848-4c3cvmvte994gon9v01mrrjn8n4vh50p.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=online&approval_prompt=auto" class="sin_with_google"><i class="fab fa-google-plus-g"></i>Sign in with google</a>
+
+                <p><span>OR</span></p>
+
+                <form action="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/login" method="POST" id="loginForm">	
+                    <input type="hidden" value="https://phpstack-699078-2317018.cloudwaysapps.com/en/uploads/e_tickets/330d784cbb2fe763ace300af8890f4ed.pdf" name="currenturl">
+                
+             
+               <!-- <div class="radio_group clearfix">
+                <label>
+					<input type="radio" name="user_type" id="buyer" checked="checked" value="buyer"  /> Buyer <i></i>
+					 </label><label><input type="radio" name="user_type" id="seller" value="seller"  /> Seller<i></i>
+					</label>
+				</div> -->
+
+                    <input type="text" placeholder="Email address" name="email" id="loginEmail">
+
+                    <input type="password" placeholder="Password" name="password" id="loginPassword">
+					<div class="check_box_coll">
+                    <label class="remember-password">
+                        <input type="checkbox" name="rememberpassword" id="rememberpassword">
+						Remember Password						<i></i>
+                    </label>
+					</div>
+					<label class="remember-password">
+                        <a href="javascript:;" id="forgotLink">Forgot your Password?</a>
+                    </label>
+                    <button class="buts" type="submit" id="submitLogin">Sign In</button>
+                </form>
+                <p><a title="Sign Up" href="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/register">Sign up</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="forgotPopup" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="model_left">
+                <div class="model_left_text">
+                    <span class="h2_head">Forgot your Password</span>
+                    <p>Enter either the email address or username on the account. Select Submit. Check your inbox for a password reset email. Click on the URL provided in the email and enter a new password..</p>
+                </div>
+                <img src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/images/login_bg.jpg" alt="login_bg"/>            </div>
+            <div class="model_right">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+          
+                <form action="https://phpstack-699078-2317018.cloudwaysapps.com/en/user/forget_password" method="POST" id="forgotForm">	
+              <input type="hidden" value="https://phpstack-699078-2317018.cloudwaysapps.com/en/uploads/e_tickets/330d784cbb2fe763ace300af8890f4ed.pdf" name="currenturl">
+                    <input type="text" placeholder="Email address" name="forgotemail" id="forgotemail">
+               
+                    <button class="buts" type="submit" name="submit_value" id="forgotPass">
+                        SUBMIT</button>
+                </form>
+                <!--<p>Don't have an account?<a href="https://phpstack-699078-2317018.cloudwaysapps.com/user/register">Sign up</a></p>-->
+            </div>
+        </div>
+    </div>
+</div><script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/scripts.min.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/jquery.mCustomScrollbar.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/validate.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/googletranslate.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/toastr.min.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/index.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/selectize.min.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/jquery.creditCardValidator.js"></script>
+<script type="text/javascript" src="https://phpstack-699078-2317018.cloudwaysapps.com/app/views/themes/default/js/bootstrap-datepicker.js?1646568406"></script>
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+    
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('#forgotLink').click(function(){
+            $('#loginPop').modal('hide'); 
+           $('#forgotPopup').modal('show'); 
+        });
+        
+        $('.subscribeButton').click(function () {
+            var subscriberemail = $('#subscribeId').val();
+            if (IsEmail(subscriberemail) == false) {
+                $("#subscribe-message").html("<p style='text-align: center'>Email has a invalid format..!</p>");
+                setTimeout(function () {
+                    $("#subscribe-message").empty();
+                }, 1000);
+                return false;
+            } else if (subscriberemail != '') {
+                $.ajax({
+                    type: "POST",
+                    url: 'https://phpstack-699078-2317018.cloudwaysapps.com/en/page/subscribe',
+                    data: {'subscriberid': subscriberemail},
+                    success: (data) => {
+                        $('#subscribeId').val('');
+                        $("#subscribe-message").html("<p style='text-align: center'>Thank you for subscribing to The 1BoxOffice newsletter!</p>");
+                        setTimeout(function () {
+                            $("#subscribe-message").empty();
+                        }, 1000);
+                    }
+                });
+            } else {
+                return false;
+            }
+        });
+
+        function IsEmail(email) {
+            var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (!regex.test(email)) {
+                return false;
+            } else {
+                return true;
+            }
+        }
+
+        $('.chng_cur').on('click', function () {
+            var selected = $(this).data('currency');
+            $.ajax({
+                type: "POST",
+                url: "https://phpstack-699078-2317018.cloudwaysapps.com/en/home/setcurrency",
+                data: {'currency': selected},
+                success: function (response)
+                {
+                    location.reload();
+                }
+            });
+        });
+          var month_name = function (dt) {
+        mlist = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+        return mlist[dt.getMonth()];
+    };
+        $('#searchevent').keyup(function (e) {
+           // if ($(this).val().length > 2) {
+            //    $(".list-block").empty();
+                topSearch();
+           // }
+        });
+
+        function topSearch() {
+            var baseUrl = 'https://phpstack-699078-2317018.cloudwaysapps.com/';
+            var title = $("#searchevent").val();
+            if (title != "") {
+                $.ajax({
+                    type: "post",
+                    url: "https://phpstack-699078-2317018.cloudwaysapps.com/en/game/getMatchInfoByTeam",
+                    data: "teamname=" + title,
+                    success: function (response) {
+                        if ($("#searchevent").val() != '' && response != '') {
+                            var jsonObject = $.parseJSON(response);
+                            var status = jsonObject['Status'];
+                            var getJsonArray = jsonObject['Json'];
+                            var object = getJsonArray[0];
+                            var teamName = jsonObject['teamName'];
+                            if (status == 'OK') {
+                                $(".top_search_results .list-block").show();
+                                $("#searchResultUrl").val(baseUrl + teamName[0]['team_name'].replace(/\s+/g, '-').toLowerCase() + '-tickets');
+                                
+                                
+                                $(".top_search_results .list-block").html("<li><a href='" + baseUrl + teamName[0]['team_name'].replace(/\s+/g, '-').toLowerCase() + "-tickets' data-url='" + baseUrl + "game/team_details/" + teamName[0]['team_name'].replace(/\s+/g, '-').toLowerCase() + "' data-value='" + teamName[0]['team_name'] + "' onmouseover='showEvent(this)'><p><span>Team Name :</span>" + teamName[0]['team_name'] + "</p></a></li><h4>Event</h4>");
+                                
+                                
+                                $.each(getJsonArray, function (index, item) {
+                                    $(".top_search_results .list-block").append("<li><a href='" + baseUrl + item.slug + "' data-url='" + baseUrl + "game/ticket_details/" + item.slug + "' data-venue='" + item.venue + "' data-value='" + item.match_name + "' onmouseover='showEvent(this)'><p><span>upcoming game : </span>" + item.match_name + " - " + item.match_date_format + "</p></a></li>");
+                                })
+                                
+                                
+//                            $("#eventname").val("");
+                            }
+                            
+                            
+                        }  else if ($("#searchevent").val() != '') {
+                            $(".top_search_results .list-block").show();
+                            $(".top_search_results .list-block").html("<li>No Data Found</li>");
+
+
+                        } else {
+                            $(".top_search_results .list-block").hide();
+
+                            
+                            
+                        }
+                        
+                        
+                        
+                    }
+                });
+            }
+        }
+        $('.quickSearch').click(function () {
+            var searchEvent = $('#searchevent').val();
+            var searchUrl = $('#searchResultUrl').val();
+            location.href = searchUrl;
+        });
+    }
+    );
+    
+    
+    $( "#event_name_search" ).submit(function( event ) {
+		
+		 var dataurl = $('#searchResultUrl').val();
+         window.location.href = dataurl;
+        
+		return false;
+	
+	});
+	
+	
+    function showEvent(obj) {
+        $('#searchResultUrl').empty();
+        $('#searchevent').empty();
+        var teamName = obj.getAttribute('data-value');
+        var DataUrl = obj.getAttribute('data-url');
+        $('#searchResultUrl').val(DataUrl);
+        $('#searchevent').val(teamName);
+
+    }
+
+
+
+
+
+
+</script> 
+
+<script>
+    $(document).ready(function () {
+        if ($.cookie('loginEmail') && $.cookie('loginPassword')) {
+            $("#loginEmail").val($.cookie('loginEmail'));
+            $("#loginPassword").val($.cookie('loginPassword'));
+            $('input#rememberpassword').prop('checked', true);
+        } else {
+            emptyValue();
+        }
+        $('#submitLogin').click(function () {
+
+            if ($('input#rememberpassword').is(':checked')) {
+                $.cookie('loginEmail', $("#loginEmail").val());
+                $.cookie('loginPassword', $("#loginPassword").val());
+            } else {
+                emptyValue();
+            }
+        });
+    });
+    function emptyValue() {
+        $.cookie('loginEmail', '');
+        $.cookie('loginPassword', '');
+    }
+
+
+
+    $("#loginForm").validate({
+        rules: {
+            email: {
+                required: true,
+                email: true
+
+            },
+            password: 'required',
+        },
+        messages: {
+            email: {required: "<span class='error-message'>Enter your email.</span>",
+                email: "<span class='error-message' >Enter a correct e-mail address.</span>",
+            },
+            password: {required: "<span class='error-message'>Enter Your Password.</span>"},
+        },
+    });
+</script>
+
+</body>
+</html>					

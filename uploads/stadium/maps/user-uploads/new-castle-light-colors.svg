@@ -1,0 +1,857 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1134 1134" width="1134" height="1134">
+	<defs>
+		<image  width="541" height="404" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	
+	<use id="GROUND" href="#img1" x="229" y="372"/>
+	<g id="LONG SIDE UPPER">
+		<path id="LSU-L7A" class="s0" fill="#ed1c24" d="m195 120h72v74h-72z"/>
+		<text id="T-L7A" style="transform: matrix(1.018,0,0,1,213,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7A
+</tspan>
+		</text>
+		<path id="LSU-L7B" class="s0" fill="#ed1c24" d="m270 120h75v74h-75z"/>
+		<text id="T-L7B" style="transform: matrix(1.018,0,0,1,286,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7B
+</tspan>
+		</text>
+		<path id="LSU-L7C" class="s0" fill="#ed1c24" d="m349 120h72v74h-72z"/>
+		<text id="T-L7C" style="transform: matrix(1.018,0,0,1,366,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7C
+</tspan>
+		</text>
+		<path id="LSU-L7D" class="s0" fill="#ed1c24" d="m425 120h75v74h-75z"/>
+		<text id="T-L7D" style="transform: matrix(1.018,0,0,1,442,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7D
+</tspan>
+		</text>
+		<path id="LSU-L7E" class="s0" fill="#ed1c24" d="m504 120h72v74h-72z"/>
+		<text id="T-L7E" style="transform: matrix(1.018,0,0,1,522,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7E
+</tspan>
+		</text>
+		<path id="LSU-L7F" class="s0" fill="#ed1c24" d="m580 120h74v74h-74z"/>
+		<text id="T-L7F" style="transform: matrix(1.018,0,0,1,598,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7F
+</tspan>
+		</text>
+		<path id="LSU-L7G" class="s0" fill="#ed1c24" d="m658 120h74v74h-74z"/>
+		<text id="T-L7G" style="transform: matrix(1.018,0,0,1,676,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7G
+</tspan>
+		</text>
+		<path id="LSU-L7H" class="s0" fill="#ed1c24" d="m736 120h73v74h-73z"/>
+		<text id="T-L7H" style="transform: matrix(1.018,0,0,1,755,165.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L7H
+</tspan>
+		</text>
+		<path id="LSU-LL7A" class="s0" fill="#ed1c24" d="m195 198h72v17h-72z"/>
+		<text id="T-LL7A" style="transform: matrix(1.018,0,0,1,213,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7A
+</tspan>
+		</text>
+		<path id="LSU-LL7B" class="s0" fill="#ed1c24" d="m270 198h75v17h-75z"/>
+		<text id="T-LL7B" style="transform: matrix(1.018,0,0,1,286,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7B
+</tspan>
+		</text>
+		<path id="LSU-LL7C" class="s0" fill="#ed1c24" d="m349 198h72v17h-72z"/>
+		<text id="T-LL7C" style="transform: matrix(1.018,0,0,1,366,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7C
+</tspan>
+		</text>
+		<path id="LSU-LL7D" class="s0" fill="#ed1c24" d="m425 198h75v17h-75z"/>
+		<text id="T-LL7D" style="transform: matrix(1.018,0,0,1,442,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7D
+</tspan>
+		</text>
+		<path id="LSU-LL7E" class="s0" fill="#ed1c24" d="m504 198h72v17h-72z"/>
+		<text id="T-LL7E" style="transform: matrix(1.018,0,0,1,522,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7E
+</tspan>
+		</text>
+		<path id="LSU-LL7F" class="s0" fill="#ed1c24" d="m580 198h74v17h-74z"/>
+		<text id="T-LL7F" style="transform: matrix(1.018,0,0,1,598,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7F
+</tspan>
+		</text>
+		<path id="LSU-LL7G" class="s0" fill="#ed1c24" d="m658 198h74v17h-74z"/>
+		<text id="T-LL7G" style="transform: matrix(1.018,0,0,1,676,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7G
+</tspan>
+		</text>
+		<path id="LSU-LL7H" class="s0" fill="#ed1c24" d="m736 198h73v17h-73z"/>
+		<text id="T-LSU-LL7H" style="transform: matrix(1.018,0,0,1,755,211.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7H
+</tspan>
+		</text>
+	</g>
+	<g id="LONG SIDE LOWER">
+		<path id="LSL-M" class="s2" fill="#00aeef" d="m237 847h83v66h-83z"/>
+		<text id="T-M" style="transform: matrix(1.018,0,0,1,273,884.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">M
+</tspan>
+		</text>
+		<path id="LSL-L" class="s2" fill="#00aeef" d="m325 847h86v66h-86z"/>
+		<text id="T-L" style="transform: matrix(1.018,0,0,1,363,884.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L
+</tspan>
+		</text>
+		<path id="LSL-K" class="s2" fill="#00aeef" d="m414 847h88v66h-88z"/>
+		<text id="T-K" style="transform: matrix(1.018,0,0,1,454,884.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">K
+</tspan>
+		</text>
+		<path id="LSL-J" class="s2" fill="#00aeef" d="m506 847h85v66h-85z"/>
+		<text id="T-J" style="transform: matrix(1.018,0,0,1,545,884.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">J
+</tspan>
+		</text>
+		<path id="LSL-I" class="s2" fill="#00aeef" d="m595 847h85v66h-85z"/>
+		<text id="T-I" style="transform: matrix(1.018,0,0,1,637,884.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">I
+</tspan>
+		</text>
+		<path id="LSL-A" class="s2" fill="#00aeef" d="m685 804h82v40h-82z"/>
+		<text id="T-A" style="transform: matrix(1.018,0,0,1,716,830.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">A
+</tspan>
+		</text>
+		<path id="LSL-H" class="s2" fill="#00aeef" d="m685 847h82v66h-82z"/>
+		<text id="T-H" style="transform: matrix(1.018,0,0,1,724,884.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">H
+</tspan>
+		</text>
+		<path id="LSL-B" class="s2" fill="#00aeef" d="m595 804h85v40h-85z"/>
+		<text id="T-B" style="transform: matrix(1.018,0,0,1,629,830.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">B
+</tspan>
+		</text>
+		<path id="LSL-C" class="s2" fill="#00aeef" d="m506 804h85v40h-85z"/>
+		<text id="T-C" style="transform: matrix(1.018,0,0,1,545,830.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">C
+</tspan>
+		</text>
+		<path id="LSL-D" class="s2" fill="#00aeef" d="m414 804h88v40h-88z"/>
+		<text id="T-D" style="transform: matrix(1.018,0,0,1,454,830.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">D
+</tspan>
+		</text>
+		<path id="LSL-E" class="s2" fill="#00aeef" d="m325 804h86v40h-86z"/>
+		<text id="T-E" style="transform: matrix(1.018,0,0,1,363,830.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">E
+</tspan>
+		</text>
+		<path id="LSL-F" class="s2" fill="#00aeef" d="m237 804h83v40h-83z"/>
+		<text id="T-F" style="transform: matrix(1.018,0,0,1,273,830.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">F
+</tspan>
+		</text>
+	</g>
+	<g id="CORNERS">
+		<path id="LBC-F" class="s3" fill="#7a1eb8" d="m122 804h66c0 0-0.5 3.7 0 7.4 0.5 3.8 2 7.6 2 7.6l-60 24c0 0-3.2-8.7-5.3-18.9-1.9-9.2-2.7-20.1-2.7-20.1z"/>
+		<text id="T-F" style="transform: matrix(1.018,0,0,1,147,821.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">F
+</tspan>
+		</text>
+		<path id="LBC-C" class="s3" fill="#7a1eb8" d="m229.5 912.9l0.2-66c0 0-3.7 0.5-7.4 0-3.8-0.6-7.6-2.1-7.6-2.1l-24.2 60c0 0 8.7 3.2 18.9 5.3 9.2 1.9 20.1 2.8 20.1 2.8z"/>
+		<text id="T-C" style="transform: matrix(1.018,0,0,1,211,888.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">C
+</tspan>
+		</text>
+		<path id="LBC-E" class="s3" fill="#7a1eb8" d="m132.1 847.2l58.8-24.8c0 0 0.8 2.6 2.6 5.2 1.9 2.7 5.8 5.5 5.8 5.5l-46.8 45.8c0 0-6.8-7-12.2-15.4-4.7-7.4-8.2-16.3-8.2-16.3z"/>
+		<text id="T-E" style="transform: matrix(1.018,0,0,1,162,851.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">E
+</tspan>
+		</text>
+		<path id="LBC-D" class="s3" fill="#7a1eb8" d="m155.1 880.5l45.9-44.4c0 0 1.7 2.2 4.3 4 2.8 1.9 7.4 3 7.4 3l-27.2 59.6c0 0-8.8-4-16.8-9.9-7.1-5.2-13.6-12.3-13.6-12.3z"/>
+		<text id="T-D" style="transform: matrix(1.018,0,0,1,183,870.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">D
+</tspan>
+		</text>
+		<path id="LBC-A" class="s3" fill="#7a1eb8" d="m204.4 833.6l26.5-25.8-0.5 36.7c0 0-7.6-0.8-14.3-3.6-6.3-2.6-11.7-7.3-11.7-7.3z"/>
+		<text id="T-A" style="transform: matrix(1.018,0,0,1,216,834.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">A
+</tspan>
+		</text>
+		<path id="LBC-B" class="s3" fill="#7a1eb8" d="m191 804h37l-26 26c0 0-4.9-5.9-7.7-12.6-2.7-6.3-3.3-13.4-3.3-13.4z"/>
+		<text id="T-B" style="transform: matrix(1.018,0,0,1,200,817.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">B
+</tspan>
+		</text>
+		<path id="LTC-B" class="s3" fill="#7a1eb8" d="m87 371l35 15c0 0-2.8 5.6-3.5 12.2-0.8 6.4 0.5 13.8 0.5 13.8h-39c0 0 0-11.5 1.8-22.4 1.7-9.6 5.2-18.6 5.2-18.6z"/>
+		<text id="T-B" style="transform: matrix(1.018,0,0,1,95,399.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">B
+</tspan>
+		</text>
+		<path id="LTC-C" class="s3" fill="#7a1eb8" d="m115 330.8l25.7 27.8c0 0-6.3 4.6-10.3 10.2-3.9 5.4-6.6 12.6-6.6 12.6l-34.9-14.3c0 0 5.9-13.4 13.1-22.2 6.3-7.8 13-14.1 13-14.1z"/>
+		<text id="T-C" style="transform: matrix(1.018,0,0,1,111,360.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">C
+</tspan>
+		</text>
+		<path id="LTC-D" class="s3" fill="#7a1eb8" d="m157.3 306.5l10.6 36.4c0 0-7.7 1.3-13.8 4.5-5.9 3.1-11.5 8.3-11.5 8.3l-24.8-28.4c0 0 11.2-9.3 21.5-14 9.2-4.1 18-6.8 18-6.8z"/>
+		<text id="T-D" style="transform: matrix(1.018,0,0,1,141,336.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">D
+</tspan>
+		</text>
+		<path id="LTC-E" class="s3" fill="#7a1eb8" d="m160 306c0 0 6.6-2.3 14.1-3.5 7.5-1.3 15.9-1.5 15.9-1.5v39c0 0-4.9-0.5-9.8 0-5.1 0.5-10.2 2-10.2 2z"/>
+		<text id="T-LTC-E" style="transform: matrix(1.018,0,0,1,173,325.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">E
+</tspan>
+		</text>
+		<path id="LTC2-A" class="s3" fill="#7a1eb8" d="m137 369l15 13c0 0-4 5-6.2 11.6-2.7 8.2-3.8 18.4-3.8 18.4h-21c0 0 0.7-12.6 5-24.2 3.6-9.8 11-18.8 11-18.8zm2.4-3.5l15.3 13.4c0 0 8.9-7.9 17.8-11.8 8.7-3.9 17.5-3.7 17.5-3.7v-20.4c0 0-15.2-0.2-27.5 5.6-12.5 5.9-23.1 16.9-23.1 16.9z"/>
+		<path id="LTC-A" class="s3" fill="#7a1eb8" d="m156 383c13.4-17.4 34-16 34-16v45h-44c0 0-3.4-11.6 10-29z"/>
+		<text id="T-A" style="transform: matrix(1.018,0,0,1,168,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">A
+</tspan>
+		</text>
+		<path id="RBC-E" class="s3" fill="#7a1eb8" d="m840 804h41c0 0 0.3 5.8-0.5 12.7-0.7 7.1-2.5 15.3-2.5 15.3l-39-11c0 0 1.2-5 1.5-9.2 0.2-4.3-0.5-7.8-0.5-7.8z"/>
+		<text id="T-E" style="transform: matrix(1,0,0,1,858.07,819.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">E
+</tspan>
+		</text>
+		<path id="RBC-D" class="s3" fill="#7a1eb8" d="m837 824.5l38.5 11.7c0 0-1.7 5.3-4.7 11.4-3.5 7.3-8.3 15.8-8.3 15.8l-32.9-23.1c0 0 2.7-4 4.5-7.8 1.9-4.1 2.9-8 2.9-8z"/>
+		<text id="T-D" style="transform: matrix(1,0,0,1,845.07,845.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">D
+</tspan>
+		</text>
+		<path id="RBC-C" class="s3" fill="#7a1eb8" d="m827.6 844l32.8 23.3c0 0-3.3 4.5-8 9.4-5.7 5.8-13 12.3-13 12.3l-23.8-32.3c0 0 3.8-3 6.7-6 3.1-3.3 5.3-6.7 5.3-6.7z"/>
+		<text id="T-C" style="transform: matrix(1,0,0,1,831.07,869.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">C
+</tspan>
+		</text>
+		<path id="RBC-B" class="s3" fill="#7a1eb8" d="m812.5 859l24.9 32.1c0 0-8.7 6.1-14.8 9.1-7.4 3.5-16.4 7.1-16.4 7.1l-11.3-38.5c0 0 6.6-3.5 10.3-5.3 4-2.1 7.3-4.5 7.3-4.5z"/>
+		<text id="T-B" style="transform: matrix(1,0,0,1,808.07,885.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">B
+</tspan>
+		</text>
+		<path id="RBC-A" class="s3" fill="#7a1eb8" d="m773 871v40.9c0 0 6.8 0.3 13.7-0.4 7.1-0.8 15.3-3.6 15.3-3.6l-11-38.9c0 0-5 2.2-9.2 2.5-4.3 0.2-8.8-0.5-8.8-0.5z"/>
+		<text id="T-A" style="transform: matrix(1,0,0,1,780.07,896.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">A
+</tspan>
+		</text>
+		<path id="RBC-H" class="s3" fill="#7a1eb8" d="m812 804h25c0 0-0.2 7.2-1.4 13.5-1.3 6.7-3.6 12.5-3.6 12.5l-22-11c0 0 1.5-3.9 2-7.7 0.5-3.7 0-7.3 0-7.3z"/>
+		<text id="T-H" style="transform: matrix(1,0,0,1,818.07,819.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">H
+</tspan>
+		</text>
+		<path id="RBC-G" class="s3" fill="#7a1eb8" d="m808 823l22 10c0 0-3.4 7.6-9.2 13.7-7.1 7.3-16.8 13.3-16.8 13.3l-11-21c0 0 6-4.3 9.9-8.4 3.6-3.8 5.1-7.6 5.1-7.6z"/>
+		<text id="T-G" style="transform: matrix(1,0,0,1,806.07,845.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">G
+</tspan>
+		</text>
+		<path id="RBC-F" class="s3" fill="#7a1eb8" d="m773 844v24c0 0 8.2-0.2 14.5-1.4 6.7-1.3 12.5-4.6 12.5-4.6l-11-22c0 0-4.9 2.5-8.7 3-3.7 0.5-7.3 1-7.3 1z"/>
+		<text id="T-F" style="transform: matrix(1,0,0,1,779.07,859.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">F
+</tspan>
+		</text>
+		<path id="RBC-J" class="s3" fill="#7a1eb8" d="m773 804h36c0 0-2.5 16.5-11.3 25.3-9.2 9.2-24.7 10.7-24.7 10.7z"/>
+		<text id="T-J" style="transform: matrix(1,0,0,1,782.07,822.826)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">J
+</tspan>
+		</text>
+		<path id="C-L2A" class="s3" fill="#7a1eb8" d="m816 302c0 0 10 0.4 19.5 1.7 8.5 1.2 16.5 3.3 16.5 3.3l-28 74c0 0-1.9-1.2-3.9-1.5-2-0.2-4.1 0.5-4.1 0.5z"/>
+		<text id="T-L2A" style="transform: matrix(.357,-0.784,.779,.355,828.573,349.639)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2A
+</tspan>
+		</text>
+		<path id="C-L2B" class="s3" fill="#7a1eb8" d="m827.5 382.9l27.4-73.2c0 0 10.4 4.1 18.9 9.1 8.4 4.9 17.8 14.6 17.8 14.6l-54.7 55.3c0 0-0.4-2.3-2.7-3.7-2.4-1.5-6.7-2.1-6.7-2.1z"/>
+		<text id="T-L2B" style="transform: matrix(.603,-0.615,.611,.599,851.408,361.734)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2B
+</tspan>
+		</text>
+		<path id="C-L2C" class="s3" fill="#7a1eb8" d="m839.1 390.4l56-54.5c0 0 7.7 8.2 13.2 16.3 5.5 8 8.9 15.9 8.9 15.9l-72 31.5c0 0 0.5-2.2-1-4.5-1.5-2.3-5.1-4.7-5.1-4.7z"/>
+		<text id="T-L2C" style="transform: matrix(.861,0,0,.856,874,368.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2C
+</tspan>
+		</text>
+		<path id="C-L2D" class="s3" fill="#7a1eb8" d="m846 403l72-31c0 0 4.1 12.1 6 23 1.6 8.9 1 17 1 17h-79c0 0 1-2.3 1-4.6 0-2.2-1-4.4-1-4.4z"/>
+		<text id="T-L2D" style="transform: matrix(.861,0,0,.856,879,404.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2D
+</tspan>
+		</text>
+		<path id="C-L4A" class="s3" fill="#7a1eb8" d="m816 238c0 0 10.2 0.1 20.1 1.1 9.1 0.9 17.9 2.8 17.9 2.8l-13 59.1c0 0-6.3-1.5-12.6-1.9-6.2-0.4-12.4 0.1-12.4 0.1z"/>
+		<text id="T-L4A" style="transform: matrix(.861,0,0,.856,818,267.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4A
+</tspan>
+		</text>
+		<path id="C-L4B" class="s3" fill="#7a1eb8" d="m859 244c0 0 11.4 2.1 21.6 6.2 9.8 3.9 18.4 9.8 18.4 9.8l-30 52c0 0-6.4-3.5-12.8-6-6.1-2.4-12.2-3.8-12.2-3.8z"/>
+		<text id="T-L4B" style="transform: matrix(.861,0,0,.856,855,281.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4B
+</tspan>
+		</text>
+		<path id="C-L4C" class="s3" fill="#7a1eb8" d="m902.7 262.4c0 0 10.4 5.1 19.1 11.7 8.5 6.4 15.3 14.3 15.3 14.3l-42.6 42.3c0 0-5.3-5.1-10.8-9.1-5.3-4-10.8-6.9-10.8-6.9z"/>
+		<text id="T-L4C" style="transform: matrix(.861,0,0,.856,887,301.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4C
+</tspan>
+		</text>
+		<path id="C-L4D" class="s3" fill="#7a1eb8" d="m939.7 289.9c0 0 7 7.3 13.9 15.8 6.7 8.1 11.5 17.4 11.5 17.4l-51.4 31.2c0 0-3.9-6.2-8.3-11.4-4.2-5.1-8.9-9.3-8.9-9.3z"/>
+		<text id="T-L4D" style="transform: matrix(.861,0,0,.856,914,331.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4D
+</tspan>
+		</text>
+		<path id="C-L4E" class="s3" fill="#7a1eb8" d="m967.9 326.4c0 0 4.7 8.9 9.2 18.9 4.3 9.7 6.5 19.9 6.5 19.9l-57.8 16.5c0 0-2.1-7-5-13.2-2.7-6-6.1-11.2-6.1-11.2z"/>
+		<text id="T-L4E" style="transform: matrix(.861,0,0,.856,935,362.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4E
+</tspan>
+		</text>
+		<path id="C-L4F" class="s3" fill="#7a1eb8" d="m926 385l58.4-16c0 0 3.3 12.1 4.8 23 1.2 8.9 0.7 20 0.7 20h-61.9c0 0 1.4-7.5 0.9-14.5-0.5-6.4-2.9-12.5-2.9-12.5z"/>
+		<text id="T-L4F" style="transform: matrix(.861,0,0,.856,947,401.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4F
+</tspan>
+		</text>
+		<path id="C-L7A" class="s3" fill="#7a1eb8" d="m815.5 196.8v-75.7c0 0 21.4 0.5 39.4 2.9 17.8 2.3 27.4 4.4 27.4 4.4l-17.9 73.8c0 0-13.2-2.8-25.9-4.4-11.7-1.6-23-1-23-1z"/>
+		<path id="C-LL7A" class="s3" fill="#7a1eb8" d="m815 200c0 0 13.4 0.7 26 2.3 11.3 1.4 22 3.7 22 3.7l-4 16c0 0-10.1-2.2-20.7-3.4-11.4-1.2-23.3-1.6-23.3-1.6z"/>
+		<text id="T-L7A" style="transform: matrix(.866,0,0,.856,829,164.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7A
+</tspan>
+		</text>
+		<text id="T-LL7A" style="transform: matrix(.863,.077,-0.076,.852,817.125,215.312)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7A
+</tspan>
+		</text>
+		<path id="C-L7B" class="s3" fill="#7a1eb8" d="m868.8 202.7l18.5-72.4c0 0 20.6 5.8 37.5 12.6 16.6 6.7 31.7 14.8 31.7 14.8l-37.5 66.5c0 0-10.8-6.7-22.7-11.4-12.7-5-27.5-10.1-27.5-10.1z"/>
+		<text id="T-L7B" style="transform: matrix(.866,0,0,.856,891,185.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7B
+</tspan>
+		</text>
+		<path id="C-LL7B" class="s3" fill="#7a1eb8" d="m869.2 206.8c0 0 16.7 4.8 28.3 10 10.4 4.6 19.9 9.9 19.9 9.9l-8.4 14.1c0 0-9-5-18.7-9.2-10.6-4.5-26-8.6-26-8.6z"/>
+		<text id="T-LL7B" style="transform: matrix(.799,.333,-0.329,.79,868.467,220.969)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7B
+</tspan>
+		</text>
+		<path id="C-L7C" class="s3" fill="#7a1eb8" d="m924.2 226l37.4-66.6c0 0 18.2 11.3 32.5 22.5 14.2 11 26.4 23 26.4 23l-54.5 53.5c0 0-8.5-9.4-18.6-17.3-10.8-8.3-23.2-15.1-23.2-15.1z"/>
+		<text id="T-L7C" style="transform: matrix(.866,0,0,.856,956,214.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7C
+</tspan>
+		</text>
+		<path id="C-LL7C" class="s3" fill="#7a1eb8" d="m922.5 228.6c0 0 14.8 9.2 24.6 17.3 8.7 7.3 16.4 15 16.4 15l-11.9 11.3c0 0-7.4-7.3-15.6-14-8.9-7.2-22.6-15.3-22.6-15.3z"/>
+		<text id="T-LL7C" style="transform: matrix(.663,.557,-0.55,.655,919.682,243.058)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7C
+</tspan>
+		</text>
+		<path id="C-L7D" class="s3" fill="#7a1eb8" d="m969.1 261.7l54.8-53.5c0 0 13 14.1 24.1 28.6 10.8 14.2 19.7 28.9 19.7 28.9l-66.3 37.9c0 0-5.9-11.3-13.7-21.4-8.3-10.8-18.6-20.5-18.6-20.5z"/>
+		<text id="T-L7D" style="transform: matrix(.866,0,0,.856,1005,263.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7D
+</tspan>
+		</text>
+		<path id="C-LL7D" class="s3" fill="#7a1eb8" d="m966.3 264.4c0 0 12.1 12.6 19.5 22.9 6.7 9.2 12.2 18.6 12.2 18.6l-14.3 7.9c0 0-5.3-8.8-11.6-17.3-6.8-9.2-18.1-20.5-18.1-20.5z"/>
+		<text id="T-LL7D" style="transform: matrix(.52,.693,-0.684,.514,959.465,276.198)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7D
+</tspan>
+		</text>
+		<path id="C-L7E" class="s3" fill="#7a1eb8" d="m1003 306l67-37c0 0 8.9 17 15.7 33.9 6.7 16.6 11.3 33.1 11.3 33.1l-74 19c0 0-2.7-12.4-7.5-24.2-5.2-12.7-12.5-24.8-12.5-24.8z"/>
+		<text id="T-L7E" style="transform: matrix(.861,0,0,.856,1036,321.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7E
+</tspan>
+		</text>
+		<path id="C-LL7E" class="s3" fill="#7a1eb8" d="m999.9 309c0 0 7.7 14.1 12.2 26 4 10.6 6.9 21.1 6.9 21.1l-15.9 3.9c0 0-2.9-9.9-6.7-19.8-4.2-10.6-11.4-23.3-11.4-23.3z"/>
+		<text id="T-LL7E" style="transform: matrix(.294,.815,-0.805,.291,991.143,319.358)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7E
+</tspan>
+		</text>
+		<path id="C-LL7F" class="s3" fill="#7a1eb8" d="m1004 363l16-3c0 0 3 12.1 5 25.2 2 12.9 3 26.8 3 26.8h-18c0 0 0.7-11.4-0.7-22.7-1.6-13.1-5.3-26.3-5.3-26.3z"/>
+		<text id="T-LL7F" style="transform: matrix(.066,.863,-0.853,.065,1008.556,367.355)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7F
+</tspan>
+		</text>
+		<path id="C-L7F" class="s3" fill="#7a1eb8" d="m1024 358l73-18c0 0 5.1 15.4 7.4 32 2.7 19.3 2.6 40 2.6 40h-77c0 0 0.4-14-1.1-27.7-1.5-13.3-4.9-26.3-4.9-26.3z"/>
+		<text id="T-L7F" style="transform: matrix(.861,0,0,.856,1055,383.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7F
+</tspan>
+		</text>
+	</g>
+	<g id="AWAY">
+		<path id="AWAY-LL7M" class="s5" fill="#939598" d="m1010 707h18v90h-18z"/>
+		<text id="T-LL7M" style="transform: matrix(0,.864,-0.856,0,1014.1,732)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7M
+</tspan>
+		</text>
+		<path id="AWAY-L7M" class="s5" fill="#939598" d="m1032 722h75v75h-75z"/>
+		<text id="T-L7M" style="transform: matrix(.854,0,0,.856,1054,759.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7M
+</tspan>
+		</text>
+		<path id="AWAY-LL7L" class="s5" fill="#939598" d="m1032 646h75v71h-75z"/>
+		<text id="T-L7L" style="transform: matrix(.854,0,0,.856,1054,689.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7L
+</tspan>
+		</text>
+		<path id="AWAY-LL7L" class="s5" fill="#939598" d="m1010 645h18v57h-18z"/>
+		<text id="T-LL7L" style="transform: matrix(0,.864,-0.856,0,1014.1,652)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7L
+</tspan>
+		</text>
+		<path id="AWAY-LL7K" class="s5" fill="#939598" d="m1010 573h18v68h-18z"/>
+		<text id="T-LL7K" style="transform: matrix(0,.864,-0.856,0,1014.1,587)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7K
+</tspan>
+		</text>
+		<path id="AWAY-L7K" class="s5" fill="#939598" d="m1094 573h13v68h-13zm-62 0h57v68h-57z"/>
+		<text id="T-L7K" style="transform: matrix(.854,0,0,.856,1049,611.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7K
+</tspan>
+		</text>
+		<path id="AWAY-LL7J" class="s5" fill="#939598" d="m1010 512h18v57h-18z"/>
+		<text id="T-LL7J" style="transform: matrix(0,.864,-0.856,0,1014.1,518)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7J
+</tspan>
+		</text>
+		<path id="AWAY-L7J" class="s5" fill="#939598" d="m1032 494h75v74h-75z"/>
+		<text id="T-L7J" style="transform: matrix(.854,0,0,.856,1055,536.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7J
+</tspan>
+		</text>
+		<path id="AWAY-LL7H" class="s5" fill="#939598" d="m1010 416h18v92h-18z"/>
+		<text id="T-LL7H" style="transform: matrix(0,.864,-0.856,0,1014.1,443)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">LL7H
+</tspan>
+		</text>
+		<path id="AWAY-L7H" class="s5" fill="#939598" d="m1032 416h75v74h-75z"/>
+		<text id="T-AWAY-L7H" style="transform: matrix(.854,0,0,.856,1055,456.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L7H
+</tspan>
+		</text>
+	</g>
+	<g id="SHORT SIDE">
+		<path id="SS-R" class="s6" fill="#ff8227" d="m18 724h57v73h-57z"/>
+		<text id="T-R" style="transform: matrix(1.018,0,0,1,40,766.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">R
+</tspan>
+		</text>
+		<path id="SS-S" class="s6" fill="#ff8227" d="m18 647h57v73h-57z"/>
+		<text id="T-S" style="transform: matrix(1.018,0,0,1,40,687.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">S
+</tspan>
+		</text>
+		<path id="SS-T" class="s6" fill="#ff8227" d="m18 570h57v73h-57z"/>
+		<text id="T-T" style="transform: matrix(1.018,0,0,1,40,610.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">T
+</tspan>
+		</text>
+		<path id="SS-U" class="s6" fill="#ff8227" d="m18 491h57v75h-57z"/>
+		<text id="T-U" style="transform: matrix(1.018,0,0,1,40,536.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">U
+</tspan>
+		</text>
+		<path id="SS-V" class="s6" fill="#ff8227" d="m18 416h57v72h-57z"/>
+		<text id="T-V" style="transform: matrix(1.018,0,0,1,40,454.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">V
+</tspan>
+		</text>
+		<path id="SS-Q" class="s6" fill="#ff8227" d="m77 416h65v41h-65z"/>
+		<text id="T-Q" style="transform: matrix(1.018,0,0,1,104,441.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">Q
+</tspan>
+		</text>
+		<path id="SS-P" class="s6" fill="#ff8227" d="m77 461h65v73h-65z"/>
+		<text id="T-P" style="transform: matrix(1.018,0,0,1,104,505.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">P
+</tspan>
+		</text>
+		<path id="SS-N" class="s6" fill="#ff8227" d="m77 538h65v69h-65z"/>
+		<text id="T-N" style="transform: matrix(1.018,0,0,1,104,574.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">N
+</tspan>
+		</text>
+		<path id="SS-M" class="s6" fill="#ff8227" d="m77 610h65v68h-65z"/>
+		<text id="T-M" style="transform: matrix(1.018,0,0,1,104,651.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">M
+</tspan>
+		</text>
+		<path id="SS-K" class="s6" fill="#ff8227" d="m77 755h65v42h-65z"/>
+		<text id="T-K" style="transform: matrix(1.018,0,0,1,104,781.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">K
+</tspan>
+		</text>
+		<path id="SS-L" class="s6" fill="#ff8227" d="m77 682h65v69h-65z"/>
+		<text id="T-L" style="transform: matrix(1.018,0,0,1,104,721.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L
+</tspan>
+		</text>
+		<path id="SS-E" class="s6" fill="#ff8227" d="m172 416h18v73h-18z"/>
+		<text id="T-E" style="transform: matrix(1.018,0,0,1,175,457.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">E
+</tspan>
+		</text>
+		<path id="SS-J" class="s6" fill="#ff8227" d="m146 416h22v73h-22z"/>
+		<text id="T-J" style="transform: matrix(1.018,0,0,1,153,457.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">J
+</tspan>
+		</text>
+		<path id="SS-D" class="s6" fill="#ff8227" d="m172 492h18v74h-18z"/>
+		<text id="T-D" style="transform: matrix(1.018,0,0,1,175,533.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">D
+</tspan>
+		</text>
+		<path id="SS-I" class="s6" fill="#ff8227" d="m146 492h22v74h-22z"/>
+		<text id="T-I" style="transform: matrix(1.018,0,0,1,155,533.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">I
+</tspan>
+		</text>
+		<path id="SS-C" class="s6" fill="#ff8227" d="m172 570h18v74h-18z"/>
+		<text id="T-C" style="transform: matrix(1.018,0,0,1,175,612.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">C
+</tspan>
+		</text>
+		<path id="SS-H" class="s6" fill="#ff8227" d="m146 570h22v74h-22z"/>
+		<text id="T-H" style="transform: matrix(1.018,0,0,1,152,612.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">H
+</tspan>
+		</text>
+		<path id="SS-A" class="s6" fill="#ff8227" d="m172 726h18v71h-18z"/>
+		<text id="T-A" style="transform: matrix(1.018,0,0,1,175,768.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">A
+</tspan>
+		</text>
+		<path id="SS-F" class="s6" fill="#ff8227" d="m146 726h22v71h-22z"/>
+		<text id="T-F" style="transform: matrix(1.018,0,0,1,152,768.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">F
+</tspan>
+		</text>
+		<path id="SS-G" class="s6" fill="#ff8227" d="m146 648h22v74h-22z"/>
+		<text id="T-G" style="transform: matrix(1.018,0,0,1,152,689.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">G
+</tspan>
+		</text>
+		<path id="SS-B" class="s6" fill="#ff8227" d="m172 648h18v74h-18z"/>
+		<text id="T-B" style="transform: matrix(1.018,0,0,1,175,689.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">B
+</tspan>
+		</text>
+		<path id="SS-L6A" class="s6" fill="#ff8227" d="m971 417h17v76h-17z"/>
+		<text id="T-L6A" style="transform: matrix(0,.864,-0.856,0,973.1,440)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L6A
+</tspan>
+		</text>
+		<path id="SS-L4T" class="s6" fill="#ff8227" d="m928 417h39v76h-39z"/>
+		<text id="T-L4T" style="transform: matrix(.854,0,0,.856,933,462.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4T
+</tspan>
+		</text>
+		<path id="SS-L6B" class="s6" fill="#ff8227" d="m971 496h17v64h-17z"/>
+		<text id="T-L6B" style="transform: matrix(0,.864,-0.856,0,973.1,510)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L6B
+</tspan>
+		</text>
+		<path id="SS-L4U" class="s6" fill="#ff8227" d="m928 496h39v64h-39z"/>
+		<text id="T-L4U" style="transform: matrix(.854,0,0,.856,933,534.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4U
+</tspan>
+		</text>
+		<path id="SS-L6C" class="s6" fill="#ff8227" d="m971 565h17v86h-17z"/>
+		<text id="T-L6C" style="transform: matrix(0,.864,-0.856,0,973.1,589)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L6C
+</tspan>
+		</text>
+		<path id="SS-L4V" class="s6" fill="#ff8227" d="m928 565h39v86h-39z"/>
+		<text id="T-L4V" style="transform: matrix(.854,0,0,.856,933,613.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4V
+</tspan>
+		</text>
+		<path id="SS-L6D" class="s6" fill="#ff8227" d="m971 656h17v62h-17z"/>
+		<text id="T-L6D" style="transform: matrix(0,.864,-0.856,0,973.1,668)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L6D
+</tspan>
+		</text>
+		<path id="SS-L4W" class="s6" fill="#ff8227" d="m928 656h39v62h-39z"/>
+		<text id="T-L4W" style="transform: matrix(.854,0,0,.856,931,692.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4W
+</tspan>
+		</text>
+		<path id="SS-L6E" class="s6" fill="#ff8227" d="m971 723h17v74h-17z"/>
+		<text id="T-L6E" style="transform: matrix(0,.864,-0.856,0,973.1,744)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L6E
+</tspan>
+		</text>
+		<path id="SS-L4X" class="s6" fill="#ff8227" d="m928 723h39v74h-39z"/>
+		<text id="T-L4X" style="transform: matrix(.854,0,0,.856,933,768.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L4X
+</tspan>
+		</text>
+		<path id="SS-L1A" class="s6" fill="#ff8227" d="m813 436l19-19v59h-19z"/>
+		<text id="T-L1A" style="transform: matrix(0,.864,-0.856,0,816.1,441)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1A
+</tspan>
+		</text>
+		<path id="SS-L1O" class="s6" fill="#ff8227" d="m836 417h19v59h-19z"/>
+		<text id="T-L1O" style="transform: matrix(0,.864,-0.856,0,840.1,431)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1O
+</tspan>
+		</text>
+		<path id="SS-L1B" class="s6" fill="#ff8227" d="m813 479h19v59h-19z"/>
+		<text id="T-L1B" style="transform: matrix(0,.864,-0.856,0,816.1,495)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1B
+</tspan>
+		</text>
+		<path id="SS-L1H" class="s6" fill="#ff8227" d="m836 479h19v59h-19z"/>
+		<text id="T-L1H" style="transform: matrix(0,.864,-0.856,0,840.1,495)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1H
+</tspan>
+		</text>
+		<path id="SS-L1C" class="s6" fill="#ff8227" d="m813 540h19v64.4h-19z"/>
+		<text id="T-L1C" style="transform: matrix(0,.864,-0.856,0,816.1,557)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1C
+</tspan>
+		</text>
+		<path id="SS-L1I" class="s6" fill="#ff8227" d="m836 540h19v64.4h-19z"/>
+		<text id="T-L1I" style="transform: matrix(0,.864,-0.856,0,840.1,557)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1I
+</tspan>
+		</text>
+		<path id="SS-L1D" class="s6" fill="#ff8227" d="m813 607.6h19v64.4h-19z"/>
+		<text id="T-L1D" style="transform: matrix(0,.864,-0.856,0,816.1,627)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1D
+</tspan>
+		</text>
+		<path id="SS-L1J" class="s6" fill="#ff8227" d="m836 607.6h19v64.4h-19z"/>
+		<text id="T-L1J" style="transform: matrix(0,.864,-0.856,0,840.1,627)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1J
+</tspan>
+		</text>
+		<path id="SS-L1E" class="s6" fill="#ff8227" d="m813 676h19v59h-19z"/>
+		<text id="T-L1E" style="transform: matrix(0,.864,-0.856,0,816.1,695)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1E
+</tspan>
+		</text>
+		<path id="SS-L1K" class="s6" fill="#ff8227" d="m836 676h19v59h-19z"/>
+		<text id="T-L1K" style="transform: matrix(0,.864,-0.856,0,840.1,695)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1K
+</tspan>
+		</text>
+		<path id="SS-L1F" class="s6" fill="#ff8227" d="m813 738h19v59h-19z"/>
+		<text id="T-L1F" style="transform: matrix(0,.864,-0.856,0,816.1,752)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1F
+</tspan>
+		</text>
+		<path id="SS-L1L" class="s6" fill="#ff8227" d="m836 738h19v59h-19z"/>
+		<text id="T-L1L" style="transform: matrix(0,.864,-0.856,0,840.1,752)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L1L
+</tspan>
+		</text>
+		<path id="SS-L2S" class="s6" fill="#ff8227" d="m860 752h64v45h-64z"/>
+		<text id="T-L2S" style="transform: matrix(.854,0,0,.856,877,778.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2S
+</tspan>
+		</text>
+		<path id="SS-L2R" class="s6" fill="#ff8227" d="m860 686h64v62h-64z"/>
+		<text id="T-L2R" style="transform: matrix(.854,0,0,.856,877,719.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2R
+</tspan>
+		</text>
+		<path id="SS-L2Q" class="s6" fill="#ff8227" d="m860 642h64v41h-64z"/>
+		<text id="T-L2Q" style="transform: matrix(.854,0,0,.856,877,668.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2Q
+</tspan>
+		</text>
+		<path id="SS-L2SB" class="s6" fill="#ff8227" d="m860 576h64v62h-64z"/>
+		<text id="T-L2SB" style="transform: matrix(.854,0,0,.856,873,610.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2SB
+</tspan>
+		</text>
+		<path id="SS-L2P" class="s6" fill="#ff8227" d="m860 533h64v40h-64z"/>
+		<text id="T-L2P" style="transform: matrix(.854,0,0,.856,877,556.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2P
+</tspan>
+		</text>
+		<path id="SS-L2N" class="s6" fill="#ff8227" d="m860 467h64v64h-64z"/>
+		<text id="T-L2N" style="transform: matrix(.854,0,0,.856,877,501.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2N
+</tspan>
+		</text>
+		<path id="SS-L2M" class="s6" fill="#ff8227" d="m860 417h64v46h-64z"/>
+		<text id="T-SS-L2M" style="transform: matrix(.854,0,0,.856,877,445.9)" >
+			<tspan x="0" y="0" class="t4" style="font-size: 19px;fill: #ffffff;font-weight: bold;font-family: Arial">L2M
+</tspan>
+		</text>
+	</g>
+	<g id="LONG SIDE LOWER CENTRAL">
+		<path id="LSLC-L1A" class="s7" fill="#0026f9" d="m196 372h60v39h-60z"/>
+		<text id="T-L1A" style="transform: matrix(1.018,0,0,1,213,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1A
+</tspan>
+		</text>
+		<path id="LSLC-L1B" class="s7" fill="#0026f9" d="m260 372h61v39h-61z"/>
+		<text id="T-L1B" style="transform: matrix(1.018,0,0,1,275,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1B
+</tspan>
+		</text>
+		<path id="LSLC-L1C" class="s7" fill="#0026f9" d="m325 372h64v39h-64z"/>
+		<text id="T-L1C" style="transform: matrix(1.018,0,0,1,343,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1C
+</tspan>
+		</text>
+		<path id="LSLC-L1D" class="s7" fill="#0026f9" d="m393 372h59v39h-59z"/>
+		<text id="T-L1D" style="transform: matrix(1.018,0,0,1,409,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1D
+</tspan>
+		</text>
+		<path id="LSLC-L1F" class="s7" fill="#0026f9" d="m552 372h61v39h-61z"/>
+		<text id="T-L1F" style="transform: matrix(1.018,0,0,1,568,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1F
+</tspan>
+		</text>
+		<path id="LSLC-L1G" class="s7" fill="#0026f9" d="m618 372h62v39h-62z"/>
+		<text id="T-L1G" style="transform: matrix(1.018,0,0,1,634,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1G
+</tspan>
+		</text>
+		<path id="LSLC-L1H" class="s7" fill="#0026f9" d="m684 372h61v39h-61z"/>
+		<text id="T-L1H" style="transform: matrix(1.018,0,0,1,701,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1H
+</tspan>
+		</text>
+		<path id="LSLC-L1I" class="s7" fill="#0026f9" d="m750 372h59c0 0 0 28.4 0 18.9 0-0.1-17.1 20.1-17.3 20.1-17.4 0-41.7 0-41.7 0z"/>
+		<text id="T-L1I" style="transform: matrix(1.018,0,0,1,765,397.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L1I
+</tspan>
+		</text>
+	</g>
+	<g id="VIP">
+		<path id="VIP-L4A" class="s8" fill="#ffae00" d="m196 235h60v24h-60z"/>
+		<text id="T-L4A" style="transform: matrix(1.018,0,0,1,213,251.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4A
+</tspan>
+		</text>
+		<path id="VIP-L2A" class="s8" fill="#ffae00" d="m196 263h60v61h-60z"/>
+		<text id="T-L2A" style="transform: matrix(1.018,0,0,1,212,296.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2A
+</tspan>
+		</text>
+		<path id="VIP-L4B" class="s8" fill="#ffae00" d="m260 235h55v24h-55z"/>
+		<text id="T-L4B" style="transform: matrix(1.018,0,0,1,273,251.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4B
+</tspan>
+		</text>
+		<path id="VIP-L3A" class="s8" fill="#ffae00" d="m260 263h55v20h-55z"/>
+		<text id="T-L3A" style="transform: matrix(1.018,0,0,1,273,277.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L3A
+</tspan>
+		</text>
+		<path id="VIP-L2B" class="s8" fill="#ffae00" d="m260 287h55v37h-55z"/>
+		<text id="T-L2B" style="transform: matrix(1.018,0,0,1,273,309.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2B
+</tspan>
+		</text>
+		<path id="VIP-L4C" class="s8" fill="#ffae00" d="m319 235h48v15h-48z"/>
+		<text id="T-L4C" style="transform: matrix(1.018,0,0,1,328,248.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4C
+</tspan>
+		</text>
+		<path id="VIP-l4D" class="s8" fill="#ffae00" d="m370 235h49v15h-49z"/>
+		<text id="T-L4D" style="transform: matrix(1.018,0,0,1,382,248.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4D
+</tspan>
+		</text>
+		<path id="VIP-L2C" class="s8" fill="#ffae00" d="m319 254h48v70h-48z"/>
+		<text id="T-L2C" style="transform: matrix(1.018,0,0,1,328,289.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2C
+</tspan>
+		</text>
+		<path id="VIP-L2D" class="s8" fill="#ffae00" d="m370 254h49v70h-49z"/>
+		<text id="T-L2D" style="transform: matrix(1.018,0,0,1,382,289.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2D
+</tspan>
+		</text>
+		<path id="VIP-L4F" class="s8" fill="#ffae00" d="m686 235h-48v15h48z"/>
+		<text id="T-L4F" style="transform: matrix(1.018,0,0,1,648,248.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4F
+</tspan>
+		</text>
+		<path id="VIP-L4E" class="s8" fill="#ffae00" d="m635 235h-49v15h49z"/>
+		<text id="T-L4E" style="transform: matrix(1.018,0,0,1,594,248.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4E
+</tspan>
+		</text>
+		<path id="VIP-L2F" class="s8" fill="#ffae00" d="m686 254h-48v70h48z"/>
+		<text id="T-L2F" style="transform: matrix(1.018,0,0,1,648,289.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2F
+</tspan>
+		</text>
+		<path id="VIP-L2E" class="s8" fill="#ffae00" d="m635 254h-49v70h49z"/>
+		<text id="T-L2E" style="transform: matrix(1.018,0,0,1,594,289.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2E
+</tspan>
+		</text>
+		<path id="VIP-L4G" class="s8" fill="#ffae00" d="m745 235h-55v21h55z"/>
+		<text id="T-L4G" style="transform: matrix(1.018,0,0,1,702,251.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4G
+</tspan>
+		</text>
+		<path id="VIP-L3E" class="s8" fill="#ffae00" d="m745 260h-55v23h55z"/>
+		<text id="T-L3E" style="transform: matrix(1.018,0,0,1,702,276.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L3E
+</tspan>
+		</text>
+		<path id="VIP-L2G" class="s8" fill="#ffae00" d="m745 287h-55v37h55z"/>
+		<text id="T-L2G" style="transform: matrix(1.018,0,0,1,702,309.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2G
+</tspan>
+		</text>
+		<path id="VIP-L2H" class="s8" fill="#ffae00" d="m809 260h-60v64h60z"/>
+		<text id="T-L2H" style="transform: matrix(1.018,0,0,1,762,297.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L2H
+</tspan>
+		</text>
+		<path id="VIP-L4H" class="s8" fill="#ffae00" d="m809 235h-60v21h60z"/>
+		<text id="T-L4H" style="transform: matrix(1.018,0,0,1,763,251.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L4H
+</tspan>
+		</text>
+		<path id="VIP-LL2A" class="s8" fill="#ffae00" d="m196 329h60v40h-60z"/>
+		<text id="T-LL2A" style="transform: matrix(1.018,0,0,1,207,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2A
+</tspan>
+		</text>
+		<path id="VIP-LL2B" class="s8" fill="#ffae00" d="m260 329h55v40h-55z"/>
+		<text id="T-LL2B" style="transform: matrix(1.018,0,0,1,269,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2B
+</tspan>
+		</text>
+		<path id="VIP-LL2C" class="s8" fill="#ffae00" d="m319 329h48v40h-48z"/>
+		<text id="T-LL2C" style="transform: matrix(1.018,0,0,1,322,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2C
+</tspan>
+		</text>
+		<path id="VIP-LL2D" class="s8" fill="#ffae00" d="m370 329h49v40h-49z"/>
+		<text id="T-LL2D" style="transform: matrix(1.018,0,0,1,374,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2D
+</tspan>
+		</text>
+		<path id="VIP-L3B" class="s8" fill="#ffae00" d="m423 235h51v134h-51z"/>
+		<text id="T-L3B" style="transform: matrix(1.018,0,0,1,434,305.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L3B
+</tspan>
+		</text>
+		<path id="VIP-L3C" class="s8" fill="#ffae00" d="m478 235h49v134h-49z"/>
+		<text id="T-L3C" style="transform: matrix(1.018,0,0,1,488,305.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L3C
+</tspan>
+		</text>
+		<path id="VIP-L3D" class="s8" fill="#ffae00" d="m531 235h51v134h-51z"/>
+		<text id="T-L3D" style="transform: matrix(1.018,0,0,1,541,305.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">L3D
+</tspan>
+		</text>
+		<path id="VIP-LL2E" class="s8" fill="#ffae00" d="m635 329h-49v40h49z"/>
+		<text id="T-LL2E" style="transform: matrix(1.018,0,0,1,591,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2E
+</tspan>
+		</text>
+		<path id="VIP-LL2F" class="s8" fill="#ffae00" d="m686 329h-48v40h48z"/>
+		<text id="T-LL2F" style="transform: matrix(1.018,0,0,1,642,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2F
+</tspan>
+		</text>
+		<path id="VIP-LL2G" class="s8" fill="#ffae00" d="m746 329h-56v40h56z"/>
+		<text id="T-LL2G" style="transform: matrix(1.018,0,0,1,697,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2G
+</tspan>
+		</text>
+		<path id="VIP-LL2H" class="s8" fill="#ffae00" d="m809 329h-60v40h60z"/>
+		<text id="T-LL2H" style="transform: matrix(1.018,0,0,1,761,353.9)" >
+			<tspan x="0" y="0" class="t1" style="font-size: 16px;fill: #ffffff;font-weight: bold;font-family: Arial">LL2H
+</tspan>
+		</text>
+	</g>
+</svg>

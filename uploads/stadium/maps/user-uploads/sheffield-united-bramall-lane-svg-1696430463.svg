@@ -1,0 +1,742 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 835.4 620.7" style="enable-background:new 0 0 835.4 620.7;" xml:space="preserve" class="svg-stadium">
+  <style>
+    .st0 {
+      fill: #080B19;
+    }
+
+    .st1 {
+      font-family: 'DMSans-Bold';
+    }
+
+    .st2 {
+      font-size: 15px;
+    }
+
+    .st3 {
+      font-family: 'DMSans-Medium';
+    }
+
+    .st4 {
+      font-size: 10px;
+    }
+
+    .st5 {
+      fill: none;
+      stroke: #000000;
+      stroke-miterlimit: 10;
+    }
+
+    .st6 {
+      font-size: 8px;
+    }
+
+    .st7 {
+      font-size: 7px;
+    }
+
+    .st8 {
+      font-size: 6px;
+    }
+
+    .st9 {
+      font-size: 10.0018px;
+    }
+
+    .st10 {
+      fill: #599D52;
+    }
+
+    .st11 {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-miterlimit: 10;
+    }
+
+    .st12 {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-width: 0.75;
+      stroke-miterlimit: 10;
+    }
+
+    .st13 {
+      display: none;
+    }
+
+    .st14 {
+      display: inline;
+      opacity: 0.7;
+      fill: #FFFFFF;
+      enable-background: new;
+    }
+
+    .st15 {
+      display: inline;
+      fill: #00B8F5;
+    }
+
+    .st16 {
+      display: inline;
+      fill: #112638;
+    }
+
+    .st17 {
+      font-size: 7.5416px;
+    }
+
+    .st18 {
+      display: inline;
+      fill: #FAC400;
+    }
+
+    .st19 {
+      display: inline;
+      fill: #FF4ACC;
+    }
+
+    .st20 {
+      display: inline;
+      fill: #00E061;
+    }
+
+    .st21 {
+      display: inline;
+      fill: #29CCC4;
+    }
+
+    .st22 {
+      display: inline;
+      fill: #415AD2;
+    }
+
+    .st23 {
+      display: inline;
+      fill: #FF6842;
+    }
+  </style>
+  <g class="field">
+    <rect x="239.2" y="208.2" class="st10" width="390.2" height="247.2"></rect>
+    <ellipse class="st11" cx="436.7" cy="324.5" rx="39.6" ry="37.9"></ellipse>
+    <line class="st12" x1="436.2" y1="217.9" x2="436.2" y2="445.2"></line>
+    <g class="st13" style="cursor: pointer;">
+      <path id="Rectangle_28417" class="st14" d="M386.9,266.5h104.3c3.7,0,6.7,2.8,6.7,6.4v116.4c0,3.6-3,6.4-6.7,6.4H386.9
+			c-3.7,0-6.7-2.8-6.7-6.4V273.1C380.1,269.5,383.1,266.5,386.9,266.5z"></path>
+      <path id="Rectangle_28406" class="st15" d="M397,310.7L397,310.7c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,313.2,393.9,310.7,397,310.7z"></path>
+      <text transform="matrix(1.0407 0 0 1 408.1772 302.7105)" class="st16 st1 st17">vip-packages</text>
+      <text transform="matrix(1.0407 0 0 1 408.1772 318.8726)" class="st16 st1 st17">Longside Lower</text>
+      <path id="Rectangle_28409" class="st18" d="M397,294.6L397,294.6c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,297,393.9,294.6,397,294.6z"></path>
+      <path id="Rectangle_28412" class="st19" d="M397,343.1L397,343.1c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,345.5,393.9,343.1,397,343.1z"></path>
+      <text transform="matrix(1.0407 0 0 1 408.1772 335.0318)" class="st16 st1 st17">Longside Upper</text>
+      <text transform="matrix(1.0407 0 0 1 408.1772 351.1939)" class="st16 st1 st17">Shortside Lower</text>
+      <path id="Rectangle_28413" class="st20" d="M397,327L397,327c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,329.4,393.9,327,397,327z"></path>
+      <path id="Rectangle_28415" class="st21" d="M397,375.4L397,375.4c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,377.8,393.9,375.4,397,375.4z"></path>
+      <text transform="matrix(1.0407 0 0 1 408.1772 367.355)" class="st16 st1 st17">Shortside Upper</text>
+      <text transform="matrix(1.0407 0 0 1 408.1772 383.5142)" class="st16 st1 st17">Away Fan Section</text>
+      <path id="Rectangle_28416" class="st22" d="M397,359.3L397,359.3c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,361.7,393.9,359.3,397,359.3z"></path>
+      <text transform="matrix(1.0407 0 0 1 408.1772 286.5494)" class="st16 st1 st17">vip-packages+</text>
+      <path id="Rectangle_28409-2" class="st23" d="M397,278.5L397,278.5c3.1,0,5.6,2.4,5.6,5.4l0,0c0,3-2.5,5.4-5.6,5.4l0,0
+			c-3.1,0-5.6-2.4-5.6-5.4l0,0C391.4,280.9,393.9,278.5,397,278.5z"></path>
+    </g>
+    <rect x="254.2" y="217.9" class="st12" width="360.5" height="227.2" style=""></rect>
+    <rect x="254.2" y="255" class="st11" width="55.6" height="162.7"></rect>
+    <rect x="254.2" y="298.4" class="st11" width="20.3" height="75.7"></rect>
+    <path class="st11" d="M309.7,368c0,0,25-30.3-0.1-59.2"></path>
+    <rect x="245.2" y="321.6" class="st11" width="9.1" height="25.4"></rect>
+    <g style="cursor: pointer;">
+      <rect x="559.3" y="255" class="st11" width="55.6" height="162.7"></rect>
+      <rect x="594.6" y="298.4" class="st11" width="20.3" height="75.7"></rect>
+      <path class="st11" d="M559.5,308.8c-25.1,28.8-0.1,59.2-0.1,59.2"></path>
+      <rect x="614.9" y="321.6" class="st11" width="9.1" height="25.4"></rect>
+    </g>
+    <path class="st11" d="M254.2,226.5c0,0,8.2-0.9,9-8.6"></path>
+    <path class="st11" d="M261.8,445.2c0,0,0.2-7.9-7.6-9.7"></path>
+    <path class="st11" d="M606.4,217.9c0,0,0.5,7.9,8.4,9.1"></path>
+    <path class="st11" d="M615,436.1c0,0-8.2,1.5-8.2,9.1"></path>
+    <g data-stand="family-stand">
+      <text transform="matrix(1 0 0 1 376.866 15.2348)" class="st0 st1 st2 stand-label" style="">FAMILY STAND</text>
+    </g>
+    <g data-stand="kennedy’s-kop-sand">
+      <text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 821.5332 254.2509)" class="st0 st3 st4 stand-label" style="">KENNEDY’S KOP SAND</text>
+    </g>
+    <g data-stand="h.e-barnes">
+      <text transform="matrix(4.489659e-11 -1 1 4.489659e-11 16.5323 351.5167)" class="st0 st1 st2 stand-label" style="">H.E BARNES</text>
+    </g>
+    <g data-stand="bramall-lane-stand">
+      <text transform="matrix(4.489659e-11 -1 1 4.489659e-11 39.5323 362.9542)" class="st0 st3 st4 stand-label" style="">BRAMALL LANE STAND</text>
+    </g>
+    <g data-stand="executive-boxes">
+      <text transform="matrix(1 0 0 1 385.1985 34.2348)" class="st0 st3 st4 stand-label" style="">EXECUTIVE BOXES</text>
+    </g>
+    <g data-stand="tony-currie-south-stand">
+      <text transform="matrix(1 0 0 1 351.1805 614.2348)" class="st0 st3 st4 stand-label" style="">TONY CURRIE SOUTH STAND</text>
+    </g>
+  </g>
+  <g data-category="away-fan-section">
+    <g data-section="away-fan-section_bu3">
+      <rect x="47.3" y="374.3" class="st5 block" width="71" height="84" data-seat="away-fan-section" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 75.3562 416.6758)" class="st3 st4 section-label">BU3</text>
+      </g>
+    </g>
+    <g data-section="away-fan-section_bu2">
+      <rect x="47.3" y="286.3" class="st5 block" width="71" height="84" data-seat="away-fan-section" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 75.3562 328.6758)" class="st3 st4 section-label">BU2</text>
+      </g>
+    </g>
+    <g data-section="away-fan-section_bu1">
+      <rect x="47.3" y="199.3" class="st5 block" width="71" height="84" data-seat="away-fan-section" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 75.3562 245.6758)" class="st3 st4 section-label">BU1</text>
+      </g>
+    </g>
+  </g>
+  <g data-category="shortside-lower-tier">
+    <g data-section="shortside-lower-tier_kf4">
+      <rect x="684.3" y="199.3" class="st5 block" width="41" height="62" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 696.3563 234.6758)" class="st3 st4 section-label">KF4</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_kf3">
+      <rect x="684.3" y="264.3" class="st5 block" width="41" height="62" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.3563 298.6758)" class="st3 st4 section-label">KF3</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_kf2">
+      <rect x="684.3" y="329.3" class="st5 block" width="41" height="62" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.3563 362.6758)" class="st3 st4 section-label">KF2</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_kf1">
+      <rect x="684.3" y="395.3" class="st5 block" width="41" height="62" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 697.3563 428.6758)" class="st3 st4 section-label">KF1</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_bl3">
+      <rect x="122.3" y="374.3" class="st5 block" width="53" height="84" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 138.3562 416.6758)" class="st3 st4 section-label">BL3</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_bl2">
+      <rect x="122.3" y="286.3" class="st5 block" width="53" height="84" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 138.3562 328.6758)" class="st3 st4 section-label">BL2</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_bl1">
+      <rect x="122.3" y="199.3" class="st5 block" width="53" height="84" data-seat="shortside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 138.3562 245.6758)" class="st3 st4 section-label">BL1</text>
+      </g>
+    </g>
+    <g data-section="shortside-lower-tier_lower-tier">
+      <path class="st5 block" d="M112.3,462.3h30c0,0,2,37,40,39v30C182.3,531.3,112.3,527.3,112.3,462.3z" data-seat="shortside-lower-tier" style=""></path>
+      <g style="cursor: pointer;">
+        <text transform="matrix(0.7601 0.6499 -0.6499 0.7601 122.2874 483.2511)" class="st3 st9 section-label">LOWER TIER</text>
+      </g>
+    </g>
+  </g>
+  <g data-category="shortside-upper-tier">
+    <g data-section="shortside-upper-tier_family-corner">
+      <path class="st5 block" d="M680.3,40.6c14.7,3.5,69.1,18.2,105.1,70.6c21.4,31.1,27.1,62.1,28.9,79c-19.7,0-39.3,0-59,0c0,0-9-68-75-87
+		C680.3,82.4,680.3,61.5,680.3,40.6z" data-seat="shortside-upper-tier" style=""></path>
+      <g style="cursor: pointer;">
+        <text transform="matrix(0.6487 0.761 -0.7614 0.6483 727.0225 95.8102)" class="st3 st4 section-label">FAMILY CORNER</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_km4">
+      <rect x="729.3" y="199.3" class="st5 block" width="40" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 739.3563 234.6758)" class="st3 st4 section-label">KM4</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_km3">
+      <rect x="729.3" y="264.3" class="st5 block" width="40" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 739.3563 298.6758)" class="st3 st4 section-label">KM3</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_kb4">
+      <rect x="773.3" y="199.3" class="st5 block" width="41" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 783.3563 234.6758)" class="st3 st4 section-label">KB4</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_kb3">
+      <rect x="773.3" y="264.3" class="st5 block" width="41" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 783.3563 298.6758)" class="st3 st4 section-label">KB3</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_km2">
+      <rect x="729.3" y="329.3" class="st5 block" width="40" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 739.3563 362.6758)" class="st3 st4 section-label">KM2</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_kb2">
+      <rect x="773.3" y="329.3" class="st5 block" width="41" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 783.3563 362.6758)" class="st3 st4 section-label">KB2</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_upper-tier">
+      <path class="st5 block" d="M47.3,462.6c19.6-0.1,39.3-0.2,58.9-0.3c0,4.7,0.6,34.6,25.2,56.4c20.8,18.4,45,18.7,50.8,18.6v57
+		c-7.4,0.2-67.1,0.8-106.4-47.5C47.9,512.4,47.2,474.1,47.3,462.6z" data-seat="shortside-upper-tier" style=""></path>
+      <g style="cursor: pointer;">
+        <text transform="matrix(0.7601 0.6499 -0.6499 0.7601 87.2869 514.2505)" class="st3 st9 section-label">UPPER TIER</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_km1">
+      <rect x="729.3" y="395.3" class="st5 block" width="40" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 739.3563 428.6758)" class="st3 st4 section-label">KM1</text>
+      </g>
+    </g>
+    <g data-section="shortside-upper-tier_kb1">
+      <rect x="773.3" y="395.3" class="st5 block" width="41" height="62" data-seat="shortside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 785.3563 428.6758)" class="st3 st4 section-label">KB1</text>
+      </g>
+    </g>
+  </g>
+  <g data-category="longside-lower-tier">
+    <g data-section="longside-lower-tier_fef4">
+      <rect x="433.3" y="132.3" class="st5 block" width="135" height="39" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 488.3563 156.6758)" class="st3 st4 section-label">FEF4</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_fef4">
+      <rect x="294.3" y="132.3" class="st5 block" width="135" height="39" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 351.3563 157.6758)" class="st3 st4 section-label">FEF4</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_fef5">
+      <rect x="240.3" y="132.3" class="st5 block" width="50" height="39" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 253.3563 156.6758)" class="st3 st4 section-label">FEF5</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_fef6">
+      <rect x="186.3" y="132.3" class="st5 block" width="51" height="39" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 200.3562 156.6758)" class="st3 st4 section-label">FEF6</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_fef1">
+      <rect x="625.3" y="131.3" class="st5 block" width="49" height="40" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 638.3563 153.6758)" class="st3 st4 section-label">FEF1</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_fef2">
+      <rect x="571.3" y="131.3" class="st5 block" width="50" height="40" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 585.3563 154.6758)" class="st3 st4 section-label" style="">FEF2</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_wa1">
+      <rect x="604.3" y="175.3" class="st5 block" width="70" height="20" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 629.3563 189.6758)" class="st3 st4 section-label">WA1</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_ssf1">
+      <rect x="556.3" y="468.3" class="st5 block" width="120" height="39" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 604.3563 492.6758)" class="st3 st4 section-label">SSF1</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_ssf2">
+      <polygon class="st5 block" points="433.3,468.3 553.3,468.3 553.3,507.3 473.3,507.3 473.3,500.3 433.3,500.3 	" data-seat="longside-lower-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 498.3563 493.6758)" class="st3 st4 section-label">SSF2</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_ssf3">
+      <polygon class="st5 block" points="310.3,468.3 429.3,468.3 429.3,489.3 354.3,489.3 354.3,507.3 310.3,507.3 	" data-seat="longside-lower-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 319.3563 489.6758)" class="st3 st4 section-label">SSF3</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_ssf4">
+      <rect x="186.3" y="468.3" class="st5 block" width="120" height="39" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 235.3563 491.6758)" class="st3 st4 section-label">SSF4</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_wa2">
+      <rect x="521.3" y="175.3" class="st5 block" width="70" height="20" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 545.3563 189.6758)" class="st3 st4 section-label">WA2</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_wa3">
+      <rect x="437.3" y="175.3" class="st5 block" width="71" height="20" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 461.3563 189.6758)" class="st3 st4 section-label">WA3</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_wa4">
+      <rect x="353.3" y="175.3" class="st5 block" width="71" height="20" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 377.3563 189.6758)" class="st3 st4 section-label">WA4</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_wa5">
+      <rect x="270.3" y="175.3" class="st5 block" width="70" height="20" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 294.3563 189.6758)" class="st3 st4 section-label">WA5</text>
+      </g>
+    </g>
+    <g data-section="longside-lower-tier_wa6">
+      <rect x="186.3" y="175.3" class="st5 block" width="71" height="20" data-seat="longside-lower-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 211.3563 189.6758)" class="st3 st4 section-label">WA6</text>
+      </g>
+    </g>
+  </g>
+  <g data-category="longside-upper-tier">
+    <g data-section="longside-upper-tier_feb3">
+      <polygon class="st5 block" points="433.3,89.3 433.3,129.3 568.3,129.3 568.3,112.3 526.3,112.3 526.3,89.3 	" data-seat="longside-upper-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 477.3563 116.6758)" class="st3 st4 section-label">FEB3</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_feb4">
+      <polygon class="st5 block" points="294.3,112.3 294.3,129.3 429.3,129.3 429.3,89.3 337.3,89.3 337.3,112.3 	" data-seat="longside-upper-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 362.3563 115.6758)" class="st3 st4 section-label">FEB4</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_feb5">
+      <path class="st5 block" d="M270.3,89.2c0,7.7,0,15.4-0.1,23.1h20v17h-50c0-13.4,0-26.8,0-40.1C250.3,89.2,260.3,89.2,270.3,89.2z" data-seat="longside-upper-tier" style=""></path>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 250.3563 123.6758)" class="st3 st4 section-label">FEB5</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_feb6">
+      <rect x="186.3" y="107.3" class="st5 block" width="51" height="22" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 200.3562 122.6758)" class="st3 st4 section-label">FEB6</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_feb2">
+      <polygon class="st5 block" points="591.3,89.3 621.3,89.3 621.3,128.3 571.3,128.3 571.3,112.3 591.3,112.3 	" data-seat="longside-upper-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 584.3563 123.6758)" class="st3 st4 section-label">FEB2</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_feb1">
+      <rect x="625.3" y="89.3" class="st5 block" width="49" height="39" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 638.3563 112.6758)" class="st3 st4 section-label">FEB1</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssm1">
+      <rect x="556.3" y="511.3" class="st5 block" width="120" height="40" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 604.3563 534.6758)" class="st3 st4 section-label">SSM1</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssb1">
+      <rect x="556.3" y="555.3" class="st5 block" width="120" height="40" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 604.3563 579.6758)" class="st3 st4 section-label">SSB1</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssm2">
+      <rect x="473.3" y="511.3" class="st5 block" width="80" height="40" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 498.3563 534.6758)" class="st3 st4 section-label">SSM2</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssb2">
+      <polygon class="st5 block" points="473.3,555.3 553.3,555.3 553.3,595.3 433.3,595.3 433.3,561.3 473.3,561.3 	" data-seat="longside-upper-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 498.3563 580.6758)" class="st3 st4 section-label">SSB2</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssb3">
+      <polygon class="st5 block" points="310.3,554.3 354.3,554.3 354.3,570.3 429.3,570.3 429.3,594.3 310.3,594.3 	" data-seat="longside-upper-tier" style=""></polygon>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 319.3563 583.6758)" class="st3 st4 section-label">SSB3</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssm3">
+      <rect x="309.3" y="512.3" class="st5 block" width="45" height="38" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 318.3563 535.6758)" class="st3 st4 section-label">SSM3</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssb4">
+      <rect x="186.3" y="554.3" class="st5 block" width="120" height="40" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 234.3563 579.6758)" class="st3 st4 section-label">SSB4</text>
+      </g>
+    </g>
+    <g data-section="longside-upper-tier_ssm4">
+      <rect x="186.3" y="512.3" class="st5 block" width="120" height="38" data-seat="longside-upper-tier" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 233.3563 536.6758)" class="st3 st4 section-label">SSM4</text>
+      </g>
+    </g>
+  </g>
+  <g data-category="vip-packages">
+    <g data-section="vip-packages_125-room">
+      <rect x="186.3" y="65.3" class="st5 block" width="69" height="19" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 198.3562 78.6758)" class="st3 st4 section-label">125 ROOM</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_125-seats">
+      <rect x="186.3" y="88.3" class="st5 block" width="51" height="15" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 188.39 99.6757)" class="st3 st4 section-label" style="">125 SEATS</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_international-bar">
+      <rect x="259.3" y="65.3" class="st5 block" width="145" height="19" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 284.3563 78.6758)" class="st3 st4 section-label">INTERNATIONAL BAR</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_tony-currie-suite">
+      <rect x="407.3" y="65.3" class="st5 block" width="267" height="19" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 489.3563 78.6758)" class="st3 st4 section-label">TONY CURRIE SUITE</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_tc-obh">
+      <rect x="529.3" y="89.3" class="st5 block" width="39" height="20" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 530.3563 103.6758)" class="st3 st4 section-label" style="">TC OBH</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_tc-oba">
+      <rect x="294.4" y="89.3" class="st5 block" width="39.8" height="20" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -6.999957e-03 6.999957e-03 1 296.5068 102.9116)" class="st3 st4 section-label" style="">TC OBA</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_opa">
+      <rect x="273.3" y="89.3" class="st5 block" width="17" height="20" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 274.9191 101.9296)" class="st3 st7 section-label">OPA</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_platinumsuite">
+      <rect x="358.3" y="493.3" class="st5 block" width="71" height="71" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 370.9564 528.7612)" class="st3 st4 section-label">PLATINUM</text>
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 381.4684 540.7245)" class="st3 st4 section-label">SUITE</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_directorsbox">
+      <rect x="433.3" y="504.3" class="st5 block" width="36" height="52" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 435.4261 528.8105)" class="st3 st8 section-label">DIRECTORS</text>
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 445.9013 535.9739)" class="st3 st8 section-label">BOX</text>
+      </g>
+    </g>
+    <g data-section="vip-packages_oph">
+      <rect x="571.3" y="89.3" class="st5 block" width="17" height="20" data-seat="vip-packages" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 572.3563 101.6758)" class="st3 st7 section-label">OPH</text>
+      </g>
+    </g>
+  </g>
+  <g data-category="executive-boxes">
+	<g data-section="executive-boxes_1">
+      <rect x="186.8" y="40.3" class="st5 block" width="13" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 192.3562 54.6758)" class="st3 st6 section-label">1</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_2">
+      <rect x="202.3" y="40.3" class="st5 block" width="14" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 207.3563 54.6758)" class="st3 st6 section-label">2</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_3">
+      <rect x="219.3" y="40.3" class="st5 block" width="12" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 223.3563 54.6758)" class="st3 st6 section-label">3</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_4">
+      <rect x="234.3" y="40.3" class="st5 block" width="14" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 239.3563 54.6758)" class="st3 st6 section-label">4</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_5">
+      <rect x="251.3" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 255.3563 54.6758)" class="st3 st6 section-label" style="">5</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_6">
+      <rect x="267.3" y="40.3" class="st5 block" width="11.4" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 270.3563 54.6758)" class="st3 st6 section-label">6</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_7">
+      <rect x="281.5" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 286.3563 54.6758)" class="st3 st6 section-label">7</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_8">
+      <rect x="297.3" y="40.3" class="st5 block" width="14" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 302.3563 54.6758)" class="st3 st6 section-label">8</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_9">
+      <rect x="314.3" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 318.3563 54.6758)" class="st3 st6 section-label">9</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_11">
+      <rect x="344.5" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 348.3563 54.6758)" class="st3 st6 section-label" style="">11</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_12">
+      <rect x="360.3" y="40.3" class="st5 block" width="14" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 363.3563 54.6758)" class="st3 st6 section-label">12</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_13">
+      <rect x="377.3" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 380.3563 54.6758)" class="st3 st6 section-label">13</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_14">
+      <rect x="393.3" y="40.3" class="st5 block" width="11.4" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 395.3563 54.6758)" class="st3 st6 section-label">14</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_15">
+      <rect x="407.5" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 410.3563 54.6758)" class="st3 st6 section-label">15</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_16">
+      <rect x="424.3" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 427.3563 54.6758)" class="st3 st6 section-label" style="">16</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_17">
+      <rect x="440.3" y="40.3" class="st5 block" width="11.3" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 442.5254 54.6755)" class="st3 st6 section-label">17</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_18">
+      <rect x="454.5" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 457.2703 54.6757)" class="st3 st6 section-label">18</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_19">
+      <rect x="471.3" y="40.3" class="st5 block" width="12.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 473.6302 54.6757)" class="st3 st6 section-label">19</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_20">
+      <rect x="486.3" y="40.3" class="st5 block" width="13" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 487.658 54.6757)" class="st3 st6 section-label">20</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_21">
+      <rect x="502.3" y="40.3" class="st5 block" width="12.5" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 504.9907 54.6148)" class="st3 st6 section-label">21</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_22">
+      <rect x="518.3" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 520.326 54.561)" class="st3 st6 section-label">22</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_23">
+      <rect x="534.3" y="40.3" class="st5 block" width="11.3" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 535.6025 54.5609)" class="st3 st6 section-label">23</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_24">
+      <rect x="548.5" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 550.4364 54.6757)" class="st3 st6 section-label">24</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_25">
+      <rect x="565.3" y="40.3" class="st5 block" width="12" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 566.5472 54.6757)" class="st3 st6 section-label">25</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_26">
+      <rect x="580.3" y="40.3" class="st5 block" width="12.4" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 581.8242 54.5608)" class="st3 st6 section-label">26</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_27">
+      <rect x="595.5" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 597.7536 54.6757)" class="st3 st6 section-label">27</text>
+      </g>
+    </g>
+    <g data-section="executive-boxes_28">
+      <rect x="612.3" y="40.3" class="st5 block" width="13.2" height="21" data-seat="executive-boxes" style=""></rect>
+      <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 614.2407 54.6757)" class="st3 st6 section-label">28</text>
+    </g>
+    <g data-section="executive-boxes_29">
+      <rect x="628.3" y="40.3" class="st5 block" width="11.9" height="21" data-seat="executive-boxes" style=""></rect>
+      <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 629.4948 54.6757)" class="st3 st6 section-label">29</text>
+    </g>
+    <g data-section="executive-boxes_30">
+      <rect x="643.3" y="40.3" class="st5 block" width="14" height="21" data-seat="executive-boxes" style=""></rect>
+      <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 645.1901 54.6147)" class="st3 st6 section-label">30</text>
+    </g>
+    <g data-section="executive-boxes_31">
+      <rect x="660.5" y="40.3" class="st5 block" width="13.7" height="21" data-seat="executive-boxes" style=""></rect>
+      <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 663.7747 54.5605)" class="st3 st6 section-label">31</text>
+    </g>
+    <g data-section="executive-boxes_10">
+      <rect x="330.3" y="40.3" class="st5 block" width="11.9" height="21" data-seat="executive-boxes" style=""></rect>
+      <g style="cursor: pointer;">
+        <text transform="matrix(1 -3.500000e-03 3.500000e-03 1 332.3563 54.6758)" class="st3 st6 section-label">10</text>
+      </g>
+    </g>
+  </g>
+</svg>

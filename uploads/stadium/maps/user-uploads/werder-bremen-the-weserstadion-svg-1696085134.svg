@@ -1,0 +1,373 @@
+
+              
+            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" class="svg-stadium" viewBox="0 0 827.7 658.8" style="enable-background:new 0 0 827.7 658.8;" xml:space="preserve"><style>
+		.st0{fill:#589D51;}
+		.st1{fill:#488544;}
+		.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+		.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+		.st4{fill:#112638;}
+		.st5{font-family:'DMSans-Bold';}
+		.st6{font-size:15px;}
+		.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+		.st8{font-family:'DMSans-Medium';}
+		.st9{font-size:10px;}
+		.st10{font-size:7.9997px;}
+		.st11{font-size:8px;}
+	</style><g class="field">
+		<rect x="224.1" y="215.3" class="st0" width="347.8" height="229.4"></rect>
+		<rect x="390.2" y="224.6" class="st1" width="19" height="210.8"></rect>
+		<rect x="428.8" y="224.6" class="st1" width="19" height="210.6"></rect>
+		<rect x="466.9" y="224" class="st1" width="19" height="210.8"></rect>
+		<rect x="505.6" y="223.4" class="st1" width="19" height="210.8"></rect>
+		<rect x="540.8" y="223" class="st1" width="17" height="210.8"></rect>
+		<rect x="237" y="224.4" class="st1" width="19" height="210.8"></rect>
+		<rect x="352.2" y="224.6" class="st1" width="19" height="210.8"></rect>
+		<rect x="275.4" y="224.4" class="st1" width="19" height="210.8"></rect>
+		<rect x="313.9" y="224" class="st1" width="19" height="210.8"></rect>
+		<rect x="237.5" y="224.4" class="st2" width="321.4" height="210.8" style=""></rect>
+		<rect x="237.5" y="258.7" class="st3" width="49.5" height="150.9"></rect>
+		<rect x="237.5" y="299" class="st3" width="18.1" height="70.3"></rect>
+		<path class="st3" d="M287,363.5c0,0,22.2-28.2-0.1-54.9"></path>
+		<rect x="229.4" y="320.6" class="st3" width="8" height="23.6"></rect>
+		<g style="cursor: pointer;">
+			<rect x="509.4" y="258.7" class="st3" width="49.5" height="150.9"></rect>
+			<rect x="540.8" y="299" class="st3" width="18.1" height="70.3"></rect>
+			<path class="st3" d="M509.6,308.6c-22.4,26.7-0.2,54.9-0.2,54.9"></path>
+			<rect x="558.9" y="320.6" class="st3" width="8" height="23.6"></rect>
+		</g>
+		<path class="st3" d="M237.5,232.3c0,0,7.3-0.9,8-8"></path>
+		<path class="st3" d="M244.2,435.2c0,0,0.2-7.3-6.8-9"></path>
+		<path class="st3" d="M551.3,224.4c0,0,0.4,7.4,7.5,8.4"></path>
+		<circle id="white_circle" class="st3" cx="399.2" cy="327.2" r="35.2"></circle>
+		<path class="st3" d="M559,426.7c0,0-7.2,1.3-7.4,8.5"></path>
+		<line class="st2" x1="398.7" y1="224.6" x2="398.7" y2="435.4"></line>
+
+		<g data-stand="nord" style="cursor: pointer;">
+			<text transform="matrix(1 0 0 1 362.8623 12.8623)" class="st4 st5 st6 data-label">NORD</text>
+		</g>
+
+		<g data-stand="oskkurve" style="cursor: pointer;">
+			<text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 814.8633 278.8623)" class="st4 st5 st6 data-label">OSKKURVE</text>
+		</g>
+
+		<g data-stand="sud" style="cursor: pointer;">
+			<text transform="matrix(1 0 0 1 373.8623 654.8623)" class="st4 st5 st6 data-label">SUD</text>
+		</g>
+
+		<g data-stand="westkurve" style="cursor: pointer;">
+			<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 12.8623 356.8623)" class="st4 st5 st6 data-label">WESTKURVE</text>
+		</g>
+	<g data-tier="presse">
+				<rect x="340.4" y="516.3" class="block st7" width="117.5" height="25.4"></rect>
+				<text transform="matrix(1 0 0 1 377.8623 532.8623)" class="st8 st9 section-label tier-label">PRESSE</text>
+			</g></g><g data-category="vip"><g data-section="vip_vip-logen-nord">
+			<path class="block st7" d="M120.4,162.2c14.3-15.7,36.5-35.8,67.8-51.7c10.8-5.5,35.5-17,68.7-22.6c14.8-2.5,33.3-2.9,69.8-3.4
+				c21.8-0.3,35.5-0.3,64.7-0.2c33.7,0.1,67.4,1.1,101.1,0.9c8.2-0.1,19.6-0.2,34.9,1.5c0,0,5.7,0.6,13.9,2
+				c7.5,1.1,17.7,2.9,29.3,6.4c23.6,7.1,39.8,16.7,50.9,23.5c15,9.1,35.4,23.4,56.4,45.1c-8.8,3.1-17.7,6.1-26.5,9.2
+				c-10-10.1-23.3-21.4-40.3-31.6c-40.6-24.3-80.3-28.8-102.7-29.5H283.8c0,0-74.9,0-137.2,61.1C137.9,169.2,129.1,165.7,120.4,162.2
+				z" data-seat="vip" style=""></path>
+			<text transform="matrix(1 0 0 1 367.8623 100.8623)" class="st8 st11 section-label">VIP-LOGEN NORD</text>
+		</g><g data-section="vip_vip-logen-sud">
+			<path class="block st7" d="M146.6,484c-8.7,3.1-17.5,6.2-26.2,9.3c11.9,13.7,29.7,31.1,54.5,46.2c43.1,26.2,84.8,31.9,107.7,33.2H512
+				c15.6-0.8,28.8-3,38.9-5.2c6.3-1.4,25.4-5.9,48.8-16.6c10.7-4.9,19.4-9.8,25.8-13.6c-4.8-7-9.6-14.1-14.5-21.1
+				c-9.6,5.7-21.3,11.5-35,16.5c-26.9,9.7-51.2,12.1-68.8,12.3c-74.5,0-149,0-223.5,0C283.8,545.1,204.2,545.1,146.6,484z" data-seat="vip" style=""></path>
+			<text transform="matrix(1 0 0 1 364.8623 562.8623)" class="st8 st11 section-label">VIP-LOGEN SUD</text>
+		</g><g data-section="vip_vip-rang-gold">
+			<rect x="340.3" y="576.2" class="block st7" width="117.6" height="57.6" data-seat="vip" style=""></rect>
+			<text transform="matrix(1 0 0 1 362.8623 608.8623)" class="st8 st11 section-label">VIP-RANG GOLD</text>
+		</g><g data-section="vip_vip-rangplatin">
+			<polygon class="block st7" points="336.8,115.1 282.6,115.1 283.8,137 336.8,137" data-seat="vip" style=""></polygon>
+			<text transform="matrix(1 0 0 1 290.9575 124.8623)" class="st8 st11 section-label">VIP-RANG</text>
+			<text transform="matrix(1 0 0 1 296.8175 133.8623)" class="st8 st11 section-label">PLATIN</text>
+		</g><g data-section="vip_vip-rangplatin-select">
+			<rect x="340.3" y="115.1" class="block st7" width="118.7" height="21.9" data-seat="vip" style=""></rect>
+			<text transform="matrix(1 0 0 1 383.9575 124.8623)" class="st8 st11 section-label">VIP-RANG</text>
+			<text transform="matrix(1 0 0 1 370.3075 133.8623)" class="st8 st11 section-label">PLATIN SELECT</text>
+		</g><g data-section="vip_vip-rangplatin-">
+			<polygon class="block st7" points="461.9,115.1 515.5,115.1 514.4,137 461.9,137" data-seat="vip" style=""></polygon>
+			<text transform="matrix(1 0 0 1 468.9575 124.8623)" class="st8 st11 section-label">VIP-RANG</text>
+			<text transform="matrix(1 0 0 1 473.9775 133.8623)" class="st8 st11 section-label">PLATIN </text>
+		</g><g data-section="vip_vip-club-ost">
+			<path class="block st7" d="M652.7,175c9.1-2.9,18.1-5.9,27.2-8.8c5.2,32.8,8.2,60.8,10.2,82.5c2.6,29.4,5.1,58.8,4,97.6
+				c-0.6,19.6-1.9,35.9-3,47.4c-8.9-1.1-17.8-2.2-26.6-3.2c1.3-17.6,2.1-36.1,2.3-55.2C667.2,275.7,661.3,221.8,652.7,175z" data-seat="vip" style=""></path>
+			<text transform="matrix(4.400415e-02 0.999 -0.999 4.400415e-02 675.4355 257.0264)" class="st8 st10 section-label">VIP-CLUB OST</text>
+		</g><g data-section="vip_partnerlounge">
+			<path class="block st7" d="M664.1,394.3c8.8,1,17.7,2.1,26.5,3.1c-0.5,11.6-1.4,23.9-2.7,36.7c-1.4,13.9-3.3,27.1-5.4,39.5
+				c-8.9-2.2-17.8-4.4-26.7-6.7c1.6-10.8,3.1-21.8,4.4-33.2C661.8,420.3,663.1,407.1,664.1,394.3z" data-seat="vip" style=""></path>
+			<text transform="matrix(-0.1092 0.994 -0.994 -0.1092 677.8866 416.0536)" class="st8 st11 section-label">PARTNER</text>
+			<text transform="matrix(-0.1092 0.994 -0.994 -0.1092 668.6737 416.3375)" class="st8 st11 section-label">LOUNGE</text>
+		</g><g data-section="vip_haake-beckfankurve">
+			<path class="block st7" d="M655,470.2l26.5,6.9l-2.3,16.1c-3.9,4.6-8.2,9.3-13.1,14c-12.8,12.4-25.7,21.4-37,27.9
+				c-4.7-7-9.5-13.9-14.2-20.9c7.3-4.7,15.2-10.5,23.3-17.6c4.9-4.3,9.4-8.6,13.3-12.7L655,470.2z" data-seat="vip" style=""></path>
+			<text transform="matrix(0.764 -0.6452 0.6452 0.764 628.9802 519.7846)" class="st8 st11 section-label">HAAKE-BECK</text>
+			<text transform="matrix(0.764 -0.6452 0.6452 0.764 638.9474 522.3842)" class="st8 st11 section-label">FANKURVE</text>
+		</g><g data-section="vip_premium-loungewest">
+			<path class="block st7" d="M106.3,396.4l27.7-3.5c0,0,6.9,70.3,11.5,88.8l-26.5,8.1C118.9,489.8,108.6,432.1,106.3,396.4z" data-seat="vip" style=""></path>
+			<text transform="matrix(-0.1384 -0.9904 0.9904 -0.1384 127.9692 477.7589)" class="st8 st11 section-label">PREMIUM-LOUNGE</text>
+			<text transform="matrix(-0.1384 -0.9904 0.9904 -0.1384 133.7075 446.4249)" class="st8 st11 section-label">WEST</text>
+		</g><g data-section="vip_business-classwest">
+			<path class="block st7" d="M103.9,297.2l27.7,1.1c0,0-1.1,76.1,1.1,91.1l-26.5,3.5C106.3,392.9,101.6,330.7,103.9,297.2z" data-seat="vip" style=""></path>
+			<text transform="matrix(-2.740000e-02 -0.9996 0.9996 -2.740000e-02 116.0051 377.5586)" class="st8 st11 section-label">BUSINESS-CLASS</text>
+			<text transform="matrix(-2.740000e-02 -0.9996 0.9996 -2.740000e-02 125.2416 352.5518)" class="st8 st11 section-label">WEST</text>
+		</g><g data-section="vip_vip-logenwest">
+			<path class="block st7" d="M146.3,175.4c-2.4,11.1-4.5,22.6-6.4,34.6c-4.7,30.5-6.8,59-7.2,84.8l-28.8-1.1c0.6-12.2,1.5-24.7,2.6-37.5c2.8-32.6,7-63.3,12.1-92.1C127.8,168,137,171.7,146.3,175.4z" data-seat="vip" style=""></path>
+			<text transform="matrix(0.1067 -0.9943 0.9943 0.1067 118.3371 256.3735)" class="st8 st11 section-label">VIP-LOGEN</text>
+			<text transform="matrix(0.1067 -0.9943 0.9943 0.1067 129.5512 245.6245)" class="st8 st11 section-label">WEST</text>
+		</g><g data-section="vip_skybox-7">
+			<polygon class="block st7" points="336.8,22.9 278,22.9 281.5,81.7 336.8,80.5" data-seat="vip" style=""></polygon>
+			<text transform="matrix(1 0 0 1 285.8623 53.8623)" class="st8 st9 section-label">SKYBOX 7</text>
+		</g></g><g data-category="nordtribüne"><g data-section="nordtribüne_4">
+			<path class="block st7" d="M567.2,124.9c5.9,2,12.2,4.3,18.7,7.2c8.3,3.6,15.7,7.5,22.2,11.2c-7.1,12.1-14.1,24.3-21.2,36.4l-8.1,13.8c0,0-18.5-10.4-30-12.7C555,162.2,561.1,143.5,567.2,124.9z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 573.8623 161.8623)" class="st8 st9 section-label">4</text>
+		</g><g data-section="nordtribüne_6">
+			<path class="block st7" d="M518.4,115.4c6,0.5,12.5,1.2,19.3,2.3c9.7,1.6,18.5,3.7,26.3,6c-5.8,18.6-11.6,37.3-17.4,55.9
+				c0,0-14.1-5.1-30.3-6.3L518.4,115.4z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 532.8623 147.8623)" class="st8 st9 section-label">6</text>
+		</g><g data-section="nordtribüne_8">
+			<path class="block st7" d="M513.4,172.4l-51.5,0.3v-32.2c17.4-0.1,34.9-0.2,52.3-0.2C513.9,151,513.7,161.7,513.4,172.4z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 483.8623 158.8623)" class="st8 st9 section-label">8</text>
+		</g><g data-section="nordtribüne_10">
+			<rect x="400.2" y="140.5" class="block st7" width="58.8" height="32.3" data-seat="nordtribüne" style=""></rect>
+			<text transform="matrix(1 0 0 1 425.8623 158.8623)" class="st8 st9 section-label">10</text>
+		</g><g data-section="nordtribüne_12">
+			<rect x="340.3" y="140.5" class="block st7" width="56.5" height="32.3" data-seat="nordtribüne" style=""></rect>
+			<text transform="matrix(1 0 0 1 364.8623 158.8623)" class="st8 st9 section-label">12</text>
+		</g><g data-section="nordtribüne_14">
+			<polyline class="block st7" points="283.8,140.5 285.4,172.4 336.8,172.7 336.8,140.5 284.9,140.5" data-seat="nordtribüne" style=""></polyline>
+			<text transform="matrix(1 0 0 1 305.8623 158.8623)" class="st8 st9 section-label">14</text>
+		</g><g data-section="nordtribüne_16">
+			<path class="block st7" d="M279.4,115.4c0,0-35.9,3.2-45.1,9l17.3,55.3c0,0,14.7-6.1,30.9-7.3L279.4,115.4z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 256.8623 145.8623)" class="st8 st9 section-label">16</text>
+		</g><g data-section="nordtribüne_18">
+			<path class="block st7" d="M230.8,124.3c0,0-33.4,11.5-40.4,19.6l20.8,35.7l8.1,13.8c0,0,18.5-10.4,30-12.7L230.8,124.3z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 217.8623 161.8623)" class="st8 st9 section-label">18</text>
+		</g><g data-section="nordtribüne_3">
+			<path class="block st7" d="M594.5,36.7c0,0,42.7,16.1,60,27.7l-30,50.7c0,0-19.6-12.7-48.4-21.9L594.5,36.7z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 611.8623 78.8623)" class="st8 st9 section-label">3</text>
+		</g><g data-section="nordtribüne_5">
+			<path class="block st7" d="M523,22.9c0,0,45,3.5,68,13.8L572.6,92c0,0-5.8-4.6-53-10.4L523,22.9z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 548.8623 57.8623)" class="st8 st9 section-label">5</text>
+		</g><g data-section="nordtribüne_7">
+			<polygon class="block st7" points="460.7,22.9 519.5,22.9 516.1,81.7 460.7,80.5" data-seat="nordtribüne" style=""></polygon>
+			<text transform="matrix(1 0 0 1 486.8623 53.8623)" class="st8 st9 section-label">7</text>
+		</g><g data-section="nordtribüne_9">
+			<rect x="424.4" y="23.4" class="block st7" width="33.5" height="56.9" data-seat="nordtribüne" style=""></rect>
+			<text transform="matrix(1 0 0 1 438.8623 53.8623)" class="st8 st9 section-label">9</text>
+		</g><g data-section="nordtribüne_11">
+			<rect x="386.4" y="23.4" class="block st7" width="35" height="56.9" data-seat="nordtribüne" style=""></rect>
+			<text transform="matrix(1 0 0 1 399.8623 53.8623)" class="st8 st9 section-label">11</text>
+		</g><g data-section="nordtribüne_13">
+			<rect x="339.7" y="23.4" class="block st7" width="43.7" height="56.9" data-seat="nordtribüne" style=""></rect>
+			<text transform="matrix(1 0 0 1 356.8623 53.8623)" class="st8 st9 section-label">13</text>
+		</g><g data-section="nordtribüne_15">
+			<path class="block st7" d="M274.6,22.9c0,0-46.2,4.5-68.2,12.5L225,92c0,0,5.8-4.6,53-10.4L274.6,22.9z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 241.8623 57.8623)" class="st8 st9 section-label">15</text>
+		</g><g data-section="nordtribüne_17">
+			<path class="block st7" d="M203.1,36.7c0,0-42.6,16.1-59.9,27.7l30,50.7c0,0,19.6-12.7,48.4-21.9L203.1,36.7z" data-seat="nordtribüne" style=""></path>
+			<text transform="matrix(1 0 0 1 180.8623 78.8623)" class="st8 st9 section-label">17</text>
+		</g></g><g data-category="südtribüne"><g data-section="südtribüne_38">
+			<path class="block st7" d="M218.1,462.1L187,511.7c0,0,17.3,11.5,40.4,19.6l16.1-56.5C243.4,474.8,228.5,469,218.1,462.1z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 211.8623 499.8623)" class="st8 st9 section-label">38</text>
+		</g><g data-section="südtribüne_40">
+			<path class="block st7" d="M245.7,475.9l-15,56.5c0,0,15,5.8,49.6,9.2l2.3-58.8C282.6,482.8,259.6,481.7,245.7,475.9z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 253.8623 511.8623)" class="st8 st9 section-label">40</text>
+		</g><g data-section="südtribüne_42">
+			<polygon class="block st7" points="286.1,482.8 336.8,482.8 336.8,541.6 283.8,541.6" data-seat="südtribüne"></polygon>
+			<text transform="matrix(1 0 0 1 305.8623 515.8623)" class="st8 st9 section-label">42</text>
+		</g><g data-section="südtribüne_44">
+			<rect x="340.3" y="482.8" class="block st7" width="56.5" height="31.1" data-seat="südtribüne"></rect>
+			<text transform="matrix(1 0 0 1 362.8623 502.8623)" class="st8 st9 section-label">44</text>
+		</g><g data-section="südtribüne_46">
+			<rect x="400.2" y="482.8" class="block st7" width="57.6" height="31.1" data-seat="südtribüne"></rect>
+			<text transform="matrix(1 0 0 1 422.8623 502.8623)" class="st8 st9 section-label">46</text>
+		</g><g data-section="südtribüne_48">
+			<polygon class="block st7" points="512,482.8 461.3,482.8 461.3,541.6 514.4,541.6" data-seat="südtribüne"></polygon>
+			<text transform="matrix(1 0 0 1 481.8623 514.8623)" class="st8 st9 section-label">48</text>
+		</g><g data-section="südtribüne_50">
+			<path class="block st7" d="M552.4,475.9l15,56.5c0,0-15,5.8-49.6,9.2l-2.3-58.8C515.5,482.8,538.6,481.7,552.4,475.9z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 533.8623 513.8623)" class="st8 st9 section-label">50</text>
+		</g><g data-section="südtribüne_52">
+			<path class="block st7" d="M580.1,462.1l31.1,49.6c0,0-17.3,11.5-40.3,19.6l-16.1-56.5C554.7,474.8,569.7,469,580.1,462.1z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 574.8623 499.8623)" class="st8 st9 section-label">52</text>
+		</g><g data-section="südtribüne_37">
+			<path class="block st7" d="M169.7,540.5l-31.1,48.4c0,0,23.1,17.3,63.4,30c5.5-18.2,11-36.4,16.5-54.6c-9.7-3.7-20-8.3-30.8-13.8
+				C181.3,547.2,175.3,543.9,169.7,540.5z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 175.8623 581.8623)" class="st8 st9 section-label">37</text>
+		</g><g data-section="südtribüne_39">
+			<path class="block st7" d="M221.3,565.2c5.8,1.7,11.9,3.3,18.2,4.8c14.1,3.3,27.3,5.4,39.4,6.6c-1.1,19.1-2.3,38.2-3.4,57.2
+				c0,0-43.8-4.6-70.3-13.8C210.6,601.8,216,583.5,221.3,565.2z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 237.8623 601.8623)" class="st8 st9 section-label">39</text>
+		</g><g data-section="südtribüne_41">
+			<polygon class="block st7" points="336.8,576.2 282.4,576.4 279.2,633.9 336.8,633.9" data-seat="südtribüne"></polygon>
+			<text transform="matrix(1 0 0 1 303.8623 606.8623)" class="st8 st9 section-label">41</text>
+		</g><g data-section="südtribüne_47">
+			<polygon class="block st7" points="461.3,576.2 516.7,576.2 519,633.9 461.3,633.9" data-seat="südtribüne"></polygon>
+			<text transform="matrix(1 0 0 1 483.8623 608.8623)" class="st8 st9 section-label">47</text>
+		</g><g data-section="südtribüne_49">
+			<path class="block st7" d="M576.6,564.7c0,0-20.3,8.2-57.2,11.7l3.1,57.5c0,0,43.8-4.6,70.3-13.8L576.6,564.7z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 548.8623 601.8623)" class="st8 st9 section-label">49</text>
+		</g><g data-section="südtribüne_51">
+			<path class="block st7" d="M627.8,540.9c10.6,16,21.2,32,31.8,48c0,0-23.1,17.3-63.4,30l-17.3-55.3c5-2,10.1-4.1,15.3-6.4
+				C606.2,552,617.4,546.4,627.8,540.9z" data-seat="südtribüne"></path>
+			<text transform="matrix(1 0 0 1 611.8623 581.8623)" class="st8 st9 section-label">51</text>
+		</g></g><g data-category="osttribüne"><g data-section="osttribüne_142">
+			<path class="block st7" d="M611.2,145.1c0,0,28.8,18.5,36.9,28.8l-66.9,21.9L611.2,145.1z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 607.8623 172.8623)" class="st8 st9 section-label">142</text>
+		</g><g data-section="osttribüne_140">
+			<path class="block st7" d="M649.3,176.3c0.6,3,1.2,6,1.7,9.1c1.1,6.3,2,12.5,2.8,18.4l-70.3,17.3l-2.3-21.9
+				C603.9,191.6,626.6,183.9,649.3,176.3z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 610.8623 203.8623)" class="st8 st9 section-label">140</text>
+		</g><g data-section="osttribüne_138">
+			<path class="block st7" d="M654.1,207.5c0.8,4.3,1.5,8.9,2.2,13.7c0.6,4.7,1.1,9.3,1.5,13.7c-23.8,4.2-47.6,8.4-71.4,12.6
+				c-0.7-7.7-1.5-15.3-2.2-23C607.5,218.9,630.8,213.2,654.1,207.5z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 613.8623 232.8623)" class="st8 st9 section-label">138</text>
+		</g><g data-section="osttribüne_136">
+			<path class="block st7" d="M658.5,238.4c0,0,1.2,4.6,2.3,27.7l-71.5,9.2c0,0-2.3-19.6-2.3-24.2L658.5,238.4z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 615.8623 261.8623)" class="st8 st9 section-label">136</text>
+		</g><g data-section="osttribüne_134">
+			<path class="block st7" d="M661.3,269.7c0.5,4.1,0.9,8.4,1.2,13.1c0.3,5.2,0.3,10,0.1,14.5c-24,1.5-48.1,3-72.1,4.6l-1.1-23
+				C613.3,275.8,637.3,272.7,661.3,269.7z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 617.8623 290.8623)" class="st8 st9 section-label">134</text>
+		</g><g data-section="osttribüne_132">
+			<path class="block st7" d="M663.1,300.7c0.3,3.2,0.5,6.6,0.6,10.1c0.2,6.3,0.1,12.2-0.2,17.6c-24.3,0-48.6,0-73,0v-23.1
+				C614.7,303.8,638.9,302.2,663.1,300.7z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 618.8623 318.8623)" class="st8 st9 section-label">132</text>
+		</g><g data-section="osttribüne_130">
+			<path class="block st7" d="M663.1,359.5c0.3-4.8,0.4-9.8,0.5-15c0-4.4,0-8.6-0.1-12.7c-24.3,0-48.6,0-73,0v23.1L663.1,359.5z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 617.8623 347.8623)" class="st8 st9 section-label">130</text>
+		</g><g data-section="osttribüne_128">
+			<path class="block st7" d="M661,390.5c0.6-4.2,1.1-8.8,1.4-13.7c0.3-5,0.4-9.8,0.3-14.2c-24.1-1.4-48.2-2.9-72.3-4.3l-1.1,23.1
+				C613.2,384.4,637.1,387.5,661,390.5z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 618.8623 376.8623)" class="st8 st9 section-label">128</text>
+		</g><g data-section="osttribüne_126">
+			<path class="block st7" d="M658.5,421.7c0,0,1.2-4.6,2.3-27.7l-71.5-9.2c0,0-2.3,19.6-2.3,24.2L658.5,421.7z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 615.8623 406.8623)" class="st8 st9 section-label">126</text>
+		</g><g data-section="osttribüne_124">
+			<path class="block st7" d="M654.4,452.4c0.7-3.7,1.4-7.6,1.9-11.7c0.7-5.4,1.3-10.7,1.6-15.6c-23.6-4.2-47.3-8.4-70.9-12.7l-2.3,23.1
+				L654.4,452.4z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 613.8623 435.8623)" class="st8 st9 section-label">124</text>
+		</g><g data-section="osttribüne_122">
+			<path class="block st7" d="M649.2,481.7c0,0,3.5-13.8,4.6-26.5l-70.3-17.3l-2.3,21.9L649.2,481.7z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 610.8623 462.8623)" class="st8 st9 section-label">122</text>
+		</g><g data-section="osttribüne_1">
+			<path class="block st7" d="M656.7,65.5c0,0,39.2,25.4,53,41.5c-13.1,14.1-26.1,28.1-39.2,42.2c-6.4-5.4-13.3-10.9-20.7-16.4
+				c-7.8-5.8-15.4-11-22.7-15.7C636.9,99.9,646.8,82.7,656.7,65.5z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 665.8623 109.8623)" class="st8 st9 section-label">1</text>
+		</g><g data-section="osttribüne_139">
+			<path class="block st7" d="M682.9,165.4c21.1-6.4,42.1-12.8,63.2-19.2c0,0,11.5,15,18.5,27.7l-77.2,19.6
+				C685.9,184.1,684.4,174.8,682.9,165.4z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 712.8623 172.8623)" class="st8 st9 section-label">139</text>
+		</g><g data-section="osttribüne_137">
+			<path class="block st7" d="M688.4,196.9l77.2-19.6c0,0,6.9,9.2,16.1,31.1l-89.9,18.5C691.8,226.9,689.6,203.9,688.4,196.9z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 725.8623 206.8623)" class="st8 st9 section-label">137</text>
+		</g><g data-section="osttribüne_135">
+			<path class="block st7" d="M691.9,230.4l91.1-18.5c0,0,6.9,17.3,12.7,35.7l-101.5,12.7L691.9,230.4z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 732.8623 242.8623)" class="st8 st9 section-label">135</text>
+		</g><g data-section="osttribüne_133">
+			<path class="block st7" d="M694.2,263.8l102.6-12.7c0,0,4.6,17.3,6.9,36.9l-107.2,5.8L694.2,263.8z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 738.8623 277.8623)" class="st8 st9 section-label">133</text>
+		</g><g data-section="osttribüne_131">
+			<path class="block st7" d="M696.5,297.2l107.2-5.8c0,0,2.3,20.8,2.3,35.7c-36.3,0.1-72.5,0.3-108.8,0.4
+				C697,317.4,696.7,307.3,696.5,297.2z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 743.8623 314.8623)" class="st8 st9 section-label">131</text>
+		</g><g data-section="osttribüne_129">
+			<path class="block st7" d="M696.5,360.6l107.2,5.8c0,0,2.3-20.8,2.3-35.7c-36.2,0-72.5,0-108.7,0C697,340.7,696.8,350.6,696.5,360.6z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 743.8623 350.8623)" class="st8 st9 section-label">129</text>
+		</g><g data-section="osttribüne_127">
+			<path class="block st7" d="M694.2,394.1l102.6,12.7c0,0,4.6-17.3,6.9-36.9l-107.2-5.8L694.2,394.1z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 741.8623 387.8623)" class="st8 st9 section-label">127</text>
+		</g><g data-section="osttribüne_125">
+			<path class="block st7" d="M691.9,427.5L783,446c0,0,6.9-17.3,12.7-35.7l-101.5-12.7L691.9,427.5z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 732.8623 423.8623)" class="st8 st9 section-label">125</text>
+		</g><g data-section="osttribüne_123">
+			<path class="block st7" d="M688.4,460.9l77.2,19.6c0,0,6.9-9.2,16.1-31.1L691.9,431C691.9,431,689.6,454,688.4,460.9z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 724.8623 458.8623)" class="st8 st9 section-label">123</text>
+		</g><g data-section="osttribüne_121">
+			<path class="block st7" d="M682.7,492.1l63.4,19.6c0,0,11.5-15,18.5-27.7l-77.2-19.6L682.7,492.1z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 715.8623 491.8623)" class="st8 st9 section-label">121</text>
+		</g><g data-section="osttribüne_53">
+			<path class="block st7" d="M716.1,545.1l-42.7-40.3c0,0-15,18.5-41.5,33.4l31.1,48.4C663.1,586.6,688.4,572.8,716.1,545.1z" data-seat="osttribüne"></path>
+			<text transform="matrix(1 0 0 1 666.8623 545.8623)" class="st8 st9 section-label">53</text>
+		</g></g><g data-category="westtribüne"><g data-section="westtribüne_20">
+			<path class="block st7" d="M187,145.1c0,0-28.8,18.5-36.9,28.8l66.9,21.9L187,145.1z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 178.8623 173.8623)" class="st8 st9 section-label">20</text>
+		</g><g data-section="westtribüne_100">
+			<path class="block st7" d="M148.9,176.2c0,0-3.5,13.8-4.6,26.5l70.3,17.3l2.3-21.9L148.9,176.2z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 172.8623 202.8623)" class="st8 st9 section-label">100</text>
+		</g><g data-section="westtribüne_102">
+			<path class="block st7" d="M143.6,206.3c-0.9,5.1-1.7,10.4-2.3,16c-0.5,4.1-0.9,8-1.1,11.8c23.7,4.1,47.4,8.3,71,12.4l2.3-23
+				C190.2,217.8,166.9,212.1,143.6,206.3z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 168.8623 231.8623)" class="st8 st9 section-label">102</text>
+		</g><g data-section="westtribüne_104">
+			<path class="block st7" d="M139.7,237.3c-0.2,1.7-0.5,3.4-0.7,5.2c-1,7.7-1.7,15.2-2.3,22.6c24.1,3,48.1,6.1,72.2,9.1
+				c0.5-3.9,0.9-7.8,1.3-11.9c0.4-4.2,0.7-8.3,1-12.3L139.7,237.3z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 164.8623 259.8623)" class="st8 st9 section-label">104</text>
+		</g><g data-section="westtribüne_106">
+			<path class="block st7" d="M136.7,268.5c-0.3,9.2-0.7,18.4-1,27.7c24,1.5,48,3,72,4.6l1.2-23.1C184.8,274.6,160.8,271.5,136.7,268.5z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 162.8623 289.8623)" class="st8 st9 section-label">106</text>
+		</g><g data-section="westtribüne_108">
+			<path class="block st7" d="M135.5,298.9c-0.2,3.9-0.4,7.9-0.6,11.9c-0.2,5.6-0.3,11-0.3,16.3c24.4,0,48.8,0,73.2,0V304
+				C183.7,302.4,159.6,300.6,135.5,298.9z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 162.8623 318.8623)" class="st8 st9 section-label">108</text>
+		</g><g data-section="westtribüne_110">
+			<path class="block st7" d="M135.1,358.3c-0.5-4.1-0.9-8.7-1-13.6c-0.1-5.1,0.1-9.8,0.4-14.1c24.4,0,48.8,0,73.2,0v23.1L135.1,358.3z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 162.8623 347.8623)" class="st8 st9 section-label">110</text>
+		</g><g data-section="westtribüne_112">
+			<path class="block st7" d="M136.2,388.3c-0.6-5-1.1-10.5-1.2-16.5c-0.1-3.5,0-6.9,0.1-10c24.2-1.5,48.4-3.1,72.6-4.6l1.2,23
+				C184.7,382.9,160.4,385.6,136.2,388.3z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 162.8623 375.8623)" class="st8 st9 section-label">112</text>
+		</g><g data-section="westtribüne_114">
+			<path class="block st7" d="M140.3,420.5c-0.8-3.9-1.4-8.1-1.9-12.6c-0.6-5.4-0.9-10.4-0.9-15l71.5-9.2c0,3.4,0.2,6.9,0.5,10.7
+				c0.4,4.9,1.1,9.4,1.8,13.5C187.6,412.1,163.9,416.3,140.3,420.5z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 165.8623 404.8623)" class="st8 st9 section-label">114</text>
+		</g><g data-section="westtribüne_116">
+			<path class="block st7" d="M144,451.5c-0.6-5.3-1.2-10.5-1.8-15.9c-0.5-3.9-0.9-7.8-1.4-11.6c23.5-4.2,46.9-8.4,70.4-12.6l2.3,23
+				C190.3,440.1,167.1,445.8,144,451.5z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 168.8623 434.8623)" class="st8 st9 section-label">116</text>
+		</g><g data-section="westtribüne_118">
+			<path class="block st7" d="M148.9,480.5c0,0-3.4-12.5-4.5-25.2l70-18l2.6,21.3L148.9,480.5z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 174.8623 460.8623)" class="st8 st9 section-label">118</text>
+		</g><g data-section="westtribüne_120">
+
+			<path class="block st7" d="M150.1,482.8l64.6-20.8l-30,47.3C184.6,509.4,162.7,499,150.1,482.8z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 172.8623 489.8623)" class="st8 st9 section-label">120</text>
+		</g><g data-section="westtribüne_19">
+			<path class="block st7" d="M140.8,65.5c0,0-39.2,25.4-53,41.5l39.2,41.5c0,0,25.4-21.9,43.8-32.3L140.8,65.5z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 126.8623 108.8623)" class="st8 st9 section-label">19</text>
+		</g><g data-section="westtribüne_115">
+			<path class="block st7" d="M35.9,440.2c-0.7-3.5-1.3-7.1-1.9-10.7c-1.3-7.7-2.4-15.3-3.4-22.7c24.1-3,48.3-6.1,72.4-9.1
+				c0.9,10,1.7,20,2.6,30C82.4,431.9,59.1,436,35.9,440.2z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 61.8623 421.8623)" class="st8 st9 section-label">115</text>
+		</g><g data-section="westtribüne_117">
+			<path class="block st7" d="M41.7,477.1l69.2-16.1c0,0-2.3-16.1-4.6-30c-23.2,4.4-46.4,8.8-69.6,13.2c0.5,4.5,1,9.2,1.7,14
+				C39.4,464.8,40.5,471.1,41.7,477.1z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 65.8623 457.8623)" class="st8 st9 section-label">117</text>
+		</g><g data-section="westtribüne_119">
+			<path class="block st7" d="M50.5,514.8c21.5-8,43.1-15.9,64.6-23.9c-0.5-4-1.1-8.1-1.8-12.2c-0.8-4.9-1.6-9.6-2.5-14.3
+				c-22.7,5.4-45.3,10.7-68,16.1c0.6,4.3,1.3,8.8,2.2,13.5C46.6,501.6,48.5,508.5,50.5,514.8z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 73.8623 491.8623)" class="st8 st9 section-label">119</text>
+		</g><g data-section="westtribüne_35">
+			<path class="block st7" d="M82,545.1l42.6-40.3c0,0,15,18.5,41.5,33.4L135,586.6C135.1,586.6,109.7,572.8,82,545.1z" data-seat="westtribüne"></path>
+			<text transform="matrix(1 0 0 1 121.8623 547.8623)" class="st8 st9 section-label">35</text>
+		</g></g><g data-category="gastbereich---away-fans"><g data-section="gastbereich---away-fans_101">
+			<path class="block st7" d="M50.9,141.6l65.7,21.9c0,0-2.3,9.2-5.8,30l-68-16.1C42.8,177.3,47.5,153.1,50.9,141.6z" data-seat="gastbereich---away-fans"></path>
+			<text transform="matrix(1 0 0 1 72.8623 173.8623)" class="st8 st9 section-label">101</text>
+		</g><g data-section="gastbereich---away-fans_103">
+			<path class="block st7" d="M41.7,180.8l69.2,16.1c0,0-2.3,16.1-4.6,30L36,214.2C35.9,214.2,40.5,186.6,41.7,180.8z" data-seat="gastbereich---away-fans"></path>
+			<text transform="matrix(1 0 0 1 65.8623 208.8623)" class="st8 st9 section-label">103</text>
+		</g><g data-section="gastbereich---away-fans_105">
+			<path class="block st7" d="M35.9,217.7c0,0-3.5,17.3-4.6,33.4l72.6,9.2l2.3-30L35.9,217.7z" data-seat="gastbereich---away-fans"></path>
+			<text transform="matrix(1 0 0 1 61.8623 243.8623)" class="st8 st9 section-label">105</text>
+		</g><g data-section="gastbereich---away-fans_107">
+			<path class="block st7" d="M30.2,254.6l72.6,9.2c0,0-1.1,19.6-1.1,30l-73.8-4.6C27.9,289.2,30.2,256.9,30.2,254.6z" data-seat="gastbereich---away-fans"></path>
+			<text transform="matrix(1 0 0 1 56.8623 278.8623)" class="st8 st9 section-label">107</text>
+		</g><g data-section="gastbereich---away-fans_109">
+			<polygon class="block st7" points="27.9,292.6 101.6,297.2 100.5,327.2 26.7,327.2" data-seat="gastbereich---away-fans"></polygon>
+			<text transform="matrix(1 0 0 1 54.8623 314.8623)" class="st8 st9 section-label">109</text>
+		</g><g data-section="gastbereich---away-fans_111">
+			<polygon class="block st7" points="27.9,365.3 101.6,360.6 100.5,330.7 26.7,330.7" data-seat="gastbereich---away-fans"></polygon>
+			<text transform="matrix(1 0 0 1 56.8623 350.8623)" class="st8 st9 section-label">111</text>
+		</g><g data-section="gastbereich---away-fans_113">
+			<path class="block st7" d="M30.2,403.3l72.6-9.2c0,0-1.1-19.6-1.1-30l-73.8,4.6C27.9,368.7,30.2,401,30.2,403.3z" data-seat="gastbereich---away-fans"></path>
+			<text transform="matrix(1 0 0 1 58.8623 386.8623)" class="st8 st9 section-label">113</text>
+		</g></g></svg>

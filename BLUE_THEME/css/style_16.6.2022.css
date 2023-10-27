@@ -1,0 +1,423 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 95%;
+  }
+}
+
+@media (min-width: 1800px) {
+  .container {
+    max-width: 90%;
+  }
+}
+
+@media (min-width: 2000px) {
+  .container {
+    max-width: 1920px;
+  }
+}
+
+a{
+    color: #0037D5;
+}
+.theme-text{
+    color: #323A70;
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
+
+.w-10{width:10%;}
+.w-20{width:20%;}
+.w-30{width:30%;}
+.w-40{width:40%;}
+.w-50{width:50%;}
+.w-60{width:60%;}
+.w-70{width:70%;}
+.w-80{width:80%;}
+.w-90{width:90%;}
+.w-100{width:100%;}
+
+
+.info-icon{
+    color: #FFF;
+    color: #4CB076;
+}
+.theme-btn{
+    background:#0037D5;
+    color: #FFF;
+    padding: 12px 25px;
+    border-radius: 0;
+    font-weight: 700;
+}
+.theme-btn:hover{
+    background: #0037D5;
+    color: #FFF;
+}
+.modal-close{
+    right: 1rem;;
+    top: 1rem;;
+    position: relative;
+}
+.custom-control-label::before{
+    background: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 0 !important;
+}
+
+/*  START LOGIN CSSS*/
+.login-left-side, .login-right-side{
+
+    width: 50%;
+    float: left;
+    padding: 100px;
+    height: 100%;
+     display:table;
+    vertical-align:middle;
+      
+}
+.forget_link{
+    text-decoration: underline;
+}
+.login-left-side{
+    height: 100%;
+    background: #FAFBFF;
+    padding: 0;
+    min-height: 100vh;
+}
+.login-left-side .login-logo{
+  margin-top: 100px;
+}
+ .login-left-side .login-logo img{
+    width: 250px;
+        background: #FFF;
+            border-radius: 50%;
+  }
+.login-right-side .login-form{
+    color:#323A70 ;
+    width: 400px;
+    float: left;
+}
+.login-right-side h3{
+    font-weight:700;
+}
+.login-right-side label{
+    font-weight: 700;
+}
+.login-right-side .form-control{
+    height: 45px;
+    padding: 12px 10px ;
+    border-radius: 0;
+    border-radius: 1px solid #E8EAEF;
+}
+
+/*  END LOGIN CSS*/
+header{
+    border-bottom: 1px solid #E8EAEF;
+}
+.header-center{
+    margin: 0 auto;
+    font-weight: 700;
+     text-transform: uppercase;
+}
+.header-center li{
+    margin:0 20px ;
+}
+.header-center li span{
+    margin-top: 5px;
+}
+.header-center li img{
+     margin-right:5px ;
+    width: 22px;
+     vertical-align: text-bottom;
+    }
+.header-center li a{
+    color: #4C5271 !important;
+}
+.header-center li.active a{
+    color: #0037D5 !important; 
+    border-bottom: 3px solid #0037D5;
+}
+
+.header-right ul{
+     font-size: 15px;
+    list-style: none;
+}
+.header-right li{
+   float: left;
+   margin-left: 20px;
+   margin-top: 10px;
+}
+.header-center ul li a{
+    color: #4C5271;
+}
+
+.dash-welcome-head{
+    font-weight: 600;
+    color:#1C3157;
+}
+.dash-welcome-text{
+    font-weight: 400;
+    color: #7F85A4;
+}
+.dash-list{
+    width: 100%;
+    background: #F9FAFF;
+    padding:  20px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.dash-list h2{
+    font-weight: 700;
+    line-height: 100%;
+    color: #414D96;
+}
+.dash-list img{
+    width: 18px;
+}
+.dash-list p{
+    font-weight: 600;
+    line-height: 100%;
+    /* identical to box height, or 18px */
+    color: #9098BC;
+}
+.dash-list span{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  
+    color: #0037D5;
+    border-radius:50%;
+    padding:  10px 10px;
+}
+.dash-title {
+    font-weight: 700;
+    line-height: 100%;
+    color: #414D96;
+        margin-bottom: 25px;
+}
+.recent-orders{
+    margin-top: 50px;
+    overflow: auto;
+    width: 100%;
+}
+.recent-orders table{
+    border: 1px solid #CCC;
+}
+.recent-orders table td{
+    font-weight: 400;
+    color: #4C5271;
+    padding: 15px 8px;
+    vertical-align:middle;
+}
+.recent-orders table h5{
+    font-weight: 700;
+    color: #323A70;
+    margin-bottom: 5px;
+}
+.recent-orders table p{
+    font-weight: 400;
+    color: #4C5271;
+    margin-bottom: 5px;
+}
+.recent-orders .btn-upload{
+    background: #039871;
+    border-radius: 0;
+    color: #FFF;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #FFF;
+}
+.table-striped>tbody>tr:nth-child(even)>td, 
+.table-striped>tbody>tr:nth-child(even)>th {
+    background-color: #FAFBFF;
+}
+
+.clone-listing .clone-title{
+    font-weight: 700;
+    line-height: 100%;
+    color: #323A70;
+}
+
+.clone-listing .clone-match-title{
+   font-weight: 700;
+    color: #0037D5;
+}
+.clone-listing .clone-match-date{
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+.clone-listing .clone-match-stadium{
+    font-weight: 400;
+    color: #787E9B;
+}
+.clone-listing  .clone-listing-table-div{
+    background: #FAFBFF;
+    padding:  10px 5px 20px 5px;
+}
+
+.clone-listing  .clone-listing-table td{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 100%;
+    color: #4C5271; vertical-align: middle;
+
+}
+.clone-listing  .clone-listing-table .form-control{
+    border-radius: 0px;
+}
+.clone-listing  .clone-listing-table  td,  .clone-listing  .clone-listing-table th{
+    padding: 5px;
+}
+
+.clone-listing  .clone-listing-table .td_close{
+    
+    font-weight: 700;
+    font-size: 18px;
+    color: #C4212A;
+
+}
+.clone-listing-btn{
+    color: #0037D5;
+    border: 1px solid #0037D5;
+    border-radius: 0px;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+.clone-listing-btn:hover{
+    background: #4CB076;
+    border: 1px solid #4CB076;
+    color: #FFF;
+}
+
+.clone-listing-save-btn{
+    color: #FFF;
+    border: 1px solid #4CB076;
+    border-radius: 0px;
+    padding: 10px 20px;
+    background: #4CB076;
+}
+.clone-listing-save-btn:hover{
+    background: #0037D5;
+    border: 1px solid #0037D5;
+    color: #FFF;
+}
+
+.clone-listing-cancel-btn{
+    color: #FFF;
+    border: 1px solid #BDC4D8;
+    border-radius: 0px;
+    padding: 10px 20px;
+    background: #BDC4D8;
+}
+.clone-listing-cancel-btn:hover{
+    background: #000;
+    border: 1px solid #0037D5;
+    color: #FFF;
+}
+/*  RADIO BUTTON*/
+
+.tdcheckbox {
+  width: 1.6rem;
+  height: 1.6rem;
+  color: dodgerblue;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  background: none;
+  border: 0;
+  outline: 0;
+  flex-grow: 0;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  transition: background 300ms;
+  cursor: pointer;
+}
+
+
+/* Pseudo element for check styling */
+
+.tdcheckbox::before {
+  content: "";
+  color: transparent;
+  display: block;
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+  border: 0;
+  background-color: transparent;
+  background-size: contain;
+  box-shadow: inset 0 0 0 1px #CCD3D8;
+}
+
+
+/* Checked */
+
+.tdcheckbox:checked {
+  background-color: #03BA8A;
+}
+
+.tdcheckbox:checked::before {
+  box-shadow: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E %3Cpath d='M15.88 8.29L10 14.17l-1.88-1.88a.996.996 0 1 0-1.41 1.41l2.59 2.59c.39.39 1.02.39 1.41 0L17.3 9.7a.996.996 0 0 0 0-1.41c-.39-.39-1.03-.39-1.42 0z' fill='%23fff'/%3E %3C/svg%3E");
+}
+
+
+/* Disabled */
+
+.tdcheckbox:disabled {
+  background-color: #CCD3D8;
+  opacity: 0.84;
+  cursor: not-allowed;
+}
+
+
+/* IE */
+
+.tdcheckbox::-ms-check {
+  content: "";
+  color: transparent;
+  display: block;
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+  border: 0;
+  background-color: transparent;
+  background-size: contain;
+  box-shadow: inset 0 0 0 1px #CCD3D8;
+}
+
+.tdcheckbox:checked::-ms-check {
+  box-shadow: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E %3Cpath d='M15.88 8.29L10 14.17l-1.88-1.88a.996.996 0 1 0-1.41 1.41l2.59 2.59c.39.39 1.02.39 1.41 0L17.3 9.7a.996.996 0 0 0 0-1.41c-.39-.39-1.03-.39-1.42 0z' fill='%23fff'/%3E %3C/svg%3E");
+}
+
+/* End Radio Button*/
+
+@media only screen and (max-width: 768px) {
+    .login-left-side, .login-right-side{
+        width: 100%;
+        padding: 30px 20px;
+        min-height: auto;
+    }
+    .login-left-side .login-logo{
+      margin-top: 80px;
+    }
+  .login-left-side .login-logo img{
+    width: 150px;
+  }
+  .login-right-side .login-form{
+    width: 100%;
+  }
+}

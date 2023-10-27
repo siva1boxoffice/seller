@@ -1,0 +1,843 @@
+<svg class="svg-stadium" version="1.1" id="stadium" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 858.5 667.6" style="enable-background:new 0 0 858.5 667.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st3{display:none;fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st4{display:none;fill:#224889;}
+	.st5{fill:#080B19;}
+	.st6{font-family:'DMSans-Bold';}
+	.st7{font-size:15px;}
+	.st8{font-family:'DMSans-Medium';}
+	.st9{font-size:10px;}
+	.st10{font-size:7px;}
+	.st11{font-family:'NeueHaasDisplay-Mediu';}
+	.st12{font-size:9px;}
+	.st13{font-size:8px;}
+	.st14{fill:#599D52;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st17{display:none;}
+	.st18{display:inline;opacity:0.7;fill:#FFFFFF;enable-background:new    ;}
+	.st19{display:inline;fill:#00B8F5;}
+	.st20{display:inline;fill:#112638;}
+	.st21{font-size:7.1481px;}
+	.st22{display:inline;fill:#FAC400;}
+	.st23{display:inline;fill:#FF4ACC;}
+	.st24{display:inline;fill:#00E061;}
+	.st25{display:inline;fill:#29CCC4;}
+	.st26{display:inline;fill:#415AD2;}
+	.st27{display:inline;fill:#FF6842;}
+</style>
+
+<g class="field">
+	<g xmlns="http://www.w3.org/2000/svg">
+		<rect x="229.4" y="168.2" class="st14" width="369.8" height="234.3"/>
+		<ellipse class="st15" cx="416.7" cy="278.6" rx="37.5" ry="35.9"/>
+		<line class="st16" x1="416.1" y1="177.5" x2="416.1" y2="392.9"/>
+		<g class="st17">
+			<path id="Rectangle_28417" class="st18" d="M369.4,223.6h98.9c3.5,0,6.4,2.7,6.4,6.1V340c0,3.4-2.8,6.1-6.4,6.1h-98.9    c-3.5,0-6.4-2.7-6.4-6.1V229.8C363,226.4,365.9,223.6,369.4,223.6z"/>
+			<path id="Rectangle_28406" class="st19" d="M379,265.5L379,265.5c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,267.7,376.1,265.5,379,265.5z"/>
+			<text transform="matrix(1.0407 0 0 1 389.6216 257.8136)" class="st20 st6 st21">VIP</text>
+			<text transform="matrix(1.0407 0 0 1 389.6216 273.1319)" class="st20 st6 st21">Longside Lower</text>
+			<path id="Rectangle_28409" class="st22" d="M379,250.2L379,250.2c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,252.5,376.1,250.2,379,250.2z"/>
+			<path id="Rectangle_28412" class="st23" d="M379,296.1L379,296.1c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,298.4,376.1,296.1,379,296.1z"/>
+			<text transform="matrix(1.0407 0 0 1 389.6216 288.4483)" class="st20 st6 st21">Longside Upper</text>
+			<text transform="matrix(1.0407 0 0 1 389.6216 303.7677)" class="st20 st6 st21">Shortside Lower</text>
+			<path id="Rectangle_28413" class="st24" d="M379,280.8L379,280.8c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,283.1,376.1,280.8,379,280.8z"/>
+			<path id="Rectangle_28415" class="st25" d="M379,326.8L379,326.8c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,329,376.1,326.8,379,326.8z"/>
+			<text transform="matrix(1.0407 0 0 1 389.6216 319.0851)" class="st20 st6 st21">Shortside Upper</text>
+			<text transform="matrix(1.0407 0 0 1 389.6216 334.4005)" class="st20 st6 st21">Away Fan Section</text>
+			<path id="Rectangle_28416" class="st26" d="M379,311.5L379,311.5c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,313.8,376.1,311.5,379,311.5z"/>
+			<text transform="matrix(1.0407 0 0 1 389.6216 242.4962)" class="st20 st6 st21">VIP+</text>
+			<path id="Rectangle_28409-2" class="st27" d="M379,234.9L379,234.9c2.9,0,5.4,2.3,5.4,5.1l0,0c0,2.8-2.4,5.1-5.4,5.1l0,0    c-2.9,0-5.4-2.3-5.4-5.1l0,0C373.6,237.2,376.1,234.9,379,234.9z"/>
+		</g>
+		<rect x="243.7" y="177.5" class="st16" width="341.7" height="215.4"/>
+		<rect x="243.7" y="212.6" class="st15" width="52.7" height="154.2"/>
+		<rect x="243.7" y="253.8" class="st15" width="19.2" height="71.8"/>
+		<path class="st15" d="M296.3,319.7c0,0,23.7-28.8-0.1-56.1"/>
+		<rect x="235.1" y="275.8" class="st15" width="8.6" height="24.1"/>
+		<g>
+			<rect x="532.8" y="212.6" class="st15" width="52.7" height="154.2"/>
+			<rect x="566.3" y="253.8" class="st15" width="19.2" height="71.8"/>
+			<path class="st15" d="M533,263.6c-23.8,27.3-0.1,56.1-0.1,56.1"/>
+			<rect x="585.5" y="275.8" class="st15" width="8.6" height="24.1"/>
+		</g>
+		<path class="st15" d="M243.7,185.7c0,0,7.8-0.9,8.5-8.1"/>
+		<path class="st15" d="M250.8,392.9c0,0,0.2-7.5-7.2-9.2"/>
+		<path class="st15" d="M577.5,177.5c0,0,0.5,7.5,8,8.6"/>
+		<path class="st15" d="M585.7,384.3c0,0-7.7,1.4-7.8,8.7"/>
+	</g>
+	<g data-stand="doug-ellis-stand">
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 357.6796 16.838)" class="st5 st6 st7 stand-label">DOUG ELLIS STAND</text>
+	</g>
+	<g data-stand="north-stand">
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(0 -1 1 0 17.4443 341.7823)" class="st5 st6 st7 stand-label">NORTH STAND</text>
+	</g>
+	<g data-stand="trinity-road-stand">
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 333.0339 661.8431)" class="st5 st6 st7 stand-label">TRINITY ROAD STAND</text>
+	</g>
+	<g data-stand="holte-end">
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 844.0338 209.3449)" class="st5 st6 st7 stand-label">HOLTE END</text>
+	</g>
+</g>
+
+<g class="block-category" data-category="away-fan-section">
+    <g data-section="away-fan-section_p11">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="202.1,79.6 202.1,62.7 202.1,60.4 202.1,59.7 214.7,59.7 214.7,27.7 187.2,27.7 187,79.6 " data-seat="away-fan-section"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 193.0961 48.7885)" class="st8 st9 section-label">P11</text>
+	</g>	    
+	<g data-section="away-fan-section_p10">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="240.5,62.7 240.5,60.4 240.5,59.7 253,59.7 253,27.7 217.7,27.7 217.7,61.8 217.7,61.8 217.7,62.7   205.1,62.7 205.1,79.6 240.5,79.6 " data-seat="away-fan-section"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 226.5761 48.7886)" class="st8 st9 section-label">P10</text>
+	</g>	    
+	<g data-section="away-fan-section_p9">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="256,61.8 256,61.8 256,62.7 243.5,62.7 243.5,79.6 296.9,79.6 296.9,62.7 296.9,60.4 296.9,59.7   311.1,59.7 311.1,27.7 256,27.7 " data-seat="away-fan-section"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 278.0467 48.7886)" class="st8 st9 section-label">P9</text>
+	</g>	   
+</g> 
+
+<g class="block-category" data-category="longside-upper-tier">
+	<g data-section="longside-upper-tier_p8">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="314.1,61.8 314.1,61.8 314.1,62.7 299.9,62.7 299.9,79.6 334.6,79.6 334.6,62.7 334.6,60.4 334.6,59.7   348,59.7 348,27.7 314.1,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 324.9921 49.6373)" class="st8 st9 section-label">P8</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p7">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="351,61.8 351,61.8 351,62.7 337.6,62.7 337.6,79.6 373.7,79.6 373.7,62.7 373.7,60.4 373.7,59.7   387.1,59.7 387.1,27.7 351,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 363.7469 49.6373)" class="st8 st9 section-label">P7</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p6">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="390.1,27.7 390.1,61.8 390.1,61.8 390.1,62.7 376.7,62.7 376.7,79.6 440.9,79.6 440.9,62.7 426.6,62.7   426.6,61.8 426.6,61.8 426.6,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 403.1541 49.9902)" class="st8 st9 section-label">P6</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p5">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="429.6,27.7 429.6,59.7 443.8,59.7 443.8,60.4 443.8,62.7 443.8,79.6 479.5,79.6 479.5,62.7 465.3,62.7   465.3,61.8 465.3,61.8 465.3,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 442.9304 49.73)" class="st8 st9 section-label">P5</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p4">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="468.3,27.7 468.3,59.7 482.5,59.7 482.5,60.4 482.5,62.7 482.5,79.6 519,79.6 519,62.7 504.8,62.7   504.8,61.8 504.8,61.8 504.8,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 480.8126 49.9902)" class="st8 st9 section-label">P4</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p3">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="507.8,27.7 507.8,59.7 522,59.7 522,60.4 522,62.7 522,79.6 558,79.6 558,62.7 543.8,62.7 543.8,61.8   543.8,61.8 543.8,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 520.4444 49.9901)" class="st8 st9 section-label">P3</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p2">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="596.3,62.7 582.1,62.7 582.1,61.8 582.1,61.8 582.1,27.7 546.8,27.7 546.8,59.7 561,59.7 561,60.4   561,62.7 561,79.6 596.3,79.6 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 559.3489 49.9901)" class="st8 st9 section-label">P2</text>
+	</g>	    
+	<g data-section="longside-upper-tier_p1">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="585.1,59.7 599.3,59.7 599.3,60.4 599.3,62.7 599.3,79.6 622.6,79.6 622.6,27.7 585.1,27.7 " data-seat="longside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 599.7913 49.9312)" class="st8 st9 section-label">P1</text>
+	</g>
+	<g data-section="longside-upper-tier_a8">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="269.9,591.4 251,591.4 251,590.9 251,588.4 251,567.5    189.1,567.5 189.1,590.9 245.4,634.4   269.9,634.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 241.7867 613.2964)" class="st8 st9 section-label">A8</text>
+		</g>	
+	<g data-section="longside-upper-tier_a7">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="318.4,634.4 318.4,591.4 299.3,591.4 299.3,590.9 299.3,588.4 299.3,567.5 254,567.5 254,588.4   272.9,588.4 272.9,590.3 272.9,590.3 272.9,634.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 289.4338 612.7946)" class="st8 st9 section-label">A7</text>
+	</g>
+	<g data-section="longside-upper-tier_a6">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="364.7,634.4 364.7,591.4 345.8,591.4 345.8,590.9 345.8,588.4 345.8,567.5 302.3,567.5 302.3,588.4   321.4,588.4 321.4,590.3 321.4,590.3 321.4,634.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 337.1927 612.7949)" class="st8 st9 section-label">A6</text>
+	</g>
+	<g data-section="longside-upper-tier_a5">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="412.5,634.4 412.5,591.4 393.6,591.4 393.6,590.9 393.6,588.4 393.6,567.5 348.8,567.5 348.8,588.4   367.7,588.4 367.7,590.3 367.7,590.3 367.7,634.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 384.1337 613.296)" class="st8 st9 section-label">A5</text>
+	</g>
+	<g data-section="longside-upper-tier_a4">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="459.1,634.4 459.1,590.3 459.1,590.3 459.1,588.4 478,588.4 478,567.5 396.6,567.5 396.6,588.4   415.5,588.4 415.5,590.3 415.5,590.3 415.5,634.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 431.564 613.2952)" class="st8 st9 section-label">A4</text>
+	</g>
+	<g data-section="longside-upper-tier_a3">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="506.5,590.3 506.5,590.3 506.5,588.4 525.4,588.4 525.4,567.5 481,567.5 481,588.4 481,590.9   481,591.4 462.1,591.4 462.1,634.4 506.5,634.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 478.0347 613.2957)" class="st8 st9 section-label">A3</text>
+	</g>
+	<g data-section="longside-upper-tier_a2">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="573,567.5 528.4,567.5 528.4,588.4 528.4,590.9 528.4,591.4 509.5,591.4 509.5,634.4 554.1,634.4   554.1,590.3 554.1,590.3 554.1,588.4 573,588.4 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 526.9335 613.2953)" class="st8 st9 section-label">A2</text>
+	</g>
+	<g data-section="longside-upper-tier_a1">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="576,567.5 576,588.4 576,590.9 576,591.4 557.1,591.4 557.1,634.4 562.5,634.4 618.8,591.4   618.8,567.5 " data-seat="longside-upper-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 569.1398 607.1948)" class="st8 st9 section-label">A1</text>
+	</g>
+
+</g>
+
+<g class="block-category" data-category="longside-lower-tier">
+	<g data-section="longside-lower-tier_q1">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="222.7,114.2 186.8,114.2 186.7,139.4 215.6,157.4 222.7,157.4 " data-seat="longside-lower-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 197.3337 138.2667)" class="st8 st9 section-label">Q1</text>
+	</g>
+	<g data-section="longside-lower-tier_q2">
+		<rect xmlns="http://www.w3.org/2000/svg" x="225.7" y="114.2" class="block st1" width="62.6" height="43.2" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 250.1987 139.1494)" class="st8 st9 section-label">Q2</text>
+	</g>
+	<g data-section="longside-lower-tier_q3">
+		<rect xmlns="http://www.w3.org/2000/svg" x="291.3" y="114.2" class="block st1" width="54.1" height="43.2" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 312.9634 138.267)" class="st8 st9 section-label">Q3</text>
+	</g>
+	<g data-section="longside-lower-tier_m1">
+		<rect xmlns="http://www.w3.org/2000/svg" x="348.4" y="114.2" class="block st1" width="54.1" height="43.2" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 369.434 138.2669)" class="st8 st9 section-label">M1</text>
+	</g>
+	<g data-section="longside-lower-tier_m2">
+		<rect xmlns="http://www.w3.org/2000/svg" x="405.5" y="114.2" class="block st1" width="53.5" height="43.2" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 425.284 137.561)" class="st8 st9 section-label">M2</text>
+	</g>
+	<g data-section="longside-lower-tier_m3">
+		<rect xmlns="http://www.w3.org/2000/svg" x="462" y="114.2" class="block st1" width="47" height="43.2" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 480.3337 137.561)" class="st8 st9 section-label">M3</text>
+	</g>
+	<g data-section="longside-lower-tier_m4">
+		<rect xmlns="http://www.w3.org/2000/svg" x="512" y="114.2" class="block st1" width="46.7" height="43.2" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 527.9341 137.561)" class="st8 st9 section-label">M4</text>
+	</g>
+	<g data-section="longside-lower-tier_m5">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="561.7,114.2 561.7,157.4 611.2,157.4 622.6,139.9 622.6,114.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 586.1336 137.5609)" class="st8 st9 section-label">M5</text>
+	</g>
+	<g data-section="longside-lower-tier_c9">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="251.5,460.7 251.5,415.8 226,415.8 190.1,447 205.6,460.7 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 223.7448 441.5495)" class="st8 st9 section-label">C9</text>
+	</g>
+	<g data-section="longside-lower-tier_c8">
+		<rect xmlns="http://www.w3.org/2000/svg" x="254.5" y="415.8" class="block st1" width="41.4" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 269.1339 441.1944)" class="st8 st9 section-label">C8</text>
+	</g>
+	<g data-section="longside-lower-tier_c7">
+		<rect xmlns="http://www.w3.org/2000/svg" x="298.8" y="415.8" class="block st1" width="39.5" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 312.9573 441.1944)" class="st8 st9 section-label">C7</text>
+	</g>
+	<g data-section="longside-lower-tier_c6">
+		<rect xmlns="http://www.w3.org/2000/svg" x="341.3" y="415.8" class="block st1" width="41.2" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 355.1927 441.1944)" class="st8 st9 section-label">C6</text>
+	</g>
+	<g data-section="longside-lower-tier_c5">
+		<rect xmlns="http://www.w3.org/2000/svg" x="385.5" y="415.8" class="block st1" width="41.1" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 400.0163 441.1944)" class="st8 st9 section-label">C5</text>
+	</g>
+	<g data-section="longside-lower-tier_c4">
+		<rect xmlns="http://www.w3.org/2000/svg" x="429.6" y="415.8" class="block st1" width="40.9" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 442.9304 441.5495)" class="st8 st9 section-label">C4</text>
+	</g>
+	<g data-section="longside-lower-tier_c3">
+		<rect xmlns="http://www.w3.org/2000/svg" x="473.5" y="415.8" class="block st1" width="40.5" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 486.2162 441.5491)" class="st8 st9 section-label">C3</text>
+	</g>
+	<g data-section="longside-lower-tier_c2">
+		<rect xmlns="http://www.w3.org/2000/svg" x="517" y="415.8" class="block st1" width="40.9" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 532.0986 441.5493)" class="st8 st9 section-label">C2</text>
+	</g>
+	<g data-section="longside-lower-tier_c1">
+		<rect xmlns="http://www.w3.org/2000/svg" x="560.9" y="415.8" class="block st1" width="42" height="44.9" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 575.8633 441.3952)" class="st8 st9 section-label">C1</text>
+	</g>
+
+	<g data-section="longside-lower-tier_b7">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="236.1,489 218.1,489 218.1,488.5 218.1,486 218.1,466.6 189.9,466.6 189.1,466.9 189.1,532.2   236.1,532.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 207.0457 512.795)" class="st8 st9 section-label">B7</text>
+	</g>
+	<g data-section="longside-lower-tier_b6">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="282.5,489 265.1,489 265.1,488.5 265.1,486 265.1,466.6 221.1,466.6 221.1,486 239.1,486 239.1,488   239.1,488 239.1,532.2 282.5,532.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 254.534 512.095)" class="st8 st9 section-label">B6</text>
+	</g>
+	<g data-section="longside-lower-tier_b5">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="330.5,489.1 312.7,489.1 312.7,488.5 312.7,486.1 312.7,466.6 268.1,466.6 268.1,486 285.5,486   285.5,488 285.5,488 285.5,532.2 330.5,532.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 302.3339 512.3948)" class="st8 st9 section-label">B5</text>
+	</g>
+	<g data-section="longside-lower-tier_pb">
+		<rect xmlns="http://www.w3.org/2000/svg" x="315.7" y="466.6" class="block st1" width="49.3" height="19.4" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 335.7336 480.9949)" class="st8 st9 section-label">PB</text>
+	</g>
+	<g data-section="longside-lower-tier_b4">
+		<rect xmlns="http://www.w3.org/2000/svg" x="333.5" y="489.1" class="block st1" width="31.5" height="43.1" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 343.2338 512.3948)" class="st8 st9 section-label">B4</text>
+	</g>
+	<g data-section="longside-lower-tier_pl">
+		<rect xmlns="http://www.w3.org/2000/svg" x="368" y="466.6" class="block st1" width="99.1" height="28.8" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 413.1432 485.5828)" class="st8 st9 section-label">PL</text>
+	</g>
+	<g data-section="longside-lower-tier_he">
+		<rect xmlns="http://www.w3.org/2000/svg" x="368" y="498.4" class="block st1" width="24.4" height="15" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 373.634 509.9945)" class="st8 st9 section-label">HE</text>
+	</g>
+	<g data-section="longside-lower-tier_pr">
+		<rect xmlns="http://www.w3.org/2000/svg" x="395.4" y="498.4" class="block st1" width="64.8" height="15" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 421.3339 509.7946)" class="st8 st9 section-label">PR</text>
+	</g>
+	<g data-section="longside-lower-tier_dc">
+		<rect xmlns="http://www.w3.org/2000/svg" x="368" y="516.4" class="block st1" width="92.1" height="15.8" data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 408.1335 527.7233)" class="st8 st9 section-label">DC</text>
+	</g>
+	<g data-section="longside-lower-tier_cc">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="500,466.6 470.1,466.6 470.1,495.4 470.1,497.4 470.1,498.4 463.1,498.4 463.1,532.2 500,532.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 476.2338 513.3948)" class="st8 st9 section-label">CC</text>
+	</g>
+	<g data-section="longside-lower-tier_b3">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="524.2,490.1 524.2,487.1 524.2,486.3 545.9,486.3 545.9,466.6 503,466.6 503,532.2 524.2,532.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 507.2338 513.3947)" class="st8 st9 section-label">B3</text>
+	</g>
+	<g data-section="longside-lower-tier_b2">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="572.9,490.1 572.9,487.1 572.9,486.3 594.7,486.3 594.7,466.6 549.7,466.6 549.7,488.3 549.7,488.3   549.7,490.1 528,490.1 528,532.2 572.9,532.2 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 544.9841 512.1943)" class="st8 st9 section-label">B2</text>
+	</g>
+	<g data-section="longside-lower-tier_b1">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="598.5,466.6 598.5,488.3 598.4,488.3 598.4,490.1 576.7,490.1 576.7,532.2 618.8,532.2 618.8,485.8   642.2,466.6 " data-seat="longside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 591.7332 512.1943)" class="st8 st9 section-label">B1</text>
+	</g>			
+</g>
+
+<g class="block-category" data-category="shortside-lower-tier">
+	<g data-section="shortside-lower-tier_cf">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="115.3,469.3 144.6,438.1 186.3,477.8 156.5,509 " data-seat="shortside-lower-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 144.3331 476.7949)" class="st8 st9 section-label">CF</text>
+	</g>
+	<g data-section="shortside-lower-tier_r1">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="166.1,177 209.5,177 209.5,169.7 183.2,152.7 166.1,164.6 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 180.1572 171.4948)" class="st8 st9 section-label">R1</text>
+	</g>
+	<g data-section="shortside-lower-tier_r2">
+		<rect xmlns="http://www.w3.org/2000/svg" x="166.1" y="180" class="block st1" width="43.4" height="34.9" data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 181.2337 201.6949)" class="st8 st9 section-label">R2</text>
+	</g>
+	<g data-section="shortside-lower-tier_r3">
+		<rect xmlns="http://www.w3.org/2000/svg" x="166.1" y="217.8" class="block st1" width="43.4" height="42.7" data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 181.2334 241.8946)" class="st8 st9 section-label">R3</text>
+	</g>
+	<g data-section="shortside-lower-tier_r4">
+		<rect xmlns="http://www.w3.org/2000/svg" x="166.1" y="263.5" class="block st1" width="43.4" height="43.6" data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 181.2337 288.2477)" class="st8 st9 section-label">R4</text>
+	</g>
+	<g data-section="shortside-lower-tier_r5">
+		<rect xmlns="http://www.w3.org/2000/svg" x="166.1" y="310.1" class="block st1" width="43.4" height="43.9" data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 181.1569 335.4947)" class="st8 st9 section-label">R5</text>
+	</g>
+	<g data-section="shortside-lower-tier_r6">
+		<rect xmlns="http://www.w3.org/2000/svg" x="166.1" y="357" class="block st1" width="43.4" height="42.7" data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 181.1573 380.4944)" class="st8 st9 section-label">R6</text>
+	</g>
+	<g data-section="shortside-lower-tier_r7">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="166.1,402.6 166.1,430.1 175.4,438.8 209.5,411.1 209.5,402.6 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 181.2337 416.7949)" class="st8 st9 section-label">R7</text>
+	</g>
+	<g data-section="shortside-lower-tier_l1">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="693.9,140.1 693.9,128.7 694.6,128.7 694.6,128.6 745.3,128.6 745.3,96.9 671.6,96.6 640.4,140.1 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 117.3448)" class="st8 st9 section-label">L1</text>
+	</g>
+	<g data-section="shortside-lower-tier_l2">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="693.9,185.3 693.9,173.9 694.6,173.9 694.6,173.8 745.3,173.8 745.3,131.6 696.9,131.6 696.9,143.1   695.5,143.1 693.9,143.1 638.2,143.1 617.6,171.8 617.6,185.3 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 157.3946)" class="st8 st9 section-label">L2</text>
+	</g>
+	<g data-section="shortside-lower-tier_l3">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="693.7,219.1 694.6,219.1 694.6,219.1 745.3,219.1 745.3,176.8 696.9,176.8 696.9,188.3 695.5,188.3   693.9,188.3 637.3,188.3 637.3,230.5 693.7,230.5 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 203.6448)" class="st8 st9 section-label">L3</text>
+	</g>
+	<g data-section="shortside-lower-tier_l4">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="637.3,275.4 693.9,275.4 693.9,263.9 694.6,263.9 694.6,263.9 745.3,263.9 745.3,222.1 696.7,222.1   696.7,233.5 695.5,233.5 693.7,233.5 637.3,233.5 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 246.5859)" class="st8 st9 section-label">L4</text>
+	</g>
+	<g data-section="shortside-lower-tier_l5">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="637.3,320.2 693.6,320.2 693.6,309.2 696.6,309.2 696.6,309.2 745.3,309.2 745.3,266.9 696.9,266.9   696.9,278.4 695.5,278.4 693.9,278.4 637.3,278.4 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 292.2475)" class="st8 st9 section-label">L5</text>
+	</g>
+	<g data-section="shortside-lower-tier_l6">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="637.3,365.2 693.6,365.2 693.6,353.7 694.6,353.7 694.6,353.7 745.3,353.7 745.3,312.2 696.6,312.2   696.6,323.2 695.5,323.2 693.6,323.2 637.3,323.2 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 337.6947)" class="st8 st9 section-label">L6</text>
+	</g>
+	<g data-section="shortside-lower-tier_l7">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="673.7,410.6 675.2,410.6 676.7,410.6 693.9,410.6 693.9,395.1 694.6,395.1 696.9,395.1 745.3,395.1   745.3,356.7 696.6,356.7 696.6,368.2 695.5,368.2 693.6,368.2 617.6,368.2 617.6,409.7 673.7,441.4 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 380.3951)" class="st8 st9 section-label">L7</text>
+	</g>
+	<g data-section="shortside-lower-tier_l8">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="696.9,413.6 696.1,413.6 693.9,413.6 676.7,413.6 676.7,443 745.3,443 745.3,398.1 696.9,398.1 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 705.0748 423.0422)" class="st8 st9 section-label">L8</text>
+	</g>
+	<g data-section="shortside-lower-tier_l9">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="605.9,460.7 649.4,460.7 669,444.7 617.4,415.8 605.9,415.8 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 622.5103 442.9944)" class="st8 st9 section-label">L9</text>
+	</g>
+	<g data-section="shortside-lower-tier_ml">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="693.5,470.7 679.2,453.3 628.8,494.7 643,512.2 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 655.3926 485.5826)" class="st8 st9 section-label">ML</text>
+	</g>
+	<g data-section="shortside-lower-tier_ll">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="646.1,516 660.3,533.3 710.9,491.7 696.7,474.5 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 674.569 506.1944)" class="st8 st9 section-label">LL</text>
+	</g>
+	<g data-section="shortside-lower-tier_hl">
+		<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="714.1,495.5 663.4,537.2 677.3,554.3 728.4,513 " data-seat="shortside-lower-tier"/>
+		<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 691.1573 527.7239)" class="st8 st9 section-label">HL</text>
+	</g>
+</g>
+
+<g class="block-category" data-category="vip-packages">
+	<g data-section="vip-packages_1">
+	    <polygon class="block st1" points="197.3,108.3 197.3,85.5 187,85.5 186.9,108.3 " data-seat="vip-packages"/>
+	    <text transform="matrix(1 0 0 1 191.3315 100.2585)" class="st8 st10 section-label">1</text>
+	</g>
+    <g data-section="vip-packages_2">
+    	<rect x="199.9" y="85.5" class="block st1" width="9.8" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 203.3315 100.2586)" class="st8 st10 section-label">2</text>
+    </g>
+    <g data-section="vip-packages_3">
+    	<rect x="212.3" y="85.5" class="block st1" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 215.7264 100.2584)" class="st8 st10 section-label">3</text>
+    </g>
+    <g data-section="vip-packages_4">
+    	<rect x="224.4" y="85.5" class="block st1" width="9.6" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 227.7695 100.2586)" class="st8 st10 section-label">4</text>
+    </g>
+    <g data-section="vip-packages_5">
+    	<rect x="236.7" y="85.5" class="block st1" width="9.9" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 239.7695 100.2372)" class="st8 st10 section-label">5</text>
+    </g>
+    <g data-section="vip-packages_6">
+    	<rect x="249.1" y="85.5" class="block st1" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 252.4185 100.2369)" class="st8 st10 section-label">6</text>
+    </g>
+    <g data-section="vip-packages_7">
+    	<rect x="261.3" y="85.5" class="block st1" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 264.5362 100.2586)" class="st8 st10 section-label">7</text>
+    </g>
+    <g data-section="vip-packages_8">
+    	<rect x="273.3" y="85.5" class="block st1" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 275.5362 100.4352)" class="st8 st10 section-label">8</text>
+    </g>
+    <g data-section="vip-packages_9">
+    	<rect x="285.5" y="85.5" class="block st1" width="21.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 294.3337 99.2368)" class="st8 st10 section-label">9</text>
+    </g>
+    <g data-section="vip-packages_10">
+    	<rect x="309.2" y="85.5" class="st2" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 310.134 99.435)" class="st8 st10 section-label">10</text>
+    </g>
+    <g data-section="vip-packages_11">
+    	<rect x="321.3" y="85.5" class="st2" width="9.9" height="22.8" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 324.3337 99.2367)" class="st8 st10 section-label">11</text>
+    </g>
+    <g data-section="vip-packages_12">
+    	<rect x="333.8" y="85.5" class="st2" width="9" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 335.2161 99.435)" class="st8 st10 section-label">12</text>
+    </g>
+    <g data-section="vip-packages_13">
+    	<rect x="345.4" y="85.5" class="st2" width="9.6" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 346.6866 99.4349)" class="st8 st10 section-label">13</text>
+    </g>
+    <g data-section="vip-packages_14">
+    	<rect x="357.6" y="85.5" class="st2" width="9.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 359.6279 99.1951)" class="st8 st10 section-label">14</text>
+    </g>
+    <g data-section="vip-packages_15">
+    	<rect x="369.4" y="85.5" class="st2" width="10.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 371.6279 99.195)" class="st8 st10 section-label">15</text>
+    </g>
+    <g data-section="vip-packages_16">
+    	<rect x="382.1" y="85.5" class="st2" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 384.1335 99.4352)" class="st8 st10 section-label">16</text>
+    </g>
+    <g data-section="vip-packages_17">
+    	<rect x="394.2" y="85.5" class="st2" width="9" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 396.2339 99.435)" class="st8 st10 section-label">17</text>
+    </g>
+    <g data-section="vip-packages_18">
+    	<rect x="405.8" y="85.5" class="st2" width="10.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 407.2339 99.435)" class="st8 st10 section-label">18</text>
+    </g>
+    <g data-section="vip-packages_19">
+    	<rect x="418.4" y="85.5" class="st2" width="9.6" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 420.4105 99.2366)" class="st8 st10 section-label">19</text>
+    </g>
+    <g data-section="vip-packages_20">
+    	<rect x="430.7" y="85.5" class="st2" width="9.6" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 431.2835 99.4352)" class="st8 st10 section-label">20</text>
+    </g>
+    <g data-section="vip-packages_21">
+    	<rect x="442.9" y="85.5" class="st2" width="9.2" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 444.9335 99.1948)" class="st8 st10 section-label">21</text>
+    </g>
+    <g data-section="vip-packages_22">
+    	<rect x="454.7" y="85.5" class="st2" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 455.1099 99.435)" class="st8 st10 section-label">22</text>
+    </g>
+    <g data-section="vip-packages_23">
+    	<rect x="466.8" y="85.5" class="st2" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 467.3337 98.9138)" class="st8 st10 section-label">23</text>
+    </g>
+    <g data-section="vip-packages_24">
+    	<rect x="479" y="85.5" class="st2" width="21.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 486.2161 98.914)" class="st8 st10 section-label">24</text>
+    </g>
+    <g data-section="vip-packages_25">
+    	<rect x="503.1" y="85.5" class="st2" width="9.2" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 503.1334 98.435)" class="st8 st10 section-label">25</text>
+    </g>
+    <g data-section="vip-packages_26">
+    	<rect x="515" y="85.5" class="st2" width="10.3" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 515.6629 98.4349)" class="st8 st10 section-label">26</text>
+    </g>
+    <g data-section="vip-packages_27">
+    	<rect x="527.9" y="85.5" class="st2" width="8.9" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 528.9341 98.7951)" class="st8 st10 section-label">27</text>
+    </g>
+    <g data-section="vip-packages_28">
+    	<rect x="539.4" y="85.5" class="st2" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 539.6336 98.7951)" class="st8 st10 section-label">28</text>
+    </g>
+    <g data-section="vip-packages_29">
+    	<rect x="551.5" y="85.5" class="st2" width="9.7" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 552.3395 99.1949)" class="st8 st10 section-label">29</text>
+    </g>
+    <g data-section="vip-packages_30">
+    	<rect x="563.8" y="85.5" class="st2" width="9.6" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 564.3395 98.914)" class="st8 st10 section-label">30</text>
+    </g>
+    <g data-section="vip-packages_31">
+    	<rect x="576" y="85.5" class="st2" width="9.5" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 577.2219 99.2365)" class="st8 st10 section-label">31</text>
+    </g>
+    <g data-section="vip-packages_32">
+    	<rect x="588.1" y="85.5" class="st2" width="9.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 588.8688 99.1948)" class="st8 st10 section-label">32</text>
+    </g>
+    <g data-section="vip-packages_33">
+    	<rect x="599.8" y="85.5" class="st2" width="10.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 600.8688 99.1948)" class="st8 st10 section-label">33</text>
+    </g>
+    <g data-section="vip-packages_34">
+    	<rect x="612.5" y="85.5" class="st2" width="10.1" height="22.8" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 613.5748 99.4348)" class="st8 st10 section-label">34</text>
+    </g>
+    <g data-section="vip-packages_1">
+    	<rect x="189.1" y="538.1" class="block st1" width="13" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 193.3316 553.5947)" class="st8 st9 section-label">1</text>
+    </g>
+    <g data-section="vip-packages_2">
+    	<rect x="204.7" y="538.1" class="block st1" width="10.8" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 207.3905 553.5947)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="vip-packages_3">
+    	<rect x="218.1" y="538.1" class="block st1" width="11.3" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 221.1337 553.5947)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="vip-packages_4">
+    	<rect x="232" y="538.1" class="block st1" width="11.2" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 234.7806 553.5944)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="vip-packages_5">
+    	<rect x="245.8" y="538.1" class="block st1" width="11.1" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 248.4335 553.5944)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="vip-packages_6">
+    	<rect x="259.5" y="538.1" class="block st1" width="10.6" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 261.61 553.5944)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="vip-packages_7">
+    	<rect x="272.7" y="538.1" class="block st1" width="11" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 275.5512 553.5953)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="vip-packages_8">
+    	<rect x="286.4" y="538.1" class="block st1" width="11.3" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 289.4335 553.5955)" class="st8 st9 section-label">8</text>
+    </g>
+    <g data-section="vip-packages_9">
+    	<rect x="300.3" y="538.1" class="block st1" width="11.1" height="23.5" data-seat="vip-packages"/>
+    	<text transform="matrix(1 0 0 1 302.4337 553.5939)" class="st8 st9 section-label">9</text>
+    </g>
+    <g data-section="vip-packages_10">
+    	<rect x="314" y="538.1" class="block st1" width="11" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 314.7867 552.5956)" class="st8 st9 section-label">10</text>
+    </g>
+    <g data-section="vip-packages_11">
+    	<rect x="327.6" y="538.1" class="block st1" width="10.8" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 330.1337 553.5942)" class="st8 st9 section-label">11</text>
+    </g>
+    <g data-section="vip-packages_12">
+    	<rect x="341" y="538.1" class="block st1" width="11.4" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 342.5336 553.5958)" class="st8 st9 section-label">12</text>
+    </g>
+    <g data-section="vip-packages_12a">
+    	<rect x="355" y="538.1" class="block st1" width="11.6" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 355.6837 553.5939)" class="st8 st10 section-label">12a</text>
+    </g>   
+    <g data-section="vip-packages_15">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="382.7" y="538.1" class="st1" width="11" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 384.1335 553.5955)" class="st8 st9 section-label">15</text>
+    </g>
+    <g data-section="vip-packages_16">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="396.3" y="538.1" class="st1" width="11.2" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 397.3339 553.5936)" class="st8 st9 section-label">16</text>
+    </g>    
+    <g data-section="vip-packages_br">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="428.4" y="538.1" class="st1" width="21.5" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 432.9337 553.5936)" class="st8 st9 section-label">BR</text>
+    </g>    
+    <g data-section="vip-packages_dcp">
+    	<rect x="410.1" y="538.1" class="block st1" width="15.7" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 411.1337 552.5958)" class="st8 st10 section-label">DCP</text>
+    </g>   
+    <g data-section="vip-packages_dcp">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="452.5" y="538.1" class="st1" width="16.2" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 453.5336 553.5931)" class="st8 st10 section-label">DCP</text>
+    </g>    
+    <g data-section="vip-packages_22">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="471.3" y="538.1" class="st1" width="25" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 478.0342 554.2994)" class="st8 st13 section-label">22</text>
+    </g>  
+    <g data-section="vip-packages_23">
+    	<rect x="498.9" y="538.1" class="block st1" width="10.4" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 499.9343 552.5936)" class="st8 st10 section-label">23</text>
+    </g>    
+    <g data-section="vip-packages_14">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="369.2" y="538.1" class="block st1" width="10.9" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 370.2338 553.5939)" class="st8 st9 section-label">14</text>
+    </g>
+    <g data-section="vip-packages_24">
+    	<rect x="511.9" y="538.1" class="block st1" width="11.4" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 512.9343 553.2999)" class="st8 st13 section-label">24</text>
+    </g>
+    <g data-section="vip-packages_25">
+    	<rect x="525.9" y="538.1" class="block st1" width="10.8" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 526.9339 553.5931)" class="st8 st13 section-label">25</text>
+    </g>
+    <g data-section="vip-packages_26">
+    	<rect x="539.3" y="538.1" class="block st1" width="11.3" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 540.2574 553.2999)" class="st8 st13 section-label">26</text>
+    </g>
+    <g data-section="vip-packages_27">
+    	<rect x="553.2" y="538.1" class="block st1" width="11.3" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 555.1104 553.2999)" class="st8 st13 section-label">27</text>
+    </g>
+    <g data-section="vip-packages_28">
+    	<rect x="567" y="538.1" class="block st1" width="10.6" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 567.9927 553.2996)" class="st8 st13 section-label">28</text>
+    </g>
+    <g data-section="vip-packages_29">
+    	<rect x="580.3" y="538.1" class="block st1" width="11.4" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 581.3162 553.2994)" class="st8 st13 section-label">29</text>
+    </g>
+    <g data-section="vip-packages_30">
+    	<rect x="594.3" y="538.1" class="block st1" width="10.9" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 595.0809 553.299)" class="st8 st13 section-label">30</text>
+    </g>
+    <g data-section="vip-packages_31">
+    	<rect x="607.7" y="538.1" class="block st1" width="11.1" height="23.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 609.7574 553.5931)" class="st8 st13 section-label">31</text>
+    </g>
+
+    <g data-section="vip-packages_39">
+    	<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="130.8,164.5 108.9,164.4 108.9,176.4 130.8,176.4 " data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.1772 173.4948)" class="st8 st9 section-label">39</text>
+    </g>
+    <g data-section="vip-packages_38">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="179" class="block st1" width="21.8" height="10" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.7655 186.9952)" class="st8 st9 section-label">38</text>
+    </g>
+    <g data-section="vip-packages_37">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="191.6" class="block st1" width="21.8" height="10.8" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 115.1772 200.0306)" class="st8 st9 section-label">37</text>
+    </g>
+    <g data-section="vip-packages_36">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="205" class="block st1" width="21.8" height="10.6" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8831 213.4424)" class="st8 st9 section-label">36</text>
+    </g>
+    <g data-section="vip-packages_35">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="218.3" class="block st1" width="21.8" height="10.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.884 226.7365)" class="st8 st9 section-label">35</text>
+    </g>
+    <g data-section="vip-packages_34">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="231.4" class="block st1" width="21.8" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8838 240.266)" class="st8 st9 section-label">34</text>
+    </g>
+    <g data-section="vip-packages_33">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="245.4" class="block st1" width="21.8" height="10.1" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8838 253.4424)" class="st8 st9 section-label">33</text>
+    </g>
+    <g data-section="vip-packages_32">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="258" class="block st1" width="21.8" height="11.2" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.884 266.3835)" class="st8 st9 section-label">32</text>
+    </g>
+    <g data-section="vip-packages_30/31">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="271.9" class="block st1" width="21.8" height="24.1" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 110.7657 286.266)" class="st8 st10 section-label">30/31</text>
+    </g>
+    <g data-section="vip-packages_28/29">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="298.6" class="block st1" width="21.8" height="23.9" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 109.9421 312.9718)" class="st8 st10 section-label">28/29</text>
+    </g>
+    <g data-section="vip-packages_27">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="325.1" class="block st1" width="21.8" height="10.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8835 333.6188)" class="st8 st9 section-label">27</text>
+    </g>
+    <g data-section="vip-packages_26">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="338.1" class="block st1" width="21.8" height="10.9" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8837 346.7953)" class="st8 st9 section-label">26</text>
+    </g>
+    <g data-section="vip-packages_25">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="351.6" class="block st1" width="21.8" height="10.9" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.884 359.9947)" class="st8 st9 section-label">25</text>
+    </g>
+    <g data-section="vip-packages_24">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="365.1" class="block st1" width="21.8" height="10.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8835 373.1952)" class="st8 st9 section-label">24</text>
+    </g>
+    <g data-section="vip-packages_23">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="378.1" class="block st1" width="21.8" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8837 387.2525)" class="st8 st9 section-label">23</text>
+    </g>
+    <g data-section="vip-packages_22">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="392.1" class="block st1" width="21.8" height="10.1" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 114.8837 400.4289)" class="st8 st9 section-label">22</text>
+    </g>
+    <g data-section="vip-packages_20/21">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="108.9" y="404.8" class="block st1" width="21.8" height="24.8" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 110.8837 419.6953)" class="st8 st10 section-label">20/21</text>
+    </g>
+    <g data-section="vip-packages_19">
+    	<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="160.2,164.6 136.7,164.5 136.7,176.4 160.2,176.4 " data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.6277 173.4948)" class="st8 st9 section-label">19</text>
+    </g>
+    <g data-section="vip-packages_18">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="179" class="block st1" width="23.5" height="10.6" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.6275 186.9949)" class="st8 st9 section-label">18</text>
+    </g>
+    <g data-section="vip-packages_17">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="192.2" class="block st1" width="23.5" height="11.1" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.6277 200.6947)" class="st8 st9 section-label">17</text>
+    </g>
+    <g data-section="vip-packages_16">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="205.9" class="block st1" width="23.5" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.6274 214.5951)" class="st8 st9 section-label">16</text>
+    </g>
+    <g data-section="vip-packages_15">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="219.9" class="block st1" width="23.5" height="11.5" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 144.3332 228.7951)" class="st8 st9 section-label">15</text>
+    </g>
+    <g data-section="vip-packages_14">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="234" class="block st1" width="23.5" height="10.8" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.3334 242.7949)" class="st8 st9 section-label">14</text>
+    </g>
+    <g data-section="vip-packages_13">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="247.3" class="block st1" width="23.5" height="11.2" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.6276 256.4419)" class="st8 st9 section-label">13</text>
+    </g>
+    <g data-section="vip-packages_12">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="261.2" class="block st1" width="23.5" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 143.3334 270.2066)" class="st8 st9 section-label">12</text>
+    </g>
+    <g data-section="vip-packages_11">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="275.1" class="block st1" width="23.5" height="11.7" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 144.3331 284.2948)" class="st8 st9 section-label">11</text>
+    </g>
+    <g data-section="vip-packages_10">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="289.5" class="block st1" width="23.5" height="10.2" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 144.3332 298.0595)" class="st8 st9 section-label">10</text>
+    </g>
+    <g data-section="vip-packages_9">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="302.2" class="block st1" width="23.5" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.3334 310.7947)" class="st8 st9 section-label">9</text>
+    </g>
+    <g data-section="vip-packages_8">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="316.2" class="block st1" width="23.5" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.3331 324.995)" class="st8 st9 section-label">8</text>
+    </g>
+    <g data-section="vip-packages_7">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="330.2" class="block st1" width="23.5" height="16.6" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.8038 341.782)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="vip-packages_6">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="349.3" class="block st1" width="23.5" height="11.7" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.8038 358.3701)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="vip-packages_5">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="363.6" class="block st1" width="23.5" height="10.6" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.8038 372.1349)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="vip-packages_4">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="376.9" class="block st1" width="23.5" height="11.1" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.8038 385.6642)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="vip-packages_">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="390.6" class="block st1" width="23.5" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.8038 399.2525)" class="block st11 st12 section-label">3</text>
+    </g>
+    <g data-section="vip-packages_2">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="404.6" class="block st1" width="23.5" height="11.4" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 145.8036 413.7511)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="vip-packages_1">
+    	<rect xmlns="http://www.w3.org/2000/svg" x="136.7" y="418.5" class="block st1" width="23.5" height="11" data-seat="vip-packages"/>
+    	<text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 146.8036 427.3394)" class="st8 st9 section-label">1</text>
+    </g>
+    
+</g>
+
+<g class="block-category" data-category="shortside-upper-tier">
+	<g data-section="shortside-upper-tier_t5">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="103,164.4 43.1,164.1 43.1,215.1 103,215.1 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 66.3835 191.5946)" class="st8 st9 section-label">T5</text>
+	</g>
+	<g data-section="shortside-upper-tier_t4">
+	    <rect xmlns="http://www.w3.org/2000/svg" x="43.1" y="218.1" class="block st1" width="59.9" height="50.8" data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 66.5339 247.2946)" class="st8 st9 section-label">T4</text>
+	</g>
+	<g data-section="shortside-upper-tier_t3">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="64.4,322 64.4,308.3 64.4,305.3 67.4,305.3 77,305.3 78.8,305.3 80,305.3 80,314.2 103,314.2   103,271.9 27.7,271.9 27.7,322 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 66.4339 294.5943)" class="st8 st9 section-label">T3</text>
+	</g>
+	<g data-section="shortside-upper-tier_t2">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="64.4,325 43.3,325 43.3,376 103,376 103,334.4 78.8,334.4 78.8,343.5 78.8,343.5 78.8,343.9   67.4,343.9 64.4,343.9 64.4,340.9 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 65.6103 365.0948)" class="st8 st9 section-label">T2</text>
+	</g>
+	<g data-section="shortside-upper-tier_t1">
+	    <rect xmlns="http://www.w3.org/2000/svg" x="43.3" y="379" class="block st1" width="59.7" height="50.6" data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 65.6103 408.7821)" class="st8 st9 section-label">T1</text>
+	</g>
+	<g data-section="shortside-upper-tier_nsp">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="103,317.2 77,317.2 77,316.4 77,314.2 77,308.3 67.4,308.3 67.4,340.9 75.8,340.9 75.8,334.4   75.8,332.4 75.8,331.5 103,331.5 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 76.3335 327.9948)" class="st8 st9 section-label">NSP</text>
+	</g>
+	<g data-section="shortside-upper-tier_k1">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="752.3,120.1 752.3,140.9 782.2,140.9 784.1,140.9 785.2,140.9 785.2,153.4 837,153.4 837,120.1 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 804.2513 140.0946)" class="st8 st9 section-label">K1</text>
+	</g>
+	<g data-section="shortside-upper-tier_k2">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="785.2,156.4 783.6,156.4 782.2,156.4 782.2,143.9 752.3,143.9 752.3,190.5 782.2,190.5 784.1,190.5   785.2,190.5 785.2,202.1 837,202.1 837,156.4 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 804.251 182.4476)" class="st8 st9 section-label">K2</text>
+	</g>
+	<g data-section="shortside-upper-tier_k3">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="785.2,205.1 783.6,205.1 782.2,205.1 782.2,193.5 752.3,193.5 752.3,238.4 782.2,238.4 784.1,238.4   785.2,238.4 785.2,250 837,250 837,205.1 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 804.2513 232.2123)" class="st8 st9 section-label">K3</text>
+	</g>
+	<g data-section="shortside-upper-tier_k4">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="785.2,253 783.6,253 782.2,253 782.2,241.4 752.3,241.4 752.3,283.8 782.2,283.8 784.1,283.8   785.2,283.8 785.2,295.4 837,295.4 837,253 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 803.8395 276.4946)" class="st8 st9 section-label">K4</text>
+	</g>
+	<g data-section="shortside-upper-tier_k5">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="785.2,298.4 783.6,298.4 782.2,298.4 782.2,286.8 752.3,286.8 752.3,346.2 782.2,346.2 782.2,334.7   783.6,334.7 785.2,334.7 837,334.7 837,298.4 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 803.8397 320.3181)" class="st8 st9 section-label">K5</text>
+	</g>
+	<g data-section="shortside-upper-tier_k6">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="782.2,383.4 783.6,383.4 785.2,383.4 837,383.4 837,337.7 785.2,337.7 785.2,349.2 784.1,349.2   782.2,349.2 752.3,349.2 752.3,395 782.2,395 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 803.8398 366.3451)" class="st8 st9 section-label">K6</text>
+	</g>
+	<g data-section="shortside-upper-tier_k7">
+	    <polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="785.2,386.4 785.2,398 784.1,398 782.2,398 752.3,398 752.3,442.7 837,386.9 837,386.4 " data-seat="shortside-upper-tier"/>
+	    <text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 796.7809 399.4291)" class="st8 st9 section-label">K7</text>
+	</g>	
+</g>
+
+<g>
+	<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="40.1,215.1 40.1,164.1 27.7,164 27.7,215.1  "/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="27.7" y="218.1" class="block st1" width="12.4" height="50.8"/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="27.7" y="325" class="block st1" width="12.6" height="51"/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="27.7" y="379" class="block st1" width="12.6" height="50.6"/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="617.6" y="188.3" class="block st1" width="16.7" height="42.1"/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="617.6" y="233.5" class="block st1" width="16.7" height="42"/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="617.6" y="278.4" class="block st1" width="16.7" height="41.8"/>
+	<rect xmlns="http://www.w3.org/2000/svg" x="617.6" y="323.2" class="block st1" width="16.7" height="42"/>
+	<polygon xmlns="http://www.w3.org/2000/svg" class="block st1" points="752.3,117.1 837,117.1 837,97.3 752.3,96.9 "/>
+</g>
+
+</svg>

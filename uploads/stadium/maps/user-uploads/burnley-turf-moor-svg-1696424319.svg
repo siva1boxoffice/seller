@@ -1,0 +1,425 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 732 502.5" style="enable-background:new 0 0 732 502.5;" xml:space="preserve" class="svg-stadium">
+  <style>
+    .st0 {
+      fill: #589D51;
+    }
+
+    .st1 {
+      fill: #488544;
+    }
+
+    .st2 {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-width: 0.75;
+      stroke-miterlimit: 10;
+    }
+
+    .st3 {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-miterlimit: 10;
+    }
+
+    .st4 {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-width: 1;
+      stroke-miterlimit: 10.0002;
+    }
+
+    .st5 {
+      font-family: 'DMSans-Bold';
+    }
+
+    .st6 {
+      font-size: 15px;
+    }
+
+    .st7 {
+      fill: none;
+      stroke: #000000;
+      stroke-miterlimit: 10;
+    }
+
+    .st8 {
+      font-family: 'DMSans-Medium';
+    }
+
+    .st9 {
+      font-size: 10px;
+    }
+  </style>
+  <g class="field">
+    <rect x="145.3" y="138.6" class="st0" width="400.2" height="232.3"></rect>
+    <rect x="337.8" y="148.1" class="st1" width="19.2" height="213.5"></rect>
+    <rect x="376.9" y="148.1" class="st1" width="19.2" height="213.3"></rect>
+    <rect x="415.4" y="147.5" class="st1" width="19.2" height="213.5"></rect>
+    <rect x="454.7" y="147.5" class="st1" width="19.2" height="212.8"></rect>
+    <rect x="492.3" y="147.5" class="st1" width="17.2" height="212.5"></rect>
+    <rect x="182.7" y="147.8" class="st1" width="19.2" height="213.5"></rect>
+    <rect x="299.3" y="148.1" class="st1" width="19.2" height="213.5"></rect>
+    <rect x="221.6" y="147.8" class="st1" width="19.2" height="213.5"></rect>
+    <rect x="260.5" y="147.5" class="st1" width="19.2" height="213.5"></rect>
+    <rect x="163.1" y="147.8" class="st2" width="365.6" height="213.5" style=""></rect>
+    <rect x="163.1" y="182.5" class="st3" width="50.1" height="152.8"></rect>
+    <rect x="163.1" y="223.4" class="st3" width="18.4" height="71.2"></rect>
+    <path class="st3" d="M213.2,288.8c0,0,22.6-28.5-0.2-55.6"></path>
+    <rect x="154.9" y="245.3" class="st3" width="8.2" height="23.9"></rect>
+    <g style="cursor: pointer;">
+      <rect x="478.5" y="182.5" class="st3" width="50.1" height="152.8"></rect>
+      <rect x="510.3" y="223.4" class="st3" width="18.4" height="71.2"></rect>
+      <path class="st3" d="M478.7,233.1c-22.6,27.1-0.2,55.6-0.2,55.6"></path>
+      <rect x="528.7" y="245.3" class="st3" width="8.2" height="23.9"></rect>
+    </g>
+    <path class="st3" d="M163.1,155.9c0,0,7.4-0.9,8.1-8.1"></path>
+    <path class="st3" d="M169.9,361.4c0,0,0.2-7.4-6.8-9.1"></path>
+    <path class="st3" d="M521,147.8c0,0,0.4,7.4,7.6,8.5"></path>
+    <ellipse id="white_circle" class="st4" cx="346.9" cy="251.9" rx="35.7" ry="35.7"></ellipse>
+    <path class="st3" d="M528.7,352.8c0,0-7.3,1.4-7.5,8.6"></path>
+    <line class="st2" x1="346.4" y1="148.1" x2="346.4" y2="361.6"></line>
+    <g data-stand="bob-lord-stand">
+      <text transform="matrix(1 0 0 1 280.235 491.8584)" class="st5 st6 stand-label" style="">BOB LORD STAND</text>
+    </g>
+    <g data-stand="barnfield-construction-stand">
+      <text transform="matrix(6.123234e-17 -1 1 6.123234e-17 15.5999 382.4474)" class="st5 st6 stand-label" style="">BARNFIELD CONSTRUCTION STAND</text>
+    </g>
+    <g data-stand="jimmy-mcilroy-stand">
+      <text transform="matrix(3.267949e-07 1 -1 3.267949e-07 716.9606 175.3645)" class="st5 st6 stand-label" style="">JIMMY McILROY STAND</text>
+    </g>
+    <g data-stand="james-hargreaves-stand">
+      <text transform="matrix(1 0 0 1 248.2549 14.8529)" class="st5 st6 stand-label" style="">JAMES HARGREAVES STAND</text>
+    </g>
+    <g data-stand="south-eastaccessiblestand">
+      <text transform="matrix(1 0 0 1 637.4037 462.2082)" class="st5 st6 stand-label" style="">SOUTH EAST</text>
+      <text transform="matrix(1 0 0 1 637.4037 480.2082)" class="st5 st6 grey stand-label" >ACCESSIBLE</text>
+      <text transform="matrix(1 0 0 1 637.4037 498.2082)" class="st5 st6 grey stand-label" >STAND</text>
+    </g>
+
+    <g data-stand="north-eastaccessiblestand">
+      <text transform="matrix(1 0 0 1 637.4037 18.2082)" class="st5 st6 stand-label" style="">NORTH EAST</text>
+      <text transform="matrix(1 0 0 1 637.4037 36.2082)" class="st5 st6 stand-label">ACCESSIBLE</text>
+      <text transform="matrix(1 0 0 1 637.4037 54.2082)" class="st5 st6 stand-label">STAND</text>
+    </g>
+  </g>
+  <g data-category="away-fan-section">
+    <g data-section="away-fan-section_20">
+      <rect x="27.9" y="259.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 37.8444 275.4474)" class="st8 st9 section-label">20</text>
+    </g>
+    <g data-section="away-fan-section_12">
+      <rect x="63.9" y="259.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 76.7346 275.4474)" class="st8 st9 section-label">12</text>
+    </g>
+    <g data-section="away-fan-section_4">
+      <rect x="99.9" y="259.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.0998 275.4474)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="away-fan-section_19">
+      <rect x="27.9" y="289.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 39.4348 305.4474)" class="st8 st9 section-label">19</text>
+    </g>
+    <g data-section="away-fan-section_11">
+      <rect x="63.9" y="289.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 77.9748 305.4474)" class="st8 st9 section-label">11</text>
+    </g>
+    <g data-section="away-fan-section_3">
+      <rect x="99.9" y="289.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.2546 305.4474)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="away-fan-section_18">
+      <rect x="27.9" y="319.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 39.4948 336.4474)" class="st8 st9 section-label">18</text>
+    </g>
+    <g data-section="away-fan-section_10">
+      <rect x="63.9" y="319.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 76.0847 336.4474)" class="st8 st9 section-label">10</text>
+    </g>
+    <g data-section="away-fan-section_2">
+      <rect x="99.9" y="319.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.3547 336.4474)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="away-fan-section_17">
+      <rect x="27.9" y="349.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 39.9245 365.4474)" class="st8 st9 section-label">17</text>
+    </g>
+    <g data-section="away-fan-section_9">
+      <rect x="63.9" y="349.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 78.0544 365.4474)" class="st8 st9 section-label">9</text>
+    </g>
+    <g data-section="away-fan-section_1">
+      <rect x="99.9" y="349.1" class="st7 block" width="31.7" height="26.3" data-seat="away-fan-section" style=""></rect>
+      <text transform="matrix(1 0 0 1 114.5944 365.4474)" class="st8 st9 section-label">1</text>
+    </g>
+    
+  </g>
+  <g data-category="shortside-lower-tier">
+    <g data-section="shortside-lower-tier_ds">
+      <path class="st7 block" d="M511.2,114.9v10.2h42.4v42.7h11.2v-34.4H585c-2.1-4-5.9-9.9-12.3-15.5c-7.3-6.3-14.6-9.4-19.1-10.8
+		c0,2.7,0,5.4,0,8.2C539.5,115.2,525.4,115.1,511.2,114.9z" data-seat="shortside-lower-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 558.1946 128.2711)" class="st8 st9 section-label">DS</text>
+    </g>
+    <g data-section="shortside-lower-tier_l1">
+      <path class="st7 block" d="M553.7,79.8c0,8,0,16.1,0,24.1c4,1.2,9,3.2,14.1,6.5c11.7,7.5,17.8,17.6,20.6,23.1c8.1,0,16.2,0,24.3,0
+		c-2.3-6.5-6.1-14.5-12.3-22.6C584.6,90.1,563,82.4,553.7,79.8z" data-seat="shortside-lower-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 576.3397 109.2711)" class="st8 st9 section-label">L1</text>
+    </g>
+    <g data-section="shortside-lower-tier_l0">
+      <path class="st7 block" d="M554.9,382v31h27.4c1.5,0.1,18.1,0.4,27.5-12.7c5.3-7.4,5.7-15.2,5.7-18.4C595.3,382,575.1,382,554.9,382z" data-seat="shortside-lower-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 574.5992 399.7394)" class="st8 st9 section-label">L0</text>
+    </g>
+    <g data-section="shortside-lower-tier_7">
+      <rect x="567.2" y="345.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 588.129 362.7394)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="shortside-lower-tier_6">
+      <rect x="567.2" y="310.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 587.6388 328.7394)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="shortside-lower-tier_5">
+      <rect x="567.2" y="275.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 587.7189 293.7394)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="shortside-lower-tier_4">
+      <rect x="567.2" y="240.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 587.6842 258.7394)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="shortside-lower-tier_3">
+      <rect x="567.2" y="206.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 587.839 223.7394)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="shortside-lower-tier_2">
+      <rect x="567.2" y="171.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 587.9391 188.7394)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="shortside-lower-tier_24">
+      <rect x="27.9" y="134.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 38.2394 150.4474)" class="st8 st9 section-label">24</text>
+    </g>
+    <g data-section="shortside-lower-tier_16">
+      <rect x="63.9" y="134.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 76.4348 150.4474)" class="st8 st9 section-label">16</text>
+    </g>
+    <g data-section="shortside-lower-tier_8">
+      <rect x="99.9" y="134.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.1144 150.4474)" class="st8 st9 section-label">8</text>
+    </g>
+    <g data-section="shortside-lower-tier_23">
+      <rect x="27.9" y="164.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 38.3947 180.4474)" class="st8 st9 section-label">23</text>
+    </g>
+    <g data-section="shortside-lower-tier_15">
+      <rect x="63.9" y="164.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 76.5148 180.4474)" class="st8 st9 section-label">15</text>
+    </g>
+    <g data-section="shortside-lower-tier_7">
+      <rect x="99.9" y="164.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.5446 180.4474)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="shortside-lower-tier_22">
+      <rect x="27.9" y="194.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 38.4948 210.4474)" class="st8 st9 section-label">22</text>
+    </g>
+    <g data-section="shortside-lower-tier_14">
+      <rect x="63.9" y="194.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 76.4797 210.4474)" class="st8 st9 section-label">14</text>
+    </g>
+    <g data-section="shortside-lower-tier_6">
+      <rect x="99.9" y="194.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.0544 210.4474)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="shortside-lower-tier_21">
+      <rect x="27.9" y="224.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 39.7346 240.4474)" class="st8 st9 section-label">21</text>
+    </g>
+    <g data-section="shortside-lower-tier_13">
+      <rect x="63.9" y="224.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 76.6345 240.4474)" class="st8 st9 section-label">13</text>
+    </g>
+    <g data-section="shortside-lower-tier_5">
+      <rect x="99.9" y="224.1" class="st7 block" width="31.7" height="26.3" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 113.1345 240.4474)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="shortside-lower-tier_1">
+      <rect x="567.2" y="136.2" class="st7 block" width="45.6" height="30.6" data-seat="shortside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 589.1788 154.7394)" class="st8 st9 section-label">1</text>
+    </g>
+    <g data-section="shortside-lower-tier_l1">
+      <path class="st7 block" d="M554.9,416.6v21.3c13.7-0.2,27.4-0.4,41-0.6c5.6-1.5,14.5-4.8,23.3-11.9c12.4-10,17.9-22,20.1-27.8
+		c-7.4,0.1-14.7,0.2-22.1,0.3c-4.5,7.2-12.2,16.6-23.6,18.5c-2.1,0.4-3.7,0.3-6,0.3C580.3,416.5,569.4,416.5,554.9,416.6z" data-seat="shortside-lower-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 596.4889 427.7394)" class="st8 st9 section-label">L1</text>
+    </g>
+  
+  </g>
+  <g data-category="shortside-upper-tier">
+    <g data-section="shortside-upper-tier_l2">
+      <path class="st7 block" d="M553.7,76.5c7.8,1.7,23.2,6.3,38.1,19.3c12.8,11.1,19.3,23.4,22.4,30.5c7.2,0,14.4-0.1,21.6-0.1
+		c-2.2-8.1-11.1-36.3-39.2-54.9c-17-11.2-42.9-14.9-42.9-14.9L553.7,76.5L553.7,76.5z" data-seat="shortside-upper-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 593.0999 90.2711)" class="st8 st9 section-label">L2</text>
+    </g>
+    <g data-section="shortside-upper-tier_l3">
+      <path class="st7 block" d="M553.7,52.2c0,0,69.2,5.4,85.8,74.1h22.8c0,0-18.4-91.1-108.7-95v20.9H553.7z" data-seat="shortside-upper-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 610.9998 71.271)" class="st8 st9 section-label">L3</text>
+    </g>
+    <g data-section="shortside-upper-tier_7">
+      <rect x="635.5" y="348.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 667.129 365.7394)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="shortside-upper-tier_6">
+      <rect x="635.5" y="313.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 666.6388 331.7394)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="shortside-upper-tier_5">
+      <rect x="635.5" y="278.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 666.7189 296.7394)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="shortside-upper-tier_4">
+      <rect x="635.5" y="243.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 666.6842 261.7394)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="shortside-upper-tier_3">
+      <rect x="635.5" y="208.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 666.839 226.7394)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="shortside-upper-tier_2">
+      <rect x="635.5" y="173.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 666.9391 191.7394)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="shortside-upper-tier_1">
+      <rect x="635.5" y="138.2" class="st7 block" width="65.7" height="30.6" data-seat="shortside-upper-tier"></rect>
+      <text transform="matrix(1 0 0 1 667.129 157.7394)" class="st8 st9 section-label">1</text>
+    </g>
+    <g data-section="shortside-upper-tier_l2">
+      <path class="st7 block" d="M554.9,440.8V460c13.7-0.1,27.4-0.2,41.1-0.3c7.7-1.1,18.9-3.8,30.4-11c26.5-16.6,34-44.4,35.7-51.6
+		c-6.4,0.2-12.8,0.5-19.2,0.7c-1.8,5.3-5.1,13-11.5,20.7c-6.4,7.8-13,12-17.2,14.6c-5.7,3.5-10.2,6.3-16.7,7.2
+		c-1.7,0.2-4.3,0.3-9.6,0.5c-4.8,0.2-8.7,0.2-12.5,0.2C570.2,441,563.3,441,554.9,440.8z" data-seat="shortside-upper-tier" style=""></path>
+      <text transform="matrix(1 0 0 1 612.2491 446.7394)" class="st8 st9 section-label">L2</text>
+    </g>
+ 
+  </g>
+  <g data-category="longside-lower-tier">
+    <g data-section="longside-lower-tier_6">
+      <rect x="140.1" y="385.2" class="st7 block" width="47.6" height="79.1" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 161.6388 428.7394)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="longside-lower-tier_5">
+      <rect x="195.1" y="385.2" class="st7 block" width="47.6" height="79.1" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 217.7189 428.7394)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="longside-lower-tier_4">
+      <rect x="251.1" y="385.2" class="st7 block" width="47.6" height="79.1" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 271.6842 428.7394)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="longside-lower-tier_3">
+      <rect x="379.1" y="426.2" class="st7 block" width="67.1" height="38.1" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 411.839 448.7394)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="longside-lower-tier_2">
+      <rect x="453.1" y="385.3" class="st7 block" width="46.4" height="79" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 473.9391 428.7394)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="longside-lower-tier_1">
+      <rect x="507.7" y="404" class="st7 block" width="43.4" height="60.2" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 527.1788 428.7394)" class="st8 st9 section-label">1</text>
+    </g>
+    <g data-section="longside-lower-tier_ds">
+      <rect x="507.7" y="382" class="st7 block" width="43.4" height="18.6" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 522.3439 394.7394)" class="st8 st9 section-label">DS</text>
+    </g>
+    <g data-section="longside-lower-tier_2">
+      <rect x="188.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 205.3547 112.4474)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="longside-lower-tier_3">
+      <rect x="234.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 252.2546 112.4474)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="longside-lower-tier_4">
+      <rect x="280.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 298.0998 112.4474)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="longside-lower-tier_5">
+      <rect x="326.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 344.1345 112.4474)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="longside-lower-tier_6">
+      <rect x="372.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 389.0544 112.4474)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="longside-lower-tier_7">
+      <rect x="418.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 436.5446 112.4474)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="longside-lower-tier_8">
+      <rect x="464.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 481.1143 112.4474)" class="st8 st9 section-label">8</text>
+    </g>
+    <g data-section="longside-lower-tier_9">
+      <rect x="511.2" y="94.8" class="st7 block" width="39.9" height="18.1" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 528.0544 107.4474)" class="st8 st9 section-label">9</text>
+    </g>
+    <g data-section="longside-lower-tier_1">
+      <rect x="141.2" y="94.8" class="st7 block" width="39.9" height="30.3" data-seat="longside-lower-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 160.5944 112.4474)" class="st8 st9 section-label">1</text>
+    </g>
+    
+  </g>
+  <g data-category="longside-upper-tier">
+    <g data-section="longside-upper-tier_1">
+      <rect x="141.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 160.5944 63.4474)" class="st8 st9 section-label">1</text>
+    </g>
+    <g data-section="longside-upper-tier_2">
+      <rect x="188.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 205.3547 63.4474)" class="st8 st9 section-label">2</text>
+    </g>
+    <g data-section="longside-upper-tier_3">
+      <rect x="234.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 252.2546 63.4474)" class="st8 st9 section-label">3</text>
+    </g>
+    <g data-section="longside-upper-tier_4">
+      <rect x="280.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 298.0998 63.4474)" class="st8 st9 section-label">4</text>
+    </g>
+    <g data-section="longside-upper-tier_5">
+      <rect x="326.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 344.1345 63.4474)" class="st8 st9 section-label">5</text>
+    </g>
+    <g data-section="longside-upper-tier_6">
+      <rect x="372.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 389.0544 63.4474)" class="st8 st9 section-label">6</text>
+    </g>
+    <g data-section="longside-upper-tier_7">
+      <rect x="418.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 436.5446 63.4474)" class="st8 st9 section-label">7</text>
+    </g>
+    <g data-section="longside-upper-tier_8">
+      <rect x="464.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 481.1143 63.4474)" class="st8 st9 section-label">8</text>
+    </g>
+    <g data-section="longside-upper-tier_9">
+      <rect x="511.2" y="30" class="st7 block" width="39.9" height="57.1" data-seat="longside-upper-tier" style=""></rect>
+      <text transform="matrix(1 0 0 1 528.0544 63.4474)" class="st8 st9 section-label">9</text>
+    </g>
+    
+  </g>
+  <g data-category="vip">
+    <g data-section="vip_bob-lorddirectors">
+      <rect x="306.1" y="385.2" class="st7 block" width="66.4" height="33.5" data-seat="vip" style=""></rect>
+      <text transform="matrix(1 0 0 1 315.9566 400.5451)" class="st8 st9 section-label">BOB LORD</text>
+      <text transform="matrix(1 0 0 1 313.4566 412.5451)" class="st8 st9 section-label">DIRECTORS</text>
+    </g>
+    <g data-section="vip_100-club">
+      <rect x="379.1" y="385.2" class="st7 block" width="67.1" height="33.5" data-seat="vip" style=""></rect>
+      <text transform="matrix(1 0 0 1 389.8516 406.5451)" class="st8 st9 section-label">100 CLUB</text>
+    </g>
+    <g data-section="vip_bdb">
+      <rect x="306.1" y="426.2" class="st7 block" width="66.4" height="38.1" data-seat="vip" style=""></rect>
+      <text transform="matrix(1 0 0 1 329.1139 448.7394)" class="st8 st9 section-label">BDB</text>
+    </g>
+   
+   
+    
+    
+  </g>
+</svg>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" class="svg-stadium" viewBox="0 0 690.7 541.2" style="enable-background:new 0 0 690.7 541.2;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#589D51;}
+		.st1{fill:#488544;}
+		.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+		.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+		.st4{fill:#112638;}
+		.st5{font-family:'DMSans-Bold';}
+		.st6{font-size:15px;}
+		.st7{font-family:'DMSans-Medium';}
+		.st8{font-size:10px;}
+		.st9{font-size:10.0015px;}
+		.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	</style>
+
+	<g class="field">
+		<rect x="176.1" y="157" class="st0" width="348.5" height="229.8"/>
+		<rect x="342.9" y="166.3" class="st1" width="19" height="211.2"/>
+		<rect x="381.6" y="166.3" class="st1" width="19" height="211"/>
+		<rect x="419.8" y="165.7" class="st1" width="19" height="211.2"/>
+		<rect x="458.6" y="165.1" class="st1" width="19" height="211.2"/>
+		<rect x="493.9" y="164.7" class="st1" width="17" height="211.2"/>
+		<rect x="189.5" y="166.1" class="st1" width="19" height="211.2"/>
+		<rect x="304.9" y="166.3" class="st1" width="19" height="211.2"/>
+		<rect x="228" y="166.1" class="st1" width="19" height="211.2"/>
+		<rect x="266.5" y="165.7" class="st1" width="19" height="211.2"/>
+		<rect x="189.9" y="166.1" class="st2" width="322" height="211.2"/>
+		<rect x="189.9" y="200.4" class="st3" width="49.6" height="151.1"/>
+		<rect x="189.9" y="240.8" class="st3" width="18.2" height="70.4"/>
+		<path class="st3" d="M239.6,305.5c0,0,22.3-28.2-0.1-55"/>
+		<rect x="181.9" y="262.5" class="st3" width="8.1" height="23.7"/>
+		<g>
+			<rect x="462.4" y="200.4" class="st3" width="49.6" height="151.1"/>
+			<rect x="493.9" y="240.8" class="st3" width="18.2" height="70.4"/>
+			<path class="st3" d="M462.6,250.4c-22.4,26.7-0.2,55-0.2,55"/>
+			<rect x="512" y="262.5" class="st3" width="8.1" height="23.7"/>
+		</g>
+		<path class="st3" d="M189.9,174c0,0,7.3-0.9,8-8"/>
+		<path class="st3" d="M196.7,377.3c0,0,0.2-7.4-6.8-9"/>
+		<path class="st3" d="M504.4,166.1c0,0,0.4,7.4,7.5,8.4"/>
+		<circle id="white_circle" class="st3" cx="351.4" cy="271.9" r="35.3"/>
+		<path class="st3" d="M512.1,368.8c0,0-7.3,1.3-7.4,8.5"/>
+		<line class="st2" x1="351.5" y1="166.3" x2="351.5" y2="377.5"/>
+
+		<g data-stand="haupttribüne">
+			<text transform="matrix(1 0 0 1 296.6354 15.7202)" class="st4 st5 st6 data-label">HAUPTTRIBUNE</text>
+		</g>
+
+		<g data-stand="nordkurve">
+			<text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 676.6346 225.7202)" class="st4 st5 st6 data-label">NORDKURVE</text>
+		</g>
+
+		<g data-stand="stehplatz-heim">
+			<text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 539.6346 232.7202)" class="st4 st7 st8 data-label">STEHPLATZE HEIM</text>
+		</g>
+
+		<g data-stand="gastebereich">
+			<text transform="matrix(0.7254 0.6884 -0.6884 0.7254 34.7908 470.3351)" class="st4 st7 st9 data-label">GASTEBEREICH</text>
+		</g>
+
+		<g data-stand="gengengerade">
+			<text transform="matrix(1 0 0 1 290.6354 534.7202)" class="st4 st5 st6 data-label">GENGENGERADE</text>
+		</g>
+
+		<g data-stand="deutsche-bkk-familienclock">
+			<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 160.6354 354.7197)" class="st4 st7 st8 data-label">DEUTSCHE BKK-FAMILIENCLOCK</text>
+		</g>
+
+		<g data-stand="wolfi-kurve">
+			<text transform="matrix(1.346897e-10 -1 1 1.346897e-10 15.2742 322.3643)" class="st4 st5 st6 data-label">WOLFI-KURVE</text>
+		</g>
+
+		<g data-stand="rol1">
+			<text transform="matrix(1 0 0 1 225.6354 410.7202)" class="st4 st7 st8 data-label">ROL1</text>
+		</g>
+
+		<g data-stand="rol2">
+			<text transform="matrix(1 0 0 1 436.6353 410.7202)" class="st4 st7 st8 data-label">ROL2</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="haupttribüne">
+		<g data-section="haupttribüne_46">
+			<path class="block st10" d="M96.2,59.3c0,0-26,14-46,47l50,26c0,0,7-13,25-25L96.2,59.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 84.6354 100.7202)" class="st7 st8 section-label">46</text>
+		</g>
+
+		<g data-section="haupttribüne_48">
+			<path class="block st10" d="M169.2,34.3c0,0-43,6-70,23l29,48c0,0,15-9,49-15L169.2,34.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 135.6353 71.7202)" class="st7 st8 section-label">48</text>
+		</g>
+
+		<g data-section="haupttribüne_50">
+			<path class="block st10" d="M227.2,28.3c0,0-24,0-54,6l7,55l51-4L227.2,28.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 197.6354 60.7202)" class="st7 st8 section-label">50</text>
+		</g>
+
+		<g data-section="haupttribüne_52">
+			<path class="block st10" d="M290.2,23.3c0,0-38,1-59,4l4,58l55-5V23.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 257.6354 55.7202)" class="st7 st8 section-label">52</text>
+		</g>
+
+		<g data-section="haupttribüne_54">
+			<rect x="294.7" y="22.8" class="block st10" width="16" height="57" data-seat="haupttribüne" />
+			<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 306.6353 56.7197)" class="st7 st8 section-label">54</text>
+		</g>
+
+		<g data-section="haupttribüne_56">
+			<rect x="381.1" y="22.8" class="block st10" width="16" height="57" data-seat="haupttribüne" />
+			<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 392.6353 56.7197)" class="st7 st8 section-label">56</text>
+		</g>
+
+		<g data-section="haupttribüne_58">
+			<path class="block st10" d="M401.6,23.3c0,0,37,2,58,5l-4,57l-54-5V23.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 423.6353 55.7202)" class="st7 st8 section-label">58</text>
+		</g>
+
+		<g data-section="haupttribüne_60">
+			<path class="block st10" d="M464.6,28.3c0,0,24,0,54,6l-6.4,57l-51.6-6L464.6,28.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 482.6353 61.7202)" class="st7 st8 section-label">60</text>
+		</g>
+
+		<g data-section="haupttribüne_62">
+			<path class="block st10" d="M523.2,34.3c0,0,42,6,69,23l-32,50c0,0-10-10-44-16L523.2,34.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 542.6353 70.7202)" class="st7 st8 section-label">62</text>
+		</g>
+
+		<g data-section="haupttribüne_64">
+			<path class="block st10" d="M563.2,110.3l33-51c0,0,39,29,45,50l-51,28C590.2,137.3,578.2,121.3,563.2,110.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 594.6353 103.7202)" class="st7 st8 section-label">64</text>
+		</g>
+
+		<g data-section="haupttribüne_a">
+			<path class="block st10" d="M176.2,103.3c0,0-40,2-59,37l8,4l12-13l30,15l17-8L176.2,103.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 156.6354 127.7202)" class="st7 st8 section-label">A</text>
+		</g>
+
+		<g data-section="haupttribüne_b">
+			<path class="block st10" d="M192.2,136.4c14.3-1.1,28.8-2.1,43.7-2.9c16.9-0.9,33.4-1.6,49.6-2c0-10.4,0-20.8,0-31.1
+				c-33.7,0.4-67.4,0.7-101.1,1.1C187,113.1,189.6,124.7,192.2,136.4z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 232.4618 119.9326)" class="st7 st8 section-label">B</text>
+		</g>
+
+		<g data-section="haupttribüne_c">
+			<rect x="290.2" y="100.3" class="block st10" width="55" height="30.9" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 313.4618 119.9326)" class="st7 st8 section-label">C</text>
+		</g>
+
+		<g data-section="haupttribüne_d">
+			<rect x="350.2" y="100.3" class="block st10" width="55" height="30.9" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 374.4617 119.9326)" class="st7 st8 section-label">D</text>
+		</g>
+
+		<g data-section="haupttribüne_e">
+			<path class="block st10" d="M511.5,100.3c-1.4,12.3-2.9,24.7-4.3,37c-15.3-1.5-31.1-2.8-47.4-3.8c-17.1-1-33.6-1.7-49.6-2
+				c0-10.4,0-20.8,0-31.1L511.5,100.3L511.5,100.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 457.4617 119.9326)" class="st7 st8 section-label">E</text>
+		</g>
+
+		<g data-section="haupttribüne_f">
+			<path class="block st10" d="M516.2,101.3c0,0,22,4,39,16l-26,28l-18-8L516.2,101.3z" data-seat="haupttribüne" />
+			<text transform="matrix(1 0 0 1 526.6353 126.7202)" class="st7 st8 section-label">F</text>
+		</g>
+
+		<g data-section="haupttribüne_presse">
+			<text transform="matrix(1 0 0 1 330.6354 53.7202)" class="st4 st7 st8 section-label">PRESSE</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="stehplatz-heim">
+		<g data-section="stehplatz-heim_1">
+			<path class="block st10" d="M579.5,145.3c0,0,5.1,6,10.2,25l-33.5,2l-0.5-9L579.5,145.3z" data-seat="stehplatz-heim" />
+			<text transform="matrix(1 0 0 1 571.6353 165.7202)" class="st7 st8 section-label">1</text>
+		</g>
+
+		<g data-section="stehplatz-heim_3">
+			<path class="block st10" d="M556.5,176.3l35.7-2c0,0,1.7,11,2.5,47l-38.3,1L556.5,176.3L556.5,176.3z" data-seat="stehplatz-heim" />
+			<text transform="matrix(1 0 0 1 571.6353 201.7202)" class="st7 st8 section-label">3</text>
+		</g>
+
+		<g data-section="stehplatz-heim_5">
+			<polygon class="block st10" points="556.5,277.3 594.8,277.3 595.2,225.3 556.5,226.3" data-seat="stehplatz-heim" />
+			<text transform="matrix(1 0 0 1 572.6353 253.7202)" class="st7 st8 section-label">5</text>
+		</g>
+
+		<g data-section="stehplatz-heim_7">
+			<rect x="556.5" y="282.3" class="block st10" width="39.2" height="54" data-seat="stehplatz-heim" />
+			<text transform="matrix(1 0 0 1 573.6353 312.7202)" class="st7 st8 section-label">7</text>
+		</g>
+
+		<g data-section="stehplatz-heim_9">
+			<polygon class="block st10" points="595.7,341.3 556.5,341.3 556.5,374.3 595.7,379.3" data-seat="stehplatz-heim" />
+			<text transform="matrix(1 0 0 1 573.6353 361.7202)" class="st7 st8 section-label">9</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="nordtribüne">
+		<g data-section="nordtribüne_2">
+			<path class="block st10" d="M593.2,141.3l51-28c0,0,14,29,17,52l-56,6C605.2,171.3,600.2,156.3,593.2,141.3z" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 626.6353 149.7202)" class="st7 st8 section-label">2</text>
+		</g>
+
+		<g data-section="nordtribüne_4">
+			<polygon class="block st10" points="606.2,176.3 662.2,170.3 664.2,218.3 608.2,220.3" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 632.6353 198.7202)" class="st7 st8 section-label">4</text>
+		</g>
+
+		<g data-section="nordtribüne_6">
+			<polygon class="block st10" points="608.2,224.3 664.2,222.3 666.2,273.3 610.2,273.3" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 634.6353 251.7202)" class="st7 st8 section-label">6</text>
+		</g>
+
+		<g data-section="nordtribüne_8">
+			<rect x="609.7" y="277.3" class="block st10" width="57" height="58.5" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 634.6353 308.7202)" class="st7 st8 section-label">8</text>
+		</g>
+
+		<g data-section="nordtribüne_10">
+			<path class="block st10" d="M610.2,340.3h56c0,0,1,26-3,41l-58,2C605.2,383.3,609.2,372.3,610.2,340.3z" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 631.6353 363.7202)" class="st7 st8 section-label">10</text>
+		</g>
+
+		<g data-section="nordtribüne_12">
+			<path class="block st10" d="M605.2,387.3l57-2c0,0-4,39-15,58l-52-23C595.2,420.3,602.2,407.3,605.2,387.3z" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 625.6353 412.7202)" class="st7 st8 section-label">12</text>
+		</g>
+
+		<g data-section="nordtribüne_14">
+			<path class="block st10" d="M592.2,424.3l53,24c0,0-20,42-60,58l-11-59C574.2,447.3,580.2,443.3,592.2,424.3z" data-seat="nordtribüne" />
+			<text transform="matrix(1 0 0 1 599.6353 461.7202)" class="st7 st8 section-label">14</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="gegentribüne">
+		<g data-section="gegentribüne_15">
+			<path class="block st10" d="M499.2,417.3l5,42c0,0,13-1,28-9l-1-36L499.2,417.3z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 511.6353 437.7202)" class="st7 st8 section-label">15</text>
+		</g>
+
+		<g data-section="gegentribüne_16">
+			<path class="block st10" d="M569.2,451.3c0,0-30,19-51,18l3,58c0,0,34-1,59-19L569.2,451.3z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 542.6353 493.7202)" class="st7 st8 section-label">16</text>
+		</g>
+
+		<g data-section="gegentribüne_17">
+			<path class="block st10" d="M455.5,421.2c0.9,12.7,1.8,25.4,2.7,38.1h41c-1.5-13.8-2.9-27.6-4.4-41.4c-5.3,0.6-10.7,1.1-16.2,1.5
+				C470.7,420.1,463,420.7,455.5,421.2z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 471.6353 441.7202)" class="st7 st8 section-label">17</text>
+		</g>
+
+		<g data-section="gegentribüne_18">
+			<path class="block st10" d="M462.2,472.3l1,31l30-1l23,16l-3-49C513.2,469.3,468.2,472.3,462.2,472.3z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 483.6353 489.7202)" class="st7 st8 section-label">18</text>
+		</g>
+
+		<g data-section="gegentribüne_19">
+			<polygon class="block st10" points="404.2,421.3 404.2,459.3 454.2,459.3 451.2,421.3" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 422.6353 442.7202)" class="st7 st8 section-label">19</text>
+		</g>
+
+		<g data-section="gegentribüne_20">
+			<path class="block st10" d="M404.2,473.7c0,11.5,0,23,0,34.5c0,0,49-2,55-4c-0.3-10.6-0.7-21.2-1-31.8
+				C440.2,472.9,422.2,473.3,404.2,473.7z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 425.6353 492.7202)" class="st7 st8 section-label">20</text>
+		</g>
+
+		<g data-section="gegentribüne_21">
+			<rect x="351.2" y="421.3" class="block st10" width="49" height="38" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 370.6353 442.7202)" class="st7 st8 section-label">21</text>
+		</g>
+
+		<g data-section="gegentribüne_22">
+			<path class="block st10" d="M351.2,473.8v36.5c0,0,35,0,49-2v-34.5H351.2L351.2,473.8z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 369.6353 493.7202)" class="st7 st8 section-label">22</text>
+		</g>
+
+		<g data-section="gegentribüne_23">
+			<rect x="295.2" y="421.3" class="block st10" width="51" height="38" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 314.6354 442.7202)" class="st7 st8 section-label">23</text>
+		</g>
+
+		<g data-section="gegentribüne_24">
+			<rect x="295.2" y="474.3" class="block st10" width="51" height="36" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 315.6354 494.7202)" class="st7 st8 section-label">24</text>
+		</g>
+
+		<g data-section="gegentribüne_25">
+			<path class="block st10" d="M241.2,419.6c0,13.2,0,26.5,0,39.7h49v-38c-5.7-0.1-11.5-0.2-17.4-0.4C262,420.6,251.5,420.1,241.2,419.6z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 259.6354 442.7202)" class="st7 st8 section-label">25</text>
+		</g>
+
+		<g data-section="gegentribüne_26">
+			<path class="block st10" d="M236.2,474.3h54v36c0,0-26,1-54-3V474.3z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 257.6354 494.7202)" class="st7 st8 section-label">26</text>
+		</g>
+
+		<g data-section="gegentribüne_27">
+			<path class="block st10" d="M236.2,419.3v40c0,0-41-1-57-3v-41C179.2,415.3,217.2,418.3,236.2,419.3z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 201.6354 441.7202)" class="st7 st8 section-label">27</text>
+		</g>
+
+		<g data-section="gegentribüne_28">
+			<polygon class="block st10" points="231.2,474.3 179.2,474.3 179.2,521.3 209.2,502.3 231.2,507.3" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 200.6354 492.7202)" class="st7 st8 section-label">28</text>
+		</g>
+
+		<g data-section="gegentribüne_30">
+			<path class="block st10" d="M131.2,456.3l-33,49c0,0,37,24,74,24v-56C172.2,473.3,148.2,467.3,131.2,456.3z" data-seat="gegentribüne" />
+			<text transform="matrix(1 0 0 1 136.6353 496.7202)" class="st7 st8 section-label">30</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="gastbereich---away-fans">
+		<g data-section="gastbereich-away-fans_29">
+			<path class="block st10" d="M173.7,415.3v40c0,0-30-9-45.5-25l13.4-13l12.4,6l8.3-9L173.7,415.3z" data-seat="gastbereich-away-fans" />
+			<text transform="matrix(1 0 0 1 149.6354 437.7202)" class="st7 st8 section-label">29</text>
+		</g>
+
+		<g data-section="gastbereich-away-fans_32">
+			<path class="block st10" d="M99.2,426.3l-51,26c0,0,15,27,46,50l33-48C127.2,454.3,108.2,438.3,99.2,426.3z" data-seat="gastbereich-away-fans" />
+			<text transform="matrix(1 0 0 1 84.6354 461.7202)" class="st7 st8 section-label">32</text>
+		</g>
+
+		<g data-section="gastbereich-away-fans_33">
+			<path class="block st10" d="M99.2,376.3l42,15l-12,12l9,10l-13,13C125.2,426.3,101.2,403.3,99.2,376.3z" data-seat="gastbereich-away-fans" />
+			<text transform="matrix(1 0 0 1 113.6353 400.7202)" class="st7 st8 section-label">33</text>
+		</g>
+
+		<g data-section="gastbereich-away-fans_34">
+			<path class="block st10" d="M29.2,403.3l55-8c0,0,4,14,13,28l-51,25C46.2,448.3,36.2,431.3,29.2,403.3z" data-seat="gastbereich-away-fans" />
+			<text transform="matrix(1 0 0 1 57.6354 420.7202)" class="st7 st8 section-label">34</text>
+		</g>
+
+		<g data-section="gastbereich-away-fans_35">
+			<polygon class="block st10" points="95.7,342.3 141.2,342.3 141.2,385.3 95.7,369.3" data-seat="gastbereich-away-fans" />
+			<text transform="matrix(1 0 0 1 113.6353 362.7202)" class="st7 st8 section-label">35</text>
+		</g>
+
+		<g data-section="gastbereich-away-fans_36">
+			<path class="block st10" d="M24.2,341.8h57c0,0,0,27.2,3,49.4l-55,7.1C29.2,398.3,24.2,358.9,24.2,341.8z" data-seat="gastbereich-away-fans" />
+			<text transform="matrix(1 0 0 1 47.6354 369.7202)" class="st7 st8 section-label">36</text>
+		</g>
+	</g>
+
+	<g class="block-category" data-category="südtribüne">
+		<g data-section="südtribüne_37">
+			<rect x="96.2" y="283.3" class="block st10" width="45" height="54" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 112.6353 312.7202)" class="st7 st8 section-label">37</text>
+		</g>
+
+		<g data-section="südtribüne_38">
+			<rect x="24.2" y="284.4" class="block st10" width="57" height="52.9" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 46.6354 314.7202)" class="st7 st8 section-label">38</text>
+		</g>
+
+		<g data-section="südtribüne_39">
+			<rect x="96.2" y="227.3" class="block st10" width="45" height="51" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 113.6353 254.7202)" class="st7 st8 section-label">39</text>
+		</g>
+
+		<g data-section="südtribüne_40">
+			<polygon class="block st10" points="24.2,221.8 81.2,223.9 81.2,279.8 24.2,279.8" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 46.6354 253.7202)" class="st7 st8 section-label">40</text>
+		</g>
+
+		<g data-section="südtribüne_41">
+			<path class="block st10" d="M142.2,176.3l-43-1c0,0-2,11-3,47l45,1L142.2,176.3z" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 114.6353 201.7202)" class="st7 st8 section-label">41</text>
+		</g>
+
+		<g data-section="südtribüne_42">
+			<path class="block st10" d="M30.2,163.3c0,0-7,26-6,54l57,2c0,0,3-38,5-50L30.2,163.3z" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 47.6354 193.7202)" class="st7 st8 section-label">42</text>
+		</g>
+
+		<g data-section="südtribüne_43">
+			<path class="block st10" d="M114.2,146.3c0,0-8,6-14,25l42,1v-8L114.2,146.3z" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 114.6353 166.7202)" class="st7 st8 section-label">43</text>
+		</g>
+
+		<g data-section="südtribüne_44">
+			<path class="block st10" d="M48.2,110.3c0,0-13,20-18.1,48.7l57,6c0,0,4.1-11.7,11.1-29.7L48.2,110.3z" data-seat="südtribüne" />
+			<text transform="matrix(1 0 0 1 57.6354 145.7202)" class="st7 st8 section-label">44</text>
+		</g>
+	</g>
+</svg>
