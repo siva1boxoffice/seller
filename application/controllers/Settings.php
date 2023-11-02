@@ -2995,4 +2995,33 @@ class Settings extends CI_Controller
 			$this->loadRecord($row_count, 'banners', 'settings/banners/banners', 'id', 'DESC', 'settings/banners/banners', 'banners', 'banners', $search_text);
 		}
 	}
+
+	public function payout_migrate()
+	{
+		$payouts = $this->General_Model->payouts_data()->result();
+		if(!empty($payouts)){
+			$total_rows[] = array();
+			foreach($payouts as $payout){ 
+				$payout_id         = $payout->payout_id;
+				$payout_status     = '1';
+				$payout_orders = json_decode($payout->payout_orders);
+				if(!empty($payout_orders)){
+						foreach($payout_orders as $payout_order){
+							
+							$bg_id = $payout_order->bg_id;
+							if($bg_id != ""){
+								$total_rows[] = 1;
+								$updated_data = array('payout_id' => $payout_id,'payout_status' => $payout_status);
+								$this->General_Model->update_table('booking_global', 'bg_id', $bg_id, $updated_data);
+							}
+						}
+					}
+
+				
+			}
+			echo array_sum($total_rows)." Payout data Migrated Successfully.";exit;
+		}
+		
+
+	}
 }

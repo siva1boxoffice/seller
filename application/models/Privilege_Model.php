@@ -14,7 +14,7 @@ class Privilege_Model extends CI_Model {
 
 	public function get_allowed_pages($sub_admin_id,$controller_name,$function_name){ 
 		
-		$allowed_pages = array('game_orders','game_change_ticket_type','game_request_event','game_report_issue','kyc_view_documents','kyc_upload_document','kyc_upload_contract','kyc_documents','tickets_get_bulk_events','tickets_bulk_tickets','tickets_bulk_upload_tickets','home_update_block','game_download_orders','game_update_statdium_block','home_save_my_accounts','game_getStadiumByid','game_uploadEticket','game_deleteEticket','game_uploadNominee','game_download_tickets','game_saveNominee','game_saveEticket','home_index','home_master','game_category','tickets_get_tktcat_by_stadium_id','tickets_getCurrency_event','tickets_getMatchDetails','tickets_get_block_by_stadium_id','tickets_create_ticket','chats','payout');
+		$allowed_pages = array('settings_payout_migrate','game_orders','game_change_ticket_type','game_request_event','game_report_issue','kyc_view_documents','kyc_upload_document','kyc_upload_contract','kyc_documents','tickets_get_bulk_events','tickets_bulk_tickets','tickets_bulk_upload_tickets','home_update_block','game_download_orders','game_update_statdium_block','home_save_my_accounts','game_getStadiumByid','game_uploadEticket','game_deleteEticket','game_uploadNominee','game_download_tickets','game_saveNominee','game_saveEticket','home_index','home_master','game_category','tickets_get_tktcat_by_stadium_id','tickets_getCurrency_event','tickets_getMatchDetails','tickets_get_block_by_stadium_id','tickets_create_ticket','chats','payout');
 		
 		if(in_array($controller_name.'_'.$function_name,$allowed_pages)){
 		

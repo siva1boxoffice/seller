@@ -68,6 +68,137 @@ class Payout extends CI_Controller
 
 	public function payment()
 	{	
+		$this->data['countries']    		= $this->General_Model->fetch_country_list();
+    	$this->data['bank_accounts_gbp']    = $this->Accounts_Model->bank_accounts('GBP');
+    	$this->data['bank_accounts_eur']    = $this->Accounts_Model->bank_accounts('EUR');
+    	$this->data['bank_accounts_usd']    = $this->Accounts_Model->bank_accounts('USD');
+    	$this->data['bank_accounts_aed']    = $this->Accounts_Model->bank_accounts('AED');
+		$this->data['payout_histories']     = $this->Accounts_Model->admin_payout_histories();
+		$this->data['payout_orders']        = $this->Accounts_Model->admin_payout_orders();
+
+		$this->data['pending_delivery_gbp']    = $this->Accounts_Model->admin_payout_orders_payable('GBP','pending_delivery');
+		$this->data['pending_payout_gbp']      = $this->Accounts_Model->admin_payout_orders_payable('GBP','pending_payout');
+		$this->data['pending_delivery_eur']    = $this->Accounts_Model->admin_payout_orders_payable('EUR','pending_delivery');
+		//echo "<pre>";print_r($this->data['pending_delivery_eur']);exit;
+		$this->data['pending_payout_eur']      = $this->Accounts_Model->admin_payout_orders_payable('EUR','pending_payout');
+		$this->data['pending_delivery_usd']    = $this->Accounts_Model->admin_payout_orders_payable('USD','pending_delivery');
+		$this->data['pending_payout_usd']      = $this->Accounts_Model->admin_payout_orders_payable('USD','pending_payout');
+		$this->data['pending_delivery_aed']    = $this->Accounts_Model->admin_payout_orders_payable('AED','pending_delivery');
+		$this->data['pending_payout_aed']      = $this->Accounts_Model->admin_payout_orders_payable('AED','pending_payout');
+
+		$this->data['holding_gbp']    = $this->Accounts_Model->onhold_prices('GBP');
+		$this->data['holding_eur']    = $this->Accounts_Model->onhold_prices('EUR');
+		$this->data['holding_usd']    = $this->Accounts_Model->onhold_prices('USD');
+		$this->data['holding_aed']    = $this->Accounts_Model->onhold_prices('AED');
+
+
+		//echo count($this->data['payout_orders']);exit;
+		$this->load->view(THEME_NAME.'/payout/payment_new', $this->data);
+	}
+
+	public function ajax_payout_histories()
+	{	
+		$payment_reference 					 = @$_POST['payment_reference'];
+		$this->datas['payout_histories']     = $this->Accounts_Model->admin_payout_histories('',$payment_reference);
+		$response = $this->load->view(THEME_NAME.'/payout/ajax_payout_histories', $this->datas,true);
+		echo json_encode(array('status' => 1,'response' => $response));exit;
+	}
+
+	public function ajax_payout_orders()
+	{	
+		$payment_reference 					 = @$_POST['payment_reference'];
+		$status 					 		 = @$_POST['status'];
+		$this->datas['payout_orders']        = $this->Accounts_Model->admin_payout_orders($payment_reference,$status);
+		$response = $this->load->view(THEME_NAME.'/payout/ajax_payout_orders', $this->datas,true);
+		echo json_encode(array('status' => 1,'response' => $response));exit;
+	}
+
+	public function download_payout_report(){
+		
+		$payout_histories     = $this->Accounts_Model->admin_payout_histories();
+		$fileName 			  = "Seller_PayoutReports_" . date('Y-m-d') . ".xls"; 
+		// Column names 
+		$fields 			  = array('Sl.No','PaymentReference','ToAccount','Amount','InitiatedDate','ExpectedDate','Status'); 
+		// Display column names as first row 
+		$excelData = implode("\t", array_values($fields)) . "\n"; 
+			$i = 1;
+		  foreach($payout_histories as $payout_history){ 
+
+			  if($payout_history->account_number != ""){ $account_number = $payout_history->account_number;}else{ $account_number =  "-";}
+			  if($payout_history->payout_currency == "GBP"){
+			      $total_payable = "GBP ".number_format($payout_history->total_payable,2);
+			  } else if($payout_history->payout_currency == "EUR"){
+			  	  $total_payable = "EUR ".number_format($payout_history->total_payable,2);
+			  } else if($payout_history->payout_currency == "USD"){
+			  	   $total_payable = "USD ".number_format($payout_history->total_payable,2);
+			  } else if($payout_history->payout_currency == "AED"){
+			  	$total_payable = "AED ".number_format($payout_history->total_payable,2);
+			  } 
+
+        	$lineData = array($i,$payout_history->payout_no,$account_number,$total_payable,date('j F Y',strtotime($payout_history->paid_date_time)),date('j F Y',strtotime($payout_history->paid_date_time. ' + 2 days')),'Paid'); 
+       		$i++;
+        	$excelData .= implode("\t", array_values($lineData)) . "\n"; 
+    	} 
+		header("Content-Type: application/vnd.ms-excel"); 
+		header("Content-Disposition: attachment; filename=\"$fileName\""); 
+		// Render excel data 
+		echo $excelData;exit;
+	}
+
+	public function download_order_report(){
+		
+		$payout_histories     = $this->Accounts_Model->admin_payout_orders();
+		$fileName 			  = "Seller_PayoutOrders_" . date('Y-m-d') . ".xls"; 
+		$fields 			  = array('Sl.No','OrderId','PaymentReference','Event','NetAmount','Deductions','PaymentInitiatedDate','Ticket','Status'); 
+		
+		// Display column names as first row 
+		$excelData = implode("\t", array_values($fields)) . "\n"; 
+		$i = 1;
+	  foreach($payout_histories as $payout_history){ 
+
+			  if($payout_history->currency_type == "GBP"){
+			      $total_payable   = "GBP ".number_format($payout_history->ticket_amount,2);
+			      $total_deduction = "GBP ".number_format($payout_history->on_hold,2);
+			  } else if($payout_history->currency_type == "EUR"){
+			  	  $total_payable = "EUR ".number_format($payout_history->ticket_amount,2);
+			  	  $total_deduction = "EUR ".number_format($payout_history->on_hold,2);
+			  } else if($payout_history->currency_type == "USD"){
+			  	   $total_payable = "USD ".number_format($payout_history->ticket_amount,2);
+			  	   $total_deduction = "USD ".number_format($payout_history->on_hold,2);
+			  } else if($payout_history->currency_type == "AED"){
+			  	$total_payable = "AED ".number_format($payout_history->ticket_amount,2);
+			  	$total_deduction = "AED ".number_format($payout_history->on_hold,2);
+			  } 
+
+			   if($payout_history->payout_status == '1'){
+			        $paid_date_time = date('j F Y',strtotime($payout_history->paid_date_time));
+			   }else if($payout_history->payout_status == '2'){
+			       $paid_date_time = "Dispute";
+			   }else if($payout_history->payout_status == '0'){
+			       $paid_date_time = "Pending Payment";
+			   }
+
+			    if($payout_history->payout_status == '1'){
+			     $payout_status = "Paid";
+			    }else if($payout_history->payout_status == '2'){ 
+			    	$payout_status = "Dispute";
+			    }else if($payout_history->payout_status == '0'){
+			    	$payout_status = "Pending";
+			    }
+
+	        $lineData = array($i,$payout_history->booking_no,$payout_history->payout_no,$payout_history->match_name,$total_payable,$total_deduction,$paid_date_time,$payout_history->quantity.'*'.$payout_history->seat_category,$payout_status); 
+	       $i++;
+	        $excelData .= implode("\t", array_values($lineData)) . "\n"; 
+	    } 
+		header("Content-Type: application/vnd.ms-excel"); 
+		header("Content-Disposition: attachment; filename=\"$fileName\""); 
+		// Render excel data 
+		echo $excelData;exit;
+
+	}
+
+	public function payment_old()
+	{	
 		
 		$this->data['payout_histories']    = $this->Accounts_Model->admin_payout_histories();
 		$this->load->view(THEME_NAME.'/payout/payment', $this->data);

@@ -81,8 +81,9 @@ function bank_accounts($currency='',$account_id='')
   function admin_payout_histories($currency='',$payout_id='',$txnid='',$fromdate='',$todate='')
 	{ 
 		
-		$this->db->select('*,payouts.currency as payout_currency');
+		$this->db->select('*,payouts.currency as payout_currency,admin_bank_details.*');
 		$this->db->join('admin_details', 'admin_details.admin_id = payouts.seller_id');
+		$this->db->join('admin_bank_details', 'admin_bank_details.bank_id = payouts.paid_account','LEFT');
 		if ($this->session->userdata('role') == 1) {
 			$this->db->where('payouts.seller_id', $this->session->userdata('admin_id'));
 		}
@@ -90,7 +91,8 @@ function bank_accounts($currency='',$account_id='')
 			$this->db->where('payouts.currency', $currency);
 		}
 		if($payout_id != ''){
-			$this->db->where('payouts.payout_no', $payout_id);
+			//$this->db->where('payouts.payout_no', $payout_id);
+			$this->db->like('payouts.payout_no', $payout_id);
 		}
 		if($txnid != ''){
 			$this->db->where('payouts.payout_id', $txnid);
@@ -108,6 +110,105 @@ function bank_accounts($currency='',$account_id='')
 		} else {
 			return '';
 		}
+	}
+
+	function admin_payout_orders_payable($currency,$payable_type)
+	{ 
+		
+		$this->db->select('SUM(booking_global.ticket_amount) as total_ticket_amount');
+		$this->db->join('payouts', 'payouts.payout_id = booking_global.payout_id','LEFT');	
+		$this->db->join('booking_tickets', 'booking_tickets.booking_id = booking_global.bg_id','LEFT');
+		$this->db->join('admin_bank_details', 'admin_bank_details.bank_id = payouts.paid_account','LEFT');
+		$this->db->where('booking_global.seller_id', $this->session->userdata('admin_id'));
+		$this->db->where('booking_global.currency_type',$currency);
+		if($payable_type == 'pending_delivery'){
+			$this->db->where('booking_global.payout_status','0');
+			$this->db->where('booking_global.booking_status',1);
+		}
+		if($payable_type == 'pending_payout'){
+			
+			$this->db->where_in('booking_global.booking_status',[4,5,6]);
+			$this->db->where('booking_global.payout_status != ','2');
+			$this->db->where('booking_global.payout_status != ','1');
+
+		}
+		//$this->db->order_by('payouts.payout_date_from','ASC');
+		$query = $this->db->get('booking_global');//echo $this->db->last_query();exit;
+		if ($query->num_rows() > 0) {
+			return $query->row();
+		} else {
+			return '';
+		}
+
+	}
+
+	function onhold_prices($currency)
+	{ 
+		
+		$this->db->select('SUM(booking_global.on_hold) as total_hold_amount');
+		$this->db->where('booking_global.seller_id', $this->session->userdata('admin_id'));
+		$this->db->where('booking_global.booking_status != ',2);
+		$this->db->where('booking_global.booking_status != ',3);
+		$this->db->where('booking_global.booking_status != ',0);
+		$this->db->where('booking_global.booking_status != ',7);
+		$this->db->where('booking_global.payout_status','2');
+		$this->db->where('booking_global.currency_type',$currency);
+		$query = $this->db->get('booking_global');
+		if ($query->num_rows() > 0) {
+			return $query->row();
+		} else {
+			return '';
+		}
+
+	}
+
+	function admin_payout_orders($payment_reference="",$status = "")
+	{ 
+		
+		$this->db->select('booking_global.*,payouts.*,payouts.currency as payout_currency,admin_bank_details.*,booking_tickets.*,booking_global.booking_no,booking_tickets.match_date as event_date,booking_global.ticket_amount,booking_global.currency_type');
+		$this->db->join('payouts', 'payouts.payout_id = booking_global.payout_id','LEFT');	
+		$this->db->join('booking_tickets', 'booking_tickets.booking_id = booking_global.bg_id','LEFT');
+		$this->db->join('admin_bank_details', 'admin_bank_details.bank_id = payouts.paid_account','LEFT');
+		$this->db->where('booking_global.seller_id', $this->session->userdata('admin_id'));
+		$this->db->where('booking_global.booking_status != ',2);
+		$this->db->where('booking_global.booking_status != ',3);
+		$this->db->where('booking_global.booking_status != ',0);
+		$this->db->where('booking_global.booking_status != ',7);
+		if($payment_reference != ""){
+			$this->db->like('payouts.payout_no',$payment_reference);
+			$this->db->or_like('booking_global.booking_no',$payment_reference);
+		}
+		if($status == 1){
+			$this->db->where('booking_global.payout_status','1');
+		}
+		if($status == 2){
+			$this->db->where('booking_global.payout_status','2');
+		}
+		if($status == 0){
+			$this->db->where('booking_global.payout_status','0');
+		}
+		//$this->db->order_by('payouts.payout_date_from','ASC');
+		$query = $this->db->get('booking_global');//echo $this->db->last_query();exit;
+		if ($query->num_rows() > 0) {
+			return $query->result();
+		} else {
+			return '';
+		}
+		/*$this->db->select('booking_global.*,booking_tickets.*,booking_global.booking_no,booking_tickets.match_date as event_date,booking_global.ticket_amount,booking_global.currency_type');
+		$this->db->join('booking_tickets', 'booking_tickets.booking_id = booking_global.bg_id','LEFT');
+		$this->db->where('booking_global.seller_id', $this->session->userdata('admin_id'));
+		$this->db->where('booking_global.booking_status != ',2);
+		$this->db->where('booking_global.booking_status != ',3);
+		$this->db->where('booking_global.booking_status != ',0);
+		$this->db->where('booking_global.booking_status != ',7);
+		//$this->db->order_by('payouts.payout_date_from','ASC');
+		$query = $this->db->get('booking_global');//echo $this->db->last_query();exit;
+		if ($query->num_rows() > 0) {
+			return $query->result();
+		} else {
+			return '';
+		}*/
+
 	}
 
 	function booking_data($bg_id){
