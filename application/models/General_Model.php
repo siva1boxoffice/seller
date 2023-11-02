@@ -3177,6 +3177,14 @@ function booking_ticket_tracking($booking_id)
 
 	}
 
+	function payouts_data()
+	{
+		$this->db->select('payouts.*');
+		$this->db->from('payouts');
+		$qry = $this->db->get(); //echo $this->db->last_query();exit;
+		return $qry;
+	}
+
 
 
 }
